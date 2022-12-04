@@ -62,3 +62,62 @@ craftingTable.addShaped("ironfurnaces_item_linker", <item:ironfurnaces:item_link
     [<item:minecraft:air>, <item:ironfurnaces:rainbow_core>, <item:minecraft:air>],
     [<item:minecraft:air>, <item:minecraft:air>, <item:the_vault:black_chromatic_steel_ingot>]
 ]);
+
+craftingTable.addShaped("ironfurnaces_augment_factory", <item:ironfurnaces:augment_factory>, [
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:ironfurnaces:iron_furnace>, <item:the_vault:echo_pog>, <item:ironfurnaces:iron_furnace>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_iron_furnace", <item:ironfurnaces:iron_furnace>, [
+    [<item:the_vault:gem_larimar>, <item:minecraft:iron_block>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:minecraft:furnace>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_gold_furnace", <item:ironfurnaces:gold_furnace>, [
+    [<item:the_vault:gem_larimar>, <item:minecraft:gold_block>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:ironfurnaces:iron_furnace>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_diamond_furnace", <item:ironfurnaces:diamond_furnace>, [
+    [<item:the_vault:gem_larimar>, <item:minecraft:diamond_block>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:ironfurnaces:gold_furnace>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_emerald_furnace", <item:ironfurnaces:emerald_furnace>, [
+    [<item:the_vault:gem_larimar>, <item:minecraft:emerald_block>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:ironfurnaces:diamond_furnace>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_crystal_furnace", <item:ironfurnaces:crystal_furnace>, [
+    [<item:the_vault:gem_larimar>, <item:the_vault:vault_diamond_block>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:ironfurnaces:emerald_furnace>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_obsidian_furnace", <item:ironfurnaces:obsidian_furnace>, [
+    [<item:the_vault:gem_larimar>, <item:minecraft:crying_obsidian>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:ironfurnaces:crystal_furnace>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_netherite_furnace", <item:ironfurnaces:netherite_furnace>, [
+    [<item:the_vault:gem_larimar>, <item:minecraft:netherite_block>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:ironfurnaces:obsidian_furnace>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("ironfurnaces_rainbow_core", <item:ironfurnaces:rainbow_core>, [
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:ironfurnaces:netherite_furnace>, <item:the_vault:echo_pog>, <item:ironfurnaces:netherite_furnace>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShapeless("ironfurnaces_nrainbow_plating", <item:ironfurnaces:rainbow_plating> *8, [
+    <item:ironfurnaces:iron_furnace>, <item:ironfurnaces:gold_furnace>, <item:ironfurnaces:diamond_furnace>,
+    <item:ironfurnaces:obsidian_furnace>, <item:ironfurnaces:crystal_furnace>, <item:ironfurnaces:netherite_furnace>
+]);

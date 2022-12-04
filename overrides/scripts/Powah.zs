@@ -140,8 +140,8 @@ for Iskall85's Vaulthunters */
   }
 });
 
-craftingTable.addShapeless("powah_dielectric_paste", <item:powah:dielectric_paste> * 8, [
-	<item:the_vault:gem_larimar>, <tag:items:minecraft:coals>,
+craftingTable.addShapeless("powah_dielectric_paste", <item:powah:dielectric_paste> * 4, [
+	<item:the_vault:gem_larimar>, <item:the_vault:carbon>,
 	<item:the_vault:chromatic_iron_ingot>, <item:the_vault:magic_silk>
 ]);
 

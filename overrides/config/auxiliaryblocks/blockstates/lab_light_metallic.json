@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "removeMe": {
+      "model": "auxiliaryblocks:block/lab_light_metallic"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "removeMe": {
+      "model": "auxiliaryblocks:block/extra_reinforced_concrete"
+    }
+  }
+}

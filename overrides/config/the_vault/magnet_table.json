@@ -2,10 +2,10 @@
   "UPGRADES": {
     "VELOCITY": {
       "MATERIAL_COSTS": [
+        16,
         4,
-        2,
-        0,
-        0
+        1,
+        12
       ],
       "POSITIVE": true,
       "MIN_YIELD": 1,
@@ -17,10 +17,10 @@
     },
     "MANA_EFFICIENCY": {
       "MATERIAL_COSTS": [
+        8,
         4,
         2,
-        2,
-        0
+        8
       ],
       "POSITIVE": true,
       "MIN_YIELD": 1,
@@ -32,10 +32,10 @@
     },
     "RANGE": {
       "MATERIAL_COSTS": [
-        4,
-        2,
+        16,
+        8,
         1,
-        0
+        16
       ],
       "POSITIVE": true,
       "MIN_YIELD": 1,
@@ -47,10 +47,10 @@
     },
     "DURABILITY": {
       "MATERIAL_COSTS": [
-        4,
-        2,
+        8,
+        6,
         0,
-        1
+        16
       ],
       "POSITIVE": true,
       "MIN_YIELD": 100,

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "removeMe": {
+      "model": "auxiliaryblocks:block/pink_pastel"
+    }
+  }
+}

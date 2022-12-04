@@ -41,7 +41,7 @@ craftingTable.addShaped("modularrouters_router", <item:modularrouters:modular_ro
 craftingTable.addShaped("modularrouters_blank_module", <item:modularrouters:blank_module> * 3, [
     [<item:the_vault:vault_essence>, <item:the_vault:extraordinary_larimar>, <item:the_vault:vault_essence>],
     [<item:the_vault:magic_silk>, <item:the_vault:magic_silk_block>, <item:the_vault:magic_silk>],
-    [<item:the_vault:chromatic_iron_ingot>, <item:compressium:gold_1>, <item:the_vault:chromatic_iron_ingot>]
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
 ]);
 
 craftingTable.addShaped("modularrouters_blank_upgrade", <item:modularrouters:blank_upgrade> * 2, [

@@ -4645,6 +4645,38 @@
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/generic/rare/7x7/standing9.nbt"
       }
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/nether1",
+      "name": "Nether 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/raw/nether1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/raw/quarry/compressed_pile1",
+      "name": "Quarry Compressed Pile 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/raw/quarry/compressed_pile1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/raw/quarry/compressed_pile2",
+      "name": "Quarry Compressed Pile 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/raw/quarry/compressed_pile2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/raw/quarry/compressed_pile3",
+      "name": "Quarry Compressed Pile 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/raw/quarry/compressed_pile3.nbt"
+      }
     }
   ]
 }

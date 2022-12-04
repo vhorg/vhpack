@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "removeMe": {
+      "model": "auxiliaryblocks:block/light_gray_plastic"
+    }
+  }
+}

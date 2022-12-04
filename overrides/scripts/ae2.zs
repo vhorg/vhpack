@@ -83,13 +83,13 @@ craftingTable.addShaped("ae2_storage_cell_4k", <item:ae2:item_storage_cell_4k>, 
 ]);
 
 craftingTable.addShaped("ae2_16k_component", <item:ae2:cell_component_16k>, [
-    [<item:the_vault:chromatic_steel_block>, <item:ae2:calculation_processor>, <item:the_vault:chromatic_steel_block>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:ae2:calculation_processor>, <item:the_vault:chromatic_steel_ingot>],
     [<item:ae2:cell_component_4k>, <item:ae2:quartz_vibrant_glass>, <item:ae2:cell_component_4k>],
     [<item:minecraft:redstone_block>, <item:ae2:cell_component_4k>, <item:minecraft:redstone_block>]
 ]);
 
 craftingTable.addShaped("ae2_storage_cell_16k", <item:ae2:item_storage_cell_16k>, [
-    [<item:the_vault:chromatic_steel_block>, <item:minecraft:redstone_block>, <item:the_vault:chromatic_steel_block>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:minecraft:redstone_block>, <item:the_vault:chromatic_steel_ingot>],
     [<item:minecraft:redstone_block>, <item:ae2:cell_component_16k>, <item:minecraft:redstone_block>],
     [<item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>]
 ]);

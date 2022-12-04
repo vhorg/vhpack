@@ -246,6 +246,9 @@ craftingTable.remove(<item:ae2:wireless_access_point>);
 craftingTable.remove(<item:ae2:wireless_receiver>);
 craftingTable.remove(<item:ae2:quartz_growth_accelerator>);
 
+// Twigs
+craftingTable.remove(<item:twigs:stripped_bamboo_planks>);
+
 // Botania
 for ring in rings {
   craftingTable.remove(<item:botania:${ring}_ring>);
@@ -520,6 +523,19 @@ craftingTable.remove(<item:ironfurnaces:heater>);
 craftingTable.remove(<item:ironfurnaces:item_heater>);
 craftingTable.remove(<item:ironfurnaces:item_copy>);
 craftingTable.remove(<item:ironfurnaces:item_linker>);
+craftingTable.remove(<item:ironfurnaces:augment_generator>);
+craftingTable.remove(<item:ironfurnaces:augment_factory>);
+craftingTable.remove(<item:ironfurnaces:iron_furnace>);
+craftingTable.remove(<item:ironfurnaces:copper_furnace>);
+craftingTable.remove(<item:ironfurnaces:silver_furnace>);
+craftingTable.remove(<item:ironfurnaces:gold_furnace>);
+craftingTable.remove(<item:ironfurnaces:diamond_furnace>);
+craftingTable.remove(<item:ironfurnaces:emerald_furnace>);
+craftingTable.remove(<item:ironfurnaces:obsidian_furnace>);
+craftingTable.remove(<item:ironfurnaces:crystal_furnace>);
+craftingTable.remove(<item:ironfurnaces:netherite_furnace>);
+craftingTable.remove(<item:ironfurnaces:rainbow_plating>);
+craftingTable.remove(<item:ironfurnaces:rainbow_core>);
 
 // Dark Utilities
 craftingTable.remove(<item:darkutils:charm_portal>);
@@ -538,6 +554,7 @@ craftingTable.remove(<item:darkutils:vector_plate_ultra>);
 craftingTable.remove(<item:darkutils:damage_plate>);
 craftingTable.remove(<item:darkutils:damage_plate_player>);
 stoneCutter.remove(<item:darkutils:blank_plate>);
+// villagerTrades.removeWanderingTrade(2, <item:darkutils>);
 
 // Cooking For Blockheads
 craftingTable.remove(<item:cookingforblockheads:sink>);
@@ -684,6 +701,7 @@ for materialId, materialName in materials {
 craftingTable.remove(<item:mcwbridges:most1>);
 
 // Create
+craftingTable.remove(<item:create:item_vault>);
 craftingTable.remove(<item:create:extendo_grip>);
 craftingTable.remove(<item:create:potato_cannon>);
 craftingTable.remove(<item:create:andesite_alloy>);
@@ -758,6 +776,7 @@ craftingTable.remove(<item:sophisticatedbackpacks:iron_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:gold_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:diamond_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:netherite_backpack>);
+<recipetype:minecraft:smithing>.remove(<item:sophisticatedbackpacks:netherite_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:upgrade_base>);
 craftingTable.remove(<item:sophisticatedbackpacks:stack_upgrade_tier_1>);
 craftingTable.remove(<item:sophisticatedbackpacks:stack_upgrade_tier_2>);

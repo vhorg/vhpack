@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "removeMe": {
+      "model": "auxiliaryblocks:block/smooth_yellow_pastel"
+    }
+  }
+}

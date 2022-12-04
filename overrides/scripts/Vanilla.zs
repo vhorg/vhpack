@@ -6,7 +6,7 @@ for Iskall85's Vaulthunters */
 import crafttweaker.api.recipe.Brewing;
 import mods.initialinventory.InvHandler;
 
-// InvHandler.addStartingItem("one", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:the_vault_main_guide" as string}), 0);
+InvHandler.addStartingItem("one", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:the_vault_main_guide" as string}), 0);
 
 var dyes = {
   "white_dye": "white",
@@ -245,7 +245,7 @@ brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:long_slow_falling"}), <item:the_vault:vault_nugget>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:slow_falling" as string}));
 
 craftingTable.addShapeless("vault_hunters_guide", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:the_vault_main_guide" as string}), [
-    <item:minecraft:book>, <item:the_vault:raw_chromatic_iron>
+    <item:minecraft:book>, <item:minecraft:cobblestone>
 ]);
 
 craftingTable.addShaped("bundle", <item:minecraft:bundle>, [
@@ -266,26 +266,20 @@ craftingTable.addShaped("forge", <item:the_vault:vault_forge>, [
     [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
 ]);
 
-craftingTable.addShaped("tubbo_special_boy", <item:the_vault:vault_doll>, [
-    [<tag:items:forge:gems/diamond>, <tag:items:forge:gems/diamond>, <tag:items:forge:gems/diamond>],
-    [<tag:items:forge:gems/diamond>, <item:the_vault:vault_crystal>, <tag:items:forge:gems/diamond>],
-    [<tag:items:forge:gems/diamond>, <tag:items:forge:gems/diamond>, <tag:items:forge:gems/diamond>]
-]);
-
 craftingTable.addShaped("orb_frame", <item:the_vault:orb_frame>, [
     [<item:the_vault:vault_essence>, <item:the_vault:gem_black_opal>, <item:the_vault:vault_essence>],
     [<item:the_vault:gem_black_opal>, <item:the_vault:extraordinary_benitoite>, <item:the_vault:gem_black_opal>],
     [<item:the_vault:vault_essence>, <item:the_vault:gem_black_opal>, <item:the_vault:vault_essence>]
 ]);
 
-craftingTable.addShaped("elytra", <item:minecraft:elytra>, [
-    [<item:the_vault:magic_silk>, <item:minecraft:string>, <item:the_vault:magic_silk>],
-    [<item:the_vault:magic_silk>, <item:the_vault:vault_essence>, <item:the_vault:magic_silk>],
-    [<item:minecraft:phantom_membrane>, <item:minecraft:air>, <item:minecraft:phantom_membrane>]
-]);
-
 craftingTable.addShaped("enercell", <item:enercell:enercell>, [
     [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_essence>, <item:the_vault:chromatic_steel_ingot>],
     [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_iron_block>, <item:the_vault:chromatic_steel_ingot>],
     [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:extraordinary_larimar>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("bamboo_planks", <item:twigs:stripped_bamboo_planks>, [
+    [<item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>],
+    [<item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>],
+    [<item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>]
 ]);

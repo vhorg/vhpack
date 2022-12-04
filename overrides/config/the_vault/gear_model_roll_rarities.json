@@ -165,24 +165,16 @@
       "the_vault:gear/shield/vanilla"
     ],
     "COMMON": [
-      "the_vault:gear/shield/wooden",
-      "the_vault:gear/shield/ender",
-      "the_vault:gear/shield/vanilla"
+      "the_vault:gear/shield/wooden"
     ],
     "RARE": [
-      "the_vault:gear/shield/wooden",
-      "the_vault:gear/shield/ender",
-      "the_vault:gear/shield/vanilla"
+      "the_vault:gear/shield/coconut"
     ],
     "EPIC": [
-      "the_vault:gear/shield/wooden",
-      "the_vault:gear/shield/ender",
-      "the_vault:gear/shield/vanilla"
+      "the_vault:gear/shield/ender"
     ],
     "OMEGA": [
-      "the_vault:gear/shield/wooden",
-      "the_vault:gear/shield/ender",
-      "the_vault:gear/shield/vanilla"
+      "the_vault:gear/shield/inferno"
     ]
   }
 }

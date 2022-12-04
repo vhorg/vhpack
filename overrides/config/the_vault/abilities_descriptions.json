@@ -845,6 +845,37 @@
         "leech"
       ]
     },
+    "Stonefall": {
+      "description": [
+        {
+          "text": "Makes you immune to ",
+          "color": "$text"
+        },
+        {
+          "text": "fall damage",
+          "color": "$damage"
+        },
+        {
+          "text": " for the next ",
+          "color": "$text"
+        },
+        {
+          "text": " few seconds",
+          "color": "$duration"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "duration"
+      ],
+      "next": [
+        "level",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ]
+    },
     "Summon Eternal": {
       "description": [
         {

@@ -107,9 +107,9 @@ craftingTable.addShaped("sophisticatedbackpacks_stack_upgrade_4", <item:sophisti
 ]);
 
 craftingTable.addShaped("sophisticatedbackpacks_refill_upgrade", <item:sophisticatedbackpacks:refill_upgrade>, [
-    [<item:the_vault:magic_silk>, <item:quark:ender_watcher>, <item:the_vault:magic_silk>],
+    [<item:the_vault:magic_silk>, <item:the_vault:gem_pog>, <item:the_vault:magic_silk>],
     [<item:the_vault:chromatic_steel_ingot>, <item:sophisticatedbackpacks:upgrade_base>, <item:the_vault:chromatic_steel_ingot>],
-    [<item:compressium:redstone_1>, <item:the_vault:gem_pog>, <item:compressium:redstone_1>]
+    [<item:compressium:redstone_1>, <item:the_vault:vault_diamond_block>, <item:compressium:redstone_1>]
 ]);
 
 craftingTable.addShaped("sophisticatedbackpacks_void_upgrade", <item:sophisticatedbackpacks:void_upgrade>, [

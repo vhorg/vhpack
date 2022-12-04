@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Vault Hunters - 1.18.2",
-  "version": "alpha-0.0.1",
+  "name": "Vault Hunters 3rd Edition",
+  "version": "alpha-0.0.2",
   "author": "xaero96",
   "files": [
     {
@@ -50,13 +50,13 @@
       "required": true
     },
     {
-      "projectID": 513688,
-      "fileID": 4105134,
+      "projectID": 531761,
+      "fileID": 3914491,
       "required": true
     },
     {
-      "projectID": 531761,
-      "fileID": 3914491,
+      "projectID": 513688,
+      "fileID": 4105134,
       "required": true
     },
     {
@@ -115,13 +115,13 @@
       "required": true
     },
     {
-      "projectID": 443900,
-      "fileID": 3819249,
+      "projectID": 506757,
+      "fileID": 3879829,
       "required": true
     },
     {
-      "projectID": 506757,
-      "fileID": 3879829,
+      "projectID": 443900,
+      "fileID": 3819249,
       "required": true
     },
     {
@@ -365,18 +365,13 @@
       "required": true
     },
     {
-      "projectID": 458203,
-      "fileID": 4119089,
+      "projectID": 233105,
+      "fileID": 3825684,
       "required": true
     },
     {
       "projectID": 412082,
       "fileID": 4065749,
-      "required": true
-    },
-    {
-      "projectID": 233105,
-      "fileID": 3825684,
       "required": true
     },
     {
@@ -490,23 +485,23 @@
       "required": true
     },
     {
-      "projectID": 499980,
-      "fileID": 3842421,
-      "required": true
-    },
-    {
       "projectID": 486392,
       "fileID": 3934664,
       "required": true
     },
     {
-      "projectID": 357557,
-      "fileID": 3677573,
+      "projectID": 499980,
+      "fileID": 3842421,
       "required": true
     },
     {
       "projectID": 289310,
       "fileID": 3820461,
+      "required": true
+    },
+    {
+      "projectID": 357557,
+      "fileID": 3677573,
       "required": true
     },
     {
@@ -525,23 +520,23 @@
       "required": true
     },
     {
-      "projectID": 570463,
-      "fileID": 3868824,
-      "required": true
-    },
-    {
       "projectID": 453925,
       "fileID": 3817472,
       "required": true
     },
     {
-      "projectID": 228525,
-      "fileID": 3961347,
+      "projectID": 570463,
+      "fileID": 3868824,
       "required": true
     },
     {
       "projectID": 250577,
       "fileID": 3740180,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 3961347,
       "required": true
     },
     {
@@ -600,18 +595,23 @@
       "required": true
     },
     {
+      "projectID": 458203,
+      "fileID": 4134065,
+      "required": true
+    },
+    {
       "projectID": 426558,
       "fileID": 3853078,
       "required": true
     },
     {
-      "projectID": 429235,
-      "fileID": 3767288,
+      "projectID": 351748,
+      "fileID": 3725832,
       "required": true
     },
     {
-      "projectID": 351748,
-      "fileID": 3725832,
+      "projectID": 429235,
+      "fileID": 3767288,
       "required": true
     },
     {

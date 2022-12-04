@@ -51,9 +51,9 @@ for gemId, gemName in gems {
 <recipetype:thermal:pulverizer>.addRecipe("vaultstone_to_rock", [<item:the_vault:vault_cobblestone> % 100, <item:the_vault:chipped_vault_rock> % 50], <item:the_vault:vault_stone>, 3, 2000);
 
 craftingTable.addShaped("thermal_rf_coil", <item:thermal:rf_coil>, [
-    [<item:minecraft:air>, <item:minecraft:air>, <tag:items:forge:storage_blocks/redstone>],
-    [<item:minecraft:air>, <tag:items:forge:storage_blocks/gold>, <item:minecraft:air>],
-    [<tag:items:forge:storage_blocks/redstone>, <item:minecraft:air>, <item:minecraft:air>]
+    [<item:minecraft:air>, <item:minecraft:air>, <item:the_vault:vault_diamond>],
+    [<item:minecraft:air>, <tag:items:forge:storage_blocks/redstone>, <item:minecraft:air>],
+    [<item:the_vault:vault_diamond>, <item:minecraft:air>, <item:minecraft:air>]
 ]);
 
 craftingTable.addShaped("thermal_redstone_servo", <item:thermal:redstone_servo>, [
@@ -62,25 +62,34 @@ craftingTable.addShaped("thermal_redstone_servo", <item:thermal:redstone_servo>,
     [<item:minecraft:air>, <tag:items:forge:storage_blocks/redstone>, <item:minecraft:air>]
 ]);
 
-<recipetype:create:item_application>.addRecipe("machine_frame", [<item:thermal:machine_frame>],
-<item:minecraft:tinted_glass>, <tag:items:forge:gears>);
+craftingTable.addShaped("thermal_machine_frame", <item:thermal:machine_frame>, [
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:minecraft:redstone_block>, <item:the_vault:perfect_larimar>, <item:minecraft:redstone_block>],
+    [<item:minecraft:iron_block>, <item:the_vault:vault_diamond>, <item:minecraft:iron_block>]
+]);
 
-<recipetype:create:item_application>.addRecipe("energy_cell_frame", [<item:thermal:energy_cell_frame>],
-<tag:items:forge:storage_blocks/lead>, <tag:items:forge:gears>);
+craftingTable.addShaped("thermal_fluid_cell_frame", <item:thermal:fluid_cell_frame>, [
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:perfect_larimar>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:minecraft:milk_bucket>, <item:thermal:machine_frame>, <item:minecraft:lava_bucket>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:minecraft:water_bucket>, <item:the_vault:chromatic_steel_ingot>]
+]);
 
-<recipetype:create:item_application>.addRecipe("fluid_cell_frame", [<item:thermal:fluid_cell_frame>],
-<tag:items:forge:storage_blocks/copper>, <tag:items:forge:gears>);
+craftingTable.addShaped("thermal_fluid_cell", <item:thermal:fluid_cell>, [
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:perfect_larimar>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:minecraft:milk_bucket>, <item:thermal:fluid_cell_frame>, <item:minecraft:lava_bucket>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:minecraft:water_bucket>, <item:the_vault:chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("thermal_energy_cell_frame", <item:thermal:energy_cell_frame>, [
+    [<item:thermal:cured_rubber_block>, <item:compressium:redstone_1>, <item:thermal:cured_rubber_block>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:thermal:machine_frame>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:thermal:cured_rubber_block>, <item:thermal:rf_coil>, <item:thermal:cured_rubber_block>]
+]);
 
 craftingTable.addShaped("thermal_energy_cell", <item:thermal:energy_cell>, [
     [<item:thermal:cured_rubber_block>, <item:compressium:redstone_1>, <item:thermal:cured_rubber_block>],
     [<item:the_vault:chromatic_steel_ingot>, <item:thermal:energy_cell_frame>, <item:the_vault:chromatic_steel_ingot>],
     [<item:thermal:cured_rubber_block>, <item:thermal:rf_coil>, <item:thermal:cured_rubber_block>]
-]);
-
-craftingTable.addShaped("thermal_fluid_cell", <item:thermal:fluid_cell>, [
-    [<item:thermal:cured_rubber_block>, <tag:items:thermal:glass/hardened>, <item:thermal:cured_rubber_block>],
-    [<item:the_vault:chromatic_steel_ingot>, <item:thermal:fluid_cell_frame>, <item:the_vault:chromatic_steel_ingot>],
-    [<item:thermal:cured_rubber_block>, <item:thermal:redstone_servo>, <item:thermal:cured_rubber_block>]
 ]);
 
 craftingTable.addShaped("thermal_wrench", <item:thermal:wrench>, [
@@ -132,8 +141,8 @@ craftingTable.addShaped("thermal_compression_dynamo", <item:thermal:dynamo_compr
 ]);
 
 craftingTable.addShaped("thermal_phyto_insolator", <item:thermal:machine_insolator>, [
-    [<item:minecraft:air>, <item:compressium:dirt_2>, <item:minecraft:air>],
-    [<item:the_vault:chromatic_steel_ingot>, <item:thermal:machine_frame>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:minecraft:air>, <item:the_vault:echo_pog>, <item:minecraft:air>],
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:thermal:machine_frame>, <item:the_vault:black_chromatic_steel_ingot>],
     [<item:thermal:lumium_gear>, <item:thermal:rf_coil>, <item:thermal:lumium_gear>]
 ]);
 

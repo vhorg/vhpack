@@ -112,11 +112,11 @@
         },
         {
           "value": "the_vault:locked",
-          "weight": 8
+          "weight": 10
         },
         {
           "value": "the_vault:frenzy",
-          "weight": 0
+          "weight": 8
         },
         {
           "value": "the_vault:rotten",
@@ -124,7 +124,7 @@
         },
         {
           "value": "the_vault:wounded",
-          "weight": 10
+          "weight": 8
         },
         {
           "value": "the_vault:drained",
@@ -132,6 +132,14 @@
         },
         {
           "value": "the_vault:minefield",
+          "weight": 8
+        },
+        {
+          "value": "the_vault:collapsing",
+          "weight": 10
+        },
+        {
+          "value": "the_vault:volcanic",
           "weight": 10
         }
       ]
