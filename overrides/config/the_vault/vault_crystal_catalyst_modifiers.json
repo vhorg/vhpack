@@ -96,23 +96,23 @@
         },
         {
           "value": "the_vault:tired",
-          "weight": 10
+          "weight": 14
         },
         {
           "value": "the_vault:slowed",
-          "weight": 6
+          "weight": 14
         },
         {
           "value": "the_vault:weakened",
-          "weight": 10
+          "weight": 12
         },
         {
           "value": "the_vault:inert",
-          "weight": 10
+          "weight": 8
         },
         {
           "value": "the_vault:locked",
-          "weight": 10
+          "weight": 14
         },
         {
           "value": "the_vault:frenzy",
@@ -120,7 +120,7 @@
         },
         {
           "value": "the_vault:rotten",
-          "weight": 10
+          "weight": 12
         },
         {
           "value": "the_vault:wounded",
@@ -128,11 +128,11 @@
         },
         {
           "value": "the_vault:drained",
-          "weight": 10
+          "weight": 6
         },
         {
           "value": "the_vault:minefield",
-          "weight": 8
+          "weight": 6
         },
         {
           "value": "the_vault:collapsing",
@@ -140,7 +140,27 @@
         },
         {
           "value": "the_vault:volcanic",
-          "weight": 10
+          "weight": 12
+        },
+        {
+          "value": "the_vault:crab_walk",
+          "weight": 4
+        },
+        {
+          "value": "the_vault:confused",
+          "weight": 4
+        },
+        {
+          "value": "the_vault:jupiter_gravity",
+          "weight": 8
+        },
+        {
+          "value": "the_vault:explosive",
+          "weight": 6
+        },
+        {
+          "value": "the_vault:shulker",
+          "weight": 8
         }
       ]
     }

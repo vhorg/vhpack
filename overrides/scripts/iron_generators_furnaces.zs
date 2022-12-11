@@ -22,9 +22,9 @@ craftingTable.addShaped("irongenerators_copper_generator", <item:irongenerators:
 ]);
 
 craftingTable.addShaped("irongenerators_gold_generator", <item:irongenerators:gold_generator>, [
-    [<item:the_vault:chromatic_steel_ingot>, <item:compressium:gold_1>, <item:the_vault:chromatic_steel_ingot>],
-    [<item:compressium:gold_1>, <item:irongenerators:stone_generator>, <item:compressium:gold_1>],
-    [<item:the_vault:chromatic_steel_ingot>, <item:compressium:gold_1>, <item:the_vault:chromatic_steel_ingot>]
+    [<item:the_vault:chromatic_steel_ingot>, <item:minecraft:gold_block>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:minecraft:gold_block>, <item:irongenerators:stone_generator>, <item:minecraft:gold_block>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:minecraft:gold_block>, <item:the_vault:chromatic_steel_ingot>]
 ]);
 
 craftingTable.addShaped("irongenerators_diamond_generator", <item:irongenerators:diamond_generator>, [
@@ -41,13 +41,13 @@ craftingTable.addShaped("irongenerators_netherite_generator", <item:irongenerato
 
 craftingTable.addShaped("ironfurnaces_heater", <item:ironfurnaces:heater>, [
     [<item:the_vault:vault_stone>, <item:minecraft:comparator>, <item:the_vault:vault_stone>],
-    [<item:the_vault:vault_stone>, <item:compressium:redstone_1>, <item:the_vault:vault_stone>],
+    [<item:the_vault:vault_stone>, <item:minecraft:redstone_block>, <item:the_vault:vault_stone>],
     [<item:the_vault:vault_stone>, <tag:items:forge:furnaces>, <item:the_vault:vault_stone>]
 ]);
 
 craftingTable.addShaped("ironfurnaces_item_heater", <item:ironfurnaces:item_heater>, [
     [<item:the_vault:vault_stone>, <item:the_vault:chromatic_iron_ingot>, <item:the_vault:vault_stone>],
-    [<item:compressium:redstone_1>, <item:minecraft:comparator>, <item:compressium:redstone_1>],
+    [<item:minecraft:redstone_block>, <item:minecraft:comparator>, <item:minecraft:redstone_block>],
     [<item:the_vault:vault_stone>, <item:the_vault:vault_diamond>, <item:the_vault:vault_stone>]
 ]);
 
@@ -70,7 +70,7 @@ craftingTable.addShaped("ironfurnaces_augment_factory", <item:ironfurnaces:augme
 ]);
 
 craftingTable.addShaped("ironfurnaces_iron_furnace", <item:ironfurnaces:iron_furnace>, [
-    [<item:the_vault:gem_larimar>, <item:minecraft:iron_block>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>],
     [<item:the_vault:chromatic_steel_ingot>, <item:minecraft:furnace>, <item:the_vault:chromatic_steel_ingot>],
     [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
 ]);

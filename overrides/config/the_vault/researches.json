@@ -622,7 +622,7 @@
   "CUSTOM_RESEARCHES": [
     {
       "itemRestrictions": {
-        "appliedenergistics2:molecular_assembler": {
+        "ae2:molecular_assembler": {
           "restricts": {
             "HITTABILITY": true,
             "USABILITY": true,

@@ -45,11 +45,6 @@ craftingTable.addShapeless("minecraft_" + dyeName + "_shulker_box", <item:minecr
 ]);
 }
 
-craftingTable.addShaped("tinted_glass", <item:minecraft:tinted_glass> *2, [
-    [<item:the_vault:raw_chromatic_iron>, <item:minecraft:amethyst_block>, <item:the_vault:raw_chromatic_iron>],
-    [<item:minecraft:amethyst_block>, <tag:items:forge:glass>, <item:minecraft:amethyst_block>],
-    [<item:the_vault:raw_chromatic_iron>, <item:minecraft:amethyst_block>, <item:the_vault:raw_chromatic_iron>]
-]);
 
 craftingTable.addShaped("goldenapple", <item:minecraft:golden_apple>, [
     [<item:minecraft:gold_block>, <item:minecraft:gold_ingot>, <item:minecraft:gold_block>],
@@ -107,8 +102,8 @@ craftingTable.addShaped("honeycomb", <item:minecraft:honeycomb>, [
 
 craftingTable.addShaped("weirding_gadget", <item:weirdinggadget:weirding_gadget>, [
     [<item:the_vault:gem_larimar>, <item:the_vault:perfect_larimar>, <item:the_vault:gem_larimar>],
-    [<item:compressium:gold_1>, <item:quark:ender_watcher>, <item:compressium:gold_1>],
-    [<item:compressium:gold_1>, <item:the_vault:chromatic_steel_ingot>, <item:compressium:gold_1>]
+    [<item:minecraft:gold_block>, <item:the_vault:chromatic_steel_block>, <item:minecraft:gold_block>],
+    [<item:minecraft:gold_block>, <item:the_vault:chromatic_steel_ingot>, <item:minecraft:gold_block>]
 ]);
 
 craftingTable.addShapeless("suspicious_regen_stew", <item:minecraft:suspicious_stew>.withTag({Effects: [{EffectId: 10 as byte, EffectDuration: 160 as int}]}), [
@@ -282,4 +277,10 @@ craftingTable.addShaped("bamboo_planks", <item:twigs:stripped_bamboo_planks>, [
     [<item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>],
     [<item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>],
     [<item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>, <item:twigs:stripped_bamboo>]
+]);
+
+craftingTable.addShaped("quiver", <item:supplementaries:quiver>, [
+    [<item:minecraft:air>, <tag:items:forge:leather>, <item:the_vault:magic_silk>],
+    [<tag:items:forge:leather>, <tag:items:minecraft:arrows>, <item:the_vault:magic_silk>],
+    [<item:the_vault:magic_silk>, <item:the_vault:magic_silk>, <item:the_vault:perfect_larimar>]
 ]);

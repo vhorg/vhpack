@@ -5,7 +5,8 @@
         16,
         4,
         1,
-        12
+        4
+        
       ],
       "POSITIVE": true,
       "MIN_YIELD": 1,
@@ -20,7 +21,7 @@
         8,
         4,
         2,
-        8
+        2
       ],
       "POSITIVE": true,
       "MIN_YIELD": 1,
@@ -35,7 +36,7 @@
         16,
         8,
         1,
-        16
+        4
       ],
       "POSITIVE": true,
       "MIN_YIELD": 1,
@@ -50,7 +51,7 @@
         8,
         6,
         0,
-        16
+        8
       ],
       "POSITIVE": true,
       "MIN_YIELD": 100,

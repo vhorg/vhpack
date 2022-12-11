@@ -171,6 +171,34 @@
           "color": "#E83F24",
           "description": "This vault seem to be hot",
           "descriptionFormatted": "HOT",
+          "icon": "the_vault:gui/modifiers/volcanic"
+        }
+      },
+      "the_vault:explosive": {
+        "properties": {
+          "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"tnt\"}",
+          "attemptsPerChunk": 16,
+          "requireConditions": false
+        },
+        "display": {
+          "name": "Explosive",
+          "color": "#ff0000",
+          "description": "This vault is explosive",
+          "descriptionFormatted": "This vault is explosive",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:shulker": {
+        "properties": {
+          "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"shulkerbullet\"}",
+          "attemptsPerChunk": 24,
+          "requireConditions": false
+        },
+        "display": {
+          "name": "Shulkered",
+          "color": "#CBC3E3",
+          "description": "This vault is light weight",
+          "descriptionFormatted": "This vault is light weight",
           "icon": "the_vault:gui/modifiers/impossible"
         }
       }
@@ -329,6 +357,7 @@
         "properties": {
           "damage": 3.0,
           "movementSpeed": 0.1,
+          "maxHealth": 2.0,
           "doHealthReduction": true
         },
         "display": {
@@ -748,6 +777,53 @@
           "description": "-1 minute Vault Time",
           "descriptionFormatted": "-%d minutes Vault Time",
           "icon": "the_vault:gui/modifiers/rush"
+        }
+      }
+    },
+    "the_vault:modifier_type/game_controls": {
+      "the_vault:confused": {
+        "properties": {
+          "forward": true,
+          "backward": true,
+          "jump": true,
+          "swapLeftAndRight": true
+        },
+        "display": {
+          "name": "Confused",
+          "color": "#7738C9",
+          "description": "Left and Right swapped",
+          "descriptionFormatted": "Left and Right swapped",
+          "icon": "the_vault:gui/modifiers/confused"
+        }
+      },
+      "the_vault:crab_walk": {
+        "properties": {
+          "forward": false,
+          "backward": false,
+          "jump": true,
+          "swapLeftAndRight": false
+        },
+        "display": {
+          "name": "Crab Walk",
+          "color": "#7738C9",
+          "description": "The only way is sideways",
+          "descriptionFormatted": "The only way is sideways",
+          "icon": "the_vault:gui/modifiers/crab_walk"
+        }
+      },
+      "the_vault:jupiter_gravity": {
+        "properties": {
+          "forward": true,
+          "backward": true,
+          "jump": false,
+          "swapLeftAndRight": false
+        },
+        "display": {
+          "name": "Jupiter Gravity",
+          "color": "#7738C9",
+          "description": "No Jump",
+          "descriptionFormatted": "No Jump",
+          "icon": "the_vault:gui/modifiers/jupiter_gravity"
         }
       }
     }

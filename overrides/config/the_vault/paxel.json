@@ -258,7 +258,7 @@
     "MINING_SPEED": {
       "MATERIAL_COSTS": [
         16,
-        16,
+        4,
         1,
         6,
         2,
@@ -276,7 +276,7 @@
     "REACH": {
       "MATERIAL_COSTS": [
         8,
-        16,
+        4,
         2,
         6,
         4,
@@ -294,7 +294,7 @@
     "COPIOUSLY": {
       "MATERIAL_COSTS": [
         16,
-        24,
+        8,
         4,
         10,
         10,

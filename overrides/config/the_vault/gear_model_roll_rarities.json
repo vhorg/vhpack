@@ -175,6 +175,10 @@
     ],
     "OMEGA": [
       "the_vault:gear/shield/inferno"
+    ],
+    "UNIQUE": [
+      "the_vault:gear/shield/bell",
+      "the_vault:gear/shield/turtle"
     ]
   }
 }

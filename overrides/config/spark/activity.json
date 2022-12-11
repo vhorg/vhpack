@@ -1,246 +1,6 @@
 [
   {
     "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1670028428370,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/KgTNMvkoPp"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1670027981323,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/QWS7OS006J"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1670027876281,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/ogVwsBcLYt"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1670027643343,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/woA6bYFqId"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1670027315788,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/DZu9BMkJtt"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1670027267639,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/qf5Goug8sq"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669779601728,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/1Wr9actXEL"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669779440010,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/PMLF6Z4gYq"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669779201893,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/4Qdp3HIeyE"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669778995979,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/WRQpPQZPeS"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669778834378,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/inQD0He7v3"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669756776165,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/A3JO1Wrwxm"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669755764802,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/YbwsqxbKTp"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669699606709,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/dhV0GDlUvd"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669699526816,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/uTTYWzc9m4"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669683766508,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/D0fYPnCPsk"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669683721962,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/oq1phz6uTs"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669683668894,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/X2Q8QmJhCr"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669683145464,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/jLUuI1CoyR"
-    }
-  },
-  {
-    "user": {
-      "type": "other",
-      "name": "Console"
-    },
-    "time": 1669680771113,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/sm1fL3JICu"
-    }
-  },
-  {
-    "user": {
       "type": "player",
       "name": "iskall85",
       "uniqueId": "7ed3587b-e656-4689-90d6-08e11daaf907"
@@ -302,6 +62,19 @@
     "data": {
       "type": "url",
       "value": "https://spark.lucko.me/MfuqCvii1y"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "iskall85",
+      "uniqueId": "7ed3587b-e656-4689-90d6-08e11daaf907"
+    },
+    "time": 1663885655790,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/agMUjD8Kc7"
     }
   }
 ]
