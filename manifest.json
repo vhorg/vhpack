@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Vault Hunters 3rd Edition",
-  "version": "Update-6",
+  "version": "Update-6H",
   "author": "",
   "files": [
     {
@@ -381,7 +381,7 @@
     },
     {
       "projectID": 458203,
-      "fileID": 4359473,
+      "fileID": 4360902,
       "required": true
     },
     {
@@ -435,13 +435,13 @@
       "required": true
     },
     {
-      "projectID": 237875,
-      "fileID": 3768512,
+      "projectID": 496913,
+      "fileID": 3968055,
       "required": true
     },
     {
-      "projectID": 496913,
-      "fileID": 3968055,
+      "projectID": 237875,
+      "fileID": 3768512,
       "required": true
     },
     {
@@ -515,23 +515,23 @@
       "required": true
     },
     {
-      "projectID": 419372,
-      "fileID": 3798287,
-      "required": true
-    },
-    {
       "projectID": 268495,
       "fileID": 3868680,
       "required": true
     },
     {
-      "projectID": 268566,
-      "fileID": 3875978,
+      "projectID": 419372,
+      "fileID": 3798287,
       "required": true
     },
     {
       "projectID": 245755,
       "fileID": 3830849,
+      "required": true
+    },
+    {
+      "projectID": 268566,
+      "fileID": 3875978,
       "required": true
     },
     {
@@ -615,13 +615,13 @@
       "required": true
     },
     {
-      "projectID": 233105,
-      "fileID": 4277564,
+      "projectID": 317780,
+      "fileID": 4193007,
       "required": true
     },
     {
-      "projectID": 317780,
-      "fileID": 4193007,
+      "projectID": 233105,
+      "fileID": 4277564,
       "required": true
     },
     {
