@@ -529,22 +529,6 @@
                 "weight": 10
               },
               {
-                "value": "the_vault:item_rarity",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:item_quantity",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:haunted",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:prosperous",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:extended",
                 "weight": 10
               }
@@ -563,22 +547,6 @@
             "pool": [
               {
                 "value": "the_vault:injured",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:draining",
-                "weight": 20
-              },
-              {
-                "value": "the_vault:poisonous",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:freezing",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:voiding",
                 "weight": 6
               },
               {
