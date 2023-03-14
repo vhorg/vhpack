@@ -339,7 +339,7 @@
           "percentage": -0.5
         },
         "display": {
-          "name": "UnLucky",
+          "name": "Unlucky",
           "color": "#b3ff20",
           "description": "-50% Item Rarity",
           "descriptionFormatted": "-%d%% Item Rarity",

@@ -794,6 +794,16 @@
       "id": "the_vault:raw/dungeon_discoverable_placeholder",
       "name": "Raw Dungeon Discoverable Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/dungeon_discoverable_placeholder.json"
+    },
+    {
+      "id": "the_vault:raw/chromatic_caves/base_diamond_regular",
+      "name": "Diamond Caves Base Regular",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/chromatic_caves/base_diamond_regular.json"
+    },
+    {
+      "id": "the_vault:generic/hidden_placeholder",
+      "name": "Hidden Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/hidden_placeholder.json"
     }
   ]
 }

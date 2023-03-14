@@ -845,42 +845,6 @@
         "unlockCategory": "LEVEL",
         "craftingCost": [
           {
-            "AMOUNT": 2,
-            "ITEM": "the_vault:vaulterite_ingot",
-            "NBT": "{}"
-          },
-          {
-            "AMOUNT": 1,
-            "ITEM": "the_vault:vault_gold",
-            "NBT": "{}"
-          }
-        ]
-      },
-      {
-        "workbenchCraftIdentifier": "the_vault:crafted_item_quantity_t1",
-        "modifierIdentifier": "the_vault:crafted_item_quantity",
-        "modifierTier": 1,
-        "unlockCategory": "LEVEL",
-        "craftingCost": [
-          {
-            "AMOUNT": 4,
-            "ITEM": "the_vault:vaulterite_ingot",
-            "NBT": "{}"
-          },
-          {
-            "AMOUNT": 1,
-            "ITEM": "the_vault:vault_gold",
-            "NBT": "{}"
-          }
-        ]
-      },
-      {
-        "workbenchCraftIdentifier": "the_vault:crafted_item_quantity_t2",
-        "modifierIdentifier": "the_vault:crafted_item_quantity",
-        "modifierTier": 2,
-        "unlockCategory": "LEVEL",
-        "craftingCost": [
-          {
             "AMOUNT": 8,
             "ITEM": "the_vault:vaulterite_ingot",
             "NBT": "{}"
@@ -893,10 +857,10 @@
         ]
       },
       {
-        "workbenchCraftIdentifier": "the_vault:crafted_item_quantity_t3",
+        "workbenchCraftIdentifier": "the_vault:crafted_item_quantity_t1",
         "modifierIdentifier": "the_vault:crafted_item_quantity",
-        "modifierTier": 3,
-        "unlockCategory": "VAULT_DISCOVERY",
+        "modifierTier": 1,
+        "unlockCategory": "LEVEL",
         "craftingCost": [
           {
             "AMOUNT": 16,
@@ -904,7 +868,43 @@
             "NBT": "{}"
           },
           {
-            "AMOUNT": 2,
+            "AMOUNT": 4,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_item_quantity_t2",
+        "modifierIdentifier": "the_vault:crafted_item_quantity",
+        "modifierTier": 2,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:vaulterite_ingot",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_item_quantity_t3",
+        "modifierIdentifier": "the_vault:crafted_item_quantity",
+        "modifierTier": 3,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 48,
+            "ITEM": "the_vault:vaulterite_ingot",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 12,
             "ITEM": "the_vault:vault_gold",
             "NBT": "{}"
           }
@@ -917,7 +917,7 @@
         "unlockCategory": "LEVEL",
         "craftingCost": [
           {
-            "AMOUNT": 2,
+            "AMOUNT": 4,
             "ITEM": "the_vault:vaulterite_ingot",
             "NBT": "{}"
           },
@@ -935,12 +935,12 @@
         "unlockCategory": "LEVEL",
         "craftingCost": [
           {
-            "AMOUNT": 4,
+            "AMOUNT": 8,
             "ITEM": "the_vault:vaulterite_ingot",
             "NBT": "{}"
           },
           {
-            "AMOUNT": 1,
+            "AMOUNT": 2,
             "ITEM": "the_vault:vault_gold",
             "NBT": "{}"
           }
@@ -950,15 +950,15 @@
         "workbenchCraftIdentifier": "the_vault:crafted_item_rarity_t2",
         "modifierIdentifier": "the_vault:crafted_item_rarity",
         "modifierTier": 2,
-        "unlockCategory": "LEVEL",
+        "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
           {
-            "AMOUNT": 8,
+            "AMOUNT": 16,
             "ITEM": "the_vault:vaulterite_ingot",
             "NBT": "{}"
           },
           {
-            "AMOUNT": 2,
+            "AMOUNT": 4,
             "ITEM": "the_vault:vault_gold",
             "NBT": "{}"
           }

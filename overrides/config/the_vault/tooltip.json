@@ -850,7 +850,7 @@
     },
     {
       "item": "the_vault:cryo_chamber",
-      "value": "Used to create Eternals\nInsert a eternal soul in to the cryo-chamber by\nRight-clicking the trader core on it\nWhen enough trader cores have been inserted it will generate and\nhost an eternal\n\nRight-click a Cryo Chamber with an eternal to upgrade and modify the eternal"
+      "value": "Used to create Eternals\nInsert eternal souls into the cryo-chamber by\nright-clicking the souls on it\nWhen enough eternal souls have been inserted it will generate and\nhost an eternal\n\nRight click to grab the eternal\nto transport it to an Eternal Pedestal"
     },
     {
       "item": "the_vault:vault_diamond_block",

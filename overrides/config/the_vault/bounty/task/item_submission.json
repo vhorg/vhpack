@@ -738,7 +738,7 @@
             "value": "the_vault:soul_shard",
             "amount": {
               "min": 600,
-              "max": 2400
+              "max": 2000
             },
             "floorToNearestTen": false,
             "validDimensions": [],

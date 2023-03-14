@@ -1812,6 +1812,11 @@
       "id": "the_vault:vault/decor/factory/bucket_loot1",
       "name": "Bucket Loot 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/factory/bucket_loot1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/diamond_caves_regular",
+      "name": "Regular Diamond Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/diamond_caves_regular.json"
     }
   ]
 }

@@ -1942,16 +1942,6 @@
               "abilityKey": "Mega Jump",
               "value": 12
             }
-          },
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 4,
-            "value": {
-              "specialModificationKey": "the_vault:mega_jump_velocity",
-              "abilityKey": "Mega Jump",
-              "value": 0
-            }
           }
         ]
       },

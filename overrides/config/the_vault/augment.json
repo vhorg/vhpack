@@ -73,6 +73,18 @@
     },
     "the_vault:classic_vault_gingerbread": {
       "the_vault:augment{theme:\"the_vault:classic_vault_gingerbread\"}": 1
+    },
+    "the_vault:raw_vault_cave": {
+      "minecraft:air": 1
+    },
+    "the_vault:raw_vault_cave_lvl10": {
+      "minecraft:air": 1
+    },
+    "the_vault:raw_vault_cave_lvl20": {
+      "minecraft:air": 1
+    },
+    "the_vault:raw_vault_cave_lvl30": {
+      "minecraft:air": 1
     }
   }
 }

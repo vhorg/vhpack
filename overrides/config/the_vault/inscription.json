@@ -623,7 +623,7 @@
             "value": {
               "entries": [
                 {
-                  "pool": "the_vault:vault/rooms/omega/omega_digsite",
+                  "pool": "the_vault:vault/rooms/omega/digsite",
                   "count": 1,
                   "color": 7012096
                 }
@@ -1242,7 +1242,7 @@
             "value": {
               "entries": [
                 {
-                  "pool": "the_vault:vault/rooms/omega/omega_digsite",
+                  "pool": "the_vault:vault/rooms/omega/digsite",
                   "count": 1,
                   "color": 7012096
                 }

@@ -271,22 +271,6 @@
       "color": 7441919,
       "weight": 10
     },
-    "Haste": {
-      "tags": [
-        "focusHaste"
-      ],
-      "display": "Haste",
-      "color": 12278169,
-      "weight": 5
-    },
-    "Speed": {
-      "tags": [
-        "focusSpeed"
-      ],
-      "display": "Speed",
-      "color": 12278169,
-      "weight": 5
-    },
     "Block": {
       "tags": [
         "focusBlock"

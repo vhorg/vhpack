@@ -71,7 +71,7 @@
       "display": "Completion Crates",
       "lootTableKeys": {
         "the_vault:completion_lvl0": {"level": 0},
-        "the_vault:completion_lvl27": {"level": 27}
+        "the_vault:completion_lvl27": {"level": 20}
       }
     },
     "the_vault:ornate_chest_raw": {
