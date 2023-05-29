@@ -23,7 +23,7 @@
     {
       "type": "patchouli:text",
       "title": "Tiers",
-      "text": "$(br)Vault Tools can be crafted in various tiers. Most are gated behind the player's $(l)level$().$(br2)The higher the tier, the more $(l)capacity$() and $(l)repairs$() the Vault Tool has. Each tier increases the capacity by $(l)50$() compared to the previous tier.$(br2)The capacity determines the $(l)available space$() for Jewel modifications."
+      "text": "$(br)Vault Tools can be crafted in various tiers. Most are gated behind the player's $(l)level$().$(br2)The higher the tier, the more $(l)capacity$() and $(l)repairs$() the Vault Tool has.$(br2)The capacity determines the $(l)available space$() for Jewel modifications."
     },
 
     {

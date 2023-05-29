@@ -8,7 +8,7 @@
 
     {
       "type": "patchouli:text",
-      "text": "Chromatic Iron is an ore that spawns in plentiful veins $(l)below Y: 30$(), sometimes exposed to the surface.$(br2)When mined, it yields $(l)Raw Chromatic Iron$(). The amount of Raw Chromatic Iron dropped per ore can be increased with $(l)fortune$()."
+      "text": "Chromatic Iron is an ore that can spawn in plentiful veins $(l)below Y: -32$(), sometimes exposed to the surface.$(br2)When mined, it yields $(l)Raw Chromatic Iron$(). The amount of Raw Chromatic Iron dropped per ore can be increased with $(l)fortune$()."
     },
 
     {

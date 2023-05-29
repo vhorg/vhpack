@@ -29,7 +29,7 @@
     {
       "type": "patchouli:text",
       "title": "Gamerule Commands",
-      "text": "$(li)$(8)$(l)/gamerule$(br)vaultCrystalMode$(br)<crystalMode>$()$(li2)Changes the cost of a Vault Crystal in the Vault Altar$()$()$(br2)Possible arguments:$(li)$(c:/gamerule vaultCrystalMode infinity)$(t:Click to execute the command)Infinity$()$(li2)$(t:The Vault Altar still needs to be\nactivated through a Redstone signal)No Vault Crystal cost$()$(li)$(c:/gamerule vaultCrystalMode normal)$(t:Click to execute the command)Normal$(/c)$(/t) $(8)(Default)$()$(li2)1x Vault Crystal cost$()$(li)$(c:/gamerule vaultCrystalMode grindy)$(t:Click to execute the command)Grindy$()$(li2)3x Vault Crystal cost$()"
+      "text": "$(li)$(8)$(l)/gamerule$(br)vaultCrystalMode$(br)<crystalMode>$()$(li2)Changes Vault Altar costs$()$()$(br2)Possible arguments:$(li)$(c:/gamerule vaultCrystalMode INFINITY)$(t:Click to execute the command)Infinity$()$(li2)$(t:The Vault Altar still needs to be\nactivated through a Redstone signal)No Vault Altar scaling$()$(li)$(c:/gamerule vaultCrystalMode NORMAL)$(t:Click to execute the command)Normal$(/c)$(/t) $(8)(Default)$()$(li2)1x Vault Altar scaling$()$(li)$(c:/gamerule vaultCrystalMode EXTREME)$(t:Click to execute the command)Extreme$()$(li2)2x Vault Altar scaling$()$(li)$(c:/gamerule vaultCrystalMode GRINDY)$(t:Click to execute the command)Grindy$()$(li2)3x Vault Altar scaling$()"
     },
 
     {

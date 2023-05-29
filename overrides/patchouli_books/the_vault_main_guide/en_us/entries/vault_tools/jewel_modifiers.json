@@ -9,7 +9,7 @@
 
     {
       "type": "patchouli:text",
-      "text": "Jewels can roll a variety of Jewel modifiers.$(br2)They have $(l)prefixes$() and $(l)suffixes$(), which are the modifiers they add.$(br2)These can range anywhere from adding $(l)mining speed$() to making it $(l)unbreakable$() in the Overworld."
+      "text": "Jewels can roll a variety of Jewel modifiers.$(br2)They have $(l)prefixes$() and $(l)suffixes$(), which are the modifiers they add.$(br2)These can range anywhere from $(l)mining speed$() to Overworld $(l)unbreakability$().$(br2)$(l)Legendary modifiers$() can also be found on Jewels. These are of a $(l)higher tier$()."
     },
 
     {

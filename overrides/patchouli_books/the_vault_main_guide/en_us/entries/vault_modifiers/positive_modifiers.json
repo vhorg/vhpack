@@ -29,7 +29,7 @@
     {
       "type": "patchouli:text",
       "title": "Saving Grace Modifiers",
-      "text": "$(li)$(l)Afterlife$()$(li2)Restores items on death$(li2)-50% Vault Experience$(br)$(li)$(l)Beginner's Grace$()$(li2)Restores items on death$(li2)Applies automatically at Vault level 0-20$(br)$(li)$(l)Phoenix$()$(li2)Ressurects the player on death, within the Vault$(li2)Can be stacked multiple times on a crystal"
+      "text": "$(li)$(l)Afterlife$()$(li2)Restores items on death$(li2)-50% Vault Experience$(br)$(li)$(l)Beginner's Grace$()$(li2)Restores items on death$(li2)Applies automatically at Vault level 0-19$(br)$(li)$(l)Phoenix$()$(li2)Ressurects the player on death, within the Vault$(li2)Can be stacked multiple times on a crystal"
     },
 
     {
@@ -42,7 +42,7 @@
     {
       "type": "patchouli:text",
       "title": "Loot Modifiers",
-      "text": "$(li)$(l)Beginner's Insurance$()$(li2)No trapped chests$()$(li2)Applies automatically below Vault level 5$()$(br)$(li)$(l)Looter's Dream$()$(li2)No trapped chests$(br)$(li)$(l)Trapped$()$(li2)+5% Chest Trap Chance"
+      "text": "$(li)$(l)Beginner's Insurance$()$(li2)No trapped chests$()$(li2)Applies automatically at Vault level 0-4$()$(br)$(li)$(l)Looter's Dream$()$(li2)No trapped chests$(br)$(li)$(l)Trapped$()$(li2)+5% Chest Trap Chance"
     },
 
     {
