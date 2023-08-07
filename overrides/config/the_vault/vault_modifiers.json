@@ -283,7 +283,7 @@
       },
       "the_vault:hoard": {
         "properties": {
-          "percentage": 0.1
+          "percentage": 0.5
         },
         "display": {
           "name": "Hoard",

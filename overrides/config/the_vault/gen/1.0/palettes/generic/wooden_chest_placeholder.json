@@ -15,6 +15,16 @@
           }
         },
         {
+          "level": 20,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl20_v3\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
           "level": 30,
           "probability": 1.0,
           "success": {

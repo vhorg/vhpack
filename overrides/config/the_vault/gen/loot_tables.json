@@ -391,6 +391,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_chest_0_v3.json"
     },
     {
+      "id": "the_vault:wooden_chest_lvl20_v3",
+      "name": "Wooden Chest lvl20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_chest_20_v3.json"
+    },
+    {
       "id": "the_vault:wooden_chest_lvl30_v3",
       "name": "Wooden Chest lvl30",
       "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_chest_30_v3.json"

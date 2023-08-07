@@ -117,8 +117,8 @@
       "stack": {
         "item": "the_vault:inscription_piece"
       },
-      "minCount": 1,
-      "maxCount": 1
+      "minCount": 3,
+      "maxCount": 6
     },
     "extraOutput1": {
       "chance": 0.5,
