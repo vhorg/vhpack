@@ -118,7 +118,7 @@
         { "weight": 8,
           "pool": [
             {
-              "weight": 6,
+              "weight": 10,
               "item": {
                 "id": "the_vault:vault_nugget",
                 "count": {
@@ -129,7 +129,7 @@
               }
             },
             {
-              "weight": 2,
+              "weight": 10,
               "item": {
                 "id": "the_vault:amplifying_focus",
                 "count": {
@@ -140,7 +140,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 6,
               "item": {
                 "id": "minecraft:netherite_scrap",
                 "count": {
