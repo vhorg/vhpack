@@ -153,6 +153,21 @@
     },
     "the_vault:raw_vault_cave_andersite_lvl30": {
       "minecraft:air": 1
+    },
+    "the_vault:classic_vault_chaos": {
+      "minecraft:air": 1
+    },
+    "the_vault:classic_vault_season_spring": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_spring\"}": 5
+    },
+    "the_vault:classic_vault_season_summer": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_summer\"}": 5
+    },
+    "the_vault:classic_vault_season_fall": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_fall\"}": 5
+    },
+    "the_vault:classic_vault_season_winter": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 5
     }
   }
 }

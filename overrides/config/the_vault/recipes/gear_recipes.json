@@ -20,13 +20,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -51,13 +46,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -82,13 +72,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -113,13 +98,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -144,13 +124,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -175,13 +150,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -206,13 +176,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -237,13 +202,8 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "minecraft:netherite_ingot",
+          "AMOUNT": 1,
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -265,11 +225,6 @@
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
           "NBT": "{}"
         },
         {
@@ -299,11 +254,6 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 8,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
@@ -327,11 +277,6 @@
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
           "NBT": "{}"
         },
         {
@@ -361,11 +306,6 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 8,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
@@ -389,16 +329,6 @@
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 5,
-          "ITEM": "minecraft:diamond",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
           "NBT": "{}"
         }
       ]

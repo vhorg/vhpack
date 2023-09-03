@@ -42,7 +42,8 @@
       "the_vault:gear/armor/shadow_king",
       "the_vault:gear/armor/druid",
       "the_vault:gear/armor/orc",
-      "the_vault:gear/armor/wither"
+      "the_vault:gear/armor/wither",
+      "the_vault:gear/armor/fox"
     ],
     "EPIC": [
       "the_vault:gear/armor/royal_silver",
@@ -160,7 +161,8 @@
       "the_vault:gear/sword/glorem_glipsum",
       "the_vault:gear/sword/bamboo",
       "the_vault:gear/sword/idonas_sword",
-      "the_vault:gear/sword/honey_wand"
+      "the_vault:gear/sword/honey_wand",
+      "the_vault:gear/sword/godsword"
       
     ]
   },
@@ -246,11 +248,14 @@
     ],
     "COMMON": [
       "the_vault:gear/wand/mage",
-      "the_vault:gear/wand/twig"
+      "the_vault:gear/wand/twig",
+      "the_vault:gear/wand/flower"
     ],
     "RARE": [
       "the_vault:gear/wand/archmage",
-      "the_vault:gear/wand/lunar"
+      "the_vault:gear/wand/lunar",
+      "the_vault:gear/wand/lightning",
+      "the_vault:gear/wand/frost"
     ],
     "EPIC": [
       "the_vault:gear/wand/ender",
@@ -260,9 +265,13 @@
     "OMEGA": [
       "the_vault:gear/wand/master",
       "the_vault:gear/wand/starlight",
-      "the_vault:gear/wand/iskallium"
+      "the_vault:gear/wand/iskallium",
+      "the_vault:gear/wand/bookofshadows"
     ],
     "UNIQUE": [
+      "the_vault:gear/wand/baguette",
+      "the_vault:gear/wand/carrot_on_a_wand",
+      "the_vault:gear/wand/carri_king"
     ]
   }
 }

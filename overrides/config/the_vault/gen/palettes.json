@@ -137,8 +137,28 @@
     },
     {
       "id": "the_vault:universal_blood_moon",
-      "name": "Blood Moon",
+      "name": "Universal Blood Moon",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_blood_moon.json"
+    },
+    {
+      "id": "the_vault:universal_season_spring",
+      "name": "Universal Season Spring",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_spring.json"
+    },
+    {
+      "id": "the_vault:universal_season_summer",
+      "name": "Universal Season Summer",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_summer.json"
+    },
+    {
+      "id": "the_vault:universal_season_fall",
+      "name": "Universal Season Fall",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_fall.json"
+    },
+    {
+      "id": "the_vault:universal_season_winter",
+      "name": "Universal Season Winter",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_winter.json"
     },
     {
       "id": "the_vault:arena/classic",
@@ -201,6 +221,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/room_base.json"
     },
     {
+      "id": "the_vault:chaos/room_base",
+      "name": "Chaos Room Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/room_base.json"
+    },
+    {
       "id": "the_vault:generic/spawner_base",
       "name": "Spawner Base",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawner_base.json"
@@ -221,6 +246,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/gilded_chest_placeholder.json"
     },
     {
+      "id": "the_vault:chaos/gilded_chest_placeholder",
+      "name": "Chaos Gilded Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/gilded_chest_placeholder.json"
+    },
+    {
       "id": "the_vault:generic/living_chest_placeholder",
       "name": "Living Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/living_chest_placeholder.json"
@@ -229,6 +259,11 @@
       "id": "the_vault:raw/living_chest_placeholder",
       "name": "Raw Living Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/living_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:chaos/living_chest_placeholder",
+      "name": "Chaos Living Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/living_chest_placeholder.json"
     },
     {
       "id": "the_vault:generic/ornate_chest_placeholder",
@@ -241,6 +276,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/ornate_chest_placeholder.json"
     },
     {
+      "id": "the_vault:chaos/ornate_chest_placeholder",
+      "name": "Chaos Ornate Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/ornate_chest_placeholder.json"
+    },
+    {
       "id": "the_vault:generic/wooden_chest_placeholder",
       "name": "Wooden Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/wooden_chest_placeholder.json"
@@ -249,6 +289,11 @@
       "id": "the_vault:raw/wooden_chest_placeholder",
       "name": "Raw Wooden Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/wooden_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:chaos/wooden_chest_placeholder",
+      "name": "Chaos Wooden Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/wooden_chest_placeholder.json"
     },
     {
       "id": "the_vault:generic/vendor_pedestal_placeholder",
@@ -371,6 +416,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/village/base.json"
     },
     {
+      "id": "the_vault:chaos/village/base",
+      "name": "Chaos Village Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/village/base.json"
+    },
+    {
       "id": "the_vault:village/silverfish_spawner_settings",
       "name": "Village Silverfish Spawner Settings",
       "1.0": "config/the_vault/gen/1.0/palettes/village/silverfish_spawner_settings.json"
@@ -419,6 +469,11 @@
       "id": "the_vault:wildwest/base",
       "name": "Wild West Base",
       "1.0": "config/the_vault/gen/1.0/palettes/wildwest/base.json"
+    },
+    {
+      "id": "the_vault:chaos/wildwest/base",
+      "name": "Chaos Wild West Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/wildwest/base.json"
     },
     {
       "id": "the_vault:wildwest/spawner_settings",
@@ -471,6 +526,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/vendor/base.json"
     },
     {
+      "id": "the_vault:chaos/vendor/base",
+      "name": "Chaos Omega Vendor Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/vendor/base.json"
+    },
+    {
       "id": "the_vault:cube/base",
       "name": "Omega Cube Base",
       "1.0": "config/the_vault/gen/1.0/palettes/cube/base.json"
@@ -484,6 +544,11 @@
       "id": "the_vault:painting/base",
       "name": "Omega Painting Base",
       "1.0": "config/the_vault/gen/1.0/palettes/painting/base.json"
+    },
+    {
+      "id": "the_vault:chaos/painting/base",
+      "name": "Chaos Omega Painting Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/painting/base.json"
     },
     {
       "id": "the_vault:generic/treasure_door_placeholder",
@@ -511,6 +576,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/x-mark/base.json"
     },
     {
+      "id": "the_vault:chaos/x-mark/base",
+      "name": "Chaos X-Mark Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/x-mark/base.json"
+    },
+    {
       "id": "the_vault:x-mark/redstone_spawner",
       "name": "Redstone Spawner",
       "1.0": "config/the_vault/gen/1.0/palettes/x-mark/redstone_spawner.json"
@@ -524,6 +594,11 @@
       "id": "the_vault:x-mark/ornate_chest_placeholder",
       "name": "Ornate Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/x-mark/ornate_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:chaos/x-mark/ornate_chest_placeholder",
+      "name": "Chaos Ornate Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/x-mark/ornate_chest_placeholder.json"
     },
     {
       "id": "the_vault:mine/base",
@@ -564,6 +639,11 @@
       "id": "the_vault:blacksmith/base",
       "name": "Blacksmith Base",
       "1.0": "config/the_vault/gen/1.0/palettes/blacksmith/base.json"
+    },
+    {
+      "id": "the_vault:chaos/blacksmith/base",
+      "name": "Chaos Blacksmith Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/blacksmith/base.json"
     },
     {
       "id": "the_vault:crystal_caves/ore_placeholder",
@@ -669,6 +749,11 @@
       "id": "the_vault:mush_room/fairy",
       "name": "Fairy",
       "1.0": "config/the_vault/gen/1.0/palettes/mush_room/fairy.json"
+    },
+    {
+      "id": "the_vault:chaos/mush_room/base",
+      "name": "Chaos Mush Room",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/mush_room/base.json"
     },
     {
       "id": "the_vault:generic/ore_placeholder_nether",
@@ -814,6 +899,11 @@
       "id": "the_vault:library/base",
       "name": "Library Base",
       "1.0": "config/the_vault/gen/1.0/palettes/library/base.json"
+    },
+    {
+      "id": "the_vault:chaos/library/base",
+      "name": "Chaos Library Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/library/base.json"
     },
     {
       "id": "the_vault:raw/chromatic_caves/base_diamond",
@@ -1074,6 +1164,226 @@
       "id": "the_vault:raw/objective_placeholder",
       "name": "Objective Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/objective_placeholder.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_plastic",
+      "name": "Universal Chaos Plastic",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_plastic.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave",
+      "name": "Universal Chaos Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_desert",
+      "name": "Universal Chaos Desert",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_desert.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_sandy_cave",
+      "name": "Universal Chaos Sandy Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_sandy_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_beach",
+      "name": "Universal Chaos Beach",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_beach.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_ice",
+      "name": "Universal Chaos Ice",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_ice.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_ice_cave",
+      "name": "Universal Chaos Ice Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_ice_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_lush_cave",
+      "name": "Universal Chaos Lush Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_lush_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_living_cave",
+      "name": "Universal Chaos Living Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_living_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_crimson",
+      "name": "Universal Chaos Nether Crimson",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_crimson.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_warped",
+      "name": "Universal Chaos Nether Warped",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_warped.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_mesa",
+      "name": "Universal Chaos Mesa",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_mesa.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_void",
+      "name": "Universal Chaos Void",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_void.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave_deepslate",
+      "name": "Universal Chaos Cave Deepslate",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave_deepslate.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave_geode",
+      "name": "Universal Chaos Cave Geode",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave_geode.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave_wasteland",
+      "name": "Universal Chaos Cave Wasteland",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave_wasteland.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_deep_mesa",
+      "name": "Universal Chaos Deep Mesa",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_deep_mesa.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_sweet",
+      "name": "Universal Chaos Sweet",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_sweet.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_festive",
+      "name": "Universal Chaos Festive",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_festive.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_gingerbread",
+      "name": "Universal Chaos Gingerbread",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_gingerbread.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_mushroom",
+      "name": "Universal Chaos Mushroom",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_mushroom.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_easter_pastel",
+      "name": "Universal Chaos Easter Pastel",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_easter_pastel.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_easter_egg",
+      "name": "Universal Chaos Easter Egg",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_easter_egg.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_shipwreck",
+      "name": "Universal Chaos Shipwreck",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_shipwreck.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_flooded",
+      "name": "Universal Chaos Flooded",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_flooded.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_fairy_ring",
+      "name": "Universal Chaos Fairy Ring",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_fairy_ring.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_poison",
+      "name": "Universal Chaos Poison",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_poison.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_blood_moon",
+      "name": "Universal Chaos Blood Moon",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_blood_moon.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave",
+      "name": "Universal Chaos Raw Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave_granite",
+      "name": "Universal Chaos Raw Cave Granite",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave_granite.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave_diorite",
+      "name": "Universal Chaos Raw Cave Diorite",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave_diorite.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave_andersite",
+      "name": "Universal Chaos Raw Cave Andersite",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave_andersite.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_end_void",
+      "name": "Universal Chaos End Void",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_end_void.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_blackstone",
+      "name": "Universal Chaos Nether Blackstone",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_blackstone.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_soul",
+      "name": "Universal Chaos Nether Soul",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_soul.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_factory_void",
+      "name": "Universal Chaos Factory Void",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_factory_void.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_blank",
+      "name": "Universal Chaos Blank",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_blank.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_white",
+      "name": "Universal Chaos White",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_white.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_haunted",
+      "name": "Universal Chaos Haunted",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_haunted.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_sea_floor",
+      "name": "Universal Chaos Sea Floor",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_sea_floor.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_spring",
+      "name": "Universal Chaos Season Spring",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_spring.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_summer",
+      "name": "Universal Chaos Season Summer",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_summer.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_fall",
+      "name": "Universal Chaos Season Fall",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_fall.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_winter",
+      "name": "Universal Chaos Season Winter",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_winter.json"
     }
   ]
 }

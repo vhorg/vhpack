@@ -84,7 +84,9 @@
     ],
     "the_vault:mob_type/nether": [
       "@the_vault:piglin",
-      "@the_vault:wither_skeleton"
+      "@the_vault:wither_skeleton",
+      "minecraft:piglin_brute",
+      "the_vault:dungeon_piglin"
     ],
     "the_vault:horde": [
       "minecraft:husk",
