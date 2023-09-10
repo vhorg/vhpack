@@ -43,7 +43,9 @@
       "the_vault:gear/armor/druid",
       "the_vault:gear/armor/orc",
       "the_vault:gear/armor/wither",
-      "the_vault:gear/armor/fox"
+      "the_vault:gear/armor/fox",
+      "the_vault:gear/armor/snow_wolf",
+      "the_vault:gear/armor/wither_wolf"
     ],
     "EPIC": [
       "the_vault:gear/armor/royal_silver",
@@ -54,7 +56,9 @@
       "the_vault:gear/armor/jawbone",
       "the_vault:gear/armor/witch",
       "the_vault:gear/armor/soul_eater",
-      "the_vault:gear/armor/goat"
+      "the_vault:gear/armor/goat",
+      "the_vault:gear/armor/emperor_snow_wolf",
+      "the_vault:gear/armor/emperor_wither_wolf"
 
     ],
     "OMEGA": [
@@ -203,7 +207,8 @@
       "the_vault:gear/axe/tenos_staff",
       "the_vault:gear/axe/idonas_scythe",
       "the_vault:gear/axe/blood_cleaver",
-      "the_vault:gear/axe/last_sight"
+      "the_vault:gear/axe/last_sight",
+      "the_vault:gear/axe/godaxe"
     ]
   },
   "SHIELD_MODEL_ROLLS": {
