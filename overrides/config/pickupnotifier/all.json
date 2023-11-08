@@ -8,6 +8,21 @@
         "the_vault:vault_catalyst_fragment",
 
         "the_vault:soul_shard",
+        
+        "the_vault:ornate_catalyst_inhibitor",
+        "the_vault:living_catalyst_inhibitor",
+        "the_vault:gilded_catalyst_inhibitor",
+        "the_vault:wooden_catalyst_inhibitor",
+        "the_vault:blue_puzzle_concrete",
+        "the_vault:yellow_puzzle_concrete",
+        "the_vault:pink_puzzle_concrete",
+        "the_vault:green_puzzle_concrete",
+
+        "the_vault:god_blessing",
+        "the_vault:small_charm",
+        "the_vault:large_charm",
+        "the_vault:grand_charm",
+        "the_vault:majestic_charm",
 
         "the_vault:empty_flask",
         "the_vault:sweet_kiwi",

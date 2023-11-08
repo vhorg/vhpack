@@ -118,6 +118,9 @@
     "the_vault:classic_vault_blood_moon": {
       "the_vault:augment{theme:\"the_vault:classic_vault_blood_moon\"}": 5
     },
+    "the_vault:classic_vault_flesh": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_flesh\"}": 5
+    },
     "the_vault:raw_vault_cave_granite": {
       "minecraft:air": 1
     },
@@ -170,6 +173,7 @@
       "the_vault:augment{theme:\"the_vault:classic_vault_factory_void\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_fairy_ring\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_festive\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_flesh\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_flooded\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_gingerbread\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_haunted\"}": 5,
@@ -191,6 +195,10 @@
       "the_vault:augment{theme:\"the_vault:classic_vault_raw_cave_granite\"}": 0,
       "the_vault:augment{theme:\"the_vault:classic_vault_sandy_cave\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_sea_floor\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_spring\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_summer\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_fall\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_shipwreck\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_sweet\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_void\"}": 5,
@@ -207,6 +215,21 @@
     },
     "the_vault:classic_vault_season_winter": {
       "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 5
+    },
+    "the_vault:classic_vault_wendarr": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_wendarr\"}": 5
+    },
+    "the_vault:classic_vault_velara": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_velara\"}": 5
+    },
+    "the_vault:classic_vault_tenos": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_tenos\"}": 5
+    },
+    "the_vault:classic_vault_idona": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_idona\"}": 5
+    },
+    "the_vault:classic_vault_intermediary": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_intermediary\"}": 5
     }
   }
 }

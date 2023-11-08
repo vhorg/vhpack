@@ -577,7 +577,7 @@
             "type": "weighted_target",
             "target": "decorative_blocks:oak_support",
             "output": {
-                "everycomp:ap/quark/azalea_support": 1
+                "everycomp:db/quark/azalea_support": 1
             }
         },
         {

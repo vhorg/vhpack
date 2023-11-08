@@ -182,10 +182,13 @@
             "type": "weighted_target",
             "target": "minecraft:grass",
             "output": {
-                "minecraft:grass": 1,
-                "minecraft:brown_mushroom": 1,
-                "minecraft:red_mushroom": 1,
-                "minecraft:jack_o_lantern": 1
+                "minecraft:grass": 4,
+                "minecraft:brown_mushroom": 4,
+                "minecraft:red_mushroom": 4,
+                "minecraft:jack_o_lantern[facing=west]": 1,
+                "minecraft:jack_o_lantern[facing=east]": 1,
+                "minecraft:jack_o_lantern[facing=north]": 1,
+                "minecraft:jack_o_lantern[facing=south]": 1
             }
         },
         {

@@ -612,7 +612,7 @@
               {
                   "level": 0,
                   "type": "weighted_target",
-                  "target": "the_vault:xp_altar",
+                  "target": "the_vault:god_altar",
                   "output": {
                       "minecraft:air": 1
                   }
@@ -625,7 +625,7 @@
               {
                   "level": 0,
                   "type": "weighted_target",
-                  "target": "the_vault:blood_altar",
+                  "target": "the_vault:god_altar",
                   "output": {
                     "minecraft:air": 1
                   }
@@ -638,7 +638,7 @@
               {
                   "level": 0,
                   "type": "weighted_target",
-                  "target": "the_vault:time_altar",
+                  "target": "the_vault:god_altar",
                   "output": {
                     "minecraft:air": 1
                   }
@@ -651,7 +651,7 @@
               {
                   "level": 0,
                   "type": "weighted_target",
-                  "target": "the_vault:soul_altar",
+                  "target": "the_vault:god_altar",
                   "output": {
                     "minecraft:air": 1
                   }

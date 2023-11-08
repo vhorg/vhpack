@@ -23,7 +23,7 @@
           "success": {
             "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0_v3\"}": 76,
             "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl0_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl8_v3\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl10_v3\"}": 8,
             "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl0_v3\"}": 8
           },
           "failure": {

@@ -298,6 +298,12 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_season_winter.json"
     },
     {
+      "id": "the_vault:classic_vault_flesh",
+      "name": "Flesh Pit",
+      "color": 14446491,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_flesh.json"
+    },
+    {
       "id": "the_vault:raw_vault_cave_granite",
       "name": "Raw Vault Granite Caves",
       "color": 12744790,
@@ -374,6 +380,42 @@
       "name": "Chaos",
       "color": 12358351,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_chaos.json"
+    },
+    {
+      "id": "the_vault:classic_vault_wendarr",
+      "name": "Wendarr",
+      "color": 15638528,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_wendarr.json"
+    },
+    {
+      "id": "the_vault:classic_vault_tenos",
+      "name": "Tenos",
+      "color": 687572,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tenos.json"
+    },
+    {
+      "id": "the_vault:classic_vault_velara",
+      "name": "Velara",
+      "color": 1296178,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_velara.json"
+    },
+    {
+      "id": "the_vault:classic_vault_idona",
+      "name": "Idona",
+      "color": 13041664,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_idona.json"
+    },
+    {
+      "id": "the_vault:classic_vault_intermediary",
+      "name": "Intermediary",
+      "color": 16777215,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_intermediary.json"
+    },
+    {
+      "id": "the_vault:classic_vault_herald",
+      "name": "Herald",
+      "color": 12017225,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_herald.json"
     }
   ]
 }

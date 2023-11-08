@@ -2,10 +2,6 @@
     "tile_processors": [
         {
             "type": "reference",
-            "id": "the_vault:generic/ore_placeholder_white"
-        },
-        {
-            "type": "reference",
             "id": "the_vault:generic/treasure_door_placeholder"
         },
         {
@@ -51,11 +47,9 @@
             "type": "weighted_target",
             "target": "minecraft:coarse_dirt",
             "output": {
-                "minecraft:diorite": 3,
-                "architects_palette:coarse_snow": 3,
-                "minecraft:cobblestone": 2,
-                "minecraft:cracked_stone_bricks": 1,
-                "minecraft:stone_bricks": 1
+                "quark:permafrost": 1,
+                "architects_palette:polished_packed_ice": 1,
+                "architects_palette:chiseled_packed_ice": 1
             }
         },
         {
@@ -76,7 +70,7 @@
             "type": "weighted_target",
             "target": "minecraft:spruce_slab",
             "output": {
-                "create:cut_calcite_slab": 1
+                "quark:permafrost_bricks_slab": 1
             }
         },
         {

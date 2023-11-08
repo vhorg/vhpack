@@ -71,7 +71,7 @@
       "the_vault:gear/armor/bunny_guardian",
       "the_vault:gear/armor/pirate",
       "the_vault:gear/armor/mushroom"
-      
+
     ],
     "UNIQUE": [
       "the_vault:gear/armor/atomatic",
@@ -112,14 +112,15 @@
       "the_vault:gear/armor/sweetheart",
       "the_vault:gear/armor/jester",
       "the_vault:gear/armor/scout",
-      "the_vault:gear/armor/bee_knight"
+      "the_vault:gear/armor/bee_knight",
+      "the_vault:gear/armor/victory"
     ]
   },
   "SWORD_MODEL_ROLLS": {
     "SCRAPPY": [
       "the_vault:gear/sword/sword_0",
       "the_vault:gear/sword/sword_2"
-      
+
     ],
     "COMMON": [
       "the_vault:gear/sword/sword_1",
@@ -167,7 +168,7 @@
       "the_vault:gear/sword/idonas_sword",
       "the_vault:gear/sword/honey_wand",
       "the_vault:gear/sword/godsword"
-      
+
     ]
   },
   "AXE_MODEL_ROLLS": {
@@ -226,7 +227,7 @@
       "the_vault:gear/shield/sculk",
       "the_vault:gear/shield/flowah",
       "the_vault:gear/shield/lifebuoy"
-      
+
     ],
     "EPIC": [
       "the_vault:gear/shield/ender",
@@ -277,6 +278,25 @@
       "the_vault:gear/wand/baguette",
       "the_vault:gear/wand/carrot_on_a_wand",
       "the_vault:gear/wand/carri_king"
+    ]
+  },
+  "FOCUS_MODEL_ROLLS": {
+    "SCRAPPY": [
+      "the_vault:gear/focus/tatteredtome"
+    ],
+    "COMMON": [
+      "the_vault:gear/focus/grimoire"
+    ],
+    "RARE": [
+      "the_vault:gear/focus/arcanecodex"
+    ],
+    "EPIC": [
+      "the_vault:gear/focus/mysticallexicon"
+    ],
+    "OMEGA": [
+      "the_vault:gear/focus/tomeofknowledge"
+    ],
+    "UNIQUE": [
     ]
   }
 }
