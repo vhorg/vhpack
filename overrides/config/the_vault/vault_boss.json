@@ -39,8 +39,8 @@
             "DamagePerSpark": 24.0,
             "SparkSpawnInterval": 0,
             "StunTimePerSpark": 20,
-            "MaxSparkCount": 10,
-            "MinSparkCount": 12
+            "MaxSparkCount": 12,
+            "MinSparkCount": 10
           }
         },
         { "stageName": "generic2",

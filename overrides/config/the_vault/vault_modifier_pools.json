@@ -149,10 +149,6 @@
               {
                 "value": "the_vault:dummy",
                 "weight": 12
-              },
-              {
-                "value": "the_vault:velara_favour_2",
-                "weight": 10000
               }
             ]
           }
