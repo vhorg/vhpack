@@ -2977,7 +2977,7 @@
       "icon": "the_vault:gui/quests/level40",
       "targetId": "the_vault:40",
       "targetProgress": 1.0,
-      "unlockedBy": "apply_inscription",
+      "unlockedBy": "transmog",
       "reward": {
         "items": [
             {

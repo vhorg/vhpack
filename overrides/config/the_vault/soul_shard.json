@@ -1696,8 +1696,8 @@
               "AMOUNT": 1,
               "NBT": "{pool:\"the_vault:blackmarket\"}"
             },
-            "minPrice": 1200,
-            "maxPrice": 2400
+            "minPrice": 1400,
+            "maxPrice": 2600
           },
           "weight": 32
         },

@@ -2866,9 +2866,6 @@
         "vaultExp": 0
       }
     },
-    
-    
-    
     {
       "type": "level_up",
       "id": "reach_level_40",
@@ -2892,7 +2889,7 @@
       "icon": "the_vault:gui/quests/level40",
       "targetId": "the_vault:40",
       "targetProgress": 1.0,
-      "unlockedBy": "apply_inscription",
+      "unlockedBy": "transmog",
       "reward": {
         "items": [
             {

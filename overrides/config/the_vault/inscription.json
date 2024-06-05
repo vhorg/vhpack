@@ -1169,23 +1169,6 @@
               }
             },
             "weight": 12
-          },
-          {
-            "value": {
-              "entries": [
-              ],
-              "instability": {
-                "type": "uniform",
-                "min": 0.00,
-                "max": 0.02
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 0
-              }
-            },
-            "weight": 360
           }
         ]
       }
@@ -1479,23 +1462,6 @@
               }
             },
             "weight": 12
-          },
-          {
-            "value": {
-              "entries": [
-              ],
-              "instability": {
-                "type": "uniform",
-                "min": 0.00,
-                "max": 0.02
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 0
-              }
-            },
-            "weight": 200
           }
         ]
       }

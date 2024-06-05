@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Vault Hunters 3rd Edition",
-  "version": "3.14.1",
+  "version": "3.14.2",
   "author": "",
   "files": [
     {
@@ -405,13 +405,13 @@
       "required": true
     },
     {
-      "projectID": 531761,
-      "fileID": 4162605,
+      "projectID": 628539,
+      "fileID": 4549905,
       "required": true
     },
     {
-      "projectID": 628539,
-      "fileID": 4549905,
+      "projectID": 531761,
+      "fileID": 4162605,
       "required": true
     },
     {
@@ -435,13 +435,13 @@
       "required": true
     },
     {
-      "projectID": 378646,
-      "fileID": 3930974,
+      "projectID": 243076,
+      "fileID": 4902316,
       "required": true
     },
     {
-      "projectID": 243076,
-      "fileID": 4902316,
+      "projectID": 378646,
+      "fileID": 3930974,
       "required": true
     },
     {
@@ -451,7 +451,7 @@
     },
     {
       "projectID": 867003,
-      "fileID": 4641741,
+      "fileID": 5401564,
       "required": true
     },
     {
@@ -520,13 +520,13 @@
       "required": true
     },
     {
-      "projectID": 429235,
-      "fileID": 4074294,
+      "projectID": 263420,
+      "fileID": 4181105,
       "required": true
     },
     {
-      "projectID": 263420,
-      "fileID": 4181105,
+      "projectID": 429235,
+      "fileID": 4074294,
       "required": true
     },
     {
@@ -580,18 +580,18 @@
       "required": true
     },
     {
-      "projectID": 348521,
-      "fileID": 3968030,
-      "required": true
-    },
-    {
       "projectID": 353928,
       "fileID": 4183256,
       "required": true
     },
     {
+      "projectID": 348521,
+      "fileID": 3968030,
+      "required": true
+    },
+    {
       "projectID": 458203,
-      "fileID": 5395901,
+      "fileID": 5401569,
       "required": true
     },
     {
@@ -650,13 +650,13 @@
       "required": true
     },
     {
-      "projectID": 74924,
-      "fileID": 4072436,
+      "projectID": 320926,
+      "fileID": 4059979,
       "required": true
     },
     {
-      "projectID": 320926,
-      "fileID": 4059979,
+      "projectID": 74924,
+      "fileID": 4072436,
       "required": true
     },
     {
@@ -675,13 +675,13 @@
       "required": true
     },
     {
-      "projectID": 911786,
-      "fileID": 4755822,
+      "projectID": 513688,
+      "fileID": 4105134,
       "required": true
     },
     {
-      "projectID": 513688,
-      "fileID": 4105134,
+      "projectID": 911786,
+      "fileID": 4755822,
       "required": true
     },
     {
