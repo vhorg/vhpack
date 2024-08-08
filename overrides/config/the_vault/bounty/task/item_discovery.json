@@ -102,20 +102,6 @@
         },
         {
           "value": {
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 8,
-              "max": 24
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true,
-            "rewardPool": "common"
-          },
-          "weight": 6
-        },
-        {
-          "value": {
             "value": "the_vault:vault_plating",
             "amount": {
               "min": 4,
@@ -348,20 +334,6 @@
             "amount": {
               "min": 8,
               "max": 24
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true,
-            "rewardPool": "common"
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 17,
-              "max": 36
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -716,20 +688,6 @@
             "amount": {
               "min": 12,
               "max": 32
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true,
-            "rewardPool": "common"
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 20,
-              "max": 40
             },
             "floorToNearestTen": false,
             "validDimensions": [],

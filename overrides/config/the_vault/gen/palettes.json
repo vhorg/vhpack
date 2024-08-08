@@ -1764,6 +1764,56 @@
       "id": "the_vault:generic/spawners/blood_mobs",
       "name": "Blood Moon Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/blood_mobs.json"
+    },
+    {
+      "id": "the_vault:village/villager_spawner",
+      "name": "Villager Spawner",
+      "1.0": "config/the_vault/gen/1.0/palettes/village/villager_spawner.json"
+    },
+    {
+      "id": "the_vault:chaos/chaos_chest_randomize",
+      "name": "Chaos Chest Randomize",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/chaos_chest_randomize.json"
+    },
+    {
+      "id": "the_vault:chaos/chaos_antique_tags",
+      "name": "Chaos Antique Tags",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/chaos_antique_tags.json"
+    },
+    {
+      "id": "the_vault:chaos/chaos_antique_tags",
+      "name": "Chaos Antique Tags",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/chaos_antique_tags.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_piglin",
+      "name": "Dungeon Tags Piglin",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_piglin.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_pillager",
+      "name": "Dungeon Tags Pillager",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_pillager.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_skeleton",
+      "name": "Dungeon Tags Skeleton",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_skeleton.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_spider",
+      "name": "Dungeon Tags Spider",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_spider.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_witch",
+      "name": "Dungeon Tags Witch",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_witch.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_zombie",
+      "name": "Dungeon Tags Zombie",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_zombie.json"
     }
   ]
 }

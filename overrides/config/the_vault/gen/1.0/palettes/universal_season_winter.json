@@ -599,6 +599,22 @@
         {
             "type": "reference",
             "id": "the_vault:generic/ice_elite_spawners"
+        },
+        {
+            "type": "template_stack_tile",
+            "target": "@the_vault:vault_lootables",
+            "stack": [
+                "THEME_SEASON_WINTER",
+                "THEME_CATEGORY_ICE"
+            ]
+        },
+        {
+            "type": "template_stack_spawner",
+            "target": "ispawner:spawner",
+            "stack": [
+                "THEME_SEASON_WINTER",
+                "THEME_CATEGORY_ICE"
+            ]
         }
     ],
     "entity_processors": [],

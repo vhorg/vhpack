@@ -149,20 +149,6 @@
         {
           "value": {
             "rewardPool": "common",
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
             "value": "minecraft:gold_ingot",
             "amount": {
               "min": 48,
@@ -451,20 +437,6 @@
             "amount": {
               "min": 128,
               "max": 512
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 24,
-              "max": 80
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -773,20 +745,6 @@
         {
           "value": {
             "rewardPool": "common",
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 24,
-              "max": 96
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
             "value": "minecraft:ancient_debris",
             "amount": {
               "min": 12,
@@ -1043,20 +1001,6 @@
         {
           "value": {
             "rewardPool": "common",
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 64,
-              "max": 128
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "rewardPool": "common",
             "value": "minecraft:ancient_debris",
             "amount": {
               "min": 16,
@@ -1155,20 +1099,6 @@
             "vaultOnly": false
           },
           "weight": 8
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_apple",
-            "amount": {
-              "min": 96,
-              "max": 192
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 6
         },
         {
           "value": {

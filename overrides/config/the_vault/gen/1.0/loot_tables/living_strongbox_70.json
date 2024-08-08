@@ -102,6 +102,17 @@
             }
           },
           {
+            "weight": 120,
+            "item": {
+              "id": "the_vault:regret_nugget",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 3
+                }
+            }
+          },
+          {
             "weight": 30,
             "item": {
               "id": "the_vault:burger_cheese",
@@ -157,17 +168,6 @@
             }
           },
           {
-            "weight": 10,
-            "item": {
-              "id": "the_vault:empty_flask",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-            }
-          },
-          {
             "weight": 100,
             "item": {
               "id": "the_vault:knowledge_star_essence",
@@ -175,17 +175,6 @@
                 "type": "uniform",
                 "min": 1,
                 "max": 2
-                }
-            }
-          },
-          {
-            "weight": 120,
-            "item": {
-              "id": "the_vault:vault_apple",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
                 }
             }
           },
@@ -212,17 +201,6 @@
                   "type": "uniform",
                   "min": 4,
                   "max": 8
-                  }
-              }
-            },
-            {
-              "weight": 40,
-              "item": {
-                "id": "the_vault:sweet_kiwi",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
                   }
               }
             },
@@ -278,6 +256,17 @@
               "weight": 16,
               "item": {
                 "id": "the_vault:living_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:inscription_piece",
                 "count": {
                   "type": "uniform",
                   "min": 1,

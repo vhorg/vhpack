@@ -31,6 +31,13 @@
         "the_vault:altar_chest_placeable": 1,
         "minecraft:air": 10
       }
+    },
+    {
+        "type": "template_stack_tile",
+        "target": "@the_vault:vault_lootables",
+        "stack": [
+            "STRUCTURE_VENDOR_ROOM"
+        ]
     }
   ]
 }

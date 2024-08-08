@@ -21,22 +21,6 @@
       "specializationStyles": {
         "Hunter_Base": {
           "icon": "the_vault:gui/abilities/hunter"
-        },
-        "Hunter_Blocks": {
-          "icon": "the_vault:gui/abilities/hunter_blocks"
-        },
-
-        "Hunter_Gilded": {
-          "icon": "the_vault:gui/abilities/hunter_gilded"
-        },
-        "Hunter_Living": {
-          "icon": "the_vault:gui/abilities/hunter_living"
-        },
-        "Hunter_Ornate": {
-          "icon": "the_vault:gui/abilities/hunter_ornate"
-        },
-        "Hunter_Coins": {
-          "icon": "the_vault:gui/abilities/hunter_coins"
         }
       }
     },
@@ -293,12 +277,15 @@
         }
       }
     },
-    "Summon_Eternal": {
+    "Ice_Bolt": {
       "x": 760,
       "y": 12,
       "specializationStyles": {
-        "Summon_Eternal_Base": {
-          "icon": "the_vault:gui/abilities/summon_eternal"
+        "Ice_Bolt_Base": {
+          "icon": "the_vault:gui/abilities/ice_bolt"
+        },
+        "Ice_Bolt_Blast": {
+          "icon": "the_vault:gui/abilities/ice_blast"
         }
       }
     },

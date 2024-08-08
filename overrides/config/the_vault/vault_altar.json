@@ -130,6 +130,16 @@
         "id": "the_vault:vault_crystal",
         "nbt": {
           "CrystalData": {
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:herald", 
+                  "size": 1
+                  }
+                ]
+            },
             "Objective": {
               "type": "herald"
             },
@@ -139,6 +149,13 @@
             "Theme": {
               "type": "value", 
               "id": "the_vault:classic_vault_herald"
+            },
+            "Time": {
+              "type": "value",
+              "roll": {
+                "type": "constant",
+                "count": 96000
+              }
             },
             "Properties": {
               "type": "capacity",

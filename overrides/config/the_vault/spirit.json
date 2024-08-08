@@ -414,6 +414,12 @@
             "item": "the_vault:key_xenium"
           },
           8
+        ],
+        [
+          {
+            "item": "the_vault:card_deck"
+          },
+          8
         ]
       ],
       "trinketCost": 14

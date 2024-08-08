@@ -5,13 +5,15 @@
       {
         "weight": 1,
         "value": {
-          "template": "the_vault:vault/decor/village/catacomb_3c"
+          "template": "the_vault:vault/decor/village/catacomb_3c",
+          "palettes": [ "the_vault:village/spawner_settings" ]
         }
       },
       {
         "weight": 1,
         "value": {
-          "template": "the_vault:vault/decor/village/catacomb_3d"
+          "template": "the_vault:vault/decor/village/catacomb_3d",
+          "palettes": [ "the_vault:village/spawner_settings" ]
         }
       }
     ]

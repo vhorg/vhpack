@@ -4,7 +4,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_beach"
+		"the_vault:universal_beach"
       ]
     }
   },
@@ -13,7 +13,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_blank"
+		"the_vault:universal_blank"
       ]
     }
   },
@@ -22,7 +22,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_blood_moon"
+		"the_vault:universal_blood_moon"
       ]
     }
   },
@@ -31,7 +31,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_cave"
+		"the_vault:universal_cave"
       ]
     }
   },
@@ -40,7 +40,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_cave_deepslate"
+		"the_vault:universal_cave_deepslate"
       ]
     }
   },
@@ -49,7 +49,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_cave_geode"
+		"the_vault:universal_cave_geode"
       ]
     }
   },
@@ -58,7 +58,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_cave_wasteland"
+		"the_vault:universal_cave_wasteland"
       ]
     }
   },
@@ -67,7 +67,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_deep_mesa"
+		"the_vault:universal_deep_mesa"
       ]
     }
   },
@@ -76,7 +76,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_desert"
+		"the_vault:universal_desert"
       ]
     }
   },
@@ -85,7 +85,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_easter_egg"
+		"the_vault:universal_easter_egg"
       ]
     }
   },
@@ -94,7 +94,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_easter_pastel"
+		"the_vault:universal_easter_pastel"
       ]
     }
   },
@@ -103,7 +103,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_end_void"
+		"the_vault:universal_end_void"
       ]
     }
   },
@@ -112,7 +112,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_factory_void"
+		"the_vault:universal_factory_void"
       ]
     }
   },
@@ -121,7 +121,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_fairy_ring"
+		"the_vault:universal_fairy_ring"
       ]
     }
   },
@@ -130,7 +130,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_festive"
+		"the_vault:universal_festive"
       ]
     }
   },
@@ -139,7 +139,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_flesh"
+		"the_vault:universal_flesh"
       ]
     }
   },
@@ -148,7 +148,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_flooded"
+		"the_vault:universal_flooded"
       ]
     }
   },
@@ -157,7 +157,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_gingerbread"
+		"the_vault:universal_gingerbread"
       ]
     }
   },
@@ -166,7 +166,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_haunted"
+		"the_vault:universal_haunted"
       ]
     }
   },
@@ -175,7 +175,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_ice"
+		"the_vault:universal_ice"
       ]
     }
   },
@@ -184,7 +184,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_ice_cave"
+		"the_vault:universal_ice_cave"
       ]
     }
   },
@@ -193,7 +193,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_living_cave"
+		"the_vault:universal_living_cave"
       ]
     }
   },
@@ -202,7 +202,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_lush_cave"
+		"the_vault:universal_lush_cave"
       ]
     }
   },
@@ -211,7 +211,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_mesa"
+		"the_vault:universal_mesa"
       ]
     }
   },
@@ -220,7 +220,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_mushroom"
+		"the_vault:universal_mushroom"
       ]
     }
   },
@@ -229,7 +229,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_nether_blackstone"
+		"the_vault:universal_nether_blackstone"
       ]
     }
   },
@@ -238,7 +238,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_nether_crimson"
+		"the_vault:universal_nether_crimson"
       ]
     }
   },
@@ -247,7 +247,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_nether_soul"
+		"the_vault:universal_nether_soul"
       ]
     }
   },
@@ -256,7 +256,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_nether_warped"
+		"the_vault:universal_nether_warped"
       ]
     }
   },
@@ -265,7 +265,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_plastic"
+		"the_vault:universal_plastic"
       ]
     }
   },
@@ -274,7 +274,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_poison"
+		"the_vault:universal_poison"
       ]
     }
   },
@@ -283,7 +283,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_raw_cave"
+		"the_vault:raw/universal_raw_cave"
       ]
     }
   },
@@ -292,7 +292,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_raw_cave_andersite"
+		"the_vault:raw/universal_raw_cave_andersite"
       ]
     }
   },
@@ -301,7 +301,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_raw_cave_diorite"
+		"the_vault:raw/universal_raw_cave_diorite"
       ]
     }
   },
@@ -310,7 +310,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_raw_cave_granite"
+		"the_vault:raw/universal_raw_cave_granite"
       ]
     }
   },
@@ -319,7 +319,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_sandy_cave"
+		"the_vault:universal_sandy_cave"
       ]
     }
   },
@@ -328,7 +328,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_sea_floor"
+		"the_vault:universal_sea_floor"
       ]
     }
   },
@@ -337,7 +337,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_shipwreck"
+		"the_vault:universal_shipwreck"
       ]
     }
   },
@@ -346,7 +346,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_sweet"
+		"the_vault:universal_sweet"
       ]
     }
   },
@@ -355,7 +355,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_void"
+		"the_vault:universal_void"
       ]
     }
   },
@@ -364,7 +364,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_white"
+		"the_vault:universal_white"
       ]
     }
   },
@@ -373,7 +373,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_spring_fall"
+		"the_vault:universal_spring_fall"
       ]
     }
   },
@@ -382,7 +382,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_spring_spring"
+		"the_vault:universal_spring_spring"
       ]
     }
   },
@@ -391,7 +391,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_spring_summer"
+		"the_vault:universal_spring_summer"
       ]
     }
   },
@@ -400,7 +400,7 @@
     "value": {
       "template": "the_vault:vault/starts/start1",
       "palettes": [
-		"the_vault:chaos/universal_chaos_spring_winter"
+		"the_vault:universal_spring_winter"
       ]
     }
   }

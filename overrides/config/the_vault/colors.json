@@ -36,10 +36,12 @@
       "resistance": "#09bfb8",
       "slowness": "#d1d0ae",
       "text": "#192022",
-      "unbreaking": "#dcc4f0"
+      "unbreaking": "#dcc4f0",
+      "glacialChance": "#85edfe"
       
     },
     "custom": {
+      "gearResistance": "#FEDD00",
       "castType": "#1e1e1e",
       "poison": "#6fe95a",
       "baby": "#f5b2f9",

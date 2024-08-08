@@ -676,7 +676,7 @@
       },
       { "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t2",
         "modifierIdentifier": "the_vault:crafted_healing_cloud",
-        "modifierTier": 1,
+        "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
           {
@@ -728,7 +728,7 @@
       },
       { "workbenchCraftIdentifier": "the_vault:crafted_slowness_cloud_t2",
         "modifierIdentifier": "the_vault:crafted_slowness_cloud",
-        "modifierTier": 1,
+        "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
           {

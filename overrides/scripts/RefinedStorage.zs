@@ -21,9 +21,39 @@ var dye = {
   "magenta_dye": "magenta"
 };
 
+craftingTable.addShaped("rs_basic_processor", <item:refinedstorage:basic_processor>, [
+    [<item:minecraft:air>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:refinedstorage:silicon>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:air>]
+]);
+
+craftingTable.addShaped("rs_improved_processor", <item:refinedstorage:improved_processor>, [
+    [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:refinedstorage:basic_processor>, <item:minecraft:air>],
+    [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
+]);
+
+craftingTable.addShaped("rs_advanced_processor", <item:refinedstorage:advanced_processor>, [
+    [<item:minecraft:air>, <item:minecraft:diamond>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:refinedstorage:basic_processor>, <item:minecraft:air>],
+    [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
+]);
+
+craftingTable.addShaped("rs_construction", <item:refinedstorage:destruction_core>, [
+    [<item:minecraft:air>, <item:minecraft:redstone>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:refinedstorage:basic_processor>, <item:minecraft:air>],
+    [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
+]);
+
+craftingTable.addShaped("rs_destruction", <item:refinedstorage:construction_core>, [
+    [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:refinedstorage:basic_processor>, <item:minecraft:air>],
+    [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
+]);
+
 craftingTable.addShaped("rs_storage_housing", <item:refinedstorage:storage_housing>, [
-    [<item:the_vault:chromatic_iron_ingot>, <item:minecraft:redstone_block>, <item:the_vault:chromatic_iron_ingot>],
-    [<item:minecraft:redstone_block>, <item:minecraft:air>, <item:minecraft:redstone_block>],
+    [<item:the_vault:chromatic_iron_ingot>, <item:minecraft:redstone>, <item:the_vault:chromatic_iron_ingot>],
+    [<item:minecraft:redstone>, <item:minecraft:air>, <item:minecraft:redstone>],
     [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
 ]);
 
@@ -49,7 +79,7 @@ craftingTable.addShapeless("rs_4k_storage_disk_shapeless", <item:refinedstorage:
 
 craftingTable.addShaped("rs_16k_storage_part", <item:refinedstorage:16k_storage_part>, [
     [<item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:vault_diamond>, <item:the_vault:black_chromatic_steel_ingot>],
-    [<item:refinedstorage:4k_storage_part>, <item:minecraft:redstone_block>, <item:refinedstorage:4k_storage_part>],
+    [<item:refinedstorage:4k_storage_part>, <item:minecraft:redstone>, <item:refinedstorage:4k_storage_part>],
     [<item:the_vault:black_chromatic_steel_ingot>, <item:refinedstorage:4k_storage_part>, <item:the_vault:black_chromatic_steel_ingot>]
 ]);
 
@@ -67,39 +97,10 @@ craftingTable.addShapeless("rs_64k_storage_disk_shapeless", <item:refinedstorage
     <item:refinedstorage:storage_housing>, <item:refinedstorage:64k_storage_part>
 ]);
 
-craftingTable.addShaped("rs_processor_binding", <item:refinedstorage:processor_binding> *4, [
-    [<item:minecraft:air>, <item:the_vault:gem_larimar>, <item:minecraft:air>],
-    [<item:the_vault:magic_silk>, <item:minecraft:slime_ball>, <item:the_vault:magic_silk>],
-    [<item:minecraft:air>, <item:the_vault:gem_larimar>, <item:minecraft:air>]
-]);
-
 craftingTable.addShaped("rs_quartz_enriched_iron", <item:refinedstorage:quartz_enriched_iron> *2, [
     [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:air>],
     [<item:the_vault:chromatic_iron_ingot>, <item:minecraft:quartz>, <item:minecraft:air>],
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
-]);
-
-craftingTable.addShapeless("rs_raw_basic_processor", <item:refinedstorage:raw_basic_processor>, [
-    <item:refinedstorage:processor_binding>, <item:the_vault:chromatic_iron_ingot>,
-    <item:refinedstorage:silicon>, <item:minecraft:redstone_block>
-]);
-
-craftingTable.addShapeless("rs_raw_improved_processor", <item:refinedstorage:raw_improved_processor>, [
-    <item:refinedstorage:processor_binding>, <item:the_vault:chromatic_steel_ingot>,
-    <item:refinedstorage:raw_basic_processor>, <item:minecraft:redstone_block>
-]);
-
-craftingTable.addShapeless("rs_raw_advanced_processor", <item:refinedstorage:raw_advanced_processor>, [
-    <item:refinedstorage:processor_binding>, <item:the_vault:vault_diamond>,
-    <item:refinedstorage:raw_basic_processor>, <item:minecraft:redstone_block>
-]);
-
-craftingTable.addShapeless("rs_destruction_core", <item:refinedstorage:destruction_core>, [
-    <item:refinedstorage:improved_processor>, <item:the_vault:vault_diamond>
-]);
-
-craftingTable.addShapeless("rs_construction_core", <item:refinedstorage:construction_core>, [
-    <item:refinedstorage:improved_processor>, <item:the_vault:vault_essence>
 ]);
 
 craftingTable.addShapeless("rs_shapeless_quartz_enriched_iron", <item:refinedstorage:quartz_enriched_iron> *9, [
@@ -129,10 +130,11 @@ craftingTable.addShapeless("rs_shapeless_grid", <item:refinedstorage:grid>, [
 ]);
 
 craftingTable.addShaped("rs_crafting_grid", <item:refinedstorage:crafting_grid>, [
-    [<item:minecraft:air>, <item:minecraft:crafting_table>, <item:minecraft:air>],
-    [<item:minecraft:air>, <tag:items:refinedstorage:grid>, <item:minecraft:air>],
-    [<item:minecraft:air>, <item:the_vault:echo_pog>, <item:minecraft:air>]
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:gem_pog>, <item:the_vault:black_chromatic_steel_ingot>],
+    [<item:the_vault:gem_pog>, <tag:items:refinedstorage:grid>, <item:minecraft:crafting_table>],
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:gem_pog>, <item:the_vault:black_chromatic_steel_ingot>]
 ]);
+
 craftingTable.addShapeless("rs_crafting_grid_small", <item:refinedstorageaddons:wireless_crafting_grid>, [
     <item:refinedstorage:crafting_grid>, <item:the_vault:black_chromatic_steel_ingot>
 ]);
@@ -173,7 +175,7 @@ for dyeId, dyeName in dye {
 
 craftingTable.addShaped("rs_detector", <item:refinedstorage:detector>, [
     [<item:refinedstorage:quartz_enriched_iron>, <item:minecraft:redstone_torch>, <item:refinedstorage:quartz_enriched_iron>],
-    [<item:minecraft:comparator>, <item:minecraft:redstone_block>, <item:minecraft:comparator>],
+    [<item:minecraft:comparator>, <item:minecraft:redstone>, <item:minecraft:comparator>],
     [<item:refinedstorage:quartz_enriched_iron>, <item:refinedstorage:improved_processor>, <item:refinedstorage:quartz_enriched_iron>]
 ]);
 

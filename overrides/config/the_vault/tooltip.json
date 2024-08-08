@@ -5,6 +5,10 @@
       "value": "Use in the Crystal Workbench to apply this theme to your Vault Crystal"
     },
     {
+      "item": "the_vault:soul_vortex",
+      "value": "An incredible powerful magical vortex core, holding the souls of many fallen.\n\nUse a Soul Diffuser to release it's power"
+    },
+    {
       "item": "the_vault:crystal_seal_scout",
       "value": "Use in the Crystal Workbench to set the objective to 'Light The Braziers'"
     },
@@ -19,6 +23,10 @@
     {
       "item": "the_vault:crystal_seal_sage",
       "value": "Use in the Crystal Workbench to set the objective to 'Elixir Rush'"
+    },
+    {
+      "item": "the_vault:crystal_seal_prophet",
+      "value": "Use in the Crystal Workbench to set the objective to 'Bingo'"
     },
     {
       "item": "the_vault:capstone_dungeon_hunter",
@@ -621,10 +629,6 @@
       "value": "Crafting ingredient"
     },
     {
-      "item": "the_vault:unidentified_relic",
-      "value": "Contains a random relic\nRight-click to identify"
-    },
-    {
       "item": "the_vault:hunter_eye",
       "value": "An epic crafting ingredient"
     },
@@ -755,6 +759,10 @@
     {
       "item": "the_vault:vault_apple",
       "value": "Crafting ingredient"
+    },
+    {
+      "item": "the_vault:repair_core",
+      "value": "When used in an anvil, this will restore a piece of gear to 100% durability, but it will consume one of the gear's repair slots."
     },
     {
       "item": "the_vault:perfect_alexandrite",

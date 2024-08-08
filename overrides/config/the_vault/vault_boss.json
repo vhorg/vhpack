@@ -1,376 +1,248 @@
 {
-  "bossDefinitions": {
-    "artifact_boss": {
-      "name": "artifact_boss",
-      "stages": [
-        
-        { "stageName": "generic",
-        "stageType": "melee",
-        "attributes": {
-          "Speed": 0.27,
-          "AttackDamage": 28,
-          "Health": 14000,
-          "MeleeAttacks": [
-            {
-              "Multiplier": 1.5,
-              "Weight": 1.0,
-              "Name": "hammersmash"
-            },
-            {
-              "Multiplier": 1.0,
-              "Weight": 2.0,
-              "Name": "uppercut"
-            },
-            {
-              "Multiplier": 0.9,
-              "Weight": 4.0,
-              "Name": "groundslam"
-            }
-          ],
-          "RageAttacks": [
-            {
-              "Multiplier": 0.9,
-              "Weight": 2.0,
-              "Name": "aoeclose"
-            }
-          ]
-        }
-        },
-        { "stageName": "wendarr",
-          "stageType": "spark",
-          "attributes": {
-            "Radius": 40,
-            "Health": 30000,
-            "SparkLifespan": 600,
-            "DamagePerSpark": 24.0,
-            "SparkSpawnInterval": 0,
-            "StunTimePerSpark": 20,
-            "MaxSparkCount": 12,
-            "MinSparkCount": 12
-          }
-        },
-        { "stageName": "generic2",
-        "stageType": "melee",
-        "attributes": {
-          "Speed": 0.27,
-          "AttackDamage": 32,
-          "Health": 15000,
-          "MeleeAttacks": [
-            {
-              "Multiplier": 1.5,
-              "Weight": 1.0,
-              "Name": "hammersmash"
-            },
-            {
-              "Multiplier": 1.0,
-              "Weight": 2.0,
-              "Name": "uppercut"
-            },
-            {
-              "Multiplier": 0.9,
-              "Weight": 4.0,
-              "Name": "groundslam"
-            }
-          ],
-          "RageAttacks": [
-            {
-              "Multiplier": 0.9,
-              "Weight": 2.0,
-              "Name": "aoeclose"
-            }
-          ]
-        }
-        },
-        { "stageName": "velara",
-          "stageType": "summoning",
-          "attributes": {
-            "EntityTypes": [
-              {
-                "EntityType": "the_vault:t3_zombie",
-                "Weight": 5.0
-              },
-              {
-                "EntityType": "the_vault:t3_husk",
-                "Weight": 5.0
-              },
-              {
-                "EntityType": "the_vault:t3_piglin",
-                "Weight": 8.0
-              },
-              {
-                "EntityType": "the_vault:t3_skeleton",
-                "Weight": 5.0
-              },
-              {
-                "EntityType": "the_vault:t3_drowned",
-                "Weight": 5.0
-              },
-              {
-                "EntityType": "the_vault:t3_stray",
-                "Weight": 5.0
-              },
-              {
-                "EntityType": "the_vault:deep_dark_horror",
-                "Weight": 5.0
-              },
-              {
-                "EntityType": "the_vault:t2_zombie",
-                "Weight": 8.0
-              },
-              {
-                "EntityType": "the_vault:t2_husk",
-                "Weight": 8.0
-              },
-              {
-                "EntityType": "the_vault:vault_fighter_2",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:vault_fighter_3",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:vault_fighter_4",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:miner_zombie_t5",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:mummy_t2",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:mushroom_t5",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:overgrown_zombie_t5",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:skeleton_pirate_t5",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:winterwalker_t5",
-                "Weight": 10.0
-              },
-              {
-                "EntityType": "the_vault:dungeon_black_widow_spider",
-                "Weight": 6.0
-              },
-              {
-                "EntityType": "the_vault:dungeon_piglin_brute",
-                "Weight": 4.0
-              },
-              {
-                "EntityType": "the_vault:dungeon_vindicator",
-                "Weight": 4.0
-              },
-              {
-                "EntityType": "the_vault:dungeon_pillager",
-                "Weight": 4.0
-              },
-              {
-                "EntityType": "the_vault:dungeon_witch",
-                "Weight": 4.0
-              },
-              {
-                "EntityType": "the_vault:mushroom_t4",
-                "Weight": 10.0
-              }
-            ],
-            "Radius": 34,
-            "SpawnDelay": 220,
-            "MinGroupCount": 28,
-            "MaxGroupCount": 28,
-            "MaxMobCount": 16,
-            "MinMobCount": 14,
-            "maxMobsAliveBeforeNextSpawn": 32
-          }
-        },
-        { "stageName": "generic3",
-        "stageType": "melee",
-        "attributes": {
-          "Speed": 0.27,
-          "AttackDamage": 36,
-          "Health": 16000,
-          "MeleeAttacks": [
-            {
-              "Multiplier": 1.5,
-              "Weight": 1.0,
-              "Name": "hammersmash"
-            },
-            {
-              "Multiplier": 1.0,
-              "Weight": 2.0,
-              "Name": "uppercut"
-            },
-            {
-              "Multiplier": 0.9,
-              "Weight": 4.0,
-              "Name": "groundslam"
-            }
-          ],
-          "RageAttacks": [
-            {
-              "Multiplier": 0.9,
-              "Weight": 2.0,
-              "Name": "aoeclose"
-            }
-          ]
-        }
-        },
-        { "stageName": "tenos",
-          "stageType": "catalyst",
-          "attributes": {
-            "CatalystWaves": [
-              {
-                "MinCatalysts": 3,
-                "MaxCatalysts": 3
-              },
-              {
-                "MinCatalysts": 4,
-                "MaxCatalysts": 4
-              },
-              {
-                "MinCatalysts": 7,
-                "MaxCatalysts": 7
-              },
-              {
-                "MinCatalysts": 11,
-                "MaxCatalysts": 11
-              }
-            ],
-            "ChestChance": 0.2,
-            "ProjectileDamage": 20.0,
-            "ExplosionDamageMultiplier": 1.5,
-            "FangsDamage": 32.0,
-            "FangsChance": 0.8,
-            "Effects": [
-              {
-                "Effect": "minecraft:instant_damage",
-                "Duration": 1,
-                "Amplifier": 1,
-                "Weight": 8.0
-              },
-              {
-                "Effect": "minecraft:mining_fatigue",
-                "Duration": 200,
-                "Amplifier": 2,
-                "Weight": 8.0
-              },
-              {
-                "Effect": "minecraft:slow_falling",
-                "Duration": 400,
-                "Amplifier": 2,
-                "Weight": 10.0
-              },
-              {
-                "Effect": "minecraft:slowness",
-                "Duration": 200,
-                "Amplifier": 3,
-                "Weight": 10.0
-              },
-              {
-                "Effect": "minecraft:blindness",
-                "Duration": 40,
-                "Amplifier": 1,
-                "Weight": 6.0
-              }
-            ],
-            "ChestLootTables": {
-              "ORNATE": "the_vault:boss_ornate",
-              "LIVING": "the_vault:boss_living",
-              "WOODEN": "the_vault:boss_wooden",
-              "GILDED": "the_vault:boss_gilded"
-            }
-          }
-        },
-        { "stageName": "generic4",
-        "stageType": "melee",
-        "attributes": {
-          "Speed": 0.27,
-          "AttackDamage": 40,
-          "Health": 24000,
-          "MeleeAttacks": [
-            {
-              "Multiplier": 1.5,
-              "Weight": 1.0,
-              "Name": "hammersmash"
-            },
-            {
-              "Multiplier": 1.0,
-              "Weight": 2.0,
-              "Name": "uppercut"
-            },
-            {
-              "Multiplier": 0.9,
-              "Weight": 4.0,
-              "Name": "groundslam"
-            }
-          ],
-          "RageAttacks": [
-              {
-                "Multiplier": 0.9,
-                "Weight": 2.0,
-                "Name": "aoeclose"
-              }
-          ]
-        }
-        },
-        { "stageName": "idona",
-          "stageType": "berserk",
-          "attributes": {
-            "Speed": 0.3,
-            "AttackDamage": 60,
-            "MaxSpeedMultiplier": 2.8,
-            "BloodOrbSpawnCooldown": 100,
-            "MaxBloodOrbs": 12,
-            "Health": 50000,
-            "MeleeAttacks": [
-              {
-                "Multiplier": 2.0,
-                "Weight": 1.0,
-                "Name": "hammersmash"
-              },
-              {
-                "Multiplier": 0.8,
-                "Weight": 2.0,
-                "Name": "uppercut"
-              },
-              {
-                "Multiplier": 0.9,
-                "Weight": 2.0,
-                "Name": "groundslam"
-              }
-            ],
-            "RageAttacks": [
-              {
-                "Multiplier": 1.0,
-                "Weight": 1.0,
-                "Name": "throw"
-              },
-              {
-                "Multiplier": 1.1,
-                "Weight": 2.0,
-                "Name": "aoeclose"
-              }
-            ],
-            "MaxBaseDamageMultiplier": 3.3
-          }
-        }
-      
-        
-        
-        
-        
-        
-       
-        
-      ]
+  "Bosses": {
+    "the_vault:blaze_boss": {
+      "BaseTraits": [
+        "fireball_ranged_attack",
+        "evoker_fangs",
+        "heal"
+      ],
+      "ModifierTraits": {
+        "light_ranged": "shulker_bullet"
+      }
+    },
+    "the_vault:golem_boss": {
+      "BaseTraits": [
+        "melee_attack",
+        "summoning_vault",
+        "life_leech_on_hit",
+        "levitate_on_hit"
+      ],
+      "ModifierTraits": {
+        "light_ranged": "blood_orb"
+      }
+    },
+    "the_vault:black_widow_boss": {
+      "BaseTraits": [
+        "melee_attack",
+        "life_leech_on_hit",
+        "wither_on_hit",
+        "throw_lingering_poison"
+      ],
+      "ModifierTraits": {
+        "light_ranged": "evoker_fangs"
+      }
     }
-  }
+  },
+  "Traits": {
+    "fireball_ranged_attack": {
+      "Type": "fireball_ranged_attack",
+      "Attributes": {
+        "AttackIntervalMin": 20,
+        "AttackIntervalMax": 60,
+        "SpeedModifier": 1.0,
+        "MaxInaccuracy": 0.5,
+        "AttackRadius": 25.0
+      }
+    },
+    "melee_attack": {
+      "Type": "melee_attack",
+      "Attributes": {
+        "Attacks": [
+          {
+            "Multiplier": 1.0,
+            "Weight": 1.0,
+            "Name": "punch"
+          }
+        ]
+      }
+    },
+    "sweep_attack": {
+      "Type": "melee_attack",
+      "Attributes": {
+        "Attacks": [
+          {
+            "Multiplier": 1.0,
+            "Weight": 1.0,
+            "Name": "aoeclose"
+          }
+        ]
+      }
+    },
+    "summoning_vanilla": {
+      "Type": "summoning",
+      "Attributes": {
+        "SpawnInterval": 100,
+        "EntityTypes": [
+          {
+            "EntityType": "minecraft:zombie",
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "minecraft:skeleton",
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "minecraft:creeper",
+            "Weight": 1.0
+          }
+        ],
+        "Radius": 15,
+        "MaxMobSpawnCount": 4,
+        "MaxMobsAliveBeforeNextSpawn": 10,
+        "MinMobSpawnCount": 1
+      }
+    },
+    "summoning_vault": {
+      "Type": "summoning",
+      "Attributes": {
+        "SpawnInterval": 100,
+        "EntityTypes": [
+          {
+            "EntityType": "the_vault:fighter",
+            "EntityNbt": {
+              "HandItems": [
+                {
+                  "id": "minecraft:netherite_sword",
+                  "Count": 1,
+                  "tag": {
+                    "Damage": 0
+                  }
+                }
+              ]
+            },
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "the_vault:dungeon_skeleton",
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "the_vault:dungeon_vindicator",
+            "Weight": 1.0
+          }
+        ],
+        "Radius": 15,
+        "MaxMobSpawnCount": 4,
+        "MaxMobsAliveBeforeNextSpawn": 10,
+        "MinMobSpawnCount": 1
+      }
+    },
+    "shulker_bullet": {
+      "Type": "shulker_bullet",
+      "Attributes": {
+        "AttackIntervalMin": 10,
+        "AttackIntervalMax": 40
+      }
+    },
+    "heal": {
+      "Type": "heal",
+      "Attributes": {
+        "HealCooldown": 0,
+        "HealInterval": 40,
+        "HealPercentage": 0.1
+      }
+    },
+    "blood_orb": {
+      "Type": "blood_orb",
+      "Attributes": {
+        "MaxBloodOrbs": 4,
+        "BloodOrbSpawnIntervalMin": 40,
+        "BloodOrbs": [],
+        "BloodOrbSpawnRadius": 20,
+        "BloodOrbSpawnIntervalMax": 100
+      }
+    },
+    "evoker_fangs": {
+      "Type": "evoker_fangs",
+      "Attributes": {
+        "Radius": 3,
+        "MaxAttackInterval": 200,
+        "FangCount": 5,
+        "Inaccuracy": 1.5,
+        "MeleeDamageMultiplier": 0.7,
+        "MinAttackInterval": 100
+      }
+    },
+    "higher_health": {
+      "Type": "attribute_modifier",
+      "Attributes": {
+        "Operator": "multiply",
+        "Value": 1.5,
+        "Name": "minecraft:generic.max_health"
+      }
+    },
+    "higher_speed": {
+      "Type": "attribute_modifier",
+      "Attributes": {
+        "Operator": "add",
+        "Value": 0.30000001192092896,
+        "Name": "minecraft:generic.movement_speed"
+      }
+    },
+    "life_leech_on_hit": {
+      "Type": "life_leech_on_hit",
+      "Attributes": {
+        "LeechPercentage": 0.5
+      }
+    },
+    "wither_on_hit": {
+      "Type": "apply_potion_on_hit",
+      "Attributes": {
+        "MobEffect": "minecraft:wither",
+        "Duration": 100,
+        "Amplifier": 0,
+        "Chance": 0.2
+      }
+    },
+    "levitate_on_hit": {
+      "Type": "apply_potion_on_hit",
+      "Attributes": {
+        "MobEffect": "minecraft:levitation",
+        "Duration": 100,
+        "Amplifier": 0,
+        "Chance": 0.5
+      }
+    },
+    "steal_mana_on_hit": {
+      "Type": "apply_potion_on_hit",
+      "Attributes": {
+        "MobEffect": "the_vault:mana_steal",
+        "Duration": 20,
+        "Amplifier": 0,
+        "Chance": 0.5
+      }
+    },
+    "throw_lingering_poison": {
+      "Type": "throw_potion",
+      "Attributes": {
+        "AttackIntervalMin": 100,
+        "AttackIntervalMax": 200,
+        "SpeedModifier": 1.0,
+        "MobEffect": "minecraft:poison",
+        "AttackRadius": 10.0,
+        "Duration": 100,
+        "Amplifier": 0,
+        "Lingering": 1
+      }
+    },
+    "levitation_aura": {
+      "Type": "potion_aura",
+      "Attributes": {
+        "MobEffect": "minecraft:levitation",
+        "Duration": 40,
+        "Amplifier": 0,
+        "Range": 5
+      }
+    },
+    "bleed_aura": {
+      "Type": "potion_aura",
+      "Attributes": {
+        "MobEffect": "the_vault:bleed",
+        "Duration": 40,
+        "Amplifier": 0,
+        "Range": 5
+      }
+    }
+  },
+  "LootPool": "the_vault:boss_loot"
 }

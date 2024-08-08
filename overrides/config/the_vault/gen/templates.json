@@ -9030,6 +9030,22 @@
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/structure3.zip"
       }
+    },
+    {
+      "id": "the_vault:vault/rooms/special/boss1",
+      "name": "Boss Room",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/special/boss1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/special/boss2",
+      "name": "Boss Room",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/special/boss2.nbt"
+      }
     }
   ]
 }

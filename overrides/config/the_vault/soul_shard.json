@@ -175,18 +175,6 @@
         {
           "value": {
             "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "item": {
               "ITEM": "the_vault:bounty_pearl",
               "AMOUNT": 1,
               "NBT": "{}"
@@ -637,18 +625,6 @@
         {
           "value": {
             "item": {
-              "ITEM": "the_vault:crystal_seal_empty",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 200,
-            "maxPrice": 600
-          },
-          "weight": 32
-        },
-        {
-          "value": {
-            "item": {
               "ITEM": "the_vault:crystal_seal_cake",
               "AMOUNT": 1,
               "NBT": "{}"
@@ -674,18 +650,6 @@
           "value": {
             "item": {
               "ITEM": "the_vault:mystery_hostile_egg",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
               "AMOUNT": 1,
               "NBT": "{}"
             },
@@ -1207,18 +1171,6 @@
         {
           "value": {
             "item": {
-              "ITEM": "the_vault:crystal_seal_empty",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 200,
-            "maxPrice": 600
-          },
-          "weight": 32
-        },
-        {
-          "value": {
-            "item": {
               "ITEM": "the_vault:crystal_seal_cake",
               "AMOUNT": 1,
               "NBT": "{}"
@@ -1263,18 +1215,6 @@
             "maxPrice": 800
           },
           "weight": 6
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
         },
         {
           "value": {
@@ -1431,6 +1371,114 @@
             "maxPrice": 4400
           },
           "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:card_deck",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"black\"}"
+            },
+            "minPrice": 6000,
+            "maxPrice": 10000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:stat_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mix_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:resource_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:arcane_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:wild_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_arcane_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_stat_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_mix_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 3
         }
       ]
     },
@@ -1813,18 +1861,6 @@
         {
           "value": {
             "item": {
-              "ITEM": "the_vault:crystal_seal_empty",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 200,
-            "maxPrice": 600
-          },
-          "weight": 32
-        },
-        {
-          "value": {
-            "item": {
               "ITEM": "the_vault:crystal_seal_cake",
               "AMOUNT": 1,
               "NBT": "{}"
@@ -1869,18 +1905,6 @@
             "maxPrice": 800
           },
           "weight": 4
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
         },
         {
           "value": {
@@ -1989,6 +2013,114 @@
             "maxPrice": 5000
           },
           "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:card_deck",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"black\"}"
+            },
+            "minPrice": 6000,
+            "maxPrice": 10000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:stat_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mix_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:resource_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:arcane_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:wild_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_arcane_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_stat_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_mix_pack\"}"
+            },
+            "minPrice": 1500,
+            "maxPrice": 2000
+          },
+          "weight": 3
         }
       ]
     }

@@ -4,7 +4,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_beach",
+        "the_vault:universal_beach",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -14,7 +14,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_beach",
+        "the_vault:universal_beach",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -24,7 +24,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_beach",
+        "the_vault:universal_beach",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -34,7 +34,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_beach",
+        "the_vault:universal_beach",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -44,7 +44,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_beach",
+        "the_vault:universal_beach",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -54,7 +54,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_beach",
+        "the_vault:universal_beach",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -64,7 +64,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blank",
+        "the_vault:universal_blank",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -74,7 +74,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blank",
+        "the_vault:universal_blank",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -84,7 +84,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blank",
+        "the_vault:universal_blank",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -94,7 +94,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blank",
+        "the_vault:universal_blank",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -104,7 +104,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blank",
+        "the_vault:universal_blank",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -114,7 +114,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blank",
+        "the_vault:universal_blank",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -124,7 +124,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blood_moon",
+        "the_vault:universal_blood_moon",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -134,7 +134,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blood_moon",
+        "the_vault:universal_blood_moon",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -144,7 +144,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blood_moon",
+        "the_vault:universal_blood_moon",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -154,7 +154,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blood_moon",
+        "the_vault:universal_blood_moon",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -164,7 +164,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blood_moon",
+        "the_vault:universal_blood_moon",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -174,7 +174,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_blood_moon",
+        "the_vault:universal_blood_moon",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -184,7 +184,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave",
+        "the_vault:universal_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -194,7 +194,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave",
+        "the_vault:universal_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -204,7 +204,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave",
+        "the_vault:universal_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -214,7 +214,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave",
+        "the_vault:universal_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -224,7 +224,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave",
+        "the_vault:universal_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -234,7 +234,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave",
+        "the_vault:universal_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -244,7 +244,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_deepslate",
+        "the_vault:universal_cave_deepslate",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -254,7 +254,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_deepslate",
+        "the_vault:universal_cave_deepslate",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -264,7 +264,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_deepslate",
+        "the_vault:universal_cave_deepslate",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -274,7 +274,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_deepslate",
+        "the_vault:universal_cave_deepslate",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -284,7 +284,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_deepslate",
+        "the_vault:universal_cave_deepslate",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -294,7 +294,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_deepslate",
+        "the_vault:universal_cave_deepslate",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -304,7 +304,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_geode",
+        "the_vault:universal_cave_geode",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -314,7 +314,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_geode",
+        "the_vault:universal_cave_geode",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -324,7 +324,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_geode",
+        "the_vault:universal_cave_geode",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -334,7 +334,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_geode",
+        "the_vault:universal_cave_geode",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -344,7 +344,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_geode",
+        "the_vault:universal_cave_geode",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -354,7 +354,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_geode",
+        "the_vault:universal_cave_geode",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -364,7 +364,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_wasteland",
+        "the_vault:universal_cave_wasteland",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -374,7 +374,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_wasteland",
+        "the_vault:universal_cave_wasteland",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -384,7 +384,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_wasteland",
+        "the_vault:universal_cave_wasteland",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -394,7 +394,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_wasteland",
+        "the_vault:universal_cave_wasteland",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -404,7 +404,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_wasteland",
+        "the_vault:universal_cave_wasteland",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -414,7 +414,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_cave_wasteland",
+        "the_vault:universal_cave_wasteland",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -424,7 +424,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_deep_mesa",
+        "the_vault:universal_deep_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -434,7 +434,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_deep_mesa",
+        "the_vault:universal_deep_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -444,7 +444,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_deep_mesa",
+        "the_vault:universal_deep_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -454,7 +454,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_deep_mesa",
+        "the_vault:universal_deep_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -464,7 +464,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_deep_mesa",
+        "the_vault:universal_deep_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -474,7 +474,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_deep_mesa",
+        "the_vault:universal_deep_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -484,7 +484,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_desert",
+        "the_vault:universal_desert",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -494,7 +494,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_desert",
+        "the_vault:universal_desert",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -504,7 +504,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_desert",
+        "the_vault:universal_desert",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -514,7 +514,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_desert",
+        "the_vault:universal_desert",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -524,7 +524,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_desert",
+        "the_vault:universal_desert",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -534,7 +534,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_desert",
+        "the_vault:universal_desert",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -544,7 +544,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_egg",
+        "the_vault:universal_easter_egg",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -554,7 +554,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_egg",
+        "the_vault:universal_easter_egg",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -564,7 +564,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_egg",
+        "the_vault:universal_easter_egg",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -574,7 +574,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_egg",
+        "the_vault:universal_easter_egg",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -584,7 +584,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_egg",
+        "the_vault:universal_easter_egg",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -594,7 +594,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_egg",
+        "the_vault:universal_easter_egg",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -604,7 +604,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_pastel",
+        "the_vault:universal_easter_pastel",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -614,7 +614,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_pastel",
+        "the_vault:universal_easter_pastel",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -624,7 +624,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_pastel",
+        "the_vault:universal_easter_pastel",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -634,7 +634,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_pastel",
+        "the_vault:universal_easter_pastel",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -644,7 +644,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_pastel",
+        "the_vault:universal_easter_pastel",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -654,7 +654,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_easter_pastel",
+        "the_vault:universal_easter_pastel",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -664,7 +664,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_end_void",
+        "the_vault:universal_end_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -674,7 +674,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_end_void",
+        "the_vault:universal_end_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -684,7 +684,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_end_void",
+        "the_vault:universal_end_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -694,7 +694,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_end_void",
+        "the_vault:universal_end_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -704,7 +704,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_end_void",
+        "the_vault:universal_end_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -714,7 +714,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_end_void",
+        "the_vault:universal_end_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -724,7 +724,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_factory_void",
+        "the_vault:universal_factory_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -734,7 +734,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_factory_void",
+        "the_vault:universal_factory_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -744,7 +744,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_factory_void",
+        "the_vault:universal_factory_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -754,7 +754,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_factory_void",
+        "the_vault:universal_factory_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -764,7 +764,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_factory_void",
+        "the_vault:universal_factory_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -774,7 +774,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_factory_void",
+        "the_vault:universal_factory_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -784,7 +784,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_fairy_ring",
+        "the_vault:universal_fairy_ring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -794,7 +794,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_fairy_ring",
+        "the_vault:universal_fairy_ring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -804,7 +804,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_fairy_ring",
+        "the_vault:universal_fairy_ring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -814,7 +814,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_fairy_ring",
+        "the_vault:universal_fairy_ring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -824,7 +824,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_fairy_ring",
+        "the_vault:universal_fairy_ring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -834,7 +834,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_fairy_ring",
+        "the_vault:universal_fairy_ring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -844,7 +844,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_festive",
+        "the_vault:universal_festive",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -854,7 +854,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_festive",
+        "the_vault:universal_festive",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -864,7 +864,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_festive",
+        "the_vault:universal_festive",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -874,7 +874,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_festive",
+        "the_vault:universal_festive",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -884,7 +884,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_festive",
+        "the_vault:universal_festive",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -894,7 +894,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_festive",
+        "the_vault:universal_festive",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -904,7 +904,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flesh",
+        "the_vault:universal_flesh",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -914,7 +914,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flesh",
+        "the_vault:universal_flesh",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -924,7 +924,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flesh",
+        "the_vault:universal_flesh",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -934,7 +934,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flesh",
+        "the_vault:universal_flesh",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -944,7 +944,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flesh",
+        "the_vault:universal_flesh",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -954,7 +954,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flesh",
+        "the_vault:universal_flesh",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -964,7 +964,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flooded",
+        "the_vault:universal_flooded",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -974,7 +974,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flooded",
+        "the_vault:universal_flooded",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -984,7 +984,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flooded",
+        "the_vault:universal_flooded",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -994,7 +994,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flooded",
+        "the_vault:universal_flooded",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1004,7 +1004,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flooded",
+        "the_vault:universal_flooded",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1014,7 +1014,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_flooded",
+        "the_vault:universal_flooded",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1024,7 +1024,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_gingerbread",
+        "the_vault:universal_gingerbread",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1034,7 +1034,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_gingerbread",
+        "the_vault:universal_gingerbread",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1044,7 +1044,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_gingerbread",
+        "the_vault:universal_gingerbread",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1054,7 +1054,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_gingerbread",
+        "the_vault:universal_gingerbread",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1064,7 +1064,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_gingerbread",
+        "the_vault:universal_gingerbread",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1074,7 +1074,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_gingerbread",
+        "the_vault:universal_gingerbread",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1084,7 +1084,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_haunted",
+        "the_vault:universal_haunted",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1094,7 +1094,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_haunted",
+        "the_vault:universal_haunted",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1104,7 +1104,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_haunted",
+        "the_vault:universal_haunted",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1114,7 +1114,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_haunted",
+        "the_vault:universal_haunted",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1124,7 +1124,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_haunted",
+        "the_vault:universal_haunted",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1134,7 +1134,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_haunted",
+        "the_vault:universal_haunted",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1144,7 +1144,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice",
+        "the_vault:universal_ice",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1154,7 +1154,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice",
+        "the_vault:universal_ice",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1164,7 +1164,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice",
+        "the_vault:universal_ice",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1174,7 +1174,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice",
+        "the_vault:universal_ice",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1184,7 +1184,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice",
+        "the_vault:universal_ice",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1194,7 +1194,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice",
+        "the_vault:universal_ice",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1204,7 +1204,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice_cave",
+        "the_vault:universal_ice_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1214,7 +1214,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice_cave",
+        "the_vault:universal_ice_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1224,7 +1224,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice_cave",
+        "the_vault:universal_ice_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1234,7 +1234,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice_cave",
+        "the_vault:universal_ice_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1244,7 +1244,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice_cave",
+        "the_vault:universal_ice_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1254,7 +1254,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_ice_cave",
+        "the_vault:universal_ice_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1264,7 +1264,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_living_cave",
+        "the_vault:universal_living_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1274,7 +1274,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_living_cave",
+        "the_vault:universal_living_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1284,7 +1284,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_living_cave",
+        "the_vault:universal_living_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1294,7 +1294,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_living_cave",
+        "the_vault:universal_living_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1304,7 +1304,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_living_cave",
+        "the_vault:universal_living_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1314,7 +1314,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_living_cave",
+        "the_vault:universal_living_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1324,7 +1324,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_lush_cave",
+        "the_vault:universal_lush_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1334,7 +1334,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_lush_cave",
+        "the_vault:universal_lush_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1344,7 +1344,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_lush_cave",
+        "the_vault:universal_lush_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1354,7 +1354,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_lush_cave",
+        "the_vault:universal_lush_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1364,7 +1364,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_lush_cave",
+        "the_vault:universal_lush_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1374,7 +1374,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_lush_cave",
+        "the_vault:universal_lush_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1384,7 +1384,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mesa",
+        "the_vault:universal_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1394,7 +1394,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mesa",
+        "the_vault:universal_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1404,7 +1404,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mesa",
+        "the_vault:universal_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1414,7 +1414,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mesa",
+        "the_vault:universal_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1424,7 +1424,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mesa",
+        "the_vault:universal_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1434,7 +1434,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mesa",
+        "the_vault:universal_mesa",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1444,7 +1444,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mushroom",
+        "the_vault:universal_mushroom",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1454,7 +1454,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mushroom",
+        "the_vault:universal_mushroom",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1464,7 +1464,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mushroom",
+        "the_vault:universal_mushroom",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1474,7 +1474,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mushroom",
+        "the_vault:universal_mushroom",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1484,7 +1484,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mushroom",
+        "the_vault:universal_mushroom",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1494,7 +1494,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_mushroom",
+        "the_vault:universal_mushroom",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1504,7 +1504,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_blackstone",
+        "the_vault:universal_nether_blackstone",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1514,7 +1514,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_blackstone",
+        "the_vault:universal_nether_blackstone",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1524,7 +1524,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_blackstone",
+        "the_vault:universal_nether_blackstone",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1534,7 +1534,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_blackstone",
+        "the_vault:universal_nether_blackstone",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1544,7 +1544,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_blackstone",
+        "the_vault:universal_nether_blackstone",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1554,7 +1554,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_blackstone",
+        "the_vault:universal_nether_blackstone",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1564,7 +1564,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_crimson",
+        "the_vault:universal_nether_crimson",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1574,7 +1574,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_crimson",
+        "the_vault:universal_nether_crimson",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1584,7 +1584,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_crimson",
+        "the_vault:universal_nether_crimson",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1594,7 +1594,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_crimson",
+        "the_vault:universal_nether_crimson",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1604,7 +1604,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_crimson",
+        "the_vault:universal_nether_crimson",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1614,7 +1614,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_crimson",
+        "the_vault:universal_nether_crimson",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1624,7 +1624,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_soul",
+        "the_vault:universal_nether_soul",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1634,7 +1634,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_soul",
+        "the_vault:universal_nether_soul",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1644,7 +1644,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_soul",
+        "the_vault:universal_nether_soul",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1654,7 +1654,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_soul",
+        "the_vault:universal_nether_soul",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1664,7 +1664,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_soul",
+        "the_vault:universal_nether_soul",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1674,7 +1674,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_soul",
+        "the_vault:universal_nether_soul",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1684,7 +1684,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_warped",
+        "the_vault:universal_nether_warped",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1694,7 +1694,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_warped",
+        "the_vault:universal_nether_warped",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1704,7 +1704,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_warped",
+        "the_vault:universal_nether_warped",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1714,7 +1714,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_warped",
+        "the_vault:universal_nether_warped",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1724,7 +1724,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_warped",
+        "the_vault:universal_nether_warped",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1734,7 +1734,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_nether_warped",
+        "the_vault:universal_nether_warped",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1744,7 +1744,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_plastic",
+        "the_vault:universal_plastic",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1754,7 +1754,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_plastic",
+        "the_vault:universal_plastic",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1764,7 +1764,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_plastic",
+        "the_vault:universal_plastic",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1774,7 +1774,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_plastic",
+        "the_vault:universal_plastic",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1784,7 +1784,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_plastic",
+        "the_vault:universal_plastic",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1794,7 +1794,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_plastic",
+        "the_vault:universal_plastic",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1804,7 +1804,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_poison",
+        "the_vault:universal_poison",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1814,7 +1814,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_poison",
+        "the_vault:universal_poison",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1824,7 +1824,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_poison",
+        "the_vault:universal_poison",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1834,7 +1834,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_poison",
+        "the_vault:universal_poison",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1844,7 +1844,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_poison",
+        "the_vault:universal_poison",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1854,7 +1854,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_poison",
+        "the_vault:universal_poison",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1864,7 +1864,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave",
+        "the_vault:raw/universal_raw_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1874,7 +1874,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave",
+        "the_vault:raw/universal_raw_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1884,7 +1884,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave",
+        "the_vault:raw/universal_raw_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1894,7 +1894,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave",
+        "the_vault:raw/universal_raw_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1904,7 +1904,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave",
+        "the_vault:raw/universal_raw_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1914,7 +1914,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave",
+        "the_vault:raw/universal_raw_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1924,7 +1924,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_andersite",
+        "the_vault:raw/universal_raw_cave_andersite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1934,7 +1934,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_andersite",
+        "the_vault:raw/universal_raw_cave_andersite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1944,7 +1944,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_andersite",
+        "the_vault:raw/universal_raw_cave_andersite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1954,7 +1954,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_andersite",
+        "the_vault:raw/universal_raw_cave_andersite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1964,7 +1964,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_andersite",
+        "the_vault:raw/universal_raw_cave_andersite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1974,7 +1974,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_andersite",
+        "the_vault:raw/universal_raw_cave_andersite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1984,7 +1984,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_diorite",
+        "the_vault:raw/universal_raw_cave_diorite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -1994,7 +1994,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_diorite",
+        "the_vault:raw/universal_raw_cave_diorite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2004,7 +2004,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_diorite",
+        "the_vault:raw/universal_raw_cave_diorite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2014,7 +2014,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_diorite",
+        "the_vault:raw/universal_raw_cave_diorite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2024,7 +2024,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_diorite",
+        "the_vault:raw/universal_raw_cave_diorite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2034,7 +2034,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_diorite",
+        "the_vault:raw/universal_raw_cave_diorite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2044,7 +2044,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_granite",
+        "the_vault:raw/universal_raw_cave_granite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2054,7 +2054,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_granite",
+        "the_vault:raw/universal_raw_cave_granite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2064,7 +2064,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_granite",
+        "the_vault:raw/universal_raw_cave_granite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2074,7 +2074,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_granite",
+        "the_vault:raw/universal_raw_cave_granite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2084,7 +2084,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_granite",
+        "the_vault:raw/universal_raw_cave_granite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2094,7 +2094,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_raw_cave_granite",
+        "the_vault:raw/universal_raw_cave_granite",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2104,7 +2104,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sandy_cave",
+        "the_vault:universal_sandy_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2114,7 +2114,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sandy_cave",
+        "the_vault:universal_sandy_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2124,7 +2124,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sandy_cave",
+        "the_vault:universal_sandy_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2134,7 +2134,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sandy_cave",
+        "the_vault:universal_sandy_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2144,7 +2144,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sandy_cave",
+        "the_vault:universal_sandy_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2154,7 +2154,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sandy_cave",
+        "the_vault:universal_sandy_cave",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2164,7 +2164,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sea_floor",
+        "the_vault:universal_sea_floor",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2174,7 +2174,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sea_floor",
+        "the_vault:universal_sea_floor",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2184,7 +2184,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sea_floor",
+        "the_vault:universal_sea_floor",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2194,7 +2194,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sea_floor",
+        "the_vault:universal_sea_floor",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2204,7 +2204,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sea_floor",
+        "the_vault:universal_sea_floor",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2214,7 +2214,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sea_floor",
+        "the_vault:universal_sea_floor",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2224,7 +2224,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_shipwreck",
+        "the_vault:universal_shipwreck",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2234,7 +2234,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_shipwreck",
+        "the_vault:universal_shipwreck",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2244,7 +2244,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_shipwreck",
+        "the_vault:universal_shipwreck",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2254,7 +2254,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_shipwreck",
+        "the_vault:universal_shipwreck",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2264,7 +2264,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_shipwreck",
+        "the_vault:universal_shipwreck",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2274,7 +2274,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_shipwreck",
+        "the_vault:universal_shipwreck",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2284,7 +2284,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sweet",
+        "the_vault:universal_sweet",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2294,7 +2294,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sweet",
+        "the_vault:universal_sweet",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2304,7 +2304,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sweet",
+        "the_vault:universal_sweet",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2314,7 +2314,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sweet",
+        "the_vault:universal_sweet",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2324,7 +2324,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sweet",
+        "the_vault:universal_sweet",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2334,7 +2334,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_sweet",
+        "the_vault:universal_sweet",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2344,7 +2344,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_void",
+        "the_vault:universal_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2354,7 +2354,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_void",
+        "the_vault:universal_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2364,7 +2364,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_void",
+        "the_vault:universal_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2374,7 +2374,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_void",
+        "the_vault:universal_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2384,7 +2384,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_void",
+        "the_vault:universal_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2394,7 +2394,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_void",
+        "the_vault:universal_void",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2404,7 +2404,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_white",
+        "the_vault:universal_white",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2414,7 +2414,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_white",
+        "the_vault:universal_white",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2424,7 +2424,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_white",
+        "the_vault:universal_white",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2434,7 +2434,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_white",
+        "the_vault:universal_white",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2444,7 +2444,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_white",
+        "the_vault:universal_white",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2454,7 +2454,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_white",
+        "the_vault:universal_white",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2464,7 +2464,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_fall",
+        "the_vault:universal_season_fall",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2474,7 +2474,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_fall",
+        "the_vault:universal_season_fall",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2484,7 +2484,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_fall",
+        "the_vault:universal_season_fall",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2494,7 +2494,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_fall",
+        "the_vault:universal_season_fall",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2504,7 +2504,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_fall",
+        "the_vault:universal_season_fall",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2514,7 +2514,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_fall",
+        "the_vault:universal_season_fall",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2524,7 +2524,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_spring",
+        "the_vault:universal_season_spring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2534,7 +2534,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_spring",
+        "the_vault:universal_season_spring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2544,7 +2544,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_spring",
+        "the_vault:universal_season_spring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2554,7 +2554,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_spring",
+        "the_vault:universal_season_spring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2564,7 +2564,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_spring",
+        "the_vault:universal_season_spring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2574,7 +2574,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_spring",
+        "the_vault:universal_season_spring",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2584,7 +2584,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_summer",
+        "the_vault:universal_season_summer",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2594,7 +2594,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_summer",
+        "the_vault:universal_season_summer",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2604,7 +2604,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_summer",
+        "the_vault:universal_season_summer",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2614,7 +2614,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_summer",
+        "the_vault:universal_season_summer",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2624,7 +2624,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_summer",
+        "the_vault:universal_season_summer",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2634,7 +2634,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_summer",
+        "the_vault:universal_season_summer",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2644,7 +2644,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel1",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_winter",
+        "the_vault:universal_season_winter",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2654,7 +2654,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel2",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_winter",
+        "the_vault:universal_season_winter",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2664,7 +2664,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel3",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_winter",
+        "the_vault:universal_season_winter",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2674,7 +2674,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel4",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_winter",
+        "the_vault:universal_season_winter",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2684,7 +2684,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel5",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_winter",
+        "the_vault:universal_season_winter",
         "the_vault:generic/air_to_cave_air"
       ]
     }
@@ -2694,7 +2694,7 @@
     "value": {
       "template": "the_vault:vault/tunnels/tunnel6",
       "palettes": [
-        "the_vault:chaos/universal_chaos_season_winter",
+        "the_vault:universal_season_winter",
         "the_vault:generic/air_to_cave_air"
       ]
     }

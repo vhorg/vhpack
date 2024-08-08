@@ -56,3 +56,10 @@
 	icon = "curios:item/empty_charm_slot"
 	override = true
 
+[[curiosSettings]]
+	identifier = "deck"
+	priority = 11
+	size = 1
+	visible = true
+	cosmetic = false
+	icon = "the_vault:gui/slot/curios/deck_slot"

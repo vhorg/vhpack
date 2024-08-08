@@ -33,6 +33,22 @@
         {
             "type": "reference",
             "id": "the_vault:dungeon_rooms/difficulty"
+        },
+        {
+            "type": "template_stack_tile",
+            "target": "@the_vault:vault_lootables",
+            "stack": [
+                "STRUCTURE_DUNGEON",
+                "DUNGEON_DIFFICULTY_IMPOSSIBLE"
+            ]
+        },
+        {
+            "type": "template_stack_spawner",
+            "target": "ispawner:spawner",
+            "stack": [
+                "STRUCTURE_DUNGEON",
+                "DUNGEON_DIFFICULTY_IMPOSSIBLE"
+            ]
         }
     ]
 }

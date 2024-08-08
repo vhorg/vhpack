@@ -344,35 +344,6 @@
     },
     {
       "type": "collection",
-      "id": "craft_vault_rock",
-      "name": "Vault Rocks ",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The chipped vault rocks you found are used to craft a Vault Rock, which is the base ingredient of any Vault Crystal, which in turn are used to open up vaults!\n\nCraft a Vault Rock by combining 4 Chipped Vault rocks with 1 Chromatic Iron Ingot.\n\nTip: If you ever need recipe assistance, we recommend using the mod JEI to search recipes on the right hand side of your inventory",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCraft a Vault Rock",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/rock",
-      "targetId": "the_vault:vault_rock",
-      "targetProgress": 1.0,
-      "unlockedBy": "mine_vault_stone",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_rock"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
       "id": "craft_vault_altar",
       "name": "The Vault Altar",
       "descriptionData": {
@@ -1143,7 +1114,7 @@
             "amount": 81
           },
           {
-            "item": "the_vault:magnetite_ingot",
+            "item": "the_vault:vault_alloy",
             "amount": 9
           }
         ],
@@ -1402,7 +1373,7 @@
       "descriptionData": {
         "description": [
         {
-          "text": "As you level up, the Vault will adapt and present you with new, more challenging Objectives; these can also be added to your crystal by crafting a Seal and applying it to your crystal in an anvil. \n\nLevel 10 marks the introduction of the Light the Brazier Objective to random vaults.\nLevel 20 marks the introduction of the Scavenger Objective to random vaults.\nLevel 50 marks the introduction of the Hunt The Guardians Objective to random vaults.",
+          "text": "As you level up, the Vault will adapt and present you with new, more challenging Objectives; these can also be added to your crystal by crafting a Seal and applying it to your crystal in an anvil. \n\nLevel 10 marks the introduction of the Light the Brazier Objective to random vaults.\nLevel 20 marks the introduction of the Scavenger Objective to random vaults.\nLevel 40 marks the introduction of the Hunt the Guardians Objective to random vaults.\nLevel 50 marks the introduction of the Bingo objective to random vaults.",
           "color": "$text"
         },
         {
@@ -1419,6 +1390,370 @@
         "items": [
           {
             "item": "the_vault:crystal_seal_scout"
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "seals",
+      "name": "Choosing your own objective",
+      "descriptionData": {
+        "description": [
+        {
+          "text": "Seals are especially handy items as they let you set the objective of the vault. This way even if you are lower level you will be able to play any objective at any time. To use a seal apply it to a crystal in a anvil or in the crystal workbench",
+          "color": "$text"
+        },
+        {
+          "text": "\n\nAcquire a blank seal",
+          "color": "$heal"
+        }
+        
+        ]
+      },
+      "icon": "the_vault:gui/quests/empty_seal",
+      "targetId": "the_vault:crystal_seal_empty",
+      "targetProgress": 1.0,
+      "unlockedBy": "level_ten",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:crystal_seal_empty"
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "craft_sage_seal",
+      "name": "Craft a Elixir seal",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Seal of the ",
+            "color": "$text"
+          },
+          {
+            "text": "Sage",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " applies the ",
+            "color": "$text"
+          },
+          {
+            "text": "Elixir",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " objective to a crystal. To craft it you will need a blank seal and a few vault ingredients",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThe Elixir objective requires you to get a certain amount of elixir by looting chests, slaying mobs or mining ore. Once you fill up your elixir bar find a lodestone to exit the vault",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThis objective has a recommended level of 0 and will randomly appear in the vaults as well after that level.",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "\n\nAcquire a Seal of the Sage ",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/sage",
+      "targetId": "the_vault:crystal_seal_sage",
+      "targetProgress": 1.0,
+      "unlockedBy": "seals",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:crystal_seal_sage",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "craft_brazier_seal",
+      "name": "Craft a Brazier seal",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Seal of the ",
+            "color": "$text"
+          },
+          {
+            "text": "Scout",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " applies the ",
+            "color": "$text"
+          },
+          {
+            "text": "Light the Brazier",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " objective to a crystal. To craft it you will need a blank seal and a few vault ingredients",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThe Light the Brazier objective requires you to find braziers and light them. These braziers will have positive and negative effects attached to them so choose carefully. After you have lit all the braziers you can choose to leave through the vault portal or pillage more braziers for additional loot!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThis objective has a recommended level of 10+ and will randomly appear in the vaults as well after that level.",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "\n\nAcquire a Seal of the Scout ",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/scout",
+      "targetId": "the_vault:crystal_seal_scout",
+      "targetProgress": 1.0,
+      "unlockedBy": "seals",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:crystal_seal_scout",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "craft_hunter_seal",
+      "name": "Craft a Scavenger seal",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Seal of the ",
+            "color": "$text"
+          },
+          {
+            "text": "Hunter",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " applies the ",
+            "color": "$text"
+          },
+          {
+            "text": "Scavenger",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " objective to a crystal. To craft it you will need a blank seal and a few vault ingredients",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nWe also recommend you make a extra pouch just for scav items, commonly refered to as a ",
+            "color": "$text"
+          },
+          {
+            "text": "Scav Pouch",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". This will make organising your scav items a lot easier! Another good thing to know is that when you exit the vaults the scav items become",
+            "color": "$text"
+          },
+          {
+            "text": "rotten",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Rotten scav items can't be used in another scav vault. They can be however smelted down into soul dust in the soul harvester.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThe Scavenger objective requires you to find a certain list of items displayed at the top of your screen. You can see where you would get the items from by looking at the icons under the items, Once you have collected all items deposit them into a scavenger altar!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThis objective has a recommended level of 20+ and will randomly appear in the vaults as well after that level.",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "\n\nAcquire a Seal of the Hunter ",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/hunter",
+      "targetId": "the_vault:crystal_seal_hunter",
+      "targetProgress": 1.0,
+      "unlockedBy": "seals",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:crystal_seal_hunter",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "craft_Prophet_seal",
+      "name": "Craft a Bingo seal",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Seal of the ",
+            "color": "$text"
+          },
+          {
+            "text": "Prophet",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " applies the ",
+            "color": "$text"
+          },
+          {
+            "text": "Bingo",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " objective to a crystal. To craft it you will need a blank seal and a few vault ingredients",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThe Bingo objective requires you to execute tasks on the bingo board and try to get a line completed. The rewards for this objective scale with the amount of lines completed.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nBingo objective modifiers:",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nRapidly: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "Perform the task very quickly or it will reset. For example: Rapidly loot 10 wooden chests in 6 seconds",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nFlawlessly: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "Perform the task without taking any damage(including poison and fall damage)",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nSilently: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "Deal no damage to any mobs whilst performing the task",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nPrimitively: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "Do not use any mana whilst performing the task",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nCombo: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "Perform a series of task within a timeframe, when you complete the first task it will change to the next",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThis objective has a recommended level of 50+ and will randomly appear in the vaults as well after that level.",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "\n\nAcquire a Seal of the Prophet",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/prophet",
+      "targetId": "the_vault:crystal_seal_prophet",
+      "targetProgress": 1.0,
+      "unlockedBy": "seals",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:crystal_seal_prophet",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "craft_guardian_seal",
+      "name": "Craft a Hunt the Guardians seal",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Seal of the ",
+            "color": "$text"
+          },
+          {
+            "text": "Executioner",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " applies the ",
+            "color": "$text"
+          },
+          {
+            "text": "Hunt the Guardians",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " objective to a crystal. To craft it you will need a blank seal and a few vault ingredients",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nIn Hunt the Guardians your objective is to find obelisks and activate them. Once activated they spawn guardians that you need to defeat. After clearing all obelisks the vault will automatically end!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThis objective has a recommended level of 40+ and will randomly appear in the vaults as well after that level.",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "\n\nAcquire a Seal of the Executioner ",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/executioner",
+      "targetId": "the_vault:crystal_seal_executioner",
+      "targetProgress": 1.0,
+      "unlockedBy": "seals",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:crystal_seal_executioner",
+            "amount": 1
           }
         ],
         "vaultExp": 0
@@ -1455,8 +1790,8 @@
             "color": "$text"
           },
           {
-            "text": "Gilded Chests",
-            "color": "$gilded"
+            "text": "Living Chests",
+            "color": "$living"
           },
           {
             "text": ". Fully completed Regret Orbs can also be obtained through",
@@ -1694,7 +2029,7 @@
             "color": "$name"
           },
           {
-            "text": "quest.\n\n",
+            "text": " quest.\n\n",
             "color": "$text"
           },
           {
@@ -3436,6 +3771,191 @@
     },
     {
       "type": "collection",
+      "id": "obtain_card",
+      "name": "Cards!",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Another new feature introduced at level 50 is cards. They come in all different colors and varieties. You obtain them by finding booster packs in your completion crate or very rarely in your black market",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nStat Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides you with stat cards. They improve stats depending on their tier and any requirements",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nResource Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides you with resource cards. These cards add resources to your completion crate every time you fulfill their requirement",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nMix Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides you with a random set of cards",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nArcane Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides you with arcane cards. These cards are especially powerful as they improve existing ability levels",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nTemporal Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides you with temporal cards. Temporal cards are some of the most powerful cards out there. These cards randomly play legendary modifiers in your vault",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nWild Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides you with wild cards. The perfect utility card. With these cards you can make card combinations a lot easier",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nEvolution Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides you with evolution cards. This cards are similar in function to stat cards but become more powerful if placed in specific spots in your deck",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nSome of these packs also have mega packs or shiny packs. You got to get them all!!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nObtain a booster pack",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/booster",
+      "targetId": "the_vault:booster_pack",
+      "targetProgress": 1.0,
+      "unlockedBy": "reach_level_50",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:stat_pack\"}",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "obtain_deck",
+      "name": "Obtain a card deck",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Now that you have some cards you might want somewhere to put them! Thankfully we've thought of something. Introducing the ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Deck!",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". This handy item lets you bring cards into the vault and benefit from their special effects",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThey come in all shapes and sizes so keep a look out and you might just find one randomly.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nSome cards might have special requirements before they work. Hover over them in the deck to see which cards are affecting your card.",
+            "color": "$text"
+          },
+          {
+            "text": "The first deck is called Starter(in JEI)",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "\n\nCraft A Card Deck",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/deck",
+      "targetId": "the_vault:card_deck",
+      "targetProgress": 1.0,
+      "unlockedBy": "reach_level_50",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:mix_pack\"}",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "obtain_juicer",
+      "name": "Upgrading cards",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "You might wonder, What can I do with the cards that I don't like? Well wait no more. \n\nIntroducing the ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Extractor!",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Any card you don't like can be ground down to its essence. A tier 1 card can be upgraded to tier 2 with 10 essence. Watch out though. The higher the tier the more expensive the cost!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nIn order to use the machine, it needs a redstone signal. The card on the left will be juiced into essence. This essence can then be used to upgrade the card on the right.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nCraft a Card Extractor",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/juicer",
+      "targetId": "the_vault:card_essence_extractor",
+      "targetProgress": 1.0,
+      "unlockedBy": "reach_level_50",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:resource_pack\"}",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
       "id": "blank_key",
       "name": "Treasure Keys",
       "descriptionData": {
@@ -3555,7 +4075,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "Upon reaching level 50 you unlock the possibility to craft a ",
+            "text": "Upon reaching level 65 you unlock the possibility to craft a ",
             "color": "$text"
           },
           {

@@ -169,7 +169,7 @@
         }
       },
       "name": "Refined Storage",
-      "cost": 4,
+      "cost": 2,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/arcade/helmet",
@@ -192,7 +192,7 @@
         }
       },
       "name": "Applied Energistics",
-      "cost": 4,
+      "cost": 2,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/robotic/helmet",
@@ -587,23 +587,6 @@
     },
     {
       "modIds": [
-        "irongenerators"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Iron Generators",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "mekanismgenerators"
       ],
       "restrictions": {
@@ -627,6 +610,46 @@
     }
   ],
   "CUSTOM_RESEARCHES": [
+    {
+      "itemRestrictions": {
+        "irongenerators:copper_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "irongenerators:gold_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "irongenerators:diamond_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "irongenerators:netherite_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+    },
+    "blockRestrictions": {},
+    "entityRestrictions": {},
+    "name": "Iron Generators",
+    "cost": 1,
+    "usesKnowledge": true
+  },
+    
+    
+    
     {
       "itemRestrictions": {
         "ae2:molecular_assembler": {

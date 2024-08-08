@@ -1,0 +1,1686 @@
+{
+  "dollarToXpRatio": 1.0,
+  "defaultChannelPointToXpRatio": 0.001,
+  "streamerChannelPointToXpRatio": {
+    "bada55e5-bada-55e5-bada-55e5bada55e5": 0.015
+  },
+  "levelXp": {
+    "1": 0,
+    "2": 25,
+    "3": 50,
+    "4": 100,
+    "5": 150,
+    "6": 250,
+    "7": 350,
+    "8": 450,
+    "9": 550,
+    "10": 800,
+    "11": 900,
+    "12": 1000,
+    "13": 1100,
+    "14": 1200,
+    "15": 1300,
+    "16": 1400,
+    "17": 1500,
+    "18": 1600,
+    "19": 1700,
+    "20": 1800,
+    "21": 2000,
+    "22": 2200,
+    "23": 2400,
+    "24": 2600,
+    "25": 2800,
+    "26": 3000,
+    "27": 3200,
+    "28": 3400,
+    "29": 3600,
+    "30": 3800,
+    "31": 4000,
+    "32": 4200,
+    "33": 4400,
+    "34": 4600,
+    "35": 4800,
+    "36": 5000,
+    "37": 5200,
+    "38": 5400,
+    "39": 5600,
+    "40": 5800,
+    "41": 6000,
+    "42": 6200,
+    "43": 6400,
+    "44": 6600,
+    "45": 6800,
+    "46": 7000,
+    "47": 7200,
+    "48": 7400,
+    "49": 7600,
+    "50": 7800,
+    "51": 8000,
+    "52": 8200,
+    "53": 8400,
+    "54": 8600,
+    "55": 8800,
+    "56": 9000,
+    "57": 9200,
+    "58": 9400,
+    "59": 9600,
+    "60": 9800,
+    "61": 10000,
+    "62": 10200,
+    "63": 10400,
+    "64": 10600,
+    "65": 10800,
+    "66": 11000,
+    "67": 11200,
+    "68": 11400,
+    "69": 11600,
+    "70": 11800,
+    "71": 12000,
+    "72": 12200,
+    "73": 12400,
+    "74": 12600,
+    "75": 12800,
+    "76": 13000,
+    "77": 13200,
+    "78": 13400,
+    "79": 13600,
+    "80": 13800,
+    "81": 14000,
+    "82": 14200,
+    "83": 14400,
+    "84": 14600,
+    "85": 14800,
+    "86": 15000,
+    "87": 15200,
+    "88": 15400,
+    "89": 15600,
+    "90": 15800,
+    "91": 16000,
+    "92": 16200,
+    "93": 16400,
+    "94": 16600,
+    "95": 16800,
+    "96": 17000,
+    "97": 17200,
+    "98": 17400,
+    "99": 17600
+  },
+  "positiveModifiers": [
+    {
+      "value": "the_vault:coin_cascade",
+      "weight": 10.0
+    },
+    {
+      "value": "the_vault:coin_pile",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:gilded_cascade",
+      "weight": 10.0
+    },
+    {
+      "value": "the_vault:living_cascade",
+      "weight": 10.0
+    },
+    {
+      "value": "the_vault:ornate_cascade",
+      "weight": 10.0
+    },
+    {
+      "value": "the_vault:wooden_cascade",
+      "weight": 10.0
+    },
+    {
+      "value": "the_vault:plentiful",
+      "weight": 10.0
+    },
+    {
+      "value": "the_vault:extended",
+      "weight": 6.0
+    },
+    {
+      "value": "the_vault:gilded",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:ornate",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:living",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:phoenix",
+      "weight": 5.0
+    },
+    {
+      "value": "the_vault:serendipitous",
+      "weight": 0.0
+    }
+  ],
+  "negativeModifiers": [
+    {
+      "value": "the_vault:companion_challenge",
+      "weight": 1.0
+    }
+  ],
+  "legendaryModifierChance": 0.05,
+  "legendaryModifiers": [
+    {
+      "value": "the_vault:champion_domain",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:soul_fest",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:overpower",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:loot_goblin",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:door_hunter",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:ultimate_regeneration",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:kill_nuke",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:kill_charm",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:kill_hunter",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:kill_totem",
+      "weight": 1.0
+    },
+    {
+      "value": "the_vault:bronze_nuke",
+      "weight": 1.0
+    }
+  ],
+  "minBoosterUnlocks": 1,
+  "maxBoosterUnlocks": 3,
+  "modelUnlockRarities": [
+    {
+      "value": "SCRAPPY",
+      "weight": 40.0
+    },
+    {
+      "value": "COMMON",
+      "weight": 30.0
+    },
+    {
+      "value": "RARE",
+      "weight": 20.0
+    },
+    {
+      "value": "EPIC",
+      "weight": 12.0
+    },
+    {
+      "value": "OMEGA",
+      "weight": 6.0
+    },
+    {
+      "value": "UNIQUE",
+      "weight": 2.0
+    }
+  ],
+  "statueGambleItems": [
+    {
+      "minLevel": 1,
+      "items": [
+        {
+          "value": {
+            "item": "the_vault:topaz_shard"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ancient_copper_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:velvet"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:rotten_meat"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:overgrown_wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sandy_rocks"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:living_rock"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mossy_bone"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_chain"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:soot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_sconce"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_moss"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_small_sweets_block"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_iskallium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_gorginite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_sparkletine"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_ashium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_bomignite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_tubium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_upaline"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_petzanite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_xenium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:bitter_lemon"
+          },
+          "weight": 16.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_echo"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_pog"
+          },
+          "weight": 6.0
+        }
+      ]
+    },
+    {
+      "minLevel": 3,
+      "items": [
+        {
+          "value": {
+            "item": "the_vault:topaz_shard"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ancient_copper_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:velvet"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:rotten_meat"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:overgrown_wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sandy_rocks"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:living_rock"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mossy_bone"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_chain"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:soot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_sconce"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_moss"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_small_sweets_block"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_iskallium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_gorginite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_sparkletine"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_ashium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_bomignite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_tubium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_upaline"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_petzanite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_xenium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:bitter_lemon"
+          },
+          "weight": 16.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_echo"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_pog"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:knowledge_star"
+          },
+          "weight": 8.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mod_box"
+          },
+          "weight": 10.0
+        }
+      ]
+    },
+    {
+      "minLevel": 5,
+      "items": [
+        {
+          "value": {
+            "item": "the_vault:topaz_shard"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ancient_copper_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:velvet"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:rotten_meat"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:overgrown_wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sandy_rocks"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:living_rock"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mossy_bone"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_chain"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:soot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_sconce"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_moss"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_small_sweets_block"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_iskallium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_gorginite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_sparkletine"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_ashium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_bomignite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_tubium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_upaline"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_petzanite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_xenium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:bitter_lemon"
+          },
+          "weight": 16.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_echo"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_pog"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:knowledge_star"
+          },
+          "weight": 8.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mod_box"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sour_orange"
+          },
+          "weight": 4.0
+        }
+      ]
+    },
+    {
+      "minLevel": 7,
+      "items": [
+        {
+          "value": {
+            "item": "the_vault:topaz_shard"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ancient_copper_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:velvet"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:rotten_meat"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:overgrown_wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sandy_rocks"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:living_rock"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mossy_bone"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_chain"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:soot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_sconce"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_moss"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_small_sweets_block"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_iskallium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_gorginite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_sparkletine"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_ashium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_bomignite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_tubium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_upaline"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_petzanite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_xenium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:bitter_lemon"
+          },
+          "weight": 16.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_echo"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_pog"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:knowledge_star"
+          },
+          "weight": 8.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mod_box"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sour_orange"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:blank_key"
+          },
+          "weight": 2.0
+        }
+      ]
+    },
+    {
+      "minLevel": 10,
+      "items": [
+        {
+          "value": {
+            "item": "the_vault:topaz_shard"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ancient_copper_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:velvet"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:rotten_meat"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:overgrown_wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sandy_rocks"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:living_rock"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mossy_bone"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_chain"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:soot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_sconce"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_moss"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_small_sweets_block"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_iskallium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_gorginite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_sparkletine"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_ashium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_bomignite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_tubium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_upaline"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_petzanite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_xenium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:bitter_lemon"
+          },
+          "weight": 16.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_echo"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_pog"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:knowledge_star"
+          },
+          "weight": 8.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mod_box"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sour_orange"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:star_fruit"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mango"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:grapes"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:blank_key"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:trinket"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:mix_pack\"}"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:mega_mix_pack\"}"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:capstone_dungeon_hunter"
+          },
+          "weight": 4.0
+        }
+      ]
+    },
+    {
+      "minLevel": 20,
+      "items": [
+        {
+          "value": {
+            "item": "the_vault:topaz_shard"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ancient_copper_ingot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:velvet"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:rotten_meat"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:overgrown_wooden_chunk"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sandy_rocks"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:living_rock"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mossy_bone"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:ornate_chain"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:soot"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gilded_sconce"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_moss"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:vault_small_sweets_block"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_iskallium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_gorginite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_sparkletine"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_ashium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_bomignite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_tubium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_upaline"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_petzanite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_xenium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:bitter_lemon"
+          },
+          "weight": 16.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_echo"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_pog"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:knowledge_star"
+          },
+          "weight": 8.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mod_box"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sour_orange"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:star_fruit"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mango"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:grapes"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:blank_key"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:trinket"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:mix_pack\"}"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:mega_mix_pack\"}"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:blank_key"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:trinket"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:capstone_dungeon_hunter"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:unidentified_treasure_key"
+          },
+          "weight": 1.0
+        },
+        {
+          "value": {
+            "item": "the_vault:capstone_treasure_hunter"
+          },
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "minLevel": 50,
+      "items": [
+        {
+          "value": {
+            "item": "the_vault:gem_iskallium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_gorginite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_sparkletine"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_ashium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_bomignite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_tubium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_upaline"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_petzanite"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_xenium"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:bitter_lemon"
+          },
+          "weight": 16.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_echo"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:gem_pog"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:knowledge_star"
+          },
+          "weight": 8.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mod_box"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:sour_orange"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:star_fruit"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:mango"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:grapes"
+          },
+          "weight": 20.0
+        },
+        {
+          "value": {
+            "item": "the_vault:blank_key"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:trinket"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:mix_pack\"}"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:mega_mix_pack\"}"
+          },
+          "weight": 10.0
+        },
+        {
+          "value": {
+            "item": "the_vault:blank_key"
+          },
+          "weight": 2.0
+        },
+        {
+          "value": {
+            "item": "the_vault:trinket"
+          },
+          "weight": 6.0
+        },
+        {
+          "value": {
+            "item": "the_vault:capstone_dungeon_hunter"
+          },
+          "weight": 4.0
+        },
+        {
+          "value": {
+            "item": "the_vault:unidentified_treasure_key"
+          },
+          "weight": 1.0
+        },
+        {
+          "value": {
+            "item": "the_vault:capstone_treasure_hunter"
+          },
+          "weight": 1.0
+        }
+      ]
+    }
+  ],
+  "offeringIntervalMin": 4800,
+  "offeringIntervalMax": 8400,
+  "offeringChance": 1.0,
+  "offeringDurationMin": 40,
+  "offeringDurationMax": 100,
+  "worldBorderBlocksPerGemstone": 5,
+  "turnUndeadSessionNumber": {
+    "1": 50000,
+    "2": 50000,
+    "4": 50000,
+    "5": 50000,
+    "10": 50000,
+    "20": 50000,
+    "30": 50000
+  },
+  "percentUndeadToSpawnPerVault": 0.1,
+  "maxUndeadToSpawnPerVault": 50,
+  "undeadBaseHealth": 10,
+  "undeadExtraHealthPerLevel": 2,
+  "undeadDropChance": 0.1
+}

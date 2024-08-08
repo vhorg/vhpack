@@ -236,13 +236,6 @@
         "tiers": [
           {
             "type": "mystic",
-            "additionalCrystalVolume": 5,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "mystic",
             "additionalCrystalVolume": 10,
             "learnPointCost": 1,
             "regretPointCost": 0,
@@ -250,7 +243,14 @@
           },
           {
             "type": "mystic",
-            "additionalCrystalVolume": 15,
+            "additionalCrystalVolume": 20,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "mystic",
+            "additionalCrystalVolume": 30,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0

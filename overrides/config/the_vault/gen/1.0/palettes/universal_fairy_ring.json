@@ -37,7 +37,7 @@
       "target": "minecraft:grass_block",
       "output": {
         "minecraft:mycelium": 40,
-        "architects_palette:stripped_twisted_wood":30,
+        "architects_palette:stripped_twisted_wood": 30,
         "architects_palette:twisted_boards": 30
       }
     },
@@ -286,7 +286,7 @@
       "target": "minecraft:oak_trapdoor",
       "output": {
         "mcwtrpdoors:birch_barn_trapdoor": 2,
-        "mcwtrpdoors:birch_four_panel_trapdoor":2,
+        "mcwtrpdoors:birch_four_panel_trapdoor": 2,
         "mcwtrpdoors:birch_classic_trapdoor": 1
       }
     },
@@ -303,15 +303,15 @@
       "output": {
         "minecraft:birch_fence_gate": 1
       }
-  },
-  {
+    },
+    {
       "type": "weighted_target",
       "target": "minecraft:oak_door",
       "output": {
         "mcwdoors:birch_barn_door": 2,
         "ecologics:azalea_door": 1
       }
-  },
+    },
     {
       "type": "weighted_target",
       "target": "minecraft:stone_bricks",
@@ -457,7 +457,7 @@
         "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:soul_lantern\",Properties:{waterlogged:\"false\", hanging:\"false\"}}}": 1,
         "supplementaries:wall_lantern{Lantern:{Name:\"architects_palette:nether_brass_lantern\",Properties:{waterlogged:\"false\", hanging:\"false\"}}}": 1
       }
-  },
+    },
     {
       "type": "weighted_target",
       "target": "minecraft:soul_lantern",
@@ -548,25 +548,25 @@
       "type": "weighted_target",
       "target": "minecraft:sand",
       "output": {
-          "minecraft:sand": 1
+        "minecraft:sand": 1
       }
     },
     {
       "type": "weighted_target",
       "target": "minecraft:potted_oak_sapling",
       "output": {
-          "minecraft:potted_pink_tulip": 1,
-          "minecraft:potted_oxeye_daisy": 1,
-          "minecraft:potted_red_mushroom": 1
-        }
+        "minecraft:potted_pink_tulip": 1,
+        "minecraft:potted_oxeye_daisy": 1,
+        "minecraft:potted_red_mushroom": 1
+      }
     },
     {
-        "type": "weighted_target",
-        "target": "quark:oak_hedge",
-        "output": {
-            "quark:azalea_hedge": 2,
-            "quark:flowering_azalea_hedge": 1
-        }
+      "type": "weighted_target",
+      "target": "quark:oak_hedge",
+      "output": {
+        "quark:azalea_hedge": 2,
+        "quark:flowering_azalea_hedge": 1
+      }
     },
     {
       "type": "weighted_target",
@@ -617,8 +617,24 @@
       "id": "the_vault:generic/spawners/mushroom_mobs"
     },
     {
-        "type": "reference",
-        "id": "the_vault:generic/common_elite_spawners"
+      "type": "reference",
+      "id": "the_vault:generic/common_elite_spawners"
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+        "THEME_FAIRY_RING",
+        "THEME_CATEGORY_MUSHROOM"
+      ]
+    },
+    {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+        "THEME_FAIRY_RING",
+        "THEME_CATEGORY_MUSHROOM"
+      ]
     }
   ],
   "entity_processors": [],

@@ -604,6 +604,22 @@
         {
             "type": "reference",
             "id": "the_vault:generic/nether_elite_spawners"
+        },
+        {
+            "type": "template_stack_tile",
+            "target": "@the_vault:vault_lootables",
+            "stack": [
+                "THEME_NETHER_BLACKSTONE",
+                "THEME_CATEGORY_NETHER"
+            ]
+        },
+        {
+            "type": "template_stack_spawner",
+            "target": "ispawner:spawner",
+            "stack": [
+                "THEME_NETHER_BLACKSTONE",
+                "THEME_CATEGORY_NETHER"
+            ]
         }
     ],
     "entity_processors": [],

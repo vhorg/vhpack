@@ -51,6 +51,27 @@
     "the_vault:ornate": [
       "the_vault:ornate_chest",
       "the_vault:ornate_strongbox"
+    ],
+    "the_vault:coins": [
+      "the_vault:coin_pile"
+    ],
+    "the_vault:vault_lootables": [
+      "@the_vault:ores",
+      "@the_vault:coins",
+      "@the_vault:ornate",
+      "@the_vault:gilded",
+      "@the_vault:wooden",
+      "@the_vault:living",
+      "the_vault:treasure_chest",
+      "the_vault:treasure_sand",
+      "the_vault:placeholder"
+    ],
+    "the_vault:chest": [
+
+      "@the_vault:ornate",
+      "@the_vault:gilded",
+      "@the_vault:wooden",
+      "@the_vault:living"
     ]
   }
 }

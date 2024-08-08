@@ -5,17 +5,12 @@
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:jewel",
-        "NBT": "{}"
+        "NBT": "{\"the_vault:gear_roll_type_pool\":\"jewel_completion\"}"
       },
       "inputs": [
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:gemstone",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 5,
-          "ITEM": "the_vault:gem_wutodie",
           "NBT": "{}"
         },
         {

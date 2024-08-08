@@ -28,3 +28,9 @@ craftingTable.addShaped("quark_grate", <item:quark:grate>.withTag({RepairCost: 0
     [<item:the_vault:chromatic_iron_nugget>, <item:the_vault:chromatic_iron_nugget>, <item:the_vault:chromatic_iron_nugget>],
     [<item:the_vault:chromatic_iron_nugget>, <item:the_vault:chromatic_iron_nugget>, <item:the_vault:chromatic_iron_nugget>]
 ]);
+
+craftingTable.addShaped("quark_blank_rune", <item:quark:blank_rune>, [
+    [<item:minecraft:stone>, <item:minecraft:stone>, <item:minecraft:stone>],
+    [<item:the_vault:vault_essence>, <item:the_vault:vault_essence>, <item:the_vault:vault_essence>],
+    [<item:minecraft:stone>, <item:minecraft:stone>, <item:minecraft:stone>]
+]);

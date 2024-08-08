@@ -13,6 +13,18 @@
           "icon": "the_vault:gui/modifiers/more_artifact1"
         }
       },
+      "the_vault:serendipitous": {
+        "properties": {
+          "chance": 0.2
+        },
+        "display": {
+          "name": "Serendipitous",
+          "color": "#EBFF8D",
+          "description": "+20% Artifact Chance",
+          "descriptionFormatted": "+%d%% Artifact Chance",
+          "icon": "the_vault:gui/modifiers/more_artifact1"
+        }
+      },
       "the_vault:cake_artifact": {
         "properties": {
           "chance": 0.005
@@ -55,7 +67,7 @@
     "the_vault:modifier_type/chance_chest_trap": {
       "the_vault:looters_dream": {
         "properties": {
-          "chance": 0.0
+          "chance": -50.0
         },
         "display": {
           "name": "Looter's Dream",
@@ -152,6 +164,18 @@
           "icon": "the_vault:gui/modifiers/haunted"
         }
       },
+      "the_vault:soul_fest": {
+        "properties": {
+          "chance": 10.0
+        },
+        "display": {
+          "name": "Soul Fest",
+          "color": "#6410A1",
+          "description": "+1000% Soul Shards",
+          "descriptionFormatted": "+%d%% Soul Shards",
+          "icon": "the_vault:gui/modifiers/soul_fest"
+        }
+      },
       "the_vault:soul_boost": {
         "properties": {
           "chance": 0.25
@@ -164,6 +188,7 @@
           "icon": "the_vault:gui/modifiers/soul_shard_increase_yellow"
         }
       },
+      
       "the_vault:haunted": {
         "properties": {
           "chance": 0.5
@@ -278,8 +303,8 @@
         "display": {
           "name": "Wild",
           "color": "#E83F24",
-          "description": "Mobs spawns Wildly inside the vault",
-          "descriptionFormatted": "+1 Set of Wildly Spawned Mobs",
+          "description": "Dwellers spawns anywhere inside the vault",
+          "descriptionFormatted": "+1 Set of dweller spawned mobs",
           "icon": "the_vault:gui/modifiers/crowded"
         }
       },
@@ -357,7 +382,7 @@
     "the_vault:modifier_type/crate_item_quantity": {
       "the_vault:crake_quantity": {
         "properties": {
-          "percentage": 0.4
+          "percentage": 1.0
         },
         "display": {
           "name": "Crake Quantity",
@@ -365,6 +390,86 @@
           "description": "+40% Crake Quantity",
           "descriptionFormatted": "+%d%% Crake Quantity",
           "icon": "the_vault:gui/modifiers/opulent"
+        }
+      },
+      "the_vault:crate_tier": {
+        "properties": {
+          "percentage": 1.0
+        },
+        "display": {
+          "name": "Crate Tier",
+          "color": "#38C9C0",
+          "description": "Increases the reward crate tier once per modifier",
+          "descriptionFormatted": "Increases the reward crate tier once per modifier",
+          "icon": "the_vault:gui/modifiers/crate_item_quantity"
+        }
+      }
+    },
+    "the_vault:modifier_type/cast_on_kill": {
+      "the_vault:kill_nuke": {
+        "properties": {
+          "filter": "",
+          "ability": "nova_explosion_8",
+          "probability": 1.0
+        },
+        "display": {
+          "name": "Nova Explosion",
+          "color": "#FFEA00",
+          "description": "When killing a mob it will cast a level 8 Nova on their death",
+          "icon": "the_vault:gui/modifiers/kill_nuke"
+        }
+      },
+      "the_vault:kill_charm": {
+        "properties": {
+          "filter": "",
+          "ability": "charm_8",
+          "probability": 1.0
+        },
+        "display": {
+          "name": "Charming",
+          "color": "#FFEA00",
+          "description": "When killing a mob it will cast Charm around it",
+          "icon": "the_vault:gui/modifiers/kill_charm"
+        }
+      },
+      "the_vault:kill_hunter": {
+        "properties": {
+          "filter": "",
+          "ability": "hunter_lvl1",
+          "probability": 0.05
+        },
+        "display": {
+          "name": "Hunterino",
+          "color": "#FFEA00",
+          "description": "Mobs have a chance to cast Hunter on death",
+          "icon": "the_vault:gui/modifiers/kill_hunter"
+        }
+      },
+      "the_vault:kill_totem": {
+        "properties": {
+          "filter": "",
+          "ability": "totem_hatred_8",
+          "probability": 0.05
+        },
+        "display": {
+          "name": "Totemic",
+          "color": "#FFEA00",
+          "description": "Mobs have a chance to spawn a Totem of Hatred on death",
+          "icon": "the_vault:gui/modifiers/kill_totem"
+        }
+      }
+    },
+    "the_vault:modifier_type/drop_on_kill": {
+      "the_vault:bronze_nuke": {
+        "properties": {
+          "filter": "",
+          "lootTable": "the_vault:bronze_table"
+        },
+        "display": {
+          "name": "Coin Explosion",
+          "color": "#FFEA00",
+          "description": "Killing a mob will have it drop bronze or silver!",
+          "icon": "the_vault:gui/modifiers/kill_coin"
         }
       }
     },
@@ -375,6 +480,30 @@
         },
         "display": {
           "name": "Opulent",
+          "color": "#ffcc73",
+          "description": "+10% Item Quantity",
+          "descriptionFormatted": "+%d%% Item Quantity",
+          "icon": "the_vault:gui/modifiers/item_quant_2"
+        }
+      },
+      "the_vault:goblin_quantity": {
+        "properties": {
+          "percentage": 1.0
+        },
+        "display": {
+          "name": "Opulent",
+          "color": "#ffcc73",
+          "description": "+100% Item Quantity",
+          "descriptionFormatted": "+%d%% Item Quantity",
+          "icon": "the_vault:gui/modifiers/item_quant_2"
+        }
+      },
+      "the_vault:bingo_quantity": {
+        "properties": {
+          "percentage": 0.1
+        },
+        "display": {
+          "name": "Bingo Quantity",
           "color": "#ffcc73",
           "description": "+10% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -435,7 +564,7 @@
           "percentage": -0.5
         },
         "display": {
-          "name": "Baren",
+          "name": "Barren",
           "color": "#a54726",
           "description": "Chests in this vault are only half filled",
           "descriptionFormatted": "Chests in this vault are only half filled",
@@ -500,6 +629,30 @@
           "name": "Sweet",
           "color": "#b3ff20",
           "description": "+1% Item Rarity",
+          "descriptionFormatted": "+%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/lucky"
+        }
+      },
+      "the_vault:goblin_rarity": {
+        "properties": {
+          "percentage": 2.0
+        },
+        "display": {
+          "name": "Rarity",
+          "color": "#b3ff20",
+          "description": "+200% Item Rarity",
+          "descriptionFormatted": "+%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/lucky"
+        }
+      },
+      "the_vault:bingo_rarity": {
+        "properties": {
+          "percentage": 0.1
+        },
+        "display": {
+          "name": "Bingo Rarity",
+          "color": "#b3ff20",
+          "description": "+10% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
           "icon": "the_vault:gui/modifiers/lucky"
         }
@@ -877,6 +1030,20 @@
           "description": "+300% Mob Damage, +10% Mob Speed, Mob Health reduced to 1",
           "icon": "the_vault:gui/modifiers/frenzy"
         }
+      },
+      "the_vault:overpower": {
+        "properties": {
+          "damage": 0.0,
+          "movementSpeed": 0.0,
+          "maxHealth": 2.0,
+          "doHealthReduction": true
+        },
+        "display": {
+          "name": "Overpower",
+          "color": "#FC7C5C",
+          "description": "Mobs spawn with 1 heart!",
+          "icon": "the_vault:gui/modifiers/overpower"
+        }
       }
     },
     "the_vault:modifier_type/spawner_mobs": {
@@ -956,6 +1123,20 @@
           "name": "Energizing",
           "color": "#849dc8",
           "description": "+25% Mana Regeneration",
+          "descriptionFormatted": "+%d%% Mana Regeneration",
+          "icon": "the_vault:gui/modifiers/energizing"
+        }
+      },
+      "the_vault:mana_regen": {
+        "properties": {
+          "type": "mana_regen_additive_percentile",
+          "amount": 5.0,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Mana Regen",
+          "color": "#849dc8",
+          "description": "+500% Mana Regeneration",
           "descriptionFormatted": "+%d%% Mana Regeneration",
           "icon": "the_vault:gui/modifiers/energizing"
         }
@@ -1363,6 +1544,21 @@
           "name": "Regeneration",
           "color": "#55FF55",
           "description": "+1 Regeneration",
+          "descriptionFormatted": "+%d Regeneration",
+          "icon": "the_vault:gui/modifiers/regeneration"
+        }
+      },
+      "the_vault:mega_regen": {
+        "properties": {
+          "effect": "minecraft:regeneration",
+          "effectAmplifier": 3,
+          "operator": "add",
+          "type": "icon_only"
+        },
+        "display": {
+          "name": "Regeneration",
+          "color": "#55FF55",
+          "description": "+3 Regeneration",
           "descriptionFormatted": "+%d Regeneration",
           "icon": "the_vault:gui/modifiers/regeneration"
         }
@@ -2219,6 +2415,17 @@
           "icon": "the_vault:gui/modifiers/champions_abode"
         }
       },
+      "the_vault:champion_domain": {
+        "properties": {
+          "chance": 0.1
+        },
+        "display": {
+          "name": "Champion's Domain",
+          "color": "#bbf333",
+          "description": "+50% Chance for Champions to Spawn",
+          "icon": "the_vault:gui/modifiers/champion_domain"
+        }
+      },
       "the_vault:champion_paradox": {
         "properties": {
           "chance": 0.02
@@ -2232,6 +2439,50 @@
       }
     },
     "the_vault:modifier_type/grouped": {
+      "the_vault:bingo": {
+        "properties": {
+          "children": {
+            "the_vault:bingo_quantity": 1,
+            "the_vault:bingo_rarity": 1,
+            "the_vault:soul_boost": 1
+          }
+        },
+        "display": {
+          "name": "Bingo!",
+          "color": "#bbf333",
+          "description": "Every BINGO Increases Item Quantity & Rarity by 10%, and boosts soul chance by 25%",
+          "icon": "the_vault:gui/modifiers/bingo"
+        }
+      },
+      "the_vault:loot_goblin": {
+        "properties": {
+          "children": {
+            "the_vault:goblin_quantity": 1,
+            "the_vault:goblin_rarity": 1
+          }
+        },
+        "display": {
+          "name": "Loot Goblin",
+          "color": "#bbf333",
+          "description": "Doubles all loot and triples its rarity!",
+          "icon": "the_vault:gui/modifiers/loot_goblin"
+        }
+      },
+      "the_vault:door_hunter": {
+        "properties": {
+          "children": {
+            "the_vault:dungeon_doors": 1,
+            "the_vault:treasure_doors": 1,
+            "the_vault:vendoor_doors": 1
+          }
+        },
+        "display": {
+          "name": "Door Hunter",
+          "color": "#bbf333",
+          "description": "Reveals all doors inside the vault!",
+          "icon": "the_vault:gui/modifiers/door_hunter"
+        }
+      },
       "the_vault:herald": {
         "properties": {
           "children": {
@@ -2245,6 +2496,36 @@
           "color": "#ad2b2b",
           "description": "Dying in this vault does not cause you any item loss, and this vault is of course locked.",
           "icon": "the_vault:gui/modifiers/beginners_grace"
+        }
+      },
+      "the_vault:potion_drink": {
+        "properties": {
+          "children": {
+            "the_vault:lost_quantity": 1,
+            "the_vault:shortened": 1
+          }
+        },
+        "display": {
+          "name": "Potion Curse",
+          "color": "#d52424",
+          "description": "You drank a vanilla potion, this has upset the gods, chests have lost contents, and a minute has been removed from the vault",
+          "icon": "the_vault:gui/modifiers/curse_freezing"
+        }
+      },
+      "the_vault:companion_challenge": {
+        "properties": {
+          "children": {
+            "the_vault:furious_mobs": 1,
+            "the_vault:chunky_mobs": 1,
+            "the_vault:cake_layer_mobspeed": 1,
+            "the_vault:cake_mob_increase": 1
+          }
+        },
+        "display": {
+          "name": "Companion's Challenge",
+          "color": "#ba0000",
+          "description": "Increases mob damage, mob health and mob spawns by 10% per stack, increases mob speed by 1.5% per stack",
+          "icon": "the_vault:gui/modifiers/companion_challenge"
         }
       },
       "the_vault:curse_collapsing": {
@@ -2379,6 +2660,20 @@
           "color": "#f6659b",
           "description": "Increases mob damage, mob speed, soul shards, all chest spawns, coins, the amount of items in the crake and the chance of getting an artifact",
           "icon": "the_vault:gui/modifiers/cake_layer"
+        }
+      },
+      "the_vault:ultimate_regeneration": {
+        "properties": {
+          "children": {
+            "the_vault:mega_regen": 1,
+            "the_vault:mana_regen": 1
+          }
+        },
+        "display": {
+          "name": "Ultimate Regeneration",
+          "color": "#f6659b",
+          "description": "Gives +3 Regeneration and +500% Mana Regeneration",
+          "icon": "the_vault:gui/modifiers/ultimate_regeneration"
         }
       },
       "the_vault:soul_flame": {
@@ -2549,6 +2844,23 @@
         },
         "display": {
           "name": "Dungeon Hunter",
+          "color": "#685086",
+          "description": "Highlights Dungeon Doors in this vault",
+          "icon": "the_vault:gui/modifiers/dungeon_doors"
+        }
+      },
+      "the_vault:vendoor_doors": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:vendor_door[open=false]",
+              "radius": 64.0,
+              "color": 16472397
+            }
+          ]
+        },
+        "display": {
+          "name": "Vendoor Hunter",
           "color": "#685086",
           "description": "Highlights Dungeon Doors in this vault",
           "icon": "the_vault:gui/modifiers/dungeon_doors"

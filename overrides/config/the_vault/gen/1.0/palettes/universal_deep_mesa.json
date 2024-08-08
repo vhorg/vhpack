@@ -12,7 +12,6 @@
         "minecraft:cobbled_deepslate": 1,
         "minecraft:smooth_basalt": 1,
         "minecraft:basalt": 1
-
       }
     },
     {
@@ -294,17 +293,17 @@
       "type": "weighted_target",
       "target": "minecraft:oak_fence_gate",
       "output": {
-          "minecraft:dark_oak_fence_gate": 1
+        "minecraft:dark_oak_fence_gate": 1
       }
-  },
-  {
+    },
+    {
       "type": "weighted_target",
       "target": "minecraft:oak_door",
       "output": {
-          "mcwdoors:dark_oak_cottage_door": 2,
-          "mcwdoors:dark_oak_classic_door": 1
+        "mcwdoors:dark_oak_cottage_door": 2,
+        "mcwdoors:dark_oak_classic_door": 1
       }
-  },
+    },
     {
       "type": "weighted_target",
       "target": "minecraft:stone_bricks",
@@ -601,6 +600,22 @@
     {
       "type": "reference",
       "id": "the_vault:generic/common_elite_spawners"
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+        "THEME_DEEP_MESA",
+        "THEME_CATEGORY_MESA"
+      ]
+    },
+    {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+        "THEME_DEEP_MESA",
+        "THEME_CATEGORY_MESA"
+      ]
     }
   ],
   "entity_processors": [],

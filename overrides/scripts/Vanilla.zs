@@ -46,7 +46,7 @@ craftingTable.addShaped("minecraft_" + dyeName + "_concrete", <item:minecraft:${
 
 craftingTable.addShaped("goldenapple", <item:minecraft:golden_apple>, [
     [<item:minecraft:gold_block>, <item:minecraft:gold_ingot>, <item:minecraft:gold_block>],
-    [<item:minecraft:gold_ingot>, <item:the_vault:vault_apple>, <item:minecraft:gold_ingot>],
+    [<item:minecraft:gold_ingot>, <item:minecraft:apple>, <item:minecraft:gold_ingot>],
     [<item:minecraft:gold_block>, <item:minecraft:gold_ingot>, <item:minecraft:gold_block>]
 ]);
 

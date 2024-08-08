@@ -748,6 +748,20 @@
         {
             "type": "reference",
             "id": "the_vault:generic/spawners/cave_mobs"
+        },
+        {
+            "type": "template_stack_tile",
+            "target": "@the_vault:vault_lootables",
+            "stack": [
+                "THEME_PLASTIC"
+            ]
+        },
+        {
+            "type": "template_stack_spawner",
+            "target": "ispawner:spawner",
+            "stack": [
+                "THEME_PLASTIC"
+            ]
         }
     ],
     "entity_processors": [],

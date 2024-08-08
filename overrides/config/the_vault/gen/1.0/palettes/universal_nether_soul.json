@@ -67,14 +67,14 @@
             "type": "weighted_target",
             "target": "minecraft:cobblestone_slab",
             "output": {
-                "minecraft:warped_slab": 1
+                "quark:smooth_soul_sandstone_slab": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:spruce_slab",
             "output": {
-                "quark:smooth_soul_sandstone_slab": 1
+                "minecraft:warped_slab": 1
             }
         },
         {
@@ -595,6 +595,22 @@
         {
             "type": "reference",
             "id": "the_vault:generic/nether_elite_spawners"
+        },
+        {
+            "type": "template_stack_tile",
+            "target": "@the_vault:vault_lootables",
+            "stack": [
+                "THEME_NETHER_SOUL",
+                "THEME_CATEGORY_NETHER"
+            ]
+        },
+        {
+            "type": "template_stack_spawner",
+            "target": "ispawner:spawner",
+            "stack": [
+                "THEME_NETHER_SOUL",
+                "THEME_CATEGORY_NETHER"
+            ]
         }
     ],
     "entity_processors": [],

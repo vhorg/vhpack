@@ -7,278 +7,73 @@
         "max": 1
       },
       "pool": [
-        {"weight": 100,
+        {"weight": 240,
           "pool": [
             {
-              "weight": 164,
+              "weight": 25,
               "item": {
-              "id": "minecraft:air",
+              "id": "the_vault:vault_bronze",
               "count": {
                 "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-                "weight": 8,
-                "item": {
-                "id": "the_vault:gem_larimar",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-                }
-            },
-            {
-              "weight": 2,
-              "item": {
-              "id": "the_vault:jewel",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "jewel_normal"
-                },
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-                "weight": 8,
-                "item": {
-                "id": "the_vault:gem_benitoite",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-                }
-            },
-            {
-                "weight": 8,
-                "item": {
-                "id": "the_vault:gem_wutodie",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-                }
-            },
-            {
-                "weight": 8,
-                "item": {
-                "id": "the_vault:gem_painite",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-                }
-            },
-            {
-                "weight": 8,
-                "item": {
-                "id": "the_vault:gem_black_opal",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-                }
-            },
-            {
-              "weight": 13,
-              "item": {
-              "id": "minecraft:netherite_ingot",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 64,
-              "item": {
-              "id": "minecraft:diamond",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 2,
-              "item": {
-              "id": "the_vault:gem_alexandrite",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "min": 2,
+                "max": 6
                 }
               }
             }
           ]
         },
-        {"weight": 30,
+        {"weight": 120,
           "pool": [
             {
-                "weight": 2,
-                "item": {
-                "id": "the_vault:gem_echo",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-                }
-            },
-            {
-              "weight": 16,
+              "weight": 8,
               "item": {
-              "id": "the_vault:vault_diamond",
+              "id": "the_vault:vault_bronze",
               "count": {
                 "type": "uniform",
-                "min": 1,
-                "max": 1
+                "min": 2,
+                "max": 6
                 }
               }
             },
             {
               "weight": 8,
               "item": {
-              "id": "the_vault:gem_iskallium",
+              "id": "the_vault:vault_silver",
               "count": {
                 "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_gorginite",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_sparkletine",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_ashium",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_bomignite",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_petzanite",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_tubium",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_upaline",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-              "id": "the_vault:gem_xenium",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "min": 2,
+                "max": 6
                 }
               }
             }
           ]
         },
-        {"weight": 15,
+        {"weight": 60,
         "pool": [
-          {
-            "weight": 164,
+            {
+            "weight": 20,
             "item": {
-            "id": "minecraft:air",
-            "count": {
-              "type": "uniform",
-              "min": 1,
-              "max": 1
+              "id": "the_vault:vault_gold",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 2
+                }
               }
-            }
-          }
-        ]
-        },
-        {"weight": 5,
-          "pool": [
+            },
             {
-              "weight": 64,
+              "weight": 8,
               "item": {
-                "id": "minecraft:air",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
+              "id": "the_vault:vault_silver",
+              "count": {
+                "type": "uniform",
+                "min": 2,
+                "max": 6
+                }
               }
-           },
+            },
             {
-              "weight": 24,
+              "weight": 8,
               "item": {
                 "id": "the_vault:gem_pog",
                 "count": {
@@ -287,29 +82,49 @@
                   "max": 1
                   }
               }
-           },
-           {
-            "weight": 8,
-            "item": {
-              "id": "the_vault:lost_bounty",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-            }
-           },
-           {
-            "weight": 8,
-            "item": {
-              "id": "the_vault:old_notes",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-                }
-            }
            }
+           
+          ]
+        },
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:lost_bounty",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:card_deck",
+                "nbt": {
+                  "id": "treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:treasure_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+             }
           ]
         }
       ]

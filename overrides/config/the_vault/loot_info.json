@@ -62,49 +62,57 @@
         "the_vault:treasure_chest_lvl50": {"level": 50}
       }
     },
-    "the_vault:completion_crate": {
-      "display": "Completion Crates",
-      "lootTableKeys": {
-        "the_vault:completion_lvl0": {"level": 0},
-        "the_vault:completion_lvl27": {"level": 20}
-      }
-    },
-    "the_vault:completion_crate_mono": {
-      "display": "Monolith Completion Crate",
-      "lootTableKeys": {
-        "the_vault:completion_mono_lvl0": {"level": 0},
-        "the_vault:completion_mono_lvl20": {"level": 20},
-        "the_vault:completion_mono_lvl50": {"level": 50}
-      }
-    },
-    "the_vault:completion_crate_kill": {
-      "display": "Guardian Completion Crate",
-      "lootTableKeys": {
-        "the_vault:completion_kill_lvl0": {"level": 0},
-        "the_vault:completion_kill_lvl20": {"level": 20},
-        "the_vault:completion_kill_lvl50": {"level": 50}
-      }
-    },
     "the_vault:completion_crate_elixir": {
-      "display": "Elixir Completion Crate",
+      "display": "Elixir Completion Crates",
       "lootTableKeys": {
-        "the_vault:completion_elix_lvl0": {"level": 0},
-        "the_vault:completion_elix_lvl20": {"level": 20},
-        "the_vault:completion_elix_lvl50": {"level": 50}
+        "the_vault:base_crate_0": {"level": 0},
+        "the_vault:base_crate_20": {"level": 20},
+        "the_vault:base_crate_50": {"level": 50}
+      }
+    },
+    "the_vault:completion_crate_guardian": {
+      "display": "Guardian Completion Crates",
+      "lootTableKeys": {
+        "the_vault:base_crate_0": {"level": 0},
+        "the_vault:base_crate_20": {"level": 20},
+        "the_vault:base_crate_50": {"level": 50}
+      }
+    },
+    "the_vault:completion_crate_bingo": {
+      "display": "Bingo Completion Crates",
+      "lootTableKeys": {
+        "the_vault:base_crate_0": {"level": 0},
+        "the_vault:base_crate_20": {"level": 20},
+        "the_vault:base_crate_50": {"level": 50}
+      }
+    },
+    "the_vault:completion_crate_brazier": {
+      "display": "Brazier Completion Crate",
+      "lootTableKeys": {
+        "the_vault:base_crate_0": {"level": 0},
+        "the_vault:base_crate_20": {"level": 20},
+        "the_vault:brazier_crate_50": {"level": 50}
       }
     },
     "the_vault:completion_crate_scavenger": {
       "display": "Scavenger Completion Crate",
       "lootTableKeys": {
-        "the_vault:completion_scav_lvl0": {"level": 0},
-        "the_vault:completion_scav_lvl20": {"level": 20},
-        "the_vault:completion_scav_lvl50": {"level": 50}
+        "the_vault:base_crate_2_0": {"level": 0},
+        "the_vault:base_crate_2_20": {"level": 20},
+        "the_vault:base_crate_2_50": {"level": 50}
       }
     },
     "the_vault:completion_crate_paradox": {
       "display": "Divine Paradox Completion Crate",
       "lootTableKeys": {
         "the_vault:completion_paradox": {"level": 0}
+      }
+    },
+    "the_vault:full_bingo": {
+      "display": "Full Bingo Crate",
+      "lootTableKeys": {
+        "the_vault:bingo_full_crate": {"level": 0},
+        "the_vault:bingo_bonus": {"level": 50}
       }
     },
     "the_vault:ornate_chest": {

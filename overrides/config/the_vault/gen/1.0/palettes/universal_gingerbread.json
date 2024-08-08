@@ -631,6 +631,22 @@
       "output": {
         "the_vault:treasure_chest[variant=present]": 1
       }
+    },
+    {
+        "type": "template_stack_tile",
+        "target": "@the_vault:vault_lootables",
+        "stack": [
+            "THEME_GINGERBREAD",
+            "THEME_CATEGORY_FESTIVE"
+        ]
+    },
+    {
+        "type": "template_stack_spawner",
+        "target": "ispawner:spawner",
+        "stack": [
+            "THEME_GINGERBREAD",
+            "THEME_CATEGORY_FESTIVE"
+        ]
     }
   ],
   "entity_processors": [],

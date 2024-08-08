@@ -203,17 +203,6 @@
           }
         },
         {
-          "weight": 32,
-          "item": {
-            "id": "the_vault:unidentified_relic_fragment",
-            "count": {
-              "type": "uniform",
-              "min": 1,
-              "max": 1
-              }
-          }
-        },
-        {
           "weight": 16,
           "item": {
             "id": "the_vault:bitter_lemon",

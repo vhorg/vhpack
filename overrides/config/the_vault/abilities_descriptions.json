@@ -546,7 +546,15 @@
     "Hunter_Base": {
       "description": [
         {
-          "text": "Highlights wooden chests inside the vault in a ",
+          "text": "Highlights all",
+          "color": "$text"
+        },
+        {
+          "text": " POI's",
+          "color": "$qhighlight"
+        },
+        {
+          "text": " in a ",
           "color": "$text"
         },
         {
@@ -558,15 +566,47 @@
           "color": "$text"
         },
         {
-          "text": "duration of time",
+          "text": "duration",
           "color": "$duration"
         },
         {
-          "text": ".\n\n",
+          "text": " of time.\n\n",
           "color": "$text"
         },
         {
-          "text": "\u2734 Cast Ability ",
+          "text": "POI's include ",
+          "color": "$text"
+        },
+        {
+          "text": "all chests",
+          "color": "$chance"
+        },
+        {
+          "text": ", ",
+          "color": "$text"
+        },
+        {
+          "text": "coins",
+          "color": "$chance"
+        },
+        {
+          "text": ", ",
+          "color": "$text"
+        },
+        {
+          "text": "god altars",
+          "color": "$chance"
+        },
+        {
+          "text": " and ",
+          "color": "$text"
+        },
+        {
+          "text": "objective points",
+          "color": "$chance"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
           "color": "$castType"
         }
       ],
@@ -1185,7 +1225,15 @@
           "color": "$slowness"
         },
         {
-          "text": ", causing them to be permanently slowed and take damage every 3 seconds\n\n",
+          "text": ", causing them to be permanently ",
+          "color": "$text"
+        },
+        {
+          "text": "chilled",
+          "color": "$chilled"
+        },
+        {
+          "text": " and take damage every 3 seconds\n\n",
           "color": "$text"
         },
         {
@@ -3109,6 +3157,108 @@
         "luckyHitPerStack",
         "maxStacks",
         "stacksUsedPerHit",
+        "cooldown",
+        "manaCost"
+      ]
+    },
+    "Ice_Bolt_Base": {
+      "description": [
+        {
+          "text": "Summon a small Ice Bolt, dealing no damage but ",
+          "color": "$text"
+        },
+        {
+          "text": "chilling",
+          "color": "$chilled"
+        },
+        {
+          "text": " mobs hit for a ",
+          "color": "$text"
+        },
+        {
+          "text": "duration of time",
+          "color": "$duration"
+        },
+        {
+          "text": ".",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "throwPower",
+        "duration",
+        "cooldown",
+        "manaCost"
+
+      ],
+      "next": [
+        "throwPower",
+        "duration",
+        "cooldown",
+        "manaCost"
+      ]
+    },
+    "Ice_Bolt_Blast": {
+      "description": [
+        {
+          "text": "Summon a large Glacial Blast, that on impact explodes, ",
+          "color": "$text"
+        },
+        {
+          "text": "chills",
+          "color": "$chilled"
+        },
+        {
+          "text": " and potentially ",
+          "color": "$text"
+        },
+        {
+          "text": "glacial imprisons",
+          "color": "$maxGlacialPrison"
+        },
+        {
+          "text": " mobs in its ",
+          "color": "$text"
+        },
+        {
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": ", for a ",
+          "color": "$text"
+        },
+        {
+          "text": "duration",
+          "color": "$duration"
+        },
+        {
+          "text": " of time ",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "throwPower",
+        "duration",
+        "radius",
+        "glacialChance",
+        "cooldown",
+        "manaCost"
+
+      ],
+      "next": [
+        "throwPower",
+        "duration",
+        "radius",
+        "glacialChance",
         "cooldown",
         "manaCost"
       ]

@@ -650,6 +650,22 @@
     {
       "type": "reference",
       "id": "the_vault:generic/common_elite_spawners"
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+        "THEME_SEA_FLOOR",
+        "THEME_CATEGORY_BEACH"
+      ]
+    },
+    {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+        "THEME_SEA_FLOOR",
+        "THEME_CATEGORY_BEACH"
+      ]
     }
   ],
   "entity_processors": [],

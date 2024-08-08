@@ -197,10 +197,6 @@
         }
       ]
     },
-
-
-
-
     { "minLevel": 20,
       "shardTrades": [
         {
@@ -553,10 +549,6 @@
         }
       ]
     },
-
-
-
-
     { "minLevel": 50,
       "shardTrades": [
         {
@@ -922,6 +914,114 @@
         {
           "value": {
             "item": {
+              "ITEM": "the_vault:card_deck",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"black\"}"
+            },
+            "minPrice": 3500,
+            "maxPrice": 7000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:stat_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mix_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:resource_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:arcane_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:wild_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_arcane_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_stat_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_mix_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
               "ITEM": "the_vault:inscription",
               "AMOUNT": 1,
               "NBT": "{pool:\"the_vault:blackmarket_omega\"}"
@@ -933,10 +1033,6 @@
         }
       ]
     },
-
-
-
-
     { "minLevel": 75,
       "shardTrades": [
         {
@@ -1310,6 +1406,114 @@
             "maxPrice": 800
           },
           "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:card_deck",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"black\"}"
+            },
+            "minPrice": 3500,
+            "maxPrice": 7000
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:stat_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mix_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:resource_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:arcane_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:wild_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_arcane_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_stat_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:mega_mix_pack\"}"
+            },
+            "minPrice": 1000,
+            "maxPrice": 1200
+          },
+          "weight": 3
         },
         {
           "value": {

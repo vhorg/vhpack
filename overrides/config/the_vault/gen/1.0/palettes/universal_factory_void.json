@@ -630,7 +630,23 @@
     {
       "type": "reference",
       "id": "the_vault:generic/common_elite_spawners"
-    }
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+          "THEME_FACTORY_VOID",
+          "THEME_CATEGORY_VOID"
+      ]
+  },
+  {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+          "THEME_FACTORY_VOID",
+          "THEME_CATEGORY_VOID"
+      ]
+  }
   ],
   "entity_processors": [],
   "decorators": []

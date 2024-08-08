@@ -19,6 +19,7 @@
         "dependsOn": [{ "type": "constant", "id": "Parry" }],
         "lockedBy": []
       },
+      
       "Fire_Resistance": {
         "dependsOn": [{ "type": "constant", "id": "Water_Breathing" }],
         "lockedBy": []
@@ -83,6 +84,7 @@
         ],
         "dependsOn": []
       },
+
       "Mekanism Generators": {
         "dependsOn": [{ "type": "constant", "id": "Mekanism" }],
         "ignoreArrow": true,
