@@ -639,6 +639,13 @@
             "USABILITY": true,
             "CRAFTABILITY": true
           }
+        },
+        "ironfurnaces:augment_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
         }
     },
     "blockRestrictions": {},

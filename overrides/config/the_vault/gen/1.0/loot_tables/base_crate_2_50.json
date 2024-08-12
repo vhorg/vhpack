@@ -3,7 +3,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 2,
+        "min": 0,
         "max": 2
       },
       "pool": [
@@ -292,8 +292,8 @@
                 "id": "the_vault:sweet_kiwi",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 4
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
@@ -384,6 +384,17 @@
               "weight": 12,
               "item": {
                 "id": "the_vault:sour_orange",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 3,
+              "item": {
+                "id": "the_vault:star_fruit",
                 "count": {
                   "type": "uniform",
                   "min": 1,

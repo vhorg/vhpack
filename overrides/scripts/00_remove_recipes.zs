@@ -1519,7 +1519,6 @@ JEI.hideIngredient(<item:ironfurnaces:upgrade_gold>);
 JEI.hideIngredient(<item:ironfurnaces:upgrade_iron>);
 JEI.hideIngredient(<item:ironfurnaces:upgrade_silver2>);
 JEI.hideIngredient(<item:ironfurnaces:upgrade_obsidian2>);
-JEI.hideIngredient(<item:ironfurnaces:augment_generator>);
 JEI.hideIngredient(<item:ironfurnaces:item_linker>);
 JEI.hideIngredient(<item:ironfurnaces:augment_xp>);
 // Rf Tools

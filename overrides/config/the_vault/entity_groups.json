@@ -107,6 +107,22 @@
     "the_vault:mob_type/horde": [
       "@the_vault:horde"
     ],
+    "the_vault:mob_type/creeper": [
+      "minecraft:creeper",
+      "the_vault:t1_creeper",
+      "the_vault:t2_creeper",
+      "the_vault:t3_creeper"
+    ],
+    "the_vault:mob_type/dogs": [
+      "quark:foxhound",
+      "the_vault:winter_wolf"
+    ],
+    "the_vault:mob_type/polar_bears": [
+      "minecraft:polar_bear"
+    ],
+    "the_vault:mob_type/evil_rabbit": [
+      "minecraft:rabbit"
+    ],
     "the_vault:horde": [
       "minecraft:husk",
       "the_vault:t1_husk",
@@ -203,7 +219,6 @@
     "the_vault:guardian": [
       "the_vault:bruiser_guardian",
       "the_vault:arbalist_guardian"
-      
     ],
     "the_vault:winterwalker": [
       "the_vault:winterwalker_t0",

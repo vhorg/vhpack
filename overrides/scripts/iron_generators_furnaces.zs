@@ -117,3 +117,9 @@ craftingTable.addShapeless("ironfurnaces_nrainbow_plating", <item:ironfurnaces:r
     <item:ironfurnaces:iron_furnace>, <item:ironfurnaces:gold_furnace>, <item:ironfurnaces:diamond_furnace>,
     <item:ironfurnaces:obsidian_furnace>, <item:ironfurnaces:crystal_furnace>, <item:ironfurnaces:netherite_furnace>
 ]);
+
+craftingTable.addShaped("ironfurnaces_augment_generator", <item:ironfurnaces:augment_generator>, [
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_diamond_block>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:magic_silk_block>, <item:the_vault:echo_pog>, <item:the_vault:magic_silk_block>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_diamond_block>, <item:the_vault:chromatic_steel_ingot>]
+]);

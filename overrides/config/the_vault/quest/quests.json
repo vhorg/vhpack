@@ -3756,7 +3756,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": "This pack provides you with evolution cards. This cards are similar in function to stat cards but become more powerful if placed in specific spots in your deck",
+            "text": "This pack provides you with evolution cards. These cards are similar in function to stat cards but become more powerful if placed in specific spots in your deck",
             "color": "$text"
           },
           {
@@ -3980,7 +3980,7 @@
         ]
       },
       "icon": "the_vault:gui/quests/treasure",
-      "targetId": "the_vault:treasure_chest",
+      "targetId": "the_vault:treasure_door",
       "targetProgress": 1.0,
       "unlockedBy": "blank_key",
       "reward": {

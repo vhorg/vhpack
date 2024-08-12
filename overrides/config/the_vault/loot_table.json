@@ -55,7 +55,7 @@
       "ALTAR": "the_vault:altar/altar_25",
       "COMPLETION_CRATE": {
         "boss": "the_vault:base_crate_50",
-        "scavenger": "the_vault:base_crate_2_50",
+        "scavenger": "the_vault:base_crate_3_50",
         "cake": "the_vault:cake_crate",
         "monolith": "the_vault:brazier_crate_50",
         "elixir": "the_vault:base_crate_50",

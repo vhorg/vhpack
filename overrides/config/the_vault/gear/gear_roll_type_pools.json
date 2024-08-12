@@ -217,15 +217,15 @@
         "rollTypeOutcomes": [
           {
             "value": "Rare+",
-            "weight": 50
+            "weight": 80
           },
           {
             "value": "Epic+",
-            "weight": 35
+            "weight": 10
           },
           {
             "value": "Omega",
-            "weight": 15
+            "weight": 4
           }
         ]
       }

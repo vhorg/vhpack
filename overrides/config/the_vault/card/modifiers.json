@@ -2375,7 +2375,7 @@
           "levelChange": 1
         }
       ],
-      "maxTier": 5
+      "maxTier": 1
     },
     "heal_group": {
       "type": "gear",
