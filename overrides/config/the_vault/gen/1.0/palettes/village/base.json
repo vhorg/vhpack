@@ -64,7 +64,21 @@
     {
       "type": "reference",
       "id": "the_vault:generic/challenge_elite_spawners"
-  }
+    },
+    {
+        "type": "template_stack_tile",
+        "target": "@the_vault:vault_lootables",
+        "stack": [
+            "STRUCTURE_ROOM_VILLAGE"
+        ]
+    },
+    {
+        "type": "template_stack_spawner",
+        "target": "ispawner:spawner",
+        "stack": [
+            "STRUCTURE_ROOM_VILLAGE"
+        ]
+    }
   ],
   "entity_processors": [],
   "decorators": []

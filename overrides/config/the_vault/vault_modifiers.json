@@ -854,6 +854,20 @@
           "icon": "the_vault:gui/modifiers/furious_mobs"
         }
       },
+      "the_vault:weak_mobs_damage": {
+        "properties": {
+          "type": "attack_damage_additive_percentile",
+          "amount": -0.75,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Weak Mobs",
+          "color": "#da6d5a",
+          "description": "-75% Mob Damage",
+          "descriptionFormatted": "+%d%% Mob Damage",
+          "icon": "the_vault:gui/modifiers/furious_mobs"
+        }
+      },
       "the_vault:ruthless_mobs": {
         "properties": {
           "type": "attack_damage_additive_percentile",
@@ -1728,6 +1742,19 @@
           "icon": "the_vault:gui/modifiers/clumsy"
         }
       },
+      "the_vault:knockback": {
+        "properties": {
+          "stat": "knockback_resistance",
+          "addend": 1.0
+        },
+        "display": {
+          "name": "Knockback Res",
+          "color": "#CB866D",
+          "description": "+100% Knockback Resistance",
+          "descriptionFormatted": "%d%% Knockback Resistance",
+          "icon": "the_vault:gui/modifiers/clumsy"
+        }
+      },
       "the_vault:trapped": {
         "properties": {
           "stat": "trap_disarm_chance",
@@ -1750,6 +1777,19 @@
           "name": "Inert",
           "color": "#6DACB5",
           "description": "-10% Cooldown Reduction",
+          "descriptionFormatted": "%d%% Cooldown Reduction",
+          "icon": "the_vault:gui/modifiers/inert"
+        }
+      },
+      "the_vault:cooldown_reduction": {
+        "properties": {
+          "stat": "cooldown_reduction",
+          "addend": 0.8
+        },
+        "display": {
+          "name": "CDR",
+          "color": "#6DACB5",
+          "description": "+80% Cooldown Reduction",
           "descriptionFormatted": "%d%% Cooldown Reduction",
           "icon": "the_vault:gui/modifiers/inert"
         }
@@ -2829,6 +2869,23 @@
           "name": "Treasure Hunter",
           "color": "#FFEA00",
           "description": "Highlights Treasure Doors in this vault",
+          "icon": "the_vault:gui/modifiers/treasure_doors"
+        }
+      },
+      "the_vault:pylon_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:pylon",
+              "radius": 64.0,
+              "color": 10551265
+            }
+          ]
+        },
+        "display": {
+          "name": "Pylon Hunter",
+          "color": "#FFEA00",
+          "description": "Highlights Pylons in this vault",
           "icon": "the_vault:gui/modifiers/treasure_doors"
         }
       },
