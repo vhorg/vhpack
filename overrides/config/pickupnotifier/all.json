@@ -68,6 +68,10 @@
         "the_vault:amplifying_focus",
         "the_vault:waxing_focus",
         "the_vault:waning_focus",
+        "the_vault:cryonic_focus",
+        "the_vault:pyretic_focus",
+        "the_vault:vorpal_focus",
+        "the_vault:empowered_chaotic_focus",
 
         "the_vault:vault_plating",
         "the_vault:carbon_nugget",
@@ -76,6 +80,7 @@
         "the_vault:bounty_pearl",
         "the_vault:vault_essence",
         "the_vault:card_deck",
+        "the_vault:crystal_seal_raid_infinite",
 
         "the_vault:ore_alexandrite",
         "the_vault:ore_ashium",
@@ -114,6 +119,12 @@
         "the_vault:vault_catalyst_chaos",
         "the_vault:opportunistic_focus",
         "the_vault:sour_orange",
+        "the_vault:antique",
+        "the_vault:jewel_pouch",
+        "the_vault:bitter_lemon",
+        "the_vault:vault_platinum",
+        "the_vault:black_chromatic_steel_ingot",
+        "the_vault:trinket_scrap",
 
         "the_vault:gem_black_opal",
         "the_vault:gem_echo",

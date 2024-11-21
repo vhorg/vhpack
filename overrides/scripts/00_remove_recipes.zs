@@ -947,6 +947,7 @@ craftingTable.remove(<item:modularrouters:augment_core>);
 craftingTable.remove(<item:modularrouters:void_module>);
 craftingTable.remove(<item:modularrouters:puller_module_1>);
 craftingTable.remove(<item:modularrouters:puller_module_2>);
+craftingTable.remove(<item:modularrouters:extruder_module_2>);
 
 // Powah
 craftingTable.remove(<item:powah:capacitor_nitro>);

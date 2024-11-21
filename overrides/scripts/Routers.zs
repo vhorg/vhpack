@@ -80,3 +80,7 @@ craftingTable.addShaped("modularrouters_puller_module_2", <item:modularrouters:p
     [<item:the_vault:vault_diamond>, <item:modularrouters:blank_module>, <item:the_vault:vault_diamond>],
     [<item:the_vault:vault_essence>, <item:the_vault:perfect_larimar>, <item:the_vault:vault_essence>]
 ]);
+
+craftingTable.addShapeless("modularrouters_extruder_module_2", <item:modularrouters:extruder_module_2>, [
+    <item:modularrouters:extruder_module_1>, <item:the_vault:gem_pog>
+]);

@@ -1,0 +1,244 @@
+{
+  "chestContents": [
+    {
+      "channelPointsRequired": 1000000,
+      "chestContents": [
+        {
+          "item": "minecraft:diamond",
+          "amount": 9
+        },
+        {
+          "item": "minecraft:cookie",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:cookie",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:cake",
+          "amount": 4
+        },
+        {
+          "item": "vhsmp:mystic_gemstone",
+          "nbt": "{minionName:\"Bebba\",legendary:1b}",
+          "amount": 1
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:P3pp3rF1y}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 5000000,
+      "chestContents": [
+        {
+          "item": "the_vault:raw_chromatic_iron",
+          "amount": 17
+        },
+        {
+          "item": "the_vault:raw_chromatic_iron",
+          "amount": 12
+        },
+        {
+          "item": "the_vault:raw_chromatic_iron_block",
+          "amount": 4
+        },
+        {
+          "item": "minecraft:diamond",
+          "amount": 11
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:iGoodie}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 10000000,
+      "chestContents": [
+        {
+          "item": "the_vault:raw_chromatic_iron",
+          "amount": 28
+        },
+        {
+          "item": "the_vault:vault_stone",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:diamond",
+          "amount": 8
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:HellFirePvP}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 20000000,
+      "chestContents": [
+        {
+          "item": "the_vault:raw_chromatic_iron",
+          "amount": 28
+        },
+        {
+          "item": "minecraft:enchanted_book",
+          "nbt": "{display:{Lore:[\"It is great\"]},StoredEnchantments:[{id:\"mending\",lvl:1}]}",
+          "amount": 1
+        },
+        {
+          "item": "architects_palette:unobtanium",
+          "amount": 3
+        },
+        {
+          "item": "minecraft:kelp",
+          "amount": 1
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:KaptainWutax}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 20000000,
+      "chestContents": [
+        {
+          "item": "minecraft:sugar_cane",
+          "amount": 1
+        },
+        {
+          "item": "minecraft:cod",
+          "amount": 57
+        },
+        {
+          "item": "minecraft:prismarine",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:prismarine_bricks",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:xverion}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 10000000,
+      "chestContents": [
+        {
+          "item": "minecraft:rabbit_spawn_egg",
+          "amount": 2
+        },
+        {
+          "item": "minecraft:diamond",
+          "amount": 11
+        },
+        {
+          "item": "minecraft:bamboo",
+          "amount": 12
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:pomodoko}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 10000000,
+      "chestContents": [
+        {
+          "item": "minecraft:emerald",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:emerald",
+          "amount": 21
+        },
+        {
+          "item": "minecraft:emerald",
+          "amount": 62
+        },
+        {
+          "item": "minecraft:sponge",
+          "amount": 11
+        },
+        {
+          "item": "minecraft:guardian_spawn_egg",
+          "amount": 1
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:neentarts}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 10000000,
+      "chestContents": [
+        {
+          "item": "the_vault:raw_chromatic_iron",
+          "amount": 64
+        },
+        {
+          "item": "the_vault:raw_chromatic_iron",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:cobweb",
+          "amount": 3
+        },
+        {
+          "item": "minecraft:mycelium",
+          "amount": 1
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:MukiTanuki}",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "channelPointsRequired": 10000000,
+      "chestContents": [
+       
+        {
+          "item": "minecraft:emerald",
+          "amount": 28
+        },
+        {
+          "item": "minecraft:cobweb",
+          "amount": 11
+        },
+        {
+          "item": "minecraft:chorus_flower",
+          "amount": 1
+        },
+        {
+          "item": "minecraft:end_stone",
+          "amount": 64
+        },
+        {
+          "item": "minecraft:player_head",
+          "nbt": "{SkullOwner:iskall85}",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "extraRange": 100,
+  "minDepth": 8,
+  "maxDepth": 36
+}
