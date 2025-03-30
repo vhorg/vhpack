@@ -1429,6 +1429,30 @@
             "MAX_COST": 20
           },
           "weight": 320
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_vendoor_hunter",
+              "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 20,
+            "MAX_COST": 40
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_pylon_hunter",
+              "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 20,
+            "MAX_COST": 40
+          },
+          "weight": 30
         }
       ]
     }

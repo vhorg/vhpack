@@ -399,3 +399,15 @@ craftingTable.addShapeless("experience_convert", <item:minecraft:experience_bott
 craftingTable.addShapeless("chaos_augment", <item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_chaos" as string}), [
     <tag:items:vault:augments>, <tag:items:vault:augments>, <tag:items:vault:augments>
 ]);
+
+craftingTable.addShaped("entangled_block", <item:entangled:block>, [
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:polished_vault_stone>, <item:the_vault:black_chromatic_steel_ingot>],
+    [<item:the_vault:polished_vault_stone>, <item:the_vault:echo_pog>, <item:the_vault:polished_vault_stone>],
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:polished_vault_stone>, <item:the_vault:black_chromatic_steel_ingot>]
+]);
+
+craftingTable.addShaped("entangled_item", <item:entangled:item>, [
+    [<item:minecraft:air>, <item:the_vault:driftwood>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:the_vault:gem_echo>, <item:the_vault:driftwood>],
+    [<item:the_vault:driftwood>, <item:minecraft:air>, <item:minecraft:air>]
+]);

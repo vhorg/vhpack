@@ -895,6 +895,7 @@ craftingTable.remove(<item:sophisticatedbackpacks:auto_smelting_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:blasting_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:iron_backpack>);
+craftingTable.remove(<item:sophisticatedbackpacks:copper_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:gold_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:diamond_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:netherite_backpack>);
@@ -917,6 +918,8 @@ craftingTable.remove(<item:sophisticatedbackpacks:restock_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_restock_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:deposit_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_deposit_upgrade>);
+craftingTable.remove(<item:sophisticatedbackpacks:stack_upgrade_starter_tier>);
+craftingTable.remove(<item:sophisticatedbackpacks:anvil_upgrade>);
 
 // Waystones
 craftingTable.remove(<item:waystones:waystone>);
@@ -948,6 +951,9 @@ craftingTable.remove(<item:modularrouters:void_module>);
 craftingTable.remove(<item:modularrouters:puller_module_1>);
 craftingTable.remove(<item:modularrouters:puller_module_2>);
 craftingTable.remove(<item:modularrouters:extruder_module_2>);
+craftingTable.remove(<item:modularrouters:speed_upgrade>);
+craftingTable.remove(<item:modularrouters:muffler_upgrade>);
+craftingTable.remove(<item:modularrouters:camouflage_upgrade>);
 
 // Powah
 craftingTable.remove(<item:powah:capacitor_nitro>);
@@ -993,6 +999,10 @@ craftingTable.remove(<item:powah:solar_panel_basic>);
 <recipetype:powah:energizing>.remove(<item:powah:charged_snowball>);
 <recipetype:powah:energizing>.remove(<item:powah:dry_ice>);
 
+// Entangled
+craftingTable.remove(<item:entangled:block>);
+craftingTable.remove(<item:entangled:item>);
+
 
 // craftingTable.remove();   
 
@@ -1025,6 +1035,9 @@ JEI.hideIngredient(<item:sophisticatedbackpacks:tank_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_pump_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:auto_smelting_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:blasting_upgrade>);
+JEI.hideIngredient(<item:sophisticatedbackpacks:copper_backpack>);
+JEI.hideIngredient(<item:sophisticatedbackpacks:stack_upgrade_starter_tier>);
+JEI.hideIngredient(<item:sophisticatedbackpacks:anvil_upgrade>);
 // Refined
 JEI.hideIngredient(<item:refinedstorage:raw_basic_processor>);
 JEI.hideIngredient(<item:refinedstorage:processor_binding>);
@@ -1308,7 +1321,6 @@ for jewelId, jewelName in jewels {
 JEI.hideIngredient(<item:the_vault:sugar_plum_fairy_flower>);
 JEI.hideIngredient(<item:the_vault:pylon>);
 JEI.hideIngredient(<item:the_vault:tool_vise>);
-JEI.hideIngredient(<item:the_vault:rune>);
 JEI.hideIngredient(<item:the_vault:scavenger_blue_scroll>);
 JEI.hideIngredient(<item:the_vault:scavenger_creeper_foot>);
 JEI.hideIngredient(<item:the_vault:scavenger_creeper_fuse>);
@@ -1506,6 +1518,7 @@ JEI.hideIngredient(<item:the_vault:deep_dark_horror_egg>);
 JEI.hideIngredient(<item:the_vault:chromatic_iron_tiny_dust>);
 JEI.hideIngredient(<item:the_vault:chromatic_iron_small_dust>);
 //JEI.addIngredient(<item:the_vault:bottle>.withTag({charges:6 as int,recharge:"time" as string,type:"brew" as string,vaultGearData:"[L;7069878597367160218L,-6692775768183260158L,1514722424829610009L,3527585455153845571L,2753168875257675788L,2987536090647L,565248L,8830586978304L]"}));
+JEI.hideIngredient(<item:the_vault:boss_rune>);
 // IronFurnaces
 JEI.hideIngredient(<item:ironfurnaces:upgrade_silver>);
 JEI.hideIngredient(<item:ironfurnaces:upgrade_iron2>);

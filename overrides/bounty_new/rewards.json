@@ -22,16 +22,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_iron_ingot"
                 },
                 "minCount": 14,
@@ -321,16 +311,6 @@
                 "maxCount": 1
               },
               "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 20
             },
             {
               "value": {
@@ -634,16 +614,6 @@
                 "maxCount": 1
               },
               "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 1,
-                "maxCount": 3
-              },
-              "weight": 16
             },
             {
               "value": {
@@ -997,16 +967,6 @@
                 "maxCount": 1
               },
               "weight": 60
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 2,
-                "maxCount": 3
-              },
-              "weight": 12
             },
             {
               "value": {
@@ -2293,16 +2253,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 4,
@@ -2581,16 +2531,6 @@
                 },
                 "minCount": 1,
                 "maxCount": 1
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 1,
-                "maxCount": 2
               },
               "weight": 10
             },
@@ -4376,16 +4316,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 4,
@@ -4664,16 +4594,6 @@
                 },
                 "minCount": 1,
                 "maxCount": 1
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:regret_orb"
-                },
-                "minCount": 1,
-                "maxCount": 2
               },
               "weight": 10
             },

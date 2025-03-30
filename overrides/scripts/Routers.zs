@@ -50,10 +50,6 @@ craftingTable.addShaped("modularrouters_blank_upgrade", <item:modularrouters:bla
     [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
 ]);
 
-craftingTable.addShapeless("modularrouters_stack_upgrade", <item:modularrouters:stack_upgrade> * 2, [
-    <item:the_vault:magic_silk_block>, <item:the_vault:perfect_larimar>, <item:modularrouters:blank_upgrade>
-]);
-
 craftingTable.addShapeless("modularrouters_stack_augment", <item:modularrouters:stack_augment>, [
     <item:modularrouters:augment_core>, <item:the_vault:chromatic_steel_ingot>, <item:modularrouters:stack_upgrade>
 ]);
@@ -83,4 +79,28 @@ craftingTable.addShaped("modularrouters_puller_module_2", <item:modularrouters:p
 
 craftingTable.addShapeless("modularrouters_extruder_module_2", <item:modularrouters:extruder_module_2>, [
     <item:modularrouters:extruder_module_1>, <item:the_vault:gem_pog>
+]);
+
+craftingTable.addShaped("modularrouters_speed_upgrade", <item:modularrouters:speed_upgrade> *9, [
+    [<item:minecraft:air>, <item:minecraft:gold_nugget>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:modularrouters:blank_upgrade>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:the_vault:vault_diamond>, <item:minecraft:air>]
+]);
+
+craftingTable.addShaped("modularrouters_stack_upgrade", <item:modularrouters:stack_upgrade> *6, [
+    [<item:minecraft:air>, <item:minecraft:redstone>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:modularrouters:blank_upgrade>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:the_vault:vault_diamond>, <item:minecraft:air>]
+]);
+
+craftingTable.addShaped("modularrouters_muffler_upgrade", <item:modularrouters:muffler_upgrade> *4, [
+    [<item:minecraft:air>, <tag:items:minecraft:wool>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:modularrouters:blank_upgrade>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:the_vault:vault_diamond>, <item:minecraft:air>]
+]);
+
+craftingTable.addShaped("modularrouters_camo_upgrade", <item:modularrouters:camouflage_upgrade>, [
+    [<item:minecraft:air>, <tag:items:forge:dyes>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:modularrouters:blank_upgrade>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:the_vault:vault_diamond>, <item:minecraft:air>]
 ]);
