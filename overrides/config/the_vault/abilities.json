@@ -1227,7 +1227,7 @@
                 "manaCost": 37.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 160,
                 "unlockLevel": 0
               },
               {
@@ -1237,7 +1237,7 @@
                 "manaCost": 40.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 140,
                 "unlockLevel": 0
               },
               {
@@ -1247,7 +1247,7 @@
                 "manaCost": 43.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 130,
                 "unlockLevel": 0
               },
               {
@@ -1257,7 +1257,7 @@
                 "manaCost": 46.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 120,
                 "unlockLevel": 0
               },
               {
@@ -1267,7 +1267,7 @@
                 "manaCost": 49.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 110,
                 "unlockLevel": 0
               },
               {
@@ -1277,7 +1277,7 @@
                 "manaCost": 52.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 100,
                 "unlockLevel": 0
               },
               {
@@ -1287,7 +1287,7 @@
                 "manaCost": 55.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 100,
                 "unlockLevel": 0
               },
               {
@@ -1297,7 +1297,7 @@
                 "manaCost": 58.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 100,
                 "unlockLevel": 0
               },
               {
@@ -1307,7 +1307,7 @@
                 "manaCost": 61.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 100,
                 "unlockLevel": 0
               },
               {
@@ -1317,7 +1317,7 @@
                 "manaCost": 64.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
-                "cooldownTicks": 400,
+                "cooldownTicks": 100,
                 "unlockLevel": 0
               }
             ]

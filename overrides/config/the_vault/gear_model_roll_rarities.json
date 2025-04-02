@@ -126,7 +126,10 @@
       "the_vault:gear/armor/stormcrown",
       "the_vault:gear/armor/crashguards",
       "the_vault:gear/armor/spiral_guardian",
-      "the_vault:gear/armor/devilguise"
+      "the_vault:gear/armor/devilguise",
+      "the_vault:gear/armor/dylans_suit",
+      "the_vault:gear/armor/developerset",
+      "the_vault:gear/armor/companion10"
     ]
   },
   "SWORD_MODEL_ROLLS": {
@@ -192,7 +195,8 @@
       "the_vault:gear/sword/crystalblade",
       "the_vault:gear/sword/crystaldoubleblade",
       "the_vault:gear/sword/elite_skeleton_dagger",
-      "the_vault:gear/sword/dweller_sword"
+      "the_vault:gear/sword/dweller_sword",
+      "the_vault:gear/sword/dylans_blade"
 
     ]
   },
@@ -239,7 +243,8 @@
       "the_vault:gear/axe/godaxe",
       "the_vault:gear/axe/butchers_bone_cleaver",
       "the_vault:gear/axe/crystal_crusher",
-      "the_vault:gear/sword/dweller_axe"
+      "the_vault:gear/sword/dweller_axe",
+      "the_vault:gear/sword/dylans_axe"
     ]
   },
   "SHIELD_MODEL_ROLLS": {
@@ -280,7 +285,8 @@
       "the_vault:gear/shield/slab",
       "the_vault:gear/shield/cardboard",
       "the_vault:gear/shield/glass_flower",
-      "the_vault:gear/shield/gladiator_buckler"
+      "the_vault:gear/shield/gladiator_buckler",
+      "the_vault:gear/sword/dylans_protector"
     ]
   },
   "WAND_MODEL_ROLLS": {
@@ -315,7 +321,8 @@
       "the_vault:gear/wand/carri_king",
       "the_vault:gear/wand/soul",
       "the_vault:gear/wand/infernos_reach",
-      "the_vault:gear/wand/chaining_wand"
+      "the_vault:gear/wand/chaining_wand",
+      "the_vault:gear/sword/dylans_magic_stick"
 
     ]
   },
@@ -343,7 +350,8 @@
     ],
     "UNIQUE": [
       "the_vault:gear/focus/soulorb",
-      "the_vault:gear/focus/frozenorb"
+      "the_vault:gear/focus/frozenorb",
+      "the_vault:gear/sword/dylans_book"
     ]
   }
 }

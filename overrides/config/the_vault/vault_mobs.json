@@ -1824,9 +1824,9 @@
                 ]
             },
             {  "NAME": "minecraft:generic.movement_speed",
-                "MIN": 0.95,
-                "MAX": 1.0,
-                "OPERATOR": "multiply",
+                "MIN": 0.2,
+                "MAX": 0.23,
+                "OPERATOR": "set",
                 "ROLL_CHANCE": 1.0,
                 "SCALE_PER_LEVEL": 0.0,
                 "SCALE_MAX_LEVEL": -1
@@ -1984,9 +1984,9 @@
             },
             {
                 "NAME": "minecraft:generic.movement_speed",
-                "MIN": 1.02,
-                "MAX": 1.03,
-                "OPERATOR": "multiply",
+                "MIN": 0.24,
+                "MAX": 0.24,
+                "OPERATOR": "set",
                 "ROLL_CHANCE": 1.0,
                 "SCALE_PER_LEVEL": 0.0,
                 "SCALE_MAX_LEVEL": -1
@@ -2144,9 +2144,9 @@
             },
             {
                 "NAME": "minecraft:generic.movement_speed",
-                "MIN": 1.04,
-                "MAX": 1.05,
-                "OPERATOR": "multiply",
+                "MIN": 0.24,
+                "MAX": 0.24,
+                "OPERATOR": "set",
                 "ROLL_CHANCE": 1.0,
                 "SCALE_PER_LEVEL": 0.0,
                 "SCALE_MAX_LEVEL": -1
@@ -2307,9 +2307,9 @@
                 "LEVELS": [
                     {
                         "MIN_LEVEL": 0,
-                        "MIN": 1.08,
-                        "MAX": 1.09,
-                        "OPERATOR": "multiply",
+                        "MIN": 0.24,
+                        "MAX": 0.24,
+                        "OPERATOR": "set",
                         "ROLL_CHANCE": 1.0,
                         "SCALE_PER_LEVEL": 0.0,
                         "SCALE_MAX_LEVEL": 39
@@ -2318,7 +2318,7 @@
                         "MIN_LEVEL": 40,
                         "MIN": 0.28,
                         "MAX": 0.28,
-                        "OPERATOR": "multiply",
+                        "OPERATOR": "set",
                         "ROLL_CHANCE": 1.0,
                         "SCALE_PER_LEVEL": 0.0,
                         "SCALE_MAX_LEVEL": 49
@@ -2327,7 +2327,7 @@
                         "MIN_LEVEL": 50,
                         "MIN": 0.32,
                         "MAX": 0.32,
-                        "OPERATOR": "multiply",
+                        "OPERATOR": "set",
                         "ROLL_CHANCE": 1.0,
                         "SCALE_PER_LEVEL": 0.0,
                         "SCALE_MAX_LEVEL": -1
@@ -2487,9 +2487,9 @@
             },
             {
                 "NAME": "minecraft:generic.movement_speed",
-                "MIN": 1.04,
-                "MAX": 1.05,
-                "OPERATOR": "multiply",
+                "MIN": 0.24,
+                "MAX": 0.24,
+                "OPERATOR": "set",
                 "ROLL_CHANCE": 1.0,
                 "SCALE_PER_LEVEL": 0.0,
                 "SCALE_MAX_LEVEL": -1

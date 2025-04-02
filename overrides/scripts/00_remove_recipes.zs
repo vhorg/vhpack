@@ -1518,7 +1518,7 @@ JEI.hideIngredient(<item:the_vault:deep_dark_horror_egg>);
 JEI.hideIngredient(<item:the_vault:chromatic_iron_tiny_dust>);
 JEI.hideIngredient(<item:the_vault:chromatic_iron_small_dust>);
 //JEI.addIngredient(<item:the_vault:bottle>.withTag({charges:6 as int,recharge:"time" as string,type:"brew" as string,vaultGearData:"[L;7069878597367160218L,-6692775768183260158L,1514722424829610009L,3527585455153845571L,2753168875257675788L,2987536090647L,565248L,8830586978304L]"}));
-JEI.hideIngredient(<item:the_vault:boss_rune>);
+//JEI.hideIngredient(<item:the_vault:boss_rune>);
 // IronFurnaces
 JEI.hideIngredient(<item:ironfurnaces:upgrade_silver>);
 JEI.hideIngredient(<item:ironfurnaces:upgrade_iron2>);

@@ -263,6 +263,18 @@
           "descriptionFormatted": "+%d%% Soul Shards",
           "icon": "the_vault:gui/modifiers/god_token_idona"
         }
+      },
+      "the_vault:no_souls": {
+        "properties": {
+          "chance": -10000.0
+        },
+        "display": {
+          "name": "No Souls",
+          "color": "#FF5555",
+          "description": "No Soul Shards Dropped",
+          "descriptionFormatted": "No Soul Shards Dropped",
+          "icon": "the_vault:gui/modifiers/god_token_idona"
+        }
       }
     },
     "the_vault:modifier_type/decorator_add": {
@@ -1859,7 +1871,7 @@
         "display": {
           "name": "Casual Mode",
           "color": "#FF8900",
-          "description": "If killed in the vault you will keep your inventory but receive a durability penalty.",
+          "description": "If killed in the vault you will keep your inventory, there is also no durability penalty.",
           "icon": "the_vault:gui/modifiers/beginners_grace"
         }
       }
@@ -2849,7 +2861,8 @@
             "the_vault:noxp": 1,
             "the_vault:beginners_grace": 1,
             "the_vault:no_ores": 1,
-            "the_vault:no_reward": 1
+            "the_vault:no_reward": 1,
+            "the_vault:no_souls": 1
           }
         },
         "display": {
@@ -3546,7 +3559,7 @@
         "display": {
           "name": "No Loot",
           "color": "#a996ca",
-          "description": "Chests have no loot in this vault.",
+          "description": "Chests and Champions have no loot in this vault.",
           "icon": "the_vault:gui/modifiers/no_loot"
         }
       }
