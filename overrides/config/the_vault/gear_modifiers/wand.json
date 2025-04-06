@@ -100,7 +100,7 @@
             }
           },
           {
-            "minLevel": 0,
+            "minLevel": 25,
             "maxLevel": 49,
             "weight": 100,
             "value": {

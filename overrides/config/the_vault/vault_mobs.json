@@ -15884,7 +15884,7 @@
                     {
                         "MIN_LEVEL": 80,
                         "MIN": 1.32,
-                        "MAX": 1.7600000000000002,
+                        "MAX": 1.8,
                         "OPERATOR": "set",
                         "ROLL_CHANCE": 1.0,
                         "SCALE_PER_LEVEL": 0.08,
@@ -15933,25 +15933,7 @@
                     },
                     {
                         "MIN_LEVEL": 80,
-                        "MIN": 47.300000000000004,
-                        "MAX": 66.0,
-                        "OPERATOR": "set",
-                        "ROLL_CHANCE": 1.0,
-                        "SCALE_PER_LEVEL": 0.09,
-                        "SCALE_MAX_LEVEL": -1
-                    },
-                    {
-                        "MIN_LEVEL": 90,
-                        "MIN": 51.6,
-                        "MAX": 72.0,
-                        "OPERATOR": "set",
-                        "ROLL_CHANCE": 1.0,
-                        "SCALE_PER_LEVEL": 0.09,
-                        "SCALE_MAX_LEVEL": -1
-                    },
-                    {
-                        "MIN_LEVEL": 80,
-                        "MIN": 56.760000000000005,
+                        "MIN": 56.0,
                         "MAX": 79.2,
                         "OPERATOR": "set",
                         "ROLL_CHANCE": 1.0,
@@ -15961,13 +15943,22 @@
                     {
                         "MIN_LEVEL": 90,
                         "MIN": 61.92,
-                        "MAX": 86.39999999999999,
+                        "MAX": 86.4,
                         "OPERATOR": "set",
                         "ROLL_CHANCE": 1.0,
                         "SCALE_PER_LEVEL": 0.09,
                         "SCALE_MAX_LEVEL": -1
                     }
                 ]
+            },
+            {
+                "NAME": "minecraft:generic.movement_speed",
+                "MIN": 1.0,
+                "MAX": 1.05,
+                "OPERATOR": "multiply",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1
             },
             {
                 "NAME": "forge:swim_speed",
@@ -16322,24 +16313,7 @@
                         "SCALE_PER_LEVEL": 0.09,
                         "SCALE_MAX_LEVEL": -1
                     },
-                    {
-                        "MIN_LEVEL": 80,
-                        "MIN": 33.0,
-                        "MAX": 50.6,
-                        "OPERATOR": "set",
-                        "ROLL_CHANCE": 1.0,
-                        "SCALE_PER_LEVEL": 0.09,
-                        "SCALE_MAX_LEVEL": -1
-                    },
-                    {
-                        "MIN_LEVEL": 90,
-                        "MIN": 36.0,
-                        "MAX": 55.199999999999996,
-                        "OPERATOR": "set",
-                        "ROLL_CHANCE": 1.0,
-                        "SCALE_PER_LEVEL": 0.09,
-                        "SCALE_MAX_LEVEL": -1
-                    },
+                    
                     {
                         "MIN_LEVEL": 80,
                         "MIN": 39.6,
@@ -16351,7 +16325,7 @@
                     },
                     {
                         "MIN_LEVEL": 90,
-                        "MIN": 43.199999999999996,
+                        "MIN": 43.0,
                         "MAX": 66.24,
                         "OPERATOR": "set",
                         "ROLL_CHANCE": 1.0,
