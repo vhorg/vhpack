@@ -767,7 +767,7 @@
       "type": "mob_spawn",
       "entity": {
         "id": "minecraft:pillager",
-        "Tags": ["no_champion"],
+        "Tags": ["no_champion", "ethereal_immune"],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",

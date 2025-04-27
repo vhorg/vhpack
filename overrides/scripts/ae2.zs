@@ -5,19 +5,19 @@ for Iskall85's Vaulthunters */
 
 craftingTable.addShaped("ae2_logic_processor", <item:ae2:logic_processor>, [
     [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:air>],
-    [<item:minecraft:air>, <item:ae2:silicon>, <item:minecraft:air>],
+    [<item:minecraft:air>, <tag:items:forge:silicon>, <item:minecraft:air>],
     [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
 ]);
 
 craftingTable.addShaped("ae2_engineering_processor", <item:ae2:engineering_processor>, [
     [<item:minecraft:air>, <item:minecraft:diamond>, <item:minecraft:air>],
-    [<item:minecraft:air>, <item:ae2:silicon>, <item:minecraft:air>],
+    [<item:minecraft:air>, <tag:items:forge:silicon>, <item:minecraft:air>],
     [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
 ]);
 
 craftingTable.addShaped("ae2_calculation_processor", <item:ae2:calculation_processor>, [
     [<item:minecraft:air>, <item:minecraft:redstone>, <item:minecraft:air>],
-    [<item:minecraft:air>, <item:ae2:silicon>, <item:minecraft:air>],
+    [<item:minecraft:air>, <tag:items:forge:silicon>, <item:minecraft:air>],
     [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>]
 ]);
 

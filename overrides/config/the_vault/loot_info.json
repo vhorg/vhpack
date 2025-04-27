@@ -43,10 +43,7 @@
         "the_vault:living_chest_lvl10": {"level": 10},
         "the_vault:living_chest_lvl20": {"level": 20},
         "the_vault:living_chest_lvl30": {"level": 30},
-        "the_vault:living_chest_lvl40": {"level": 40},
-        "the_vault:living_chest_lvl50": {"level": 50},
-        "the_vault:living_chest_lvl60": {"level": 60},
-        "the_vault:living_chest_lvl70": {"level": 70}
+        "the_vault:living_chest_lvl40": {"level": 40}
       }
     },
     "the_vault:treasure_sand": {
@@ -155,8 +152,7 @@
     "the_vault:living_strongbox": {
       "display": "Living Strongboxes",
       "lootTableKeys": {
-        "the_vault:living_strongbox_lvl50": {"level": 50},
-        "the_vault:living_strongbox_lvl70": {"level": 70}
+        "the_vault:living_strongbox_lvl50": {"level": 50}
       }
     }
   }

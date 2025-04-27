@@ -3646,54 +3646,6 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
-    "resource_gem_wutodie": {
-      "type": "task_loot",
-      "name": {
-        "text": "Wutodie Card"
-      },
-      "model": "the_vault:gem_wutodie#inventory",
-      "groups": [
-        "Resource"
-      ],
-      "loot": [
-        {
-          "weight": 1,
-          "item": {
-            "id": "the_vault:gem_wutodie"
-          }
-        }
-      ],
-      "task": "@easy",
-      "count": [
-        {
-          "tier": 1,
-          "roll": {
-            "type": "uniform",
-            "min": 1,
-            "max": 1
-          }
-        }
-      ],
-      "tooltip": [
-        {
-          "text": "+",
-          "color": "gold"
-        },
-        {
-          "text": "${count}",
-          "color": "#FFFFFF"
-        },
-        {
-          "text":  " Wutodie ",
-          "color": "yellow"
-        },
-        {
-          "text": "${task}"
-        }
-      ],
-      "highlightColor": "0x00FF00",
-      "maxTier": 1
-    },
     "resource_gem_black_opal": {
       "type": "task_loot",
       "name": {
@@ -5898,10 +5850,6 @@
       },
       {
         "value": "resource_gem_alexandrite",
-        "weight": 45.0
-      },
-      {
-        "value": "resource_gem_wutodie",
         "weight": 45.0
       },
       {

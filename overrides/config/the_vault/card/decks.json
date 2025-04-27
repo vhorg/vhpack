@@ -2,7 +2,7 @@
   "values": {
     "starter": {
       "model": "the_vault:deck/starter_deck#inventory",
-      "name": "Starter",
+      "name": "Starter Deck",
       "essence": {
         "min": 0,
         "max": 0

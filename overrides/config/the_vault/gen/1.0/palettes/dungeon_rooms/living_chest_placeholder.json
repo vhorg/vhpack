@@ -26,6 +26,16 @@
           "failure": {
             "minecraft:air": 1
           }
+        },
+        {
+          "level": 40,
+          "probability": 0.3,
+          "success": {
+            "the_vault:living_barrel{LootTable:\"the_vault:living_dungeon_barrel_lvl40\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
         }
       ]
     },

@@ -141,6 +141,53 @@
       }
     ],
     "IMPLICIT": [
+      { "attribute": "the_vault:movement_speed",
+        "group": "BaseBonusPool",
+        "identifier": "the_vault:base_movement",
+
+        "tiers": [
+          {
+            "minLevel": 20,
+            "maxLevel": 64,
+            "weight": 100,
+            "value": {
+              "min": 0.02,
+              "max": 0.06,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 40,
+            "maxLevel": 84,
+            "weight": 100,
+            "value": {
+              "min": 0.07,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "min": 0.11,
+              "max": 0.14,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 85,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "min": 0.15,
+              "max": 0.2,
+              "step": 0.01
+            }
+          }
+        ]
+      },
       { "attribute": "the_vault:armor",
         "group": "BaseModAbility",
         "identifier": "the_vault:base_armor",
@@ -1253,6 +1300,53 @@
           }
         ]
       },
+      { 
+        "attribute": "the_vault:added_ability_level",
+        "group": "ModAbility",
+        "identifier": "the_vault:u_coldsnap",
+        "tags": [
+          "focusAbilityPower",
+          "focusAbilityPowerStonefall"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Stonefall_Cold",
+              "levelChange": 1
+            }
+          },
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Stonefall_Cold",
+              "levelChange": 2
+            }
+          },
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Stonefall_Cold",
+              "levelChange": 3
+            }
+          },
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Stonefall_Cold",
+              "levelChange": 4
+            }
+          }
+        ]
+      },
       { "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:mod_fear",
@@ -2205,11 +2299,51 @@
         ],
         "tiers": [
           {
-            "minLevel": 90,
+            "minLevel": 0,
+            "maxLevel": 87,
+            "weight": 600,
+            "value": {
+              "min": 1,
+              "max": 2,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 16,
             "maxLevel": -1,
             "weight": 600,
             "value": {
-              "min": 8,
+              "min": 3,
+              "max": 4,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 38,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 5,
+              "max": 6,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 7,
+              "max": 8,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 88,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 9,
               "max": 10,
               "step": 1
             }
@@ -3343,6 +3477,26 @@
               "min": 1,
               "max": 3,
               "step": 1
+            }
+          }
+        ]
+      },
+      { "attribute": "the_vault:effect_trail",
+        "group": "ModEnhancement",
+        "identifier": "the_vault:u_chilled_effect_trail",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "effectId": "the_vault:chilled",
+              "durationTicks": {
+                "min": 60,
+                "max": 160,
+                "step": 20
+              }
             }
           }
         ]

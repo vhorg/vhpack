@@ -850,7 +850,7 @@
           "color": "#eaff00",
           "description": "+100% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
-          "icon": "the_vault:gui/modifiers/item_rarity_4"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:unlucky": {
@@ -2021,6 +2021,19 @@
           "icon": "the_vault:gui/modifiers/inert"
         }
       },
+      "the_vault:weakened_cdr": {
+        "properties": {
+          "stat": "cooldown_reduction",
+          "addend": -0.2
+        },
+        "display": {
+          "name": "Weakened CDR",
+          "color": "#6DACB5",
+          "description": "-20% Cooldown Reduction",
+          "descriptionFormatted": "%d%% Cooldown Reduction",
+          "icon": "the_vault:gui/modifiers/inert"
+        }
+      },
       "the_vault:cooldown_reduction": {
         "properties": {
           "stat": "cooldown_reduction",
@@ -3037,19 +3050,13 @@
       "the_vault:curse": {
         "properties": {
           "children": {
-            "the_vault:collapsing": 1,
-            "the_vault:explosive": 1,
-            "the_vault:void_pools": 1,
-            "the_vault:curse_ethereal": 1,
-            "the_vault:wrecked": 1,
-            "the_vault:freezing": 1,
-            "the_vault:poisonous": 1
+            "the_vault:companion_shortened": 1
           }
         },
         "display": {
           "name": "Cursed!",
           "color": "#ad2b2b",
-          "description": "This vault is cursed, it's collapsing, void pools have appeared, some mobs are immortal & their attacks seem to have hexing effects on you!",
+          "description": "This Vault is Cursed, causing it to have less time",
           "icon": "the_vault:gui/modifiers/curse_voidpools"
         }
       },
@@ -3213,7 +3220,7 @@
       "the_vault:weakened_powers": {
         "properties": {
           "children": {
-            "the_vault:cooldown_down": 1,
+            "the_vault:weakened_cdr": 1,
             "the_vault:mana_regen_down": 1
           }
         },

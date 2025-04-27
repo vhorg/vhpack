@@ -191,29 +191,9 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/living_chest_40.json"
     },
     {
-      "id": "the_vault:living_chest_lvl50",
-      "name": "Living Chest lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/living_chest_50.json"
-    },
-    {
-      "id": "the_vault:living_chest_lvl60",
-      "name": "Living Chest lvl60",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/living_chest_60.json"
-    },
-    {
-      "id": "the_vault:living_chest_lvl70",
-      "name": "Living Chest lvl70",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/living_chest_70.json"
-    },
-    {
       "id": "the_vault:living_strongbox_lvl50",
       "name": "Living Strongbox lvl50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/living_strongbox_50.json"
-    },
-    {
-      "id": "the_vault:living_strongbox_lvl70",
-      "name": "Living Strongbox lvl70",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/living_strongbox_70.json"
     },
     {
       "id": "the_vault:gilded_chest_lvl0",
@@ -434,6 +414,11 @@
       "id": "the_vault:living_dungeon_barrel",
       "name": "Living Dungeon Barrel",
       "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living.json"
+    },
+    {
+      "id": "the_vault:living_dungeon_barrel_lvl40",
+      "name": "Living Dungeon Barrel lvl40",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_40.json"
     }
   ]
 }

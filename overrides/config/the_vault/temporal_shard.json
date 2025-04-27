@@ -1,5 +1,6 @@
 {
   "dropChance": 0.05,
+  "uberChance": 0.50,
   "modifiers": [
     {
       "level": 0,
