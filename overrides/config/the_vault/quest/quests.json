@@ -1515,15 +1515,15 @@
             "color": "$qhighlight"
           },
           {
-            "text": ". This will make organising your scav items a lot easier! Another good thing to know is that when you exit the vaults the scav items become",
+            "text": ". This will make organising your scav items a lot easier! Another good thing to know is that when you exit the vaults the scav items get",
             "color": "$text"
           },
           {
-            "text": "rotten",
+            "text": "removed",
             "color": "$qhighlight"
           },
           {
-            "text": ". Rotten scav items can't be used in another scav vault. They can be however smelted down into soul dust in the soul harvester.",
+            "text": ". Scavenger items are locked to that vault only!",
             "color": "$text"
           },
           {
@@ -3665,7 +3665,7 @@
             "color": "$text"
           },
           {
-            "text": "curse your vault",
+            "text": "revoke a reputation point",
             "color": "$qhighlight"
           },
           {
@@ -4136,7 +4136,7 @@
               "color": "$text"
           },
           {
-              "text": "special transmorgs",
+              "text": "special transmogs",
               "color": "$qhighlight"
           },
           {

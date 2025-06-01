@@ -15,6 +15,10 @@
 	itemDisplayDisabled = false
 	#Allows disabling logic that dedupes backpacks with the same UUID in players' inventory. This is here to allow turning off the logic just in case it would be causing performance issues.
 	tickDedupeLogicDisabled = false
+	#Maximum number of upgrades of type per backpack in format of "UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
+	maxUpgradesPerStorage = ["furnace_upgrades|1", "jukebox_upgrade|1"]
+	#Determines if backpacks can be placed in container items (those that check for return value of canFitInsideContainerItems)
+	canBePlacedInContainerItems = false
 
 	#Leather Backpack Settings
 	[server.leatherBackpack]

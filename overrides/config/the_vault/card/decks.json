@@ -75,7 +75,7 @@
       ]
     },
     "expanded": {
-      "model": "the_vault:deck/starter_deck#inventory",
+      "model": "the_vault:deck/expanded#inventory",
       "name": "Expanded Deck",
       "essence": {
         "min": 2,
@@ -94,7 +94,7 @@
       ]
     },
     "gdungeon": {
-      "model": "the_vault:deck/starter_deck#inventory",
+      "model": "the_vault:deck/edge#inventory",
       "name": "The Edge Deck",
       "essence": {
         "min": 3,
@@ -113,7 +113,7 @@
       ]
     },
     "ldungeon": {
-      "model": "the_vault:deck/starter_deck#inventory",
+      "model": "the_vault:deck/mushroom#inventory",
       "name": "The Shroom Deck",
       "essence": {
         "min": 3,
@@ -132,7 +132,7 @@
       ]
     },
     "odungeon": {
-      "model": "the_vault:deck/starter_deck#inventory",
+      "model": "the_vault:deck/anvil#inventory",
       "name": "The Anvil Deck",
       "essence": {
         "min": 3,
@@ -246,7 +246,7 @@
       ]
     },
     "runic": {
-      "model": "the_vault:deck/champion#inventory",
+      "model": "the_vault:deck/runic#inventory",
       "name": "The Runic Deck",
       "essence": {
         "min": 3,
@@ -267,7 +267,7 @@
       ]
     },
     "bishop": {
-      "model": "the_vault:deck/champion#inventory",
+      "model": "the_vault:deck/bishop#inventory",
       "name": "The Bishop Deck",
       "essence": {
         "min": 3,
@@ -287,7 +287,7 @@
       ]
     },
     "belt": {
-      "model": "the_vault:deck/champion#inventory",
+      "model": "the_vault:deck/belt#inventory",
       "name": "The Belt Deck",
       "essence": {
         "min": 3,
@@ -308,7 +308,7 @@
       ]
     },
     "scam": {
-      "model": "the_vault:deck/champion#inventory",
+      "model": "the_vault:deck/mystery#inventory",
       "name": "The ?",
       "essence": {
         "min": 5,

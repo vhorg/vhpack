@@ -53,6 +53,10 @@
       "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Pylon Hunter' modifier"
     },
     {
+      "item": "the_vault:capstone_vendoor_hunter",
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Vendoor Hunter' modifier"
+    },
+    {
       "item": "the_vault:crystal_seal_cake",
       "value": "Is it cake?\nPut this Vault Rock on a Vault Altar to create a Cake Crystal!"
     },
@@ -666,7 +670,7 @@
     },
     {
       "item": "the_vault:mystery_box",
-      "value": "Contains random goodies\nRight-click to open"
+      "value": "Legacy Item\n\nContains random goodies\nRight-click to open"
     },
     {
       "item": "the_vault:drilling_tip",
@@ -1055,6 +1059,10 @@
     {
       "item": "the_vault:regret_orb",
       "value": "Regret points changed in Update 17, unlearning a skill now requires Vault Gold."
+    },
+    {
+      "item": "powah:photoelectric_pane",
+      "value": "Right click on a natural spawned enderman"
     }
   ]
 }

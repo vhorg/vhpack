@@ -12,7 +12,7 @@
     },
     "Handling": {
       "group": "Handling",
-      "headerColor": -16776961,
+      "headerColor": -8388608,
       "headerTextColor": -1,
       "x": -10,
       "y": 95,
@@ -88,7 +88,7 @@
       "y": 215,
       "boxWidth": 170,
       "boxHeight": 105,
-      "icon": "the_vault:gui/research_groups/bottle"
+      "icon": "the_vault:gui/research_groups/vault_upgrades"
     }
   }
 }

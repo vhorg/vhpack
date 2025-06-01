@@ -174,7 +174,7 @@
         "color": 16777215,
         "entries": {
           "the_vault:scavenger_mob_black": {
-            "multiplier": 0.8,
+            "multiplier": 1.8,
             "mobs": [
               "minecraft:skeleton",
               "the_vault:t1_skeleton",
@@ -272,7 +272,7 @@
             ]
           },
           "the_vault:scavenger_mob_purple": {
-            "multiplier": 1.0,
+            "multiplier": 0.3,
             "mobs": [
               "the_vault:vault_fighter",
               "the_vault:vault_fighter_1",
@@ -283,15 +283,11 @@
               "the_vault:vault_fighter_6",
               "the_vault:vault_fighter_7",
               "the_vault:vault_fighter_8",
-              "the_vault:vault_fighter_9",
-
-              "minecraft:witch",
-              "auxiliaryblocks:gingerbread_man",
-              "auxiliaryblocks:gingerbread_man_small"
+              "the_vault:vault_fighter_9"
             ]
           },
           "the_vault:scavenger_mob_green": {
-            "multiplier": 2.0,
+            "multiplier": 2.5,
             "mobs": [
               "minecraft:zombie",
               "the_vault:t3_zombie",

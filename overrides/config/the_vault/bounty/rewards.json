@@ -81,16 +81,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mystery_box"
-                },
-                "minCount": 1,
-                "maxCount": 3
-              },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:vault_diamond"
                 },
                 "minCount": 2,
@@ -369,16 +359,6 @@
                 "maxCount": 11
               },
               "weight": 60
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mystery_box"
-                },
-                "minCount": 1,
-                "maxCount": 3
-              },
-              "weight": 40
             },
             {
               "value": {
@@ -671,16 +651,6 @@
                 "maxCount": 15
               },
               "weight": 60
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mystery_box"
-                },
-                "minCount": 2,
-                "maxCount": 3
-              },
-              "weight": 30
             },
             {
               "value": {
@@ -5240,16 +5210,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mystery_box"
-                },
-                "minCount": 1,
-                "maxCount": 3
-              },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:vault_diamond"
                 },
                 "minCount": 1,
@@ -5521,16 +5481,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mystery_box"
-                },
-                "minCount": 1,
-                "maxCount": 3
-              },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:vault_diamond"
                 },
                 "minCount": 1,
@@ -5786,16 +5736,6 @@
                 },
                 "minCount": 6,
                 "maxCount": 16
-              },
-              "weight": 60
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mystery_box"
-                },
-                "minCount": 2,
-                "maxCount": 4
               },
               "weight": 60
             },

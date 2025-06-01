@@ -37,9 +37,9 @@
       "negativePotentialCostMultiplier": 1.0
     },
     "the_vault:reforge_all_add_tag": {
-      "potentialUseMin": 5,
-      "potentialUseMax": 8,
-      "baseCostMultiplier": 1.2,
+      "potentialUseMin": 32,
+      "potentialUseMax": 64,
+      "baseCostMultiplier": 8.0,
       "negativePotentialCostMultiplier": 1.2
     },
     "the_vault:reforge_tier": {

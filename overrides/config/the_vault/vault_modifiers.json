@@ -1552,6 +1552,18 @@
           "descriptionFormatted": "-%d%% Durability Damage",
           "icon": "the_vault:gui/modifiers/reinforced"
         }
+      },
+      "the_vault:no_durability_damage": {
+        "properties": {
+          "durabilityDamageTakenMultiplier": 0.0
+        },
+        "display": {
+          "name": "No Durability Damage",
+          "color": "#9550FF",
+          "description": "Players take no durability damage in this vault",
+          "descriptionFormatted": "Players take no durability damage in this vault",
+          "icon": "the_vault:gui/modifiers/reinforced"
+        }
       }
     },
     "the_vault:modifier_type/player_effect": {
@@ -2528,6 +2540,18 @@
           "descriptionFormatted": "+%d%% Vault Experience",
           "icon": "the_vault:gui/modifiers/experienced"
         }
+      },
+      "the_vault:ignore_modifier_extended": {
+        "properties": {
+          "addend": -0.5
+        },
+        "display": {
+          "name": "Wendarr's Challenge",
+          "color": "#d89e01",
+          "description": "Extended will not work in this vault",
+          "descriptionFormatted": "Extended will not work in this vault",
+          "icon": "the_vault:gui/modifiers/god_token_wendarr"
+        }
       }
     },
     "the_vault:modifier_type/inline_pool": {
@@ -2875,7 +2899,8 @@
             "the_vault:beginners_grace": 1,
             "the_vault:no_ores": 1,
             "the_vault:no_reward": 1,
-            "the_vault:no_souls": 1
+            "the_vault:no_souls": 1,
+            "the_vault:no_durability_damage": 1
           }
         },
         "display": {
@@ -2925,6 +2950,22 @@
           "name": "Door Hunter",
           "color": "#bbf333",
           "description": "Reveals all doors inside the vault!",
+          "icon": "the_vault:gui/modifiers/door_hunter"
+        }
+      },
+      "the_vault:objective_hunter": {
+        "properties": {
+          "children": {
+            "the_vault:scavenger_altar": 1,
+            "the_vault:lodestone": 1,
+            "the_vault:monolith": 1,
+            "the_vault:grid_gateway": 1
+          }
+        },
+        "display": {
+          "name": "Objective Hunter",
+          "color": "#bbf333",
+          "description": "Reveals all objective blocks inside the vault!",
           "icon": "the_vault:gui/modifiers/door_hunter"
         }
       },
@@ -3004,7 +3045,6 @@
         "properties": {
           "children": {
             "the_vault:furious_mobs": 1,
-            "the_vault:chunky_mobs": 1,
             "the_vault:cake_layer_mobspeed": 1,
             "the_vault:cake_mob_increase": 1
           }
@@ -3012,7 +3052,7 @@
         "display": {
           "name": "Companion's Challenge",
           "color": "#ba0000",
-          "description": "Increases mob damage, mob health and mob spawns by 10% per stack, increases mob speed by 1.5% per stack",
+          "description": "Increases mob damage, mob spawns by 10% per stack, increases mob speed by 1.5% per stack",
           "icon": "the_vault:gui/modifiers/companion_challenge"
         }
       },
@@ -3020,7 +3060,6 @@
         "properties": {
           "children": {
             "the_vault:furious_mobs": 1,
-            "the_vault:chunky_mobs": 1,
             "the_vault:cake_layer_mobspeed": 1,
             "the_vault:cake_mob_increase": 1
           }
@@ -3028,7 +3067,7 @@
         "display": {
           "name": "Challenge Stack",
           "color": "#ba0000",
-          "description": "Increases mob damage, mob health and mob spawns by 10% per stack, increases mob speed by 1.5% per stack",
+          "description": "Increases mob damage,mob spawns by 10% per stack, increases mob speed by 1.5% per stack",
           "icon": "the_vault:gui/modifiers/challenging"
         }
       },

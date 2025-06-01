@@ -192,7 +192,8 @@
           { "type": "constant", "id": "Phytogenic Insulator" },
           { "type": "constant", "id": "Potions" },
           { "type": "constant", "id": "Mixtures" },
-          { "type": "constant", "id": "Brews" }
+          { "type": "constant", "id": "Brews" },
+          { "type": "constant", "id": "Entangled" }
         ],
         "ignoreArrow": true,
         "lockedBy": []

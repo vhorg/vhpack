@@ -2,6 +2,7 @@
   "processingTickTime": 20,
   "outputItem": "the_vault:soul_dust",
   "diffuserOutputMap": {
+    "the_vault:gem_wutodie": 128,
     "the_vault:banished_soul": 42,
     "the_vault:soul_vortex": 45000,
     "the_vault:old_notes": 1024,
