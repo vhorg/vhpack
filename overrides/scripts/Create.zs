@@ -264,3 +264,30 @@ craftingTable.addShaped("create_schematic_table", <item:create:schematic_table>,
 ]);
 
 craftingTable.addShapeless("create_empty_schematic", <item:create:empty_schematic>, [<item:the_vault:magic_silk>, <tag:items:forge:dyes/light_blue>]);
+
+craftingTable.addShapeless("create_andesite_alloy_unpack", <item:create:andesite_alloy> *9, [
+    <item:create:andesite_alloy_block>
+]);
+
+var clusters = {
+  "cluster_bomignite": "bomignite",
+  "cluster_tubium": "tubium",
+  "cluster_ashium": "ashium",
+  "cluster_upaline": "upaline",
+  "cluster_xenium": "xenium",
+  "cluster_gorginite": "gorginite",
+  "cluster_petzanite": "petzanite",
+  "cluster_iskallium": "iskallium",
+  "cluster_sparkletine": "sparkletine"
+};
+
+for clusterId, clusterName in clusters {
+    <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("seq_" + clusterName + "_key")
+                                                      .transitionTo(<item:create:incomplete_track>)
+                                                      .require(<item:the_vault:cluster_${clusterName}>)
+                                                      .loops(0)
+                                                      .addOutput(<item:the_vault:key_${clusterName}> * 1, 32)
+                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:the_vault:blank_key>))
+                                                      .addStep<mods.createtweaker.PressingRecipe>((rb) => rb.duration(500)));
+
+}

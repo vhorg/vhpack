@@ -8,7 +8,7 @@ debugEntityVariantIds:false
 radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:false
-minimap:true
+minimap:false
 caveMaps:2
 caveZoom:1
 showWaypoints:true
@@ -17,7 +17,7 @@ displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
 distance:1
-showCoords:true
+showCoords:false
 lockNorth:true
 zoom:2
 minimapSize:0

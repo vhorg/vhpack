@@ -9,8 +9,6 @@ import mods.initialinventory.InvHandler;
 import mods.mekanism.recipe.Combining;
 import mods.mekanism.api.ingredient.ItemStackIngredient;
 
-InvHandler.addStartingItem("one", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:the_vault_main_guide" as string}), 0);
-
 var dyes = {
   "white_dye": "white",
   "red_dye": "red",
@@ -193,10 +191,6 @@ brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:slow_falling"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:slow_falling" as string}));
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:long_slow_falling"}), <item:the_vault:vault_nugget>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:slow_falling" as string}));
-
-craftingTable.addShapeless("vault_hunters_guide", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:the_vault_main_guide" as string}), [
-    <item:minecraft:book>, <item:minecraft:cobblestone>
-]);
 
 craftingTable.addShaped("bundle", <item:minecraft:bundle>, [
     [<item:minecraft:rabbit_hide>, <item:the_vault:magic_silk>, <item:minecraft:rabbit_hide>],
