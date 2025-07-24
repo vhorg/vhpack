@@ -2164,7 +2164,7 @@
               "the_vault:vault/rooms/omega/vendor1",
               "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
-              "the_vault:vault/rooms/omega/pixel"
+              "the_vault:vault/rooms/omega/pixel1"
             ],
             "counter": {
               "type": "target",
@@ -2194,7 +2194,7 @@
                 "the_vault:vault/rooms/omega/vendor1",
                 "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
-                "the_vault:vault/rooms/omega/pixel"
+                "the_vault:vault/rooms/omega/pixel1"
               ]
             },
             "renderer": {
@@ -4445,7 +4445,7 @@
                 "the_vault:vault/rooms/omega/vendor1",
                 "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
-                "the_vault:vault/rooms/omega/pixel"
+                "the_vault:vault/rooms/omega/pixel1"
             ],
             "counter": {
               "type": "target",
@@ -4475,7 +4475,7 @@
                 "the_vault:vault/rooms/omega/vendor1",
                 "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
-                "the_vault:vault/rooms/omega/pixel"
+                "the_vault:vault/rooms/omega/pixel1"
               ]
             },
             "renderer": {
@@ -6726,7 +6726,7 @@
               "the_vault:vault/rooms/omega/vendor1",
               "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
-              "the_vault:vault/rooms/omega/pixel"
+              "the_vault:vault/rooms/omega/pixel1"
             ],
             "counter": {
               "type": "target",
@@ -6756,7 +6756,7 @@
                 "the_vault:vault/rooms/omega/vendor1",
                 "the_vault:vault/rooms/omega/vendor2",
                 "the_vault:vault/rooms/omega/vendor3",
-                "the_vault:vault/rooms/omega/pixel"
+                "the_vault:vault/rooms/omega/pixel1"
               ]
             },
             "renderer": {

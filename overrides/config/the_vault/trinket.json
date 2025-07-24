@@ -245,7 +245,7 @@
     "the_vault:lucky_goose": {
       "weight": 10,
       "name": "Picture of a Lucky Goose",
-      "effectText": "+100% Item Rarity",
+      "effectText": "+50% Item Rarity",
       "color": 16534066,
       "minCraftedUses": 12,
       "maxCraftedUses": 12,
@@ -253,7 +253,7 @@
       "maxUses": 30,
       "config": {
         "key": "the_vault:item_rarity",
-        "value": 1,
+        "value": 0.5,
         "curiosSlot": "red_trinket"
       }
     },
@@ -296,7 +296,7 @@
     "the_vault:tenos_charm": {
       "weight": 10,
       "name": "Tenos' Necklace",
-      "effectText": "+100% Item Quantity",
+      "effectText": "+25% Item Quantity",
       "color": 16534066,
       "minCraftedUses": 12,
       "maxCraftedUses": 12,
@@ -304,7 +304,7 @@
       "maxUses": 30,
       "config": {
         "key": "the_vault:item_quantity",
-        "value": 1,
+        "value": 0.25,
         "curiosSlot": "red_trinket"
       }
     },

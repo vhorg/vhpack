@@ -53,7 +53,8 @@
       "model": "the_vault:gear/armor/sweetheart/chestplate",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+          "the_vault:u_living"
         ],
         "IMPLICIT": [
           "the_vault:base_health"

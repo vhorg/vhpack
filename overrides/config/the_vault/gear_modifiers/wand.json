@@ -1667,7 +1667,7 @@
         ],
         "tiers": [
           {
-            "minLevel": 0,
+            "minLevel": 25,
             "maxLevel": -1,
             "weight": 100,
             "value": {
@@ -2610,7 +2610,7 @@
         ],
         "tiers": [
           {
-            "minLevel": 0,
+            "minLevel": 25,
             "maxLevel": -1,
             "weight": 10,
             "value": {
