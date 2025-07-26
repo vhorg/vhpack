@@ -1028,6 +1028,35 @@
       {
         "attribute": "the_vault:added_ability_level",
         "group": "ModLvlUtility",
+        "identifier": "the_vault:mod_added_ability_level_shield_bash",
+        "tags": [
+          "focusAbilityPower",
+          "focusAbilityPowerShieldBash"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Shield_Bash",
+              "levelChange": 1
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Shield_Bash",
+              "levelChange": 2
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:added_ability_level",
+        "group": "ModLvlUtility",
         "identifier": "the_vault:mod_added_ability_level_taunt",
         "tags": [
           "focusAbilityPower",
@@ -3716,6 +3745,26 @@
             "weight": 30,
             "value": {
               "abilityKey": "Grenade_Base",
+              "levelChange": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:added_ability_level",
+        "group": "ModLvlUtility",
+        "identifier": "the_vault:corrupted_added_ability_level_shield_bash",
+        "tags": [
+          "focusAbilityPower",
+          "focusAbilityPowerShieldBash"
+        ],
+        "tiers": [
+          {
+            "minLevel": 25,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Shield_Bash",
               "levelChange": 1
             }
           }

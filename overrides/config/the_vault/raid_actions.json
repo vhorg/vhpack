@@ -1105,7 +1105,7 @@
           { "value": "manabloom", "weight": 4 },
           { "value": "iskallibur", "weight": 4 },
           { "value": "annmari", "weight": 4 },
-          { "value": "ivy", "weight": 400000 }
+          { "value": "ivy", "weight": 4 }
         ] },
         { "level": 50, "pool": [
           { "value": "gilded_chest_big", "weight": 130 },

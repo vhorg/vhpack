@@ -2576,7 +2576,8 @@
             "tickDelay": 20,
             "horizontalRange":3,
             "verticalRange": 3,
-            "tick":20
+            "tick":20,
+            "adultChance": 0.2
           },
           {
             "type": "farmer_twerker",
@@ -2586,7 +2587,8 @@
             "tickDelay": 15,
             "horizontalRange":6,
             "verticalRange": 6,
-            "tick":20
+            "tick":20,
+            "adultChance": 0.25
           },
           {
             "type": "farmer_twerker",
@@ -2596,7 +2598,8 @@
             "tickDelay": 10,
             "horizontalRange":9,
             "verticalRange": 9,
-            "tick":20
+            "tick":20,
+            "adultChance": 0.3
           },
           {
             "type": "farmer_twerker",
@@ -2606,7 +2609,8 @@
             "tickDelay": 5,
             "horizontalRange":12,
             "verticalRange": 12,
-            "tick":20
+            "tick":20,
+            "adultChance": 0.35
           }
         ]
       }

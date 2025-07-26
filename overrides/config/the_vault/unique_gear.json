@@ -504,7 +504,7 @@
           "the_vault:u_living"
         ],
         "IMPLICIT": [
-          "the_vault:u_chaining"
+          "the_vault:mod_on_hit_chain"
         ],
         "PREFIX": [
         ],

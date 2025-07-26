@@ -858,8 +858,8 @@
             "weight": 500,
             "value": {
               "min": 5,
-              "max": 5,
-              "step": 1
+              "max": 20,
+              "step": 5
             }
           }
         ]
@@ -1848,7 +1848,7 @@
             }
           },
           {
-            "minLevel": 65,
+            "minLevel": 50,
             "maxLevel": -1,
             "weight": 5,
             "value": {
@@ -1858,6 +1858,20 @@
               "highlightColor": 6082075,
               "min": 3,
               "max": 4,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:frost_nova_vulnerability",
+              "abilityKey": "Nova_Slow",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 5,
+              "max": 6,
               "step": 1
             }
           }
@@ -2293,6 +2307,15 @@
         ],
         "tiers": [
           {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Nova_Slow",
+              "levelChange": 1
+            }
+          },
+          {
             "minLevel": 25,
             "maxLevel": -1,
             "weight": 60,
@@ -2302,12 +2325,57 @@
             }
           },
           {
-            "minLevel": 101,
+            "minLevel": 25,
             "maxLevel": -1,
             "weight": 60,
             "value": {
               "abilityKey": "Nova_Slow",
-              "levelChange": 2
+              "levelChange": 3
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Nova_Slow",
+              "levelChange": 4
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Nova_Slow",
+              "levelChange": 5
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Nova_Slow",
+              "levelChange": 6
+            }
+          },
+          {
+            "minLevel": 75,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Nova_Slow",
+              "levelChange": 7
+            }
+          },
+          {
+            "minLevel": 75,
+            "maxLevel": -1,
+            "weight": 60,
+            "value": {
+              "abilityKey": "Nova_Slow",
+              "levelChange": 8
             }
           }
         ]
@@ -2732,14 +2800,6 @@
             "value": {
               "flag": true
             }
-          },
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "flag": false
-            }
           }
         ]
       },
@@ -2756,14 +2816,6 @@
             "weight": 20,
             "value": {
               "flag": true
-            }
-          },
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "flag": false
             }
           }
         ]
@@ -2782,14 +2834,6 @@
             "value": {
               "flag": true
             }
-          },
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "flag": false
-            }
           }
         ]
       },
@@ -2807,14 +2851,6 @@
             "value": {
               "flag": true
             }
-          },
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "flag": false
-            }
           }
         ]
       },
@@ -2831,14 +2867,6 @@
             "weight": 20,
             "value": {
               "flag": true
-            }
-          },
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "flag": false
             }
           }
         ]
