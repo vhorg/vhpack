@@ -1425,7 +1425,7 @@
       },
       
       { "attribute": "the_vault:effect_cloud",
-        "group": "ModHitCloud",
+        "group": "ModOnHitAddition",
         "identifier": "the_vault:mod_healing_cloud",
         "tags": [
           "focusHealingCloud"
@@ -1549,7 +1549,7 @@
         ]
       },
       { "attribute": "the_vault:effect_cloud",
-        "group": "ModHitCloud",
+        "group": "ModOnHitAddition",
         "identifier": "the_vault:mod_poison_cloud",
         "tags": [
           "focusPoisonCloud"
@@ -1673,7 +1673,7 @@
         ]
       },
       { "attribute": "the_vault:effect_cloud",
-        "group": "ModHitCloud",
+        "group": "ModOnHitAddition",
         "identifier": "the_vault:mod_fear_cloud",
         "tags": [
           "focusFearCloud"
@@ -1797,7 +1797,7 @@
         ]
       },
       { "attribute": "the_vault:effect_cloud",
-        "group": "ModHitCloud",
+        "group": "ModOnHitAddition",
         "identifier": "the_vault:mod_chilling_cloud",
         "tags": [
           "focusChillingCloud"

@@ -525,11 +525,11 @@
         "display": {
           "TAB_LIST": {
             "text": " of the Ancients",
-            "color": "#AAAAAA"
+            "color": "#FF0000"
           },
           "CHAT": {
             "text": " of the Ancients",
-            "color": "#AAAAAA"
+            "color": "#FF0000"
           }
         },
         "cost": 1

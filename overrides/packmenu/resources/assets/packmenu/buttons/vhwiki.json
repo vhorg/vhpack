@@ -1,0 +1,19 @@
+{
+	"x": -100,
+	"y": 72,
+	"width": 200,
+	"height": 20,
+	"langKey": "packmenu.vhwiki",
+	"action": "OPEN_URL",
+	"data": "https://wiki.vaulthunters.gg/",
+	"texture": "packmenu:textures/gui/button206.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 200,
+	"texHeight": 40,
+	"fontColor": 0,
+	"hoverFontColor": 0,
+	"dropShadow": false
+}

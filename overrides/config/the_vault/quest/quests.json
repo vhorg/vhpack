@@ -995,7 +995,11 @@
         "items": [
           {
             "item": "the_vault:animal_jar",
-            "amount": 2
+            "amount": 1
+          },
+          {
+            "item": "the_vault:animal_jar",
+            "amount": 1
           },
           {
             "item": "the_vault:animal_pen",

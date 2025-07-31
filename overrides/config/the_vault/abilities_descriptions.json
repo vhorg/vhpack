@@ -3360,7 +3360,15 @@
     "Ice_Bolt_Base": {
       "description": [
         {
-          "text": "Summon a small Ice Bolt, dealing no damage but ",
+          "text": "Summon a small Ice Bolt, dealing ",
+          "color": "$text"
+        },
+        {
+          "text": "flat damage",
+          "color": "$damage"
+        },
+        {
+          "text": " and ",
           "color": "$text"
         },
         {
