@@ -388,11 +388,11 @@ craftingTable.addShapeless("experience_convert", <item:minecraft:experience_bott
 // <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_lvl30" as string})
 
 
-<tag:items:vault:augments>.add(<item:the_vault:augment>);
+//<tag:items:vault:augments>.add(<item:the_vault:augment>);
 
-craftingTable.addShapeless("chaos_augment", <item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_chaos" as string}), [
-    <tag:items:vault:augments>, <tag:items:vault:augments>, <tag:items:vault:augments>
-]);
+//craftingTable.addShapeless("chaos_augment", <item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_chaos" as string}), [
+//    <tag:items:vault:augments>, <tag:items:vault:augments>, <tag:items:vault:augments>
+//]);
 
 craftingTable.addShaped("entangled_block", <item:entangled:block>, [
     [<item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:polished_vault_stone>, <item:the_vault:black_chromatic_steel_ingot>],
@@ -404,4 +404,14 @@ craftingTable.addShaped("entangled_item", <item:entangled:item>, [
     [<item:minecraft:air>, <item:the_vault:driftwood>, <item:minecraft:air>],
     [<item:minecraft:air>, <item:the_vault:gem_echo>, <item:the_vault:driftwood>],
     [<item:the_vault:driftwood>, <item:minecraft:air>, <item:minecraft:air>]
+]);
+
+craftingTable.addShaped("new_hopper", <item:minecraft:hopper>, [
+    [<item:minecraft:iron_ingot>, <tag:items:minecraft:logs>, <item:minecraft:iron_ingot>],
+    [<item:minecraft:iron_ingot>, <tag:items:minecraft:logs>, <item:minecraft:iron_ingot>],
+    [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>]
+]);
+
+craftingTable.addShapeless("black_dye", <item:minecraft:black_dye>, [
+    <tag:items:minecraft:coals>
 ]);

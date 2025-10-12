@@ -15,9 +15,9 @@
       "headerColor": -8388608,
       "headerTextColor": -1,
       "x": -10,
-      "y": 95,
+      "y": 215,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/handling"
     },
     "BigToys": {
@@ -25,7 +25,7 @@
       "headerColor": -16776961,
       "headerTextColor": -1,
       "x": -10,
-      "y": 215,
+      "y": 95,
       "boxWidth": 170,
       "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/big_toys"
@@ -87,7 +87,7 @@
       "x": 370,
       "y": 215,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/vault_upgrades"
     }
   }

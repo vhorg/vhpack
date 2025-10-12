@@ -291,3 +291,9 @@ for clusterId, clusterName in clusters {
                                                       .addStep<mods.createtweaker.PressingRecipe>((rb) => rb.duration(500)));
 
 }
+
+craftingTable.addShaped("create_attribute_filter", <item:create:attribute_filter>, [
+    [<item:the_vault:magic_silk>, <item:the_vault:magic_silk>, <item:the_vault:magic_silk>],
+    [<item:the_vault:vault_diamond>, <item:the_vault:gem_pog>, <item:the_vault:vault_diamond>],
+    [<item:the_vault:magic_silk>, <item:the_vault:magic_silk>, <item:the_vault:magic_silk>]
+]);

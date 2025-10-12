@@ -866,6 +866,25 @@
       },
       { "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
+        "identifier": "the_vault:u_jewel_size_pax",
+        "tags": [
+          "focusHealth"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 500,
+            "value": {
+              "min": 5,
+              "max": 15,
+              "step": 5
+            }
+          }
+        ]
+      },
+      { "attribute": "the_vault:jewel_size",
+        "group": "ModHealthMana",
         "identifier": "the_vault:u_jewel_size_manabloom",
         "tags": [
           "focusJewel"
@@ -3686,8 +3705,22 @@
               "abilityKey": "Empower_Slowness_Aura",
               "textColor": 14076214,
               "highlightColor": 6082075,
-              "min": 2,
+              "min": 1,
               "max": 6,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:entropic_bind_poison",
+              "abilityKey": "Empower_Slowness_Aura",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 7,
+              "max": 12,
               "step": 1
             }
           }

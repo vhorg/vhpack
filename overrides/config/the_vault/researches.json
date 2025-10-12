@@ -1368,6 +1368,22 @@
       "name": "Botania Flux Field",
       "cost": 2,
       "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "create:attribute_filter": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Filters",
+      "cost": 12,
+      "usesKnowledge": true
     }
   ]
 }

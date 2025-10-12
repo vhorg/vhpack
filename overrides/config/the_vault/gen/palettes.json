@@ -41,6 +41,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_lush_cave.json"
     },
     {
+      "id": "the_vault:universal_gloom",
+      "name": "Universal Gloom",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_gloom.json"
+    },
+    {
       "id": "the_vault:universal_living_cave",
       "name": "Universal Living Cave",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_living_cave.json"
@@ -424,6 +429,11 @@
       "id": "the_vault:generic/spawners/lush_cave_mobs",
       "name": "Lush Cave Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/lush_cave_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/gloom_mobs",
+      "name": "Gloom Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/gloom_mobs.json"
     },
     {
       "id": "the_vault:generic/spawners/ice_mobs",

@@ -251,7 +251,7 @@
       "name": "Pax",
       "modifierIdentifiers": {
         "IMPLICIT": [
-          "the_vault:u_jewel_size"
+          "the_vault:u_jewel_size_pax"
         ],
         "PREFIX": [
           "the_vault:u_picking",

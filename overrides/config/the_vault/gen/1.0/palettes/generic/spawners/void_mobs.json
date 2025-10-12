@@ -189,6 +189,62 @@
               "weight": 1
             }
           ]
+        },
+        {
+          "level": 20,
+          "type": "spawner",
+          "target": "ispawner:spawner{group:assassin}",
+          "output": [
+            {
+              "elements": {
+                "the_vault:deep_dark_piglin": 50,
+                "the_vault:deep_dark_silverfish": 20
+              },
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "type": "spawner",
+          "target": "ispawner:spawner{group:assassin}",
+          "output": [
+            {
+              "elements": {
+                "the_vault:deep_dark_piglin": 50,
+                "the_vault:deep_dark_silverfish": 20
+              },
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "level": 65,
+          "type": "spawner",
+          "target": "ispawner:spawner{group:assassin}",
+          "output": [
+            {
+              "elements": {
+                "the_vault:deep_dark_piglin": 50,
+                "the_vault:deep_dark_silverfish": 20
+              },
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "level": 90,
+          "type": "spawner",
+          "target": "ispawner:spawner{group:assassin}",
+          "output": [
+            {
+              "elements": {
+                "the_vault:deep_dark_piglin": 50,
+                "the_vault:deep_dark_silverfish": 20
+              },
+              "weight": 1
+            }
+          ]
         }
       ]
     },

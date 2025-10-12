@@ -113,8 +113,28 @@
           {
             "value": "the_vault:classic_vault_aurora_cave",
             "weight": 3
+          },
+          {
+            "value": "the_vault:classic_vault_gloom",
+            "weight": 0
           }
-        ]
+        ],
+        "seasonalWeights": {
+          "the_vault:classic_vault_gloom": {
+            "ranges": [
+              {
+                "from": "10-01",
+                "to": "10-31",
+                "weight": 50
+              },
+              {
+                "from": "10-30",
+                "to": "10-31",
+                "weight": 5000
+              }
+            ]
+          }
+        }
       },
       {
         "level": 20,
@@ -266,8 +286,28 @@
           {
             "value": "the_vault:classic_vault_aurora_cave",
             "weight": 8
+          },
+          {
+            "value": "the_vault:classic_vault_gloom",
+            "weight": 0
           }
-        ]
+        ],
+        "seasonalWeights": {
+          "the_vault:classic_vault_gloom": {
+            "ranges": [
+              {
+                "from": "10-01",
+                "to": "10-31",
+                "weight": 50
+              },
+              {
+                "from": "10-30",
+                "to": "10-31",
+                "weight": 5000
+              }
+            ]
+          }
+        }
       },
       {
         "level": 30,
@@ -431,8 +471,28 @@
           {
             "value": "the_vault:classic_vault_aurora_cave",
             "weight": 9
+          },
+          {
+            "value": "the_vault:classic_vault_gloom",
+            "weight": 0
           }
-        ]
+        ],
+        "seasonalWeights": {
+          "the_vault:classic_vault_gloom": {
+            "ranges": [
+              {
+                "from": "10-01",
+                "to": "10-31",
+                "weight": 50
+              },
+              {
+                "from": "10-30",
+                "to": "10-31",
+                "weight": 5000
+              }
+            ]
+          }
+        }
       }
     ],
     "the_vault:base_greed": [

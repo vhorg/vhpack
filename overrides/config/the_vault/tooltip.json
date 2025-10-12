@@ -6,39 +6,47 @@
     },
     {
       "item": "the_vault:crystal_seal_scout",
-      "value": "Use in the Crystal Workbench to set the objective to 'Light The Braziers'"
+      "value": "Use in the Crystal Workbench to set the objective to <white>Light The Braziers"
     },
     {
       "item": "the_vault:crystal_seal_hunter",
-      "value": "Use in the Crystal Workbench to set the objective to 'Scavenger Hunt'"
+      "value": "Use in the Crystal Workbench to set the objective to <white>Scavenger Hunt"
+    },
+    {
+      "item": "the_vault:crystal_seal_big_hunter",
+      "value": "Use in the Crystal Workbench to set the objective to <white>Scavenger Hunt<gray> (Big Boi)"
     },
     {
       "item": "the_vault:crystal_seal_executioner",
-      "value": "Use in the Crystal Workbench to set the objective to 'Hunt The Runes'"
+      "value": "Use in the Crystal Workbench to set the objective to <white>Hunt The Runes"
     },
     {
       "item": "the_vault:crystal_seal_sage",
-      "value": "Use in the Crystal Workbench to set the objective to 'Elixir Rush'"
+      "value": "Use in the Crystal Workbench to set the objective to <white>Elixir Rush"
     },
     {
       "item": "the_vault:crystal_seal_prophet",
-      "value": "Use in the Crystal Workbench to set the objective to 'Bingo'"
+      "value": "Use in the Crystal Workbench to set the objective to <white>Bingo<gray> (4x4)"
     },
     {
-      "item": "the_vault:crystal_seal_offering_boss",
-      "value": "Use in the Crystal Workbench to set the objective to 'Offering Boss'"
+      "item": "the_vault:crystal_seal_big_prophet",
+      "value": "Use in the Crystal Workbench to set the objective to <white>Bingo<gray> (5x5)"
+    },
+    {
+      "item": "the_vault:crystal_seal_greed",
+      "value": "Use in the Crystal Workbench to set the <white>tier <gray>of your Greed Crystal"
     },
     {
       "item": "the_vault:capstone_dungeon_hunter",
-      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Dungeon Hunter' modifier"
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the <white>Dungeon Hunter<gray> modifier"
     },
     {
       "item": "the_vault:capstone_treasure_hunter",
-      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Treasure Hunter' modifier"
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the <white>Treasure Hunter<gray> modifier"
     },
     {
       "item": "the_vault:phoenix_feather",
-      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Phoenix' modifier"
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the <white>Phoenix<gray> modifier"
     },
     {
       "item": "the_vault:eye_of_avarice",
@@ -50,11 +58,15 @@
     },
     {
       "item": "the_vault:capstone_pylon_hunter",
-      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Pylon Hunter' modifier"
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the <white>Pylon Hunter<gray> modifier"
     },
     {
       "item": "the_vault:capstone_vendoor_hunter",
-      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Vendoor Hunter' modifier"
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the <white>Vendoor Hunter<gray> modifier"
+    },
+    {
+      "item": "the_vault:capstone_peaceful",
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the <white>Peaceful<gray> modifier"
     },
     {
       "item": "the_vault:crystal_seal_cake",
@@ -162,7 +174,7 @@
     },
     {
       "item": "the_vault:plunderer_pearl",
-      "value": "Put this Vault Rock on a Vault Altar to create a Plunderer's Crystal, making the vault not yield any experience, but increases the loot amount by 10% and vault ore generation by 25%"
+      "value": "Put this Vault Rock on a Vault Altar to create a Plunderer's Crystal, making the vault not yield any experience or artifacts, but increases the loot amount by 10% and vault ore generation by 25%"
     },
     {
       "item": "the_vault:wardens_pearl",
@@ -178,47 +190,47 @@
     },
     {
       "item": "the_vault:vault_compass",
-      "value": "Points to the home portal in a Vault"
+      "value": "Points to locations in a Vault"
     },
     {
       "item": "the_vault:plain_burger",
-      "value": "Consume to gain 1500 Vault Experience"
+      "value": "Consume to gain <$yellow>1500<gray> Vault Experience"
     },
     {
       "item": "the_vault:cheese_burger",
-      "value": "Consume to gain 3000 Vault Experience"
+      "value": "Consume to gain <$yellow>3000<gray> Vault Experience"
     },
     {
       "item": "the_vault:double_cheese_burger",
-      "value": "Consume to gain 4500 Vault Experience"
+      "value": "Consume to gain <$yellow>4500<gray> Vault Experience"
     },
     {
       "item": "the_vault:deluxe_cheese_burger",
-      "value": "Consume to gain 6000 Vault Experience"
+      "value": "Consume to gain <$yellow>6000<gray> Vault Experience"
     },
     {
       "item": "the_vault:crispy_deluxe_cheese_burger",
-      "value": "Consume to gain 12000 Vault Experience"
+      "value": "Consume to gain <$yellow>12000<gray> Vault Experience"
     },
     {
       "item": "the_vault:salty_deluxe_cheese_burger",
-      "value": "Consume to gain 18000 Vault Experience"
+      "value": "Consume to gain <$yellow>18000<gray> Vault Experience"
     },
     {
       "item": "the_vault:cheese_burger_feast",
-      "value": "Consume to gain 40000 Vault Experience"
+      "value": "Consume to gain <$yellow>40000<gray> Vault Experience"
     },
     {
       "item": "the_vault:spicy_hearty_burger",
-      "value": "Consume to gain 80000 Vault Experience"
+      "value": "Consume to gain <$yellow>80000<gray> Vault Experience"
     },
     {
       "item": "the_vault:vault_burger",
-      "value": "Eat to gain 0-3% of required\nexperience to next level"
+      "value": "Eat to gain <$yellow>0-3%<gray> of required\nexperience to next level"
     },
     {
       "item": "the_vault:oozing_pizza",
-      "value": "Eat to gain 0-1% of required\nexperience to next level"
+      "value": "Eat to gain <$yellow>0-1%<gray> of required\nexperience to next level"
     },
     {
       "item": "the_vault:vault_cookie",
@@ -850,7 +862,7 @@
     },
     {
       "item": "the_vault:companion_relic",
-      "value": "Use in a Companion Home to add a modifier to your companion."
+      "value": "Use in a Companion Home to add a modifier to your companion. To remove this relic it will cost vault gold."
     },
     {
       "item": "the_vault:companion_egg",

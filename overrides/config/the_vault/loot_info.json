@@ -68,7 +68,7 @@
       }
     },
     "the_vault:completion_crate_guardian": {
-      "display": "Guardian Completion Crates",
+      "display": "Rune Boss Completion Crates",
       "lootTableKeys": {
         "the_vault:base_crate_0": {"level": 0},
         "the_vault:base_crate_20": {"level": 20},
@@ -84,7 +84,7 @@
       }
     },
     "the_vault:completion_crate_brazier": {
-      "display": "Brazier Completion Crate",
+      "display": "Brazier Completion Crates",
       "lootTableKeys": {
         "the_vault:base_crate_0": {"level": 0},
         "the_vault:base_crate_20": {"level": 20},
@@ -92,7 +92,7 @@
       }
     },
     "the_vault:completion_crate_scavenger": {
-      "display": "Scavenger Completion Crate",
+      "display": "Scavenger Completion Crates",
       "lootTableKeys": {
         "the_vault:base_crate_2_0": {"level": 0},
         "the_vault:base_crate_2_20": {"level": 20},
@@ -100,13 +100,13 @@
       }
     },
     "the_vault:completion_crate_paradox": {
-      "display": "Divine Paradox Completion Crate",
+      "display": "Divine Paradox Completion Crates",
       "lootTableKeys": {
         "the_vault:completion_paradox": {"level": 0}
       }
     },
     "the_vault:full_bingo": {
-      "display": "Full Bingo Crate",
+      "display": "Full Bingo Crates",
       "lootTableKeys": {
         "the_vault:bingo_full_crate": {"level": 0},
         "the_vault:bingo_bonus": {"level": 50}
@@ -153,6 +153,14 @@
       "display": "Living Strongboxes",
       "lootTableKeys": {
         "the_vault:living_strongbox_lvl50": {"level": 50}
+      }
+    },
+     "the_vault:champion": {
+      "display": "Champions",
+      "lootTableKeys": {
+        "the_vault:champion_loot_lvl0": {"level": 0},
+        "the_vault:champion_loot_lvl20": {"level": 20},
+        "the_vault:champion_loot_lvl50": {"level": 50}
       }
     }
   }

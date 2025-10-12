@@ -4192,6 +4192,16 @@
                 "maxCount": 1
               },
               "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_chaos"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
             }
           ],
           "minTotalStacks": 4,

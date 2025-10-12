@@ -171,37 +171,37 @@
     },
     "Building Gadgets": {
       "x": 10,
-      "y": 240,
+      "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/building_gadgets"
     },
     "Laser Bridges": {
       "x": 10,
-      "y": 280,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/laser_bridges"
     },
     "Weirding Gadgets": {
       "x": 60,
-      "y": 240,
+      "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/weirding_gadgets"
     },
     "Mining Gadgets": {
       "x": 110,
-      "y": 240,
+      "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mining_gadgets"
     },
     "Digital Miner": {
       "x": 60,
-      "y": 280,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/digital_miner"
     },
     "Entangled": {
       "x": 110,
-      "y": 280,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/entangled"
     },
@@ -249,13 +249,13 @@
     },
     "Automatic Genius": {
       "x": 60,
-      "y": 160,
+      "y": 320,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/automatic_genius"
     },
     "Dark Utilities": {
       "x": 110,
-      "y": 160,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/dark_utilities"
     },
@@ -291,27 +291,33 @@
     },
     "Xnet": {
       "x": 10,
-      "y": 120,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/xnet"
     },
     "Modular Routers": {
       "x": 60,
-      "y": 120,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/modular_routers"
     },
     "Pipez": {
       "x": 110,
-      "y": 120,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/pretty_pipes"
     },
     "Iron Furnaces": {
       "x": 10,
-      "y": 160,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/iron_furnaces"
+    },
+    "Vault Filters": {
+      "x": 60,
+      "y": 280,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/filters"
     },
     "Potions": {
       "x": 390,
@@ -331,9 +337,5 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/brew"
     }
-    
-    
-    
   }
-    
 }

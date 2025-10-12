@@ -68,3 +68,11 @@
 	visible = true
 	cosmetic = false
 	icon = "the_vault:gui/slot/curios/deck_slot"
+
+[[curiosSettings]]
+    identifier = "compass"
+    priority = 12
+    size = 1
+    visible = true
+    cosmetic = false
+    icon = "the_vault:gui/slot/curios/vault_compass"

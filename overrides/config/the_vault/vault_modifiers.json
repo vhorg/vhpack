@@ -282,7 +282,11 @@
         "properties": {
           "output": "the_vault:placeholder[type=coin_stacks]",
           "attemptsPerChunk": 12,
-          "requireConditions": true
+          "requireConditions": true,
+          "roomTypeWhitelist": [
+            "COMMON",
+            "ORE"
+          ]
         },
         "display": {
           "name": "Bonus Coins",
@@ -3538,7 +3542,8 @@
             {
               "filter": "the_vault:treasure_door[open=false]",
               "radius": 64.0,
-              "color": 16771584
+              "color": 16771584,
+              "target": "treasure_doors"
             }
           ]
         },
@@ -3555,7 +3560,8 @@
             {
               "filter": "the_vault:pylon",
               "radius": 64.0,
-              "color": 8501759
+              "color": 8501759,
+              "target": "pylons"
             }
           ]
         },
@@ -3572,6 +3578,7 @@
             {
               "filter": "the_vault:dungeon_door[open=false]",
               "radius": 64.0,
+              "target": "dungeons",
               "color": 6836358
             }
           ]
@@ -3589,6 +3596,7 @@
             {
               "filter": "the_vault:vendor_door[open=false]",
               "radius": 64.0,
+              "target": "vendoors",
               "color": 16472397
             }
           ]
