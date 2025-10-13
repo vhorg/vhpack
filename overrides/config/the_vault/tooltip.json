@@ -913,10 +913,6 @@
       "value": "Sucks dropped items towards the player\nActivate by Right-clicking in hotbar"
     },
     {
-      "item": "the_vault:void_liquid_bucket",
-      "value": "Crafting ingredient"
-    },
-    {
       "item": "the_vault:vaulterite_ingot",
       "value": "Crafting ingredient"
     },

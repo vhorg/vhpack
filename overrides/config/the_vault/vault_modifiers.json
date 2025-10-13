@@ -3019,7 +3019,7 @@
         "display": {
           "name": "Loot Goblin",
           "color": "#bbf333",
-          "description": "Doubles all loot and triples its rarity!",
+          "description": "Adds +100% Item Quantity and +200% Item Rarity!",
           "icon": "the_vault:gui/modifiers/loot_goblin"
         }
       },

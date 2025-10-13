@@ -3698,7 +3698,7 @@
         "tiers": [
           {
             "minLevel": 0,
-            "maxLevel": -1,
+            "maxLevel": 49,
             "weight": 5,
             "value": {
               "specialModificationKey": "the_vault:entropic_bind_poison",

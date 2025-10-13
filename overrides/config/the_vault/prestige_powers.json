@@ -189,7 +189,7 @@
 				"name": "Gift of the Petal",
 				"tiers": [
 					{
-						"type": "activatable_trinket_power",
+						"type": "potion_effect_power",
 						"effectId": "minecraft:regeneration",
 						"ambient": true,
 						"visible": false,
