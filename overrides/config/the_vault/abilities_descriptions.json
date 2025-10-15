@@ -25,7 +25,6 @@
         "distance"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "distance"
@@ -57,7 +56,6 @@
         "damage"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "distance",
@@ -101,7 +99,6 @@
         "force"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "force"
@@ -140,7 +137,6 @@
         "damage"
       ],
       "next": [
-
         "cooldown",
         "duration",
         "damage"
@@ -204,7 +200,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -270,7 +265,6 @@
         "chance"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -328,7 +322,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -381,7 +374,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -413,7 +405,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration"
@@ -482,7 +473,6 @@
         "heal"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "heal"
@@ -504,7 +494,6 @@
         "manaCost"
       ],
       "next": [
-
         "cooldown",
         "manaCost"
       ]
@@ -535,7 +524,6 @@
         "adjustedRadius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "heal",
@@ -656,7 +644,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -697,7 +684,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -738,7 +724,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -779,7 +764,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -820,7 +804,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -861,7 +844,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -947,7 +929,6 @@
         "manaCost",
         "cooldown",
         "healthPoints"
-
       ],
       "next": [
         "manaCost",
@@ -1156,7 +1137,6 @@
         "manaDamage",
         "adjustedRadius",
         "cooldown"
-
       ],
       "next": [
         "manaDamage",
@@ -1216,7 +1196,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "rangeVertical",
@@ -1244,7 +1223,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "rangeVertical"
@@ -1292,7 +1270,6 @@
         "ability_power"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1342,7 +1319,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1400,7 +1376,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1432,7 +1407,6 @@
         "damage"
       ],
       "next": [
-
         "cooldown",
         "manaCostPerSecond",
         "damage"
@@ -1463,7 +1437,6 @@
         "chains"
       ],
       "next": [
-
         "cooldown",
         "manaCostPerSecond",
         "chains"
@@ -1494,7 +1467,6 @@
         "leech"
       ],
       "next": [
-
         "cooldown",
         "manaCostPerSecond",
         "leech"
@@ -1602,7 +1574,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "damageReduction",
@@ -1666,7 +1637,6 @@
         "adjustedDuration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "damageReduction",
@@ -1760,7 +1730,6 @@
         "duration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "eternals",
@@ -1798,7 +1767,6 @@
 
       ],
       "next": [
-
         "speed",
         "adjustedRadius",
         "cooldown",
@@ -1838,8 +1806,6 @@
         "adjustedDuration",
         "manaCostPerSecond",
         "cooldown"
-
-
       ],
       "next": [
         "chilled",
@@ -1879,8 +1845,6 @@
         "adjustedRadius",
         "manaCostPerSecond",
         "cooldown"
-
-
       ],
       "next": [
         "adjustedRadius",
@@ -1947,7 +1911,6 @@
         "vulnerable"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1998,7 +1961,6 @@
         "distance"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -2067,7 +2029,6 @@
         "speed"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -2112,7 +2073,6 @@
         "heal"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2155,7 +2115,6 @@
         "manaRegen"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2211,7 +2170,6 @@
         "delay"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2255,7 +2213,6 @@
         "damage"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2286,7 +2243,6 @@
         "blocks"
       ],
       "next": [
-
         "blocks"
       ]
     },
@@ -2322,7 +2278,6 @@
         "unbreaking"
       ],
       "next": [
-
         "blocks",
         "unbreaking"
       ]
@@ -2359,7 +2314,6 @@
         "fortune"
       ],
       "next": [
-
         "blocks",
         "fortune"
       ]
@@ -2395,7 +2349,6 @@
         "blocks"
       ],
       "next": [
-
         "blocks"
       ]
     },
@@ -2435,10 +2388,8 @@
         "knockback",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-
         "damage",
         "knockback",
         "cooldown",
@@ -2481,10 +2432,8 @@
         "piercing",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-
         "damage",
         "piercing",
         "cooldown",
@@ -2532,10 +2481,8 @@
         "numberOfBounces",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-
         "damage",
         "numberOfJavelins",
         "numberOfBounces",
@@ -2595,7 +2542,6 @@
         "adjustedDuration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "adjustedRadius",
@@ -2648,7 +2594,6 @@
         }
       ],
       "current": [
-
         "abilityRange",
         "damageInterval",
         "adjustedRadius",
@@ -2657,8 +2602,6 @@
         "cooldown"
       ],
       "next": [
-
-
         "abilityRange",
         "damageInterval",
         "adjustedRadius",
@@ -2793,14 +2736,12 @@
         }
       ],
       "current": [
-
         "stunChance",
         "manaCostPerSecond",
         "additionalManaPerHit",
         "cooldown"
       ],
       "next": [
-
         "stunChance",
         "manaCostPerSecond",
         "additionalManaPerHit",
@@ -2981,7 +2922,6 @@
         "duration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "ability_power",
@@ -3087,7 +3027,6 @@
         "stormInterval",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "abilityRange",
@@ -3496,7 +3435,6 @@
         "ability_power",
         "distance",
         "manaCost"
-
       ],
       "next": [
         "ability_power",

@@ -113,7 +113,8 @@
           5
         ]
       ],
-      "trinketCost": 10
+      "trinketCost": 10,
+      "pendantCost": 10
     },
     {
       "minLevel": 20,
@@ -222,7 +223,8 @@
           10
         ]
       ],
-      "trinketCost": 10
+      "trinketCost": 10,
+      "pendantCost": 10
     },
     {
       "minLevel": 40,
@@ -331,7 +333,8 @@
           12
         ]
       ],
-      "trinketCost": 12
+      "trinketCost": 12,
+      "pendantCost": 12
     },
     {
       "minLevel": 50,
@@ -452,7 +455,8 @@
           14
         ]
       ],
-      "trinketCost": 14
+      "trinketCost": 14,
+      "pendantCost": 14
     },
     {
       "minLevel": 65,
@@ -573,7 +577,8 @@
           14
         ]
       ],
-      "trinketCost": 14
+      "trinketCost": 14,
+      "pendantCost": 14
     }
   ]
 }
