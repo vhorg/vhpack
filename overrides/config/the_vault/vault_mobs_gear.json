@@ -383,6 +383,36 @@
         }
       }
     ],
+    "the_vault:puzzle_bruiser_guardian": [
+      {
+        "minLevel": 0,
+        "slots": {
+          "HEAD": [
+          ],
+          "CHEST": [
+          ],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "the_vault:axe",
+                "NBT": "{\"the_vault:gear_model\":\"the_vault:gear/axe/puzzle_cleaver\",\"the_vault:state\":2}"
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "ITEM": "the_vault:axe",
+                "NBT": "{\"the_vault:gear_model\":\"the_vault:gear/axe/puzzle_hammer\",\"the_vault:state\":2}"
+              },
+              "weight": 1
+            }
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "OFFHAND": []
+        }
+      }
+    ],
     "the_vault:puzzle_arbalist_guardian": [
       {
         "minLevel": 0,
@@ -1558,7 +1588,7 @@
             },
             {
               "value": {
-                "ITEM": "minecraft:red_banner"
+                "ITEM": "minecraft:red_banner"             
               },
               "weight": 6
             }
@@ -1603,7 +1633,7 @@
             },
             {
               "value": {
-                "ITEM": "minecraft:red_banner"
+                "ITEM": "minecraft:red_banner"             
               },
               "weight": 6
             }
@@ -1648,7 +1678,7 @@
             },
             {
               "value": {
-                "ITEM": "minecraft:red_banner"
+                "ITEM": "minecraft:red_banner"             
               },
               "weight": 6
             }
@@ -2659,7 +2689,7 @@
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
-
+          
 
           ],
           "OFFHAND": []

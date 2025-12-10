@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "the_vault:pickup_notifier": {
+    "hudPosition": {
+      "xPct": 0.5,
+      "yPct": 0.4984227
+    },
+    "scale": 1.0,
+    "horizontalAlignment": "RIGHT",
+    "verticalAlignment": "BOTTOM",
+    "showItemName": true,
+    "showItemIcon": true,
+    "showItemRarity": true,
+    "showItemAmount": true,
+    "displayDuration": 80,
+    "removalTime": 20,
+    "fade": true,
+    "colour": 16777215,
+    "enabled": true
+  }
+}

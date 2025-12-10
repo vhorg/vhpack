@@ -1864,22 +1864,6 @@
       }
     },
     {
-      "id": "the_vault:vault/rooms/challenge/wildwest3",
-      "name": "Wild West 3",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/wildwest3.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/rooms/challenge/wildwest4",
-      "name": "Wild West 4",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/wildwest4.nbt"
-      }
-    },
-    {
       "id": "the_vault:vault/rooms/challenge/factory1",
       "name": "Factory 1",
       "1.0": {
@@ -1917,14 +1901,6 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/vendor3.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/rooms/omega/cube",
-      "name": "Omega Cube",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/cube.nbt"
       }
     },
     {
@@ -1973,6 +1949,22 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/blacksmith1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/blacksmith2",
+      "name": "Omega Blacksmith 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/blacksmith2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/warehouse",
+      "name": "Omega Warehouse",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/warehouse.nbt"
       }
     },
     {
@@ -3912,30 +3904,6 @@
       }
     },
     {
-      "id": "the_vault:vault/decor/dragon/hanging5",
-      "name": "Hanging 5",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/dragon/hanging5.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/dragon/hanging6",
-      "name": "Hanging 6",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/dragon/hanging6.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/dragon/hanging7",
-      "name": "Hanging 7",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/dragon/hanging7.nbt"
-      }
-    },
-    {
       "id": "the_vault:vault/rooms/challenge/dragon1",
       "name": "Dragon 1",
       "1.0": {
@@ -3944,267 +3912,123 @@
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/plate1",
-      "name": "Wild West Plate 1",
+      "id": "the_vault:vault/rooms/challenge/dragon2",
+      "name": "Dragon 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/plate1.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/dragon2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/plate2",
-      "name": "Wild West Plate 2",
+      "id": "the_vault:vault/decor/wildwest/floor1",
+      "name": "Wild West Floor 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/plate2.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/plate3",
-      "name": "Wild West Plate 3",
+      "id": "the_vault:vault/decor/wildwest/floor2",
+      "name": "Wild West Floor 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/plate3.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/small_pile1",
-      "name": "Wild West Small Pile 1",
+      "id": "the_vault:vault/decor/wildwest/floor3",
+      "name": "Wild West Floor 3",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/small_pile1.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor3.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/small_pile2",
-      "name": "Wild West Small Pile 2",
+      "id": "the_vault:vault/decor/wildwest/floor4",
+      "name": "Wild West Floor 4",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/small_pile2.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor4.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/big_pile1",
-      "name": "Wild West Big Pile 1",
+      "id": "the_vault:vault/decor/wildwest/floor5",
+      "name": "Wild West Floor 5",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/big_pile1.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor5.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/big_pile2",
-      "name": "Wild West Big Pile 2",
+      "id": "the_vault:vault/decor/wildwest/floor6",
+      "name": "Wild West Floor 6",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/big_pile2.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor6.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/big_pile3",
-      "name": "Wild West Big Pile 3",
+      "id": "the_vault:vault/decor/wildwest/floor7",
+      "name": "Wild West Floor 7",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/big_pile3.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor7.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/stall1",
-      "name": "Wild West Stall 1",
+      "id": "the_vault:vault/decor/wildwest/floor8",
+      "name": "Wild West Floor 8",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall1.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/floor8.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/stall2",
-      "name": "Wild West Stall 2",
+      "id": "the_vault:vault/decor/wildwest/small_house1",
+      "name": "Wild West Small House 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall2.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/small_house1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/stall3",
-      "name": "Wild West Stall 3",
+      "id": "the_vault:vault/decor/wildwest/small_house2",
+      "name": "Wild West Small House 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall3.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/small_house2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/stall4",
-      "name": "Wild West Stall 4",
+      "id": "the_vault:vault/decor/wildwest/medium_house1",
+      "name": "Wild West Medium House 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall4.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/medium_house1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/stall5",
-      "name": "Wild West Stall 5",
+      "id": "the_vault:vault/decor/wildwest/large_house1",
+      "name": "Wild West Large House 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall5.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/large_house1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/stall6",
-      "name": "Wild West Stall 6",
+      "id": "the_vault:vault/decor/wildwest/large_house2",
+      "name": "Wild West Large House 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall6.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/large_house2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/wildwest/stall7",
-      "name": "Wild West Stall 7",
+      "id": "the_vault:vault/decor/wildwest/cactoni",
+      "name": "Wild West Cactoni",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall7.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/stall8",
-      "name": "Wild West Stall 8",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall8.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/stall9",
-      "name": "Wild West Stall 9",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/stall9.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/cannon1",
-      "name": "Wild West Cannon 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/cannon1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/cannon2",
-      "name": "Wild West Cannon 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/cannon2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/minecart_pileg1",
-      "name": "Wild West Minecart Pile Gravel 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/minecart_pileg1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/minecart_pileg2",
-      "name": "Wild West Minecart Pile Gravel 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/minecart_pileg2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/minecart_pilep1",
-      "name": "Wild West Minecart Pile Powder 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/minecart_pilep1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/minecart_pilep2",
-      "name": "Wild West Minecart Pile Powder 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/minecart_pilep2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/small_bumbo_pile1",
-      "name": "Wild West Small Bumbo Pile 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/small_bumbo_pile1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/small_bumbo_pile2",
-      "name": "Wild West Small Bumbo Pile 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/small_bumbo_pile2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/big_bumbo_pile1",
-      "name": "Wild West Big Bumbo Pile 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/big_bumbo_pile1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/big_bumbo_pile2",
-      "name": "Wild West Big Bumbo Pile 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/big_bumbo_pile2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/center_basement1",
-      "name": "Wild West Center Basement 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/center_basement1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/center_basement2",
-      "name": "Wild West Center Basement 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/center_basement2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/center_basement3",
-      "name": "Wild West Center Basement 3",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/center_basement3.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/side_basement1",
-      "name": "Wild West Side Basement 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/side_basement1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/side_basement2",
-      "name": "Wild West Side Basement 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/side_basement2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/side_basement3",
-      "name": "Wild West Side Basement 3",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/side_basement3.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/wildwest/cactoni.nbt"
       }
     },
     {
@@ -4309,14 +4133,6 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/omega_digsite/fossil4.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/cube/puzzle",
-      "name": "Omega Cube Puzzle",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/cube/puzzle.nbt"
       }
     },
     {
@@ -10168,14 +9984,6 @@
       }
     },
     {
-      "id": "the_vault:vault/dungeon_rooms/spider_large_4",
-      "name": "Spider Large 4",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_4.nbt"
-      }
-    },
-    {
       "id": "the_vault:vault/dungeon_rooms/spider_medium",
       "name": "Spider Medium",
       "1.0": {
@@ -11245,6 +11053,190 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/memory1",
+      "name": "Memory 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/memory1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/gate0",
+      "name": "Memory Room Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/gate1",
+      "name": "Memory Room Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/gate2",
+      "name": "Memory Room Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/gate3",
+      "name": "Memory Room Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/gate4",
+      "name": "Memory Room Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/open/gate0",
+      "name": "Memory Room Open Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/open/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/open/gate1",
+      "name": "Memory Room Open Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/open/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/open/gate2",
+      "name": "Memory Room Open Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/open/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/open/gate3",
+      "name": "Memory Room Open Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/open/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/open/gate4",
+      "name": "Memory Room Open Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/open/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/memory/open/gate5",
+      "name": "Memory Room Open Gate Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/memory/open/gate5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/horderush1",
+      "name": "Horde Rush",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/horderush1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/horderush/gate0",
+      "name": "Horderush Close Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/horderush/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/horderush/gate1",
+      "name": "Horderush Close Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/horderush/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/horderush/gate2",
+      "name": "Horderush Close Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/horderush/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/horderush/gate3",
+      "name": "Horderush Close Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/horderush/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/horderush/gate4",
+      "name": "Horderush Close Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/horderush/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/horderush/open_gate5",
+      "name": "Horderush Open Gate Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/horderush/open_gate5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/protect_villager1",
+      "name": "Protect the Villager",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/protect_villager1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/dragon/firebreath1",
+      "name": "Dragon Fire Breath 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/dragon/firebreath1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/dragon/firebreath2",
+      "name": "Dragon Fire Breath 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/dragon/firebreath2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/dragon/firebreath3",
+      "name": "Dragon Fire Breath 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/dragon/firebreath3.nbt"
       }
     }
   ]

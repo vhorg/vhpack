@@ -107,6 +107,9 @@
     "the_vault:mob_type/champion": [
       "{Tags:[\"vault_champion\"]}"
     ],
+    "the_vault:mob_type/dungeon_boss": [
+      "{Tags:[\"dungeon_boss\"]}"
+    ],
     "the_vault:mob_type/horde": [
       "@the_vault:horde"
     ],
@@ -125,9 +128,6 @@
     ],
     "the_vault:mob_type/evil_rabbit": [
       "minecraft:rabbit"
-    ],
-    "the_vault:mob_type/goats": [
-      "the_vault:aggressive_goat"
     ],
     "the_vault:horde": [
       "minecraft:zombie",
@@ -186,10 +186,12 @@
 
       "the_vault:jack",
       "the_vault:jack_poison",
+      "the_vault:grinch",
 
       "the_vault:vault_yellow_gummy_soldier",
 
       "rottencreatures:undead_miner"
+      
     ],
     "the_vault:assassin": [
       "minecraft:shulker",
@@ -276,13 +278,15 @@
       "the_vault:vault_wraith_white",
       "the_vault:vault_wraith_yellow",
       "the_vault:swamp_zombie",
-      "the_vault:aggressive_goat",
 
       "the_vault:levishroom",
       "the_vault:winter_wolf",
 
       "the_vault:jack_o_web",
       "the_vault:grimwick",
+
+      "auxiliaryblocks:gingerbread_man",
+      "auxiliaryblocks:gingerbread_man_small",
 
       "auxiliaryblocks:snowdood",
       "rottencreatures:mummy"
@@ -302,6 +306,7 @@
       "the_vault:t4_plastic_zombie",
       "the_vault:t4_plastic_skeleton",
       "the_vault:craftenstein",
+      "the_vault:yeti",
 
       "rottencreatures:dead_beard",
       "rottencreatures:glacial_hunter"
@@ -365,7 +370,9 @@
       "the_vault:crystal_bruiser_guardian",
       "the_vault:crystal_arbalist_guardian",
       "the_vault:butcher_bruiser_guardian",
-      "the_vault:butcher_arbalist_guardian"
+      "the_vault:butcher_arbalist_guardian",
+      "the_vault:puzzle_bruiser_guardian",
+      "the_vault:puzzle_arbalist_guardian"
     ],
     "the_vault:minions": [
       "the_vault:raised_zombie",

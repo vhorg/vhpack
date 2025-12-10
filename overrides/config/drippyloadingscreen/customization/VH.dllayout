@@ -11,7 +11,7 @@ customization-meta {
 }
 
 customization {
-  visible = false
+  visible = true
   action = editlogo
 }
 

@@ -1,9 +1,5 @@
 [
   {
-    "weight": 0,
-    "reference": "the_vault:vault/rooms/omega/cube"
-  },
-  {
     "weight": 1,
     "reference": "the_vault:vault/rooms/omega/digsite2"
   },
@@ -20,7 +16,7 @@
     "reference": "the_vault:vault/rooms/omega/blacksmith"
   },
   {
-    "weight": 3,
+    "weight": 7,
     "reference": "the_vault:vault/rooms/omega/cove"
   },
   {
@@ -34,5 +30,9 @@
   {
     "weight": 7,
     "reference": "the_vault:vault/rooms/omega/pixel"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/omega/warehouse"
   }
 ]

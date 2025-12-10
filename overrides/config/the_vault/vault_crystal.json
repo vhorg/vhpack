@@ -133,6 +133,20 @@
                 "weight": 5000
               }
             ]
+          },
+          "the_vault:classic_vault_festive": {
+            "ranges": [
+              {
+                "from": "12-01",
+                "to": "12-30",
+                "weight": 50
+              },
+              {
+                "from": "12-24",
+                "to": "12-26",
+                "weight": 5000
+              }
+            ]
           }
         }
       },
@@ -303,6 +317,20 @@
               {
                 "from": "10-30",
                 "to": "10-31",
+                "weight": 5000
+              }
+            ]
+          },
+          "the_vault:classic_vault_festive": {
+            "ranges": [
+              {
+                "from": "12-01",
+                "to": "12-30",
+                "weight": 50
+              },
+              {
+                "from": "12-24",
+                "to": "12-26",
                 "weight": 5000
               }
             ]
@@ -488,6 +516,20 @@
               {
                 "from": "10-30",
                 "to": "10-31",
+                "weight": 5000
+              }
+            ]
+          },
+          "the_vault:classic_vault_festive": {
+            "ranges": [
+              {
+                "from": "12-01",
+                "to": "12-30",
+                "weight": 50
+              },
+              {
+                "from": "12-24",
+                "to": "12-26",
                 "weight": 5000
               }
             ]
@@ -1813,7 +1855,23 @@
         ],
         "objective": {
           "type": "bingo",
-          "objective_probability": 1.0
+          "objective_probability": 1.0,
+          "width": 4,
+          "height": 4
+        }
+      }
+    ],
+    "the_vault:crystal_seal_big_prophet": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "bingo",
+          "objective_probability": 1.0,
+          "width": 5,
+          "height": 5
         }
       }
     ],

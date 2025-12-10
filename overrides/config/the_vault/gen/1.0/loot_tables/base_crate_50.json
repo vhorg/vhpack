@@ -399,27 +399,11 @@
                 }
               }
             },
+            
             {
-              "weight": 8,
+              "weight": 5,
               "item": {
-                "id": "the_vault:card_deck",
-                "nbt": {
-                  "id": "double"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 6,
-              "item": {
-                "id": "the_vault:card_deck",
-                "nbt": {
-                  "id": "large"
-                },
+                "id": "the_vault:trinket",
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -430,12 +414,15 @@
             {
               "weight": 5,
               "item": {
-                "id": "the_vault:trinket",
+                "id": "the_vault:deck_socket",
+                "nbt": {
+                  "Modifier": "@completion_crate"
+                },
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -672,20 +659,6 @@
               "id": "the_vault:booster_pack",
               "nbt": {
                 "id": "the_vault:mega_evolution_pack"
-              },
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
-              }
-            }
-          },
-          {
-            "weight": 6,
-            "item": {
-              "id": "the_vault:booster_pack",
-              "nbt": {
-                "id": "the_vault:wild_pack"
               },
               "count": {
                 "type": "uniform",

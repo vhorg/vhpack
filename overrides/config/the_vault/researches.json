@@ -689,9 +689,7 @@
     "cost": 1,
     "usesKnowledge": true
   },
-    
-    
-    
+
     {
       "itemRestrictions": {
         "ae2:molecular_assembler": {
@@ -1382,6 +1380,14 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Vault Filters",
+      "cost": 12,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {},
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Decks",
       "cost": 12,
       "usesKnowledge": true
     }

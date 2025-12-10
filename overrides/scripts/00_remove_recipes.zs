@@ -1045,6 +1045,7 @@ JEI.hideIngredient(<item:refinedstorage:processor_binding>);
 JEI.hideIngredient(<item:refinedstorage:raw_improved_processor>);
 JEI.hideIngredient(<item:refinedstorage:raw_advanced_processor>);
 JEI.hideIngredient(<item:refinedstorage:portable_grid>);
+JEI.hideIngredient(<item:refinedstorage:wireless_grid>);
 // Botania
 JEI.hideIngredient(<item:botania:manasteel_helmet>);
 JEI.hideIngredient(<item:botania:manasteel_chestplate>);
@@ -1594,7 +1595,6 @@ JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_nether_warped" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_void" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_chaos_cake" as string}));
-JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_festive" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_gingerbread" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_herald" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_idona" as string}));
@@ -1660,6 +1660,8 @@ JEI.hideIngredient(<item:the_vault:idol_benevolent>);
 JEI.hideIngredient(<item:the_vault:idol_omniscient>);
 JEI.hideIngredient(<item:the_vault:idol_timekeeper>);
 JEI.hideIngredient(<item:the_vault:idol_malevolence>);
+JEI.hideIngredient(<item:the_vault:dragon_path_node>);
+JEI.hideIngredient(<item:the_vault:memory_room_controller>);
 // IronFurnaces
 JEI.hideIngredient(<item:ironfurnaces:upgrade_silver>);
 JEI.hideIngredient(<item:ironfurnaces:upgrade_iron2>);

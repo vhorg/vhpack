@@ -2777,6 +2777,26 @@
       ],
       "maxTier": 1
     },
+    "shield_bash_retribution": {
+      "type": "gear",
+      "name": {
+        "text": "Shield Bash Retribution Card"
+      },
+      "model": "the_vault:card/icon/retribution#inventory",
+      "groups": [
+        "Arcane",
+        "Offensive"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Retribution",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
 
     "taunt": {
       "type": "gear",
@@ -3514,6 +3534,67 @@
         {
           "tier": 1,
           "abilityKey": "Mana_Barrier",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+
+    "vein_miner": {
+      "type": "gear",
+      "name": {
+        "text": "Vein Miner Card"
+      },
+      "model": "the_vault:card/icon/vein_miner#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Vein_Miner_Base",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "vein_miner_durability": {
+      "type": "gear",
+      "name": {
+        "text": "Finesse Miner Card"
+      },
+      "model": "the_vault:card/icon/vein_miner_durability#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Vein_Miner_Durability",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "vein_miner_void": {
+      "type": "gear",
+      "name": {
+        "text": "Void Miner Card"
+      },
+      "model": "the_vault:card/icon/vein_miner_void#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Vein_Miner_Void",
           "levelChange": 1
         }
       ],
@@ -5972,6 +6053,10 @@
         "weight": 1.0
       },
       {
+        "value": "shield_bash_retribution",
+        "weight": 1.0
+      },
+      {
         "value": "taunt",
         "weight": 1.0
       },
@@ -6118,6 +6203,18 @@
       {
         "value": "mana_barrier",
       "weight": 1.0
+      },
+      {
+        "value": "vein_miner",
+      "weight": 1.0
+      },
+      {
+        "value": "vein_miner_durability",
+      "weight": 0.0
+      },
+      {
+        "value": "vein_miner_void",
+      "weight": 0.0
       }
     ],
     "temporal": [
@@ -6289,7 +6386,7 @@
       },
       {
         "value": "resource_faceted_focus",
-        "weight": 8.0
+        "weight": 0.0
       }
     ],
     "scaling": [

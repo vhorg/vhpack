@@ -1466,71 +1466,6 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/dragon/hanging1.json"
     },
     {
-      "id": "the_vault:vault/decor/wildwest/trap_plate1",
-      "name": "Wild West Trap Plate 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/trap_plate1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/small_pile1",
-      "name": "Wild West Small Pile 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/small_pile1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/small_pile2",
-      "name": "Wild West Small Pile 2",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/small_pile2.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/big_pile1",
-      "name": "Wild West Big Pile 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/big_pile1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/big_pile2",
-      "name": "Wild West Big Pile 2",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/big_pile2.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/stall1",
-      "name": "Wild West Stall 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/stall1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/stall2",
-      "name": "Wild West Stall 2",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/stall2.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/minecart_gravel1",
-      "name": "Wild West Minecart Gravel 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/minecart_gravel1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/minecart_powder1",
-      "name": "Wild West Minecart Powder 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/minecart_powder1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/small_bumbo_pile1",
-      "name": "Wild West Small Bumbo Pile 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/small_bumbo_pile1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/big_bumbo_pile1",
-      "name": "Wild West Big Bumbo Pile 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/big_bumbo_pile1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/center_basement1",
-      "name": "Wild West Center Basement 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/center_basement1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/wildwest/side_basement1",
-      "name": "Wild West Side Basement 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/side_basement1.json"
-    },
-    {
       "id": "the_vault:vault/decor/factory/spawner_crane1",
       "name": "Factory Spawner Crane 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/factory/spawner_crane1.json"
@@ -1556,9 +1491,29 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/omega_digsite/fossil1.json"
     },
     {
-      "id": "the_vault:vault/rooms/omega/cube",
-      "name": "Cube",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/cube.json"
+      "id": "the_vault:vault/decor/wildwest/small_house",
+      "name": "Wildwest Small House",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/small_house.json"
+    },
+    {
+      "id": "the_vault:vault/decor/wildwest/medium_house",
+      "name": "Wildwest Medium House",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/medium_house.json"
+    },
+    {
+      "id": "the_vault:vault/decor/wildwest/large_house",
+      "name": "Wildwest Large House",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/large_house.json"
+    },
+    {
+      "id": "the_vault:vault/decor/wildwest/floor",
+      "name": "Wildwest Floor",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/floor.json"
+    },
+    {
+      "id": "the_vault:vault/decor/wildwest/cactoni",
+      "name": "Wildwest Cactoni",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/wildwest/cactoni.json"
     },
     {
       "id": "the_vault:vault/rooms/omega/digsite",
@@ -1606,11 +1561,6 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json"
     },
     {
-      "id": "the_vault:vault/rooms/paradox/wendarr/omega/cube",
-      "name": "Wendarr Cube",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/cube.json"
-    },
-    {
       "id": "the_vault:vault/rooms/paradox/wendarr/omega/digsite2",
       "name": "Wendarr Dig Site",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/digsite2.json"
@@ -1654,11 +1604,6 @@
       "id": "the_vault:vault/rooms/paradox/wendarr/omega/cove",
       "name": "Wendarr Cove",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/cove.json"
-    },
-    {
-      "id": "the_vault:vault/rooms/paradox/tenos/omega/cube",
-      "name": "Tenos Cube",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/cube.json"
     },
     {
       "id": "the_vault:vault/rooms/paradox/tenos/omega/digsite2",
@@ -1706,11 +1651,6 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/cove.json"
     },
     {
-      "id": "the_vault:vault/rooms/paradox/velara/omega/cube",
-      "name": "Velara Cube",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/cube.json"
-    },
-    {
       "id": "the_vault:vault/rooms/paradox/velara/omega/digsite2",
       "name": "Velara Dig Site",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/digsite2.json"
@@ -1756,11 +1696,6 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/cove.json"
     },
     {
-      "id": "the_vault:vault/rooms/paradox/idona/omega/cube",
-      "name": "Idona Cube",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/cube.json"
-    },
-    {
       "id": "the_vault:vault/rooms/paradox/idona/omega/digsite2",
       "name": "Idona Dig Site",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/digsite2.json"
@@ -1804,11 +1739,6 @@
       "id": "the_vault:vault/rooms/paradox/idona/omega/cove",
       "name": "Idona Cove",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/cove.json"
-    },
-    {
-      "id": "the_vault:vault/decor/cube/puzzle",
-      "name": "Omega Cube Puzzle",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/cube/puzzle.json"
     },
     {
       "id": "the_vault:vault/decor/painting/floor_bucket1",
@@ -3801,6 +3731,71 @@
       "id": "the_vault:vault/rooms/cave_andersite_common_rooms",
       "name": "Cave Andersite Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_andersite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/memory",
+      "name": "Memory Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/memory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/horderush",
+      "name": "Horderush Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/horderush.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/companion_rush",
+      "name": "Companion Rush Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/companion_rush.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/protect_villager",
+      "name": "Protect the Villager",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/protect_villager.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed/greed_acid_rooms",
+      "name": "Acid Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed/greed_acid_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed/greed_death_rooms",
+      "name": "Death Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed/greed_death_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed/greed_acid_common_rooms",
+      "name": "Acid Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed/greed_acid_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed/greed_death_common_rooms",
+      "name": "Death Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed/greed_death_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/greed_acid_starts",
+      "name": "Acid Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/greed_acid_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/greed_death_starts",
+      "name": "Death Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/greed_death_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/greed_acid_tunnels",
+      "name": "Acid Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_acid_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/greed_death_tunnels",
+      "name": "Death Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_death_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/warehouse",
+      "name": "Warehouse",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/warehouse.json"
     }
   ]
 }

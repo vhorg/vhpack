@@ -30,12 +30,6 @@
         "the_vault:wooden_chest_lvl30":  {"level": 30}
       }
     },
-    "the_vault:cube_blocks": {
-      "display": "Cube Blocks",
-      "lootTableKeys": {
-        "the_vault:cube_block_lvl0": {"level": 0}
-      }
-    },
     "the_vault:living_chest": {
       "display": "Living Chests",
       "lootTableKeys": {
@@ -68,7 +62,7 @@
       }
     },
     "the_vault:completion_crate_guardian": {
-      "display": "Rune Boss Completion Crates",
+      "display": "Guardian Completion Crates",
       "lootTableKeys": {
         "the_vault:base_crate_0": {"level": 0},
         "the_vault:base_crate_20": {"level": 20},
@@ -155,7 +149,7 @@
         "the_vault:living_strongbox_lvl50": {"level": 50}
       }
     },
-     "the_vault:champion": {
+    "the_vault:champion": {
       "display": "Champions",
       "lootTableKeys": {
         "the_vault:champion_loot_lvl0": {"level": 0},

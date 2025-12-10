@@ -214,9 +214,9 @@ craftingTable.addShapeless("ae2_cable_anchor", <item:ae2:cable_anchor> *3, [
 ]);
 
 craftingTable.addShaped("ae2_basic_card", <item:ae2:basic_card>, [
-    [<item:minecraft:gold_block>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:air>],
+    [<item:minecraft:gold_ingot>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:air>],
     [<item:minecraft:redstone>, <item:ae2:calculation_processor>, <item:the_vault:chromatic_iron_ingot>],
-    [<item:minecraft:gold_block>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:air>]
+    [<item:minecraft:gold_ingot>, <item:the_vault:chromatic_iron_ingot>, <item:minecraft:air>]
 ]);
 
 craftingTable.addShaped("ae2_advanced_card", <item:ae2:advanced_card>, [

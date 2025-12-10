@@ -830,7 +830,7 @@
     "the_vault:soul_mirror": {
       "info": {
         "name": "Soul Mirror",
-        "rewardDescription": "Vault Charm Capstone",
+        "rewardDescription": "Vault God Charm",
         "subtext": "A looking glass\nIt feels like you're being watched",
         "requiredCount": 6
       },
@@ -1407,10 +1407,10 @@
         "conditions": [
           {
             "group": [
-              "the_vault:mob_type/goats"
+              "the_vault:mob_type/polar_bears"
             ],
             "type": "the_vault:entity_group",
-            "display": "From Goats"
+            "display": "From Polar Bears"
           },
           {
             "tag": [
@@ -1840,7 +1840,7 @@
       "info": {
         "name": "The Ambassador",
         "rewardDescription": "Empowered Chaotic Focus",
-        "subtext": "...A small, powerful entity",
+        "subtext": "",
         "requiredCount": 2
       },
       "reward": {

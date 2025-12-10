@@ -78,12 +78,29 @@
     ],
     "UNIQUE": [
       "the_vault:gear/armor/jester",
+      "the_vault:gear/armor/jester_sad",
+      "the_vault:gear/armor/jester_purple_green",
       "the_vault:gear/armor/bee_knight",
       "the_vault:gear/armor/castle",
+      "the_vault:gear/armor/castle_ruin",
+      "the_vault:gear/armor/castle_tower",
       "the_vault:gear/armor/stormcrown",
       "the_vault:gear/armor/crashguards",
       "the_vault:gear/armor/spiral_guardian",
-      "the_vault:gear/armor/frost_guard"
+      "the_vault:gear/armor/helm_of_the_warbound_aquatic",
+      "the_vault:gear/armor/helm_of_the_warbound_amythyst",
+      "the_vault:gear/armor/frost_guard",
+      "the_vault:gear/armor/crystalplate",
+      "the_vault:gear/armor/crystalplate_green",
+      "the_vault:gear/armor/crystalplate_pink",
+      "the_vault:gear/armor/frozen_throne",
+      "the_vault:gear/armor/frozen_throne_snowflake",
+      "the_vault:gear/armor/frozen_throne_black_ice",
+      "the_vault:gear/armor/crashguards_safety",
+      "the_vault:gear/armor/crashguards_chute",
+      "the_vault:gear/armor/pacifistsandals_hippie",
+      "the_vault:gear/armor/pacifistsandals_winged",
+      "the_vault:gear/armor/vitalis"
     ],
     "SPECIAL": [
       "the_vault:gear/armor/penguin",
@@ -145,8 +162,12 @@
       "the_vault:gear/armor/goblin",
       "the_vault:gear/armor/falcon",
       "the_vault:gear/armor/forsaken",
+      "the_vault:gear/armor/halloween_set",
+      "the_vault:gear/armor/christmas",
       "the_vault:gear/armor/sculk",
-      "the_vault:gear/armor/halloween_set"
+      "the_vault:gear/armor/gingerbread",
+      "the_vault:gear/armor/green_christmas_hat",
+      "the_vault:gear/armor/red_christmas_hat"
     ]
   },
   "SWORD_MODEL_ROLLS": {
@@ -180,7 +201,8 @@
       "the_vault:gear/sword/skallified_sword",
       "the_vault:gear/sword/tribal_blade",
       "the_vault:gear/sword/tarnished_blade",
-      "the_vault:gear/sword/gold_veined_sword"
+      "the_vault:gear/sword/gold_veined_sword",
+      "the_vault:gear/sword/light_saber"
     ],
     "OMEGA": [
       "the_vault:gear/sword/sword_7",
@@ -193,7 +215,11 @@
       "the_vault:gear/sword/glorem_glipsum",
       "the_vault:gear/sword/honey_wand",
       "the_vault:gear/sword/inflatedjustice",
-      "the_vault:gear/sword/crystalblade"
+      "the_vault:gear/sword/inflatedjustice_bam",
+      "the_vault:gear/sword/inflatedjustice_wop",
+      "the_vault:gear/sword/crystalblade",
+      "the_vault:gear/sword/iskallibur_sword",
+      "the_vault:gear/sword/pinkskallibur"
     ],
     "SPECIAL": [
       "the_vault:gear/sword/soulflame",
@@ -226,7 +252,8 @@
       "the_vault:gear/sword/spring_sword",
       "the_vault:gear/sword/reddragon_sword",
       "the_vault:gear/sword/twin_blade",
-      "the_vault:gear/sword/buster_sword"
+      "the_vault:gear/sword/buster_sword",
+      "the_vault:gear/sword/jolly_sword"
     ]
   },
   "AXE_MODEL_ROLLS": {
@@ -257,10 +284,14 @@
       "the_vault:gear/axe/axe_13"
     ],
     "UNIQUE": [
+      "the_vault:gear/axe/halberd",
+      "the_vault:gear/axe/glowing_halberd",
+      "the_vault:gear/axe/minotaur_axe",
+      "the_vault:gear/axe/butchers_bone_cleaver",
+      "the_vault:gear/axe/starforge"
     ],
     "SPECIAL": [
       "the_vault:gear/axe/greathammer",
-
       "the_vault:gear/axe/velaras_hammer",
       "the_vault:gear/axe/tenos_staff",
       "the_vault:gear/axe/idonas_scythe",
@@ -272,7 +303,6 @@
       "the_vault:gear/axe/blood_chopper",
       "the_vault:gear/axe/blood_cleaver",
       "the_vault:gear/axe/last_sight",
-      "the_vault:gear/axe/butchers_bone_cleaver",
       "the_vault:gear/axe/crystal_crusher",
       "the_vault:gear/axe/janitors_broom",
       "the_vault:gear/axe/godaxe",
@@ -282,6 +312,10 @@
       "the_vault:gear/axe/spring_axe",
       "the_vault:gear/axe/petal_splitter",
       "the_vault:gear/axe/reddragon_axe",
+      "the_vault:gear/axe/puzzle_cleaver",
+      "the_vault:gear/axe/puzzle_hammer",
+      "the_vault:gear/axe/jolly_hammer_blue",
+      "the_vault:gear/axe/jolly_hammer",
       "the_vault:gear/axe/abyssal_scythe"
     ]
   },
@@ -336,9 +370,18 @@
     "UNIQUE": [
       "the_vault:gear/shield/grim",
       "the_vault:gear/shield/slab",
+      "the_vault:gear/shield/pestilence_nautilus",
+      "the_vault:gear/shield/pestilence_spider",
       "the_vault:gear/shield/glass_flower",
+      "the_vault:gear/shield/rose_thorn_ivy_fall",
+      "the_vault:gear/shield/rose_thorn_ivy_poison",
+      "the_vault:gear/shield/rose_thorn_ivy_wither",
       "the_vault:gear/shield/gladiator_buckler",
-      "the_vault:gear/shield/shieldabrella"
+      "the_vault:gear/shield/gladiator_buckler_snake",
+      "the_vault:gear/shield/gladiator_buckler_raven",
+      "the_vault:gear/shield/shieldabrella",
+      "the_vault:gear/shield/runic_bastion",
+      "the_vault:gear/shield/frostwarden"
     ],
     "SPECIAL": [
       "the_vault:gear/shield/bell",
@@ -353,7 +396,10 @@
       "the_vault:gear/shield/spring_shield",
       "the_vault:gear/shield/golden_kappa",
       "the_vault:gear/shield/molten",
-      "the_vault:gear/shield/mattress"
+      "the_vault:gear/shield/mattress",
+      "the_vault:gear/shield/wreath_shield",
+      "the_vault:gear/shield/fireplace",
+      "the_vault:gear/shield/developer_shield"
     ]
   },
   "WAND_MODEL_ROLLS": {
@@ -390,7 +436,8 @@
     "UNIQUE": [
       "the_vault:gear/wand/baguette",
       "the_vault:gear/wand/infernos_reach",
-      "the_vault:gear/wand/chaining_wand"
+      "the_vault:gear/wand/chaining_wand",
+      "the_vault:gear/wand/pretzel"
 
     ],
     "SPECIAL": [
@@ -400,7 +447,8 @@
 
       "the_vault:gear/wand/dylans_magic_stick",
       "the_vault:gear/wand/backscratcher",
-      "the_vault:gear/wand/spring_wand"
+      "the_vault:gear/wand/spring_wand",
+      "the_vault:gear/wand/sweetcaster"
     ]
   },
   "FOCUS_MODEL_ROLLS": {
@@ -438,14 +486,19 @@
     ],
     "UNIQUE": [
       "the_vault:gear/focus/soulorb",
-      "the_vault:gear/focus/frozenorb"
+      "the_vault:gear/focus/frozenorb",
+      "the_vault:gear/focus/ender_rings",
+      "the_vault:gear/focus/ender_rings_arrow",
+      "the_vault:gear/focus/ender_rings_endstone",
+      "the_vault:gear/focus/echoflare"
     ],
     "SPECIAL": [
       "the_vault:gear/focus/dylans_book",
       "the_vault:gear/focus/javamug",
       "the_vault:gear/focus/spring_focus",
       "the_vault:gear/focus/tiny_treasure_train",
-      "the_vault:gear/focus/ancient_scroll"
+      "the_vault:gear/focus/ancient_scroll",
+      "the_vault:gear/focus/jolly_lamp"
     ]
   },
   "MAGNETS_MODEL_ROLLS": {
@@ -475,6 +528,9 @@
         "the_vault:gear/magnets/magnet_tiny",
         "the_vault:gear/magnets/goopy",
         "the_vault:gear/magnets/magnet_blue_tiny"
+    ],
+    "UNIQUE": [
+      "the_vault:gear/magnets/quickstone"
     ],
     "SPECIAL": [
       "the_vault:gear/magnets/spring_magnet",

@@ -544,18 +544,6 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:card_deck",
-              "nbt": "{id:\"merchant\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 48
-          },
-          "weight": 16
-        },
-        {
-          "value": {
-            "OFFER": {
               "item": "sophisticatedbackpacks:iron_backpack"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -897,6 +885,17 @@
         {
           "value": {
               "OFFER": {
+                  "item": "the_vault:capstone_companion_hunt"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 48,
+              "MAX_COST": 128
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+              "OFFER": {
                   "item": "the_vault:key_piece"
               },
               "CURRENCY": "the_vault:vault_gold",
@@ -1042,18 +1041,6 @@
             "MAX_COST": 16
           },
           "weight": 40
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:card_deck",
-              "nbt": "{id:\"merchant\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 48
-          },
-          "weight": 16
         },
         {
           "value": {
@@ -1530,6 +1517,17 @@
             "MAX_COST": 40
           },
           "weight": 30
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:capstone_companion_hunt"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 64,
+              "MAX_COST": 128
+          },
+          "weight": 10
         }
       ]
     }

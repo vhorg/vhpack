@@ -73,3 +73,12 @@
 	#Supported Values: NAME, SIZE, MODIFIER
 	catalyst_sorting_by_mod = []
 
+#This category holds options how Cards are sorted
+["Cards Sorting"]
+	#Supported Values: NAME, TIER, TYPE, COLOR, GROUPS, MODEL
+	card_sorting_by_name = ["TYPE", "COLOR", "TIER", "NAME", "GROUPS"]
+	#Supported Values: NAME, TIER, TYPE, COLOR, GROUPS, MODEL
+	card_sorting_by_amount = ["TYPE", "COLOR", "TIER", "NAME", "GROUPS"]
+	#Supported Values: NAME, TIER, TYPE, COLOR, GROUPS, MODEL
+	card_sorting_by_mod = []
+

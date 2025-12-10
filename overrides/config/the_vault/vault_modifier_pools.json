@@ -2140,6 +2140,10 @@
               {
                 "value": "the_vault:soul_fest",
                 "weight": 1
+              },
+              {
+                "value": "the_vault:daycare",
+                "weight": 1
               }
             ]
           }
@@ -2205,6 +2209,10 @@
               {
                 "value": "the_vault:phoenix",
                 "weight": 10
+              },
+              {
+                "value": "the_vault:pandoras_box",
+                "weight": 2
               }
             ]
           }

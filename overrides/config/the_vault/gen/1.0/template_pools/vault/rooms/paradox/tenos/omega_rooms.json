@@ -4,10 +4,6 @@
     "reference": "the_vault:vault/rooms/paradox/tenos/omega/vendor"
   },
   {
-    "weight": 7,
-    "reference": "the_vault:vault/rooms/paradox/tenos/omega/cube"
-  },
-  {
     "weight": 1,
     "reference": "the_vault:vault/rooms/paradox/tenos/omega/digsite2"
   },

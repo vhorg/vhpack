@@ -172,6 +172,7 @@
         "the_vault:scavenger_skeleton_wishbone",
 
         "the_vault:companion_relic",
-        "the_vault:companion_particle_trail"
+        "the_vault:companion_particle_trail",
+        "the_vault:deck_socket"
     ]
 }

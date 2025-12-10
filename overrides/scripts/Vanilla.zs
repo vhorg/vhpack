@@ -415,3 +415,7 @@ craftingTable.addShaped("new_hopper", <item:minecraft:hopper>, [
 craftingTable.addShapeless("black_dye", <item:minecraft:black_dye>, [
     <tag:items:minecraft:coals>
 ]);
+
+craftingTable.addShapeless("quartz_uncraft", <item:minecraft:quartz> *4, [
+    <item:minecraft:quartz_block>
+]);
