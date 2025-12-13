@@ -32,7 +32,16 @@
     "reference": "the_vault:vault/rooms/omega/pixel"
   },
   {
-    "weight": 4,
-    "reference": "the_vault:vault/rooms/omega/warehouse"
+    "weight": 1,
+    "reference": {
+      "id": "the_vault:vault/rooms/omega/warehouse",
+      "conditions": [
+        {
+          "type": "level",
+          "min": 50,
+          "max": -1
+        }
+      ]
+    }
   }
 ]

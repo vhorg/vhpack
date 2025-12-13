@@ -108,6 +108,9 @@
         ],
         "the_vault:gui/map/warehouse": [
             "the_vault:vault/rooms/omega/warehouse"
+        ],
+        "the_vault:gui/map/cozy": [
+            "the_vault:vault/rooms/omega/cozy1"
         ]
     }
 }

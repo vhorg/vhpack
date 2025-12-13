@@ -2596,7 +2596,7 @@
         "display": {
           "name": "Extended",
           "color": "#2F86AE",
-          "description": "+1 minute Vault Time",
+          "description": "+1.5 minutes Vault Time",
           "descriptionFormatted": "+%d minutes Vault Time",
           "icon": "the_vault:gui/modifiers/extended"
         }
