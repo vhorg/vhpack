@@ -361,10 +361,12 @@
 
     "the_vault:mob_type/dungeon_boss": 1000.0,
 
+    "the_vault:grinch": 64.0,
     "auxiliaryblocks:snowdood": 53.0,
     "auxiliaryblocks:gingerbread_man": 32.0,
     "auxiliaryblocks:gingerbread_man_small": 64.0,
     "auxiliaryblocks:gingerbread_man_giant": 128.0,
+    "the_vault:yeti": 128.0,
 
     "alexsmobs:soul_vulture": 158.0,
     "alexsmobs:rocky_roller": 176.0,

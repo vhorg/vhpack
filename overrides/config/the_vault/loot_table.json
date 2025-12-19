@@ -52,7 +52,7 @@
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_20",
         "bingo_full": "the_vault:bingo_full_crate",
-        "rune_boss": "the_vault:base_crate_0"
+        "rune_boss": "the_vault:base_crate_20"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl20",
@@ -72,7 +72,7 @@
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_50",
         "bingo_full": "the_vault:bingo_bonus",
-        "rune_boss": "the_vault:base_crate_0"
+        "rune_boss": "the_vault:base_crate_2_50"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl50",

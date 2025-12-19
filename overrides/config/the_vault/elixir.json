@@ -997,14 +997,6 @@
                 "type": "uniform"
               },
               "weight": 1
-            },
-            {
-              "value": {
-                "min": 7,
-                "max": 10,
-                "type": "uniform"
-              },
-              "weight": 1
             }
           ],
           "type": "chest"
@@ -1300,7 +1292,7 @@
                 "max": 3,
                 "type": "uniform"
               },
-              "weight": 8
+              "weight": 12
             },
             {
               "value": {
@@ -1416,10 +1408,18 @@
             {
               "value": {
                 "min": 0,
+                "max": 0,
+                "type": "uniform"
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "min": 1,
                 "max": 1,
                 "type": "uniform"
               },
-              "weight": 5
+              "weight": 3
             },
             {
               "value": {
@@ -1437,23 +1437,23 @@
             {
               "value": {
                 "min": 1,
+                "max": 1,
+                "type": "uniform"
+              },
+              "weight": 11
+            },
+            {
+              "value": {
+                "min": 2,
                 "max": 3,
                 "type": "uniform"
               },
-              "weight": 5
+              "weight": 4
             },
             {
               "value": {
                 "min": 4,
                 "max": 4,
-                "type": "uniform"
-              },
-              "weight": 1
-            },
-            {
-              "value": {
-                "min": 5,
-                "max": 5,
                 "type": "uniform"
               },
               "weight": 1
@@ -1530,7 +1530,7 @@
                 "max": 0,
                 "type": "uniform"
               },
-              "weight": 2
+              "weight": 3
             },
             {
               "value": {
@@ -1538,23 +1538,7 @@
                 "max": 1,
                 "type": "uniform"
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "min": 2,
-                "max": 2,
-                "type": "uniform"
-              },
               "weight": 2
-            },
-            {
-              "value": {
-                "min": 3,
-                "max": 3,
-                "type": "uniform"
-              },
-              "weight": 1
             }
           ],
           "type": "mob"
