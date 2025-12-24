@@ -5045,7 +5045,19 @@
             "color": "$qhighlight"
           },
           {
-            "text": " to make it stronger, upgrading its values. If the imbuement ",
+            "text": " to make it stronger, upgrading its values.\n\nAfter a successful imbuement, if the gear originally had the ",
+            "color": "$text"
+          },
+          {
+            "text": "Living ",
+            "color": "$living"
+          },
+          {
+            "text": "modifier, the living modifier will be removed from the gear piece.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nIf the imbuement ",
             "color": "$text"
           },
           {

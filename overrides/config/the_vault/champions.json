@@ -35,8 +35,7 @@
     "alexsmobs:cockroach": -10.0,
     "the_vault:royale_drafter": -10.0,
     "minecraft:vex": -10.0,
-    "minecraft:ravager": -10.0,
-    "@the_vault:mob_type/dungeon_boss": 1
+    "minecraft:ravager": -10.0
   },
   "defaultAttributeOverrides": [
     {
