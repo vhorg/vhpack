@@ -81,15 +81,21 @@
       "the_vault:gear/armor/jester_sad",
       "the_vault:gear/armor/jester_purple_green",
       "the_vault:gear/armor/bee_knight",
+      "the_vault:gear/armor/swarmwalkers_comb",
+      "the_vault:gear/armor/swarmwalker_fly",
       "the_vault:gear/armor/castle",
       "the_vault:gear/armor/castle_ruin",
       "the_vault:gear/armor/castle_tower",
       "the_vault:gear/armor/stormcrown",
+      "the_vault:gear/armor/thundercrown_silver",
+      "the_vault:gear/armor/thundercrown_gold",
       "the_vault:gear/armor/crashguards",
       "the_vault:gear/armor/spiral_guardian",
       "the_vault:gear/armor/helm_of_the_warbound_aquatic",
       "the_vault:gear/armor/helm_of_the_warbound_amythyst",
       "the_vault:gear/armor/frost_guard",
+      "the_vault:gear/armor/frost_guard_snowy",
+      "the_vault:gear/armor/frost_guard_black_ice",
       "the_vault:gear/armor/crystalplate",
       "the_vault:gear/armor/crystalplate_green",
       "the_vault:gear/armor/crystalplate_pink",
@@ -213,16 +219,19 @@
       "the_vault:gear/sword/sculk_sword"
     ],
     "UNIQUE": [
-      "the_vault:gear/sword/glorem_glipsum",
       "the_vault:gear/sword/honey_wand",
+      "the_vault:gear/sword/honey_wand_dark",
+      "the_vault:gear/sword/honey_wand_no_bee",
       "the_vault:gear/sword/inflatedjustice",
       "the_vault:gear/sword/inflatedjustice_bam",
       "the_vault:gear/sword/inflatedjustice_wop",
       "the_vault:gear/sword/crystalblade",
       "the_vault:gear/sword/iskallibur_sword",
+      "the_vault:gear/sword/iskallibur_broad",
       "the_vault:gear/sword/pinkskallibur"
     ],
     "SPECIAL": [
+      "the_vault:gear/sword/glorem_glipsum",
       "the_vault:gear/sword/soulflame",
       "the_vault:gear/sword/nightfall",
 
@@ -370,6 +379,8 @@
     ],
     "UNIQUE": [
       "the_vault:gear/shield/grim",
+      "the_vault:gear/shield/grimshield_overgrown",
+      "the_vault:gear/shield/grimshield_demon",
       "the_vault:gear/shield/slab",
       "the_vault:gear/shield/pestilence_nautilus",
       "the_vault:gear/shield/pestilence_spider",
@@ -382,7 +393,11 @@
       "the_vault:gear/shield/gladiator_buckler_raven",
       "the_vault:gear/shield/shieldabrella",
       "the_vault:gear/shield/runic_bastion",
-      "the_vault:gear/shield/frostwarden"
+      "the_vault:gear/shield/frostwarden",
+      "the_vault:gear/shield/frostwarden_black_ice",
+      "the_vault:gear/shield/frostwarden_snowy",
+      "the_vault:gear/shield/spider",
+      "the_vault:gear/shield/poison_spider"
     ],
     "SPECIAL": [
       "the_vault:gear/shield/bell",
@@ -437,7 +452,11 @@
     "UNIQUE": [
       "the_vault:gear/wand/baguette",
       "the_vault:gear/wand/infernos_reach",
+      "the_vault:gear/wand/infernos_reach_soul",
+      "the_vault:gear/wand/infernos_reach_diorite",
       "the_vault:gear/wand/chaining_wand",
+      "the_vault:gear/wand/chainlash_gold",
+      "the_vault:gear/wand/chainlash_rust",
       "the_vault:gear/wand/pretzel"
 
     ],
@@ -488,6 +507,8 @@
     "UNIQUE": [
       "the_vault:gear/focus/soulorb",
       "the_vault:gear/focus/frozenorb",
+      "the_vault:gear/focus/frozenorb_black_ice",
+      "the_vault:gear/focus/frozenorb_snowy",
       "the_vault:gear/focus/ender_rings",
       "the_vault:gear/focus/ender_rings_arrow",
       "the_vault:gear/focus/ender_rings_endstone",

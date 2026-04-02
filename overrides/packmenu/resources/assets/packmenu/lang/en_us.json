@@ -1,6 +1,5 @@
 {
-	"packmenu.vhwiki": "Vault Hunters Official Wiki",
-	"packmenu.vhgg": "Patch Notes",
-	"packmenu.bisect": "Get a Server!",
-	"packmenu.discord": "Official Discord"
+	"packmenu.discord": "Join our Discord!",
+	"packmenu.patchnotes": "Patch Notes",
+	"packmenu.wiki": "Official Wiki"
 }

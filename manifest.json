@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Vault Hunters Official Pack (3rd Ed.)",
-  "version": "3.20.3.0",
+  "version": "3.21.0.0",
   "author": "",
   "files": [
     {
@@ -141,6 +141,12 @@
       "isLocked": false
     },
     {
+      "projectID": 458203,
+      "fileID": 7862564,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 237664,
       "fileID": 4183356,
       "required": true,
@@ -209,6 +215,12 @@
     {
       "projectID": 531761,
       "fileID": 4442615,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 227443,
+      "fileID": 4760631,
       "required": true,
       "isLocked": false
     },
@@ -333,6 +345,12 @@
       "isLocked": false
     },
     {
+      "projectID": 410168,
+      "fileID": 4312234,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 609977,
       "fileID": 4948360,
       "required": true,
@@ -375,6 +393,12 @@
       "isLocked": false
     },
     {
+      "projectID": 267602,
+      "fileID": 3933537,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 446489,
       "fileID": 3955850,
       "required": true,
@@ -399,8 +423,20 @@
       "isLocked": false
     },
     {
+      "projectID": 688231,
+      "fileID": 4944929,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 223852,
       "fileID": 3807626,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 952507,
+      "fileID": 7859828,
       "required": true,
       "isLocked": false
     },
@@ -507,6 +543,12 @@
       "isLocked": false
     },
     {
+      "projectID": 585546,
+      "fileID": 7207859,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 317780,
       "fileID": 6778083,
       "required": true,
@@ -569,12 +611,6 @@
     {
       "projectID": 223794,
       "fileID": 4733112,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 458203,
-      "fileID": 7373671,
       "required": true,
       "isLocked": false
     },
@@ -699,6 +735,12 @@
       "isLocked": false
     },
     {
+      "projectID": 1111030,
+      "fileID": 6104605,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1313069,
       "fileID": 6882936,
       "required": true,
@@ -713,12 +755,6 @@
     {
       "projectID": 362528,
       "fileID": 3965454,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 952507,
-      "fileID": 7318439,
       "required": true,
       "isLocked": false
     },
@@ -749,6 +785,12 @@
     {
       "projectID": 272302,
       "fileID": 3713972,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 439890,
+      "fileID": 4683727,
       "required": true,
       "isLocked": false
     },
@@ -911,6 +953,12 @@
     {
       "projectID": 628539,
       "fileID": 4549905,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 968398,
+      "fileID": 6284810,
       "required": true,
       "isLocked": false
     },

@@ -2,8 +2,8 @@
   "values": {
     "equilibrium": {
       "modifierValue": {
-        "min": 0.15,
-        "max": 0.3,
+        "min": 0.25,
+        "max": 0.4,
         "type": "uniform"
       },
       "modifierValues": {
@@ -19,8 +19,8 @@
         },
         "greater": {
           "value": {
-            "min": 0.3,
-            "max": 0.5,
+            "min": 0.5,
+            "max": 0.7,
             "type": "uniform"
           },
           "modelId": "the_vault:deck_cores/greater_equilibrium_deck_core#inventory",
@@ -371,8 +371,8 @@
         "type": "uniform"
       },
       "requiredGroups": [
-        "Stat",
-        "Evolution"
+        "Evolution",
+        "Stat"
       ],
       "requiredColors": [],
       "slotRoll": {
@@ -388,8 +388,8 @@
             "type": "uniform"
           },
           "requiredGroups": [
-            "Stat",
-            "Evolution"
+            "Evolution",
+            "Stat"
           ],
           "requiredColors": [],
           "slotRoll": {
@@ -491,7 +491,7 @@
         "weight": 1.0
       }
     ],
-    "treasure_sand": [
+    "greed": [
       {
         "value": "equilibrium",
         "weight": 3.0
@@ -501,8 +501,59 @@
         "weight": 4.0
       },
       {
-        "value": "pure",
+        "value": "fortune",
+        "weight": 3.0
+      },
+      {
+        "value": "bounty",
+        "weight": 4.0
+      },
+      {
+        "value": "shiny",
         "weight": 1.0
+      },
+      {
+        "value": "steadfast",
+        "weight": 1.0
+      },
+      {
+        "value": "crimson",
+        "weight": 4.0
+      },
+      {
+        "value": "azure",
+        "weight": 4.0
+      },
+      {
+        "value": "viridian",
+        "weight": 4.0
+      },
+      {
+        "value": "golden",
+        "weight": 4.0
+      },
+      {
+        "value": "empyreal",
+        "weight": 3.0
+      },
+      {
+        "value": "pure",
+        "weight": 3.0
+      }
+    ],
+
+    "treasure_sand": [
+      {
+        "value": "equilibrium",
+        "weight": 4.0
+      },
+      {
+        "value": "harvest",
+        "weight": 4.0
+      },
+      {
+        "value": "pure",
+        "weight": 4.0
       }
     ],
     "champions": [

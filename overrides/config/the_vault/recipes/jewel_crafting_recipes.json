@@ -323,6 +323,33 @@
           "NBT": "{}"
         }
       ]
+    },
+    {
+      "jewelAttribute": "the_vault:reaping",
+      "size": 20,
+      "id": "the_vault:jewel_crafting_reaping",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:jewel",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:gemstone",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 256,
+          "ITEM": "the_vault:silver_scrap",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        }
+      ]
     }
   ]
 }

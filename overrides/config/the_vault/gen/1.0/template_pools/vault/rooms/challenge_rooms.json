@@ -12,7 +12,7 @@
     "reference": "the_vault:vault/rooms/challenge/village"
   },
   {
-    "weight": 0,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/challenge/wildwest"
   },
   {
@@ -36,7 +36,7 @@
     "reference": "the_vault:vault/rooms/challenge/memory"
   },
   {
-    "weight": 0,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/omega/temple"
   },
   {

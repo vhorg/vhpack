@@ -1839,7 +1839,7 @@
     "the_vault:ambassador": {
       "info": {
         "name": "The Ambassador",
-        "rewardDescription": "Empowered Chaotic Focus",
+        "rewardDescription": "Ascendant Mark",
         "subtext": "",
         "requiredCount": 2
       },
@@ -1847,7 +1847,7 @@
         "results": [
           {
             "item": {
-              "item": "the_vault:empowered_chaotic_focus"
+              "item": "the_vault:vorpal_focus"
             },
             "weight": 1.0
           }

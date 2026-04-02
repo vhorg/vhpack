@@ -35,7 +35,9 @@
     "alexsmobs:cockroach": -10.0,
     "the_vault:royale_drafter": -10.0,
     "minecraft:vex": -10.0,
-    "minecraft:ravager": -10.0
+    "minecraft:ravager": -10.0,
+    "@the_vault:greed_assassin": -10.0,
+    "the_vault:billy": -10.0
   },
   "defaultAttributeOverrides": [
     {

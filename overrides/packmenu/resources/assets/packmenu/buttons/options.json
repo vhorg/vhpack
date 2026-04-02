@@ -1,19 +1,19 @@
 {
 	"x": -100,
-	"y": 120,
+	"y": 108,
 	"width": 98,
 	"height": 20,
 	"langKey": "menu.options",
 	"action": "OPEN_GUI",
 	"data": "OPTIONS",
-	"texture": "packmenu:textures/gui/button104.png",
+	"texture": "packmenu:textures/gui/vh_button_small.png",
 	"u": 0,
 	"v": 0,
 	"hoverU": 0,
 	"hoverV": 20,
 	"texWidth": 98,
 	"texHeight": 40,
-	"fontColor": 0,
-	"hoverFontColor": 0,
+	"fontColor": -1,
+	"hoverFontColor": -1,
 	"dropShadow": false
 }

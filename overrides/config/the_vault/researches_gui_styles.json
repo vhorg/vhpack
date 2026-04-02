@@ -157,6 +157,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/markers"
     },
+    "Augment Station": {
+      "x": 465,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/augment_station"
+    },
     "Vault Map": {
       "x": 490,
       "y": 280,
@@ -338,7 +344,7 @@
       "icon": "the_vault:gui/researches/brew"
     },
     "Vault Decks": {
-      "x": 440,
+      "x": 415,
       "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/vault_decks"

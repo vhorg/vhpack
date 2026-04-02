@@ -118,6 +118,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/challenge/wildwest",
+                  "count": 1,
+                  "color": 16711935
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 0,
+                "max": 6
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/x-mark",
                   "count": 1,
                   "color": 16711935
@@ -477,6 +499,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/challenge/wildwest",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 14,
+                "max": 14
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/factory",
                   "count": 1,
                   "color": 15769088
@@ -565,6 +609,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 16
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/memory",
                   "count": 1,
                   "color": 15769088
@@ -579,6 +645,50 @@
                 "type": "uniform",
                 "min": 23,
                 "max": 23
+              }
+            },
+            "weight": 16
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
               }
             },
             "weight": 16
@@ -792,6 +902,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/challenge/wildwest",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 5,
+                "max": 20
+              },
+              "model": {
+                "type": "uniform",
+                "min": 14,
+                "max": 14
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/factory",
                   "count": 1,
                   "color": 15769088
@@ -924,6 +1056,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 16
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/memory",
                   "count": 1,
                   "color": 15769088
@@ -938,6 +1092,50 @@
                 "type": "uniform",
                 "min": 23,
                 "max": 23
+              }
+            },
+            "weight": 16
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 16
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
               }
             },
             "weight": 16
@@ -1152,6 +1350,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/challenge/wildwest",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 14,
+                "max": 14
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/raw/chromatic_caves",
                   "count": 1,
                   "color": 3118792
@@ -1306,6 +1526,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/memory",
                   "count": 1,
                   "color": 15769088
@@ -1320,6 +1562,50 @@
                 "type": "uniform",
                 "min": 23,
                 "max": 23
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
               }
             },
             "weight": 12
@@ -1643,6 +1929,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/memory",
                   "count": 1,
                   "color": 15769088
@@ -1657,6 +1965,50 @@
                 "type": "uniform",
                 "min": 23,
                 "max": 23
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
               }
             },
             "weight": 12
@@ -1914,6 +2266,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 3
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/memory",
                   "count": 1,
                   "color": 15769088
@@ -1928,6 +2302,50 @@
                 "type": "uniform",
                 "min": 23,
                 "max": 23
+              }
+            },
+            "weight": 3
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
               }
             },
             "weight": 3
@@ -2141,6 +2559,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/challenge/wildwest",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 14,
+                "max": 14
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/factory",
                   "count": 1,
                   "color": 15769088
@@ -2273,6 +2713,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/memory",
                   "count": 1,
                   "color": 15769088
@@ -2287,6 +2749,50 @@
                 "type": "uniform",
                 "min": 23,
                 "max": 23
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
               }
             },
             "weight": 12
@@ -2529,6 +3035,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/challenge/wildwest",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 14,
+                "max": 14
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/factory",
                   "count": 1,
                   "color": 15769088
@@ -2595,6 +3123,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/memory",
                   "count": 1,
                   "color": 15769088
@@ -2609,6 +3159,50 @@
                 "type": "uniform",
                 "min": 23,
                 "max": 23
+              }
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 0
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
               }
             },
             "weight": 12
@@ -2954,6 +3548,35 @@
         ]
       }
     ],
+    "the_vault:wildwest": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/wildwest",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 14,
+                "max": 14
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
     "the_vault:factory": [
       {
         "level": 0,
@@ -3273,6 +3896,35 @@
         ]
       }
     ],
+    "the_vault:temple": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/omega/temple",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 22,
+                "max": 22
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
     "the_vault:memory": [
       {
         "level": 0,
@@ -3301,6 +3953,123 @@
           }
         ]
       }
+    ],
+    "the_vault:horderush": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/horderush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
+    "the_vault:protect_villager": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 25,
+                "max": 25
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
+    "the_vault:companion_rush": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/companion_rush",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 24,
+                "max": 24
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
+    "the_vault:personal": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/omega/mush_room",
+                  "count": 1,
+                  "color": 7012096
+                }
+              ],
+              "isSuper": true,
+              "time": {
+                "min": 100,
+                "max": 300,
+                "type": "uniform"
+              },
+              "model": {
+                "type": "uniform",
+                "min": 2,
+                "max": 2
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
     ]
   },
   "poolToModel": {
@@ -3317,6 +4086,7 @@
     "the_vault:vault/rooms/omega/trove": 11,
     "the_vault:vault/rooms/omega/vendor": 12,
     "the_vault:vault/rooms/challenge/village": 13,
+    "the_vault:vault/rooms/challenge/wildwest": 14,
     "the_vault:vault/rooms/challenge/x-mark": 15,
     "the_vault:vault/rooms/raw/chromatic_caves": 16,
     "the_vault:vault/rooms/raw/farm": 17,
@@ -3324,7 +4094,11 @@
     "the_vault:vault/rooms/challenge/raid/rooms": 19,
     "the_vault:vault/rooms/challenge/laboratory": 20,
     "the_vault:vault/rooms/omega/pixel": 21,
-    "the_vault:vault/rooms/challenge/memory": 23
+    "the_vault:vault/rooms/omega/temple": 22,
+    "the_vault:vault/rooms/challenge/memory": 23,
+    "the_vault:vault/rooms/challenge/horderush": 24,
+    "the_vault:vault/rooms/challenge/protect_villager": 25,
+    "the_vault:vault/rooms/challenge/companion_rush": 24
   },
   "ringWeights": [ 50, 40, 7, 3 ]
 }

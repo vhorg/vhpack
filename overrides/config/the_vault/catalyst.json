@@ -1,5 +1,27 @@
 {
   "pools": {
+    "the_vault:craft_mobs": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:more_mobs_cata",
+                "the_vault:challenge_stack"
+              ],
+              "model": 15
+            },
+            "weight": 9.0
+          }
+        ]
+      }
+    ],
     "the_vault:craft_wooden_cascade": [
       {
         "level": 0,
@@ -205,8 +227,8 @@
           {
             "value": {
               "size": {
-                "min": 5,
-                "max": 20,
+                "min": 10,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 10,
@@ -220,8 +242,8 @@
           {
             "value": {
               "size": {
-                "min": 5,
-                "max": 20,
+                "min": 10,
+                "max": 10,
                 "type": "uniform"
                 },
               "model": 11,
@@ -235,8 +257,8 @@
           {
             "value": {
               "size": {
-                "min": 5,
-                "max": 20,
+                "min": 10,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 12,
@@ -250,28 +272,13 @@
           {
             "value": {
               "size": {
-                "min": 5,
-                "max": 20,
+                "min": 10,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 13,
               "modifiers": [
                 "the_vault:coin_pile",
-                "the_vault:challenge_stack"
-              ]
-            },
-            "weight": 9.0
-          },
-          {
-            "value": {
-              "size": {
-                "min": 5,
-                "max": 20,
-                "type": "uniform"
-              },
-              "model": 14,
-              "modifiers": [
-                "the_vault:phoenix",
                 "the_vault:challenge_stack"
               ]
             },
@@ -870,6 +877,149 @@
               ]
             },
             "weight": 14.0
+          }
+        ]
+      }
+    ],
+    "the_vault:treasure_chest": [
+      {
+        "level": 0,
+        "pool": [
+          {
+
+            "value": {
+              "model": 6,
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:extended",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:xp_gain",
+                "the_vault:challenge_stack"
+              ],
+              "model": 7
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:wooden_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 1
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:gilded_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 2
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:living_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 3
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:ornate_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 4
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:coin_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 5
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:plentiful",
+                "the_vault:challenge_stack"
+              ],
+              "model": 8
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:more_mobs_cata",
+                "the_vault:challenge_stack"
+              ],
+              "model": 15
+            },
+            "weight": 25.0
           }
         ]
       }

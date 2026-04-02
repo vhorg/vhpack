@@ -283,7 +283,7 @@ var clusters = {
 
 for clusterId, clusterName in clusters {
     <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("seq_" + clusterName + "_key")
-                                                      .transitionTo(<item:create:incomplete_track>)
+                                                      .transitionTo(<item:the_vault:incomplete_key>)
                                                       .require(<item:the_vault:cluster_${clusterName}>)
                                                       .loops(0)
                                                       .addOutput(<item:the_vault:key_${clusterName}> * 1, 32)
@@ -297,3 +297,54 @@ craftingTable.addShaped("create_attribute_filter", <item:create:attribute_filter
     [<item:the_vault:vault_diamond>, <item:the_vault:gem_pog>, <item:the_vault:vault_diamond>],
     [<item:the_vault:magic_silk>, <item:the_vault:magic_silk>, <item:the_vault:magic_silk>]
 ]);
+
+craftingTable.addShaped("create_addon_electric_motor", <item:createaddition:electric_motor>, [
+    [<item:create:brass_sheet>, <item:create:brass_sheet>, <item:create:brass_sheet>], 
+    [<item:create:brass_sheet>, <item:create:large_cogwheel>, <item:create:brass_sheet>], 
+    [<item:the_vault:echo_pog>, <item:create:steam_engine>, <item:the_vault:echo_pog>]
+]);
+
+craftingTable.addShaped("create_addon_alternator", <item:createaddition:alternator>, [
+    [<item:minecraft:netherite_ingot>, <item:createaddition:capacitor>, <item:minecraft:netherite_ingot>], 
+    [<item:the_vault:perfect_larimar>, <item:the_vault:gem_pog>, <item:the_vault:perfect_larimar>], 
+    [<item:minecraft:netherite_ingot>, <item:create:depot>, <item:minecraft:netherite_ingot>]
+]);
+
+craftingTable.addShaped("create_addon_tesla_coil", <item:createaddition:tesla_coil>, [
+    [<item:createaddition:copper_spool>, <item:createaddition:capacitor>, <item:createaddition:copper_spool>], 
+    [<item:the_vault:perfect_larimar>, <item:create:electron_tube>, <item:the_vault:perfect_larimar>], 
+    [<item:createaddition:copper_spool>, <item:create:brass_block>, <item:createaddition:copper_spool>]
+]);
+
+var tracks = {
+  "acacia": "acacia_slab",
+  "phantom": "phantom_membrane",
+  "crimson": "crimson_slab",
+  "dark_oak": "dark_oak_slab",
+  "jungle": "jungle_slab",
+  "oak": "oak_slab",
+  "spruce": "spruce_slab",
+  "ender": "end_stone_brick_slab",
+  "blackstone": "blackstone_slab",
+  "monorail": "iron_bars",
+  "birch": "birch_slab",
+  "warped": "warped_slab",
+  "tieless": "glass"
+};
+
+for track, slab in tracks {
+    <recipetype:create:sequenced_assembly>.addRecipe(
+        <recipetype:create:sequenced_assembly>
+            .builder("seq_railways_" + track + "_track")
+            .transitionTo(<item:create:incomplete_track>)
+            .require(<item:create:track>)
+            .loops(0)
+            .addOutput(<item:railways:track_${track}> * 1, 1)
+            .addStep<mods.createtweaker.DeployerApplicationRecipe>(
+                rb => rb.require(<item:minecraft:${slab}>)
+            )
+            .addStep<mods.createtweaker.PressingRecipe>(
+                rb => rb.duration(200)
+            )
+    );
+}

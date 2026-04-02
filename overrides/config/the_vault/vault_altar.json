@@ -142,12 +142,20 @@
         "id": "the_vault:vault_crystal",
         "nbt": {
           "CrystalData": {
+            "Objective": {
+              "type": "chaos",
+              "objective_probability": 1.0
+            },
             "Modifiers": {
               "type": "default",
               "RandomModifiers": 0,
               "List": [
                 {
                   "id": "the_vault:chaos",
+                  "size": 1
+                },
+                {
+                  "id": "the_vault:chaos_return",
                   "size": 1
                 }
               ]
@@ -286,14 +294,46 @@
       }
     },
     {
+      "input": "the_vault:crystal_seal_pvp",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "pvp",
+              "min_level": 50,
+              "max_players": 8
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 0
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
       "input": "the_vault:crystal_seal_vault_royale",
       "output": {
         "id": "the_vault:vault_crystal",
         "nbt": {
           "CrystalData": {
             "Objective": {
-              "type": "royale",
-              "min_level": 50
+              "type": "vault_royale",
+              "min_level": 50,
+              "start_crate_loot_table": "the_vault:royale_start_crate",
+              "objective_probability": 0.2,
+              "dust_target": {
+                "min": 80,
+                "max": 120,
+                "type": "uniform"
+              },
+              "required_multiplier_amount": 100
             },
             "Modifiers": {
               "type": "default",
@@ -304,6 +344,12 @@
                   "size": 1
                 }
               ]
+            },
+            "Layout": {
+              "type": "vault_royale",
+              "radius": 5,
+              "tunnel_span": 1,
+              "boss_room_pool": "the_vault:vault/rooms/special/royale_boss"
             },
             "Properties": {
               "type": "capacity",
@@ -340,30 +386,6 @@
               "type": "capacity",
               "exhausted": 1,
               "volume": 0
-            },
-            "Version": 3
-          }
-        }
-      }
-    },
-    {
-      "input": "the_vault:crystal_seal_pvp",
-      "output": {
-        "id": "the_vault:vault_crystal",
-        "nbt": {
-          "CrystalData": {
-            "Objective": {
-              "type": "pvp",
-              "min_level": 50,
-              "max_players": 8
-            },
-            "Modifiers": {
-              "type": "default",
-              "RandomModifiers": 0
-            },
-            "Properties": {
-              "type": "capacity",
-              "exhausted": 0
             },
             "Version": 3
           }

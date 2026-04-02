@@ -2,8 +2,15 @@
   "keys": [
     {
       "id": "the_vault:classic_vault_plastic",
-      "name": "Plastic",
+      "name": "Fantastic",
+      "color": 4367861,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_plastic.json"
+    },
+    {
+      "id": "the_vault:classic_vault_plastic_playtime",
+      "name": "Playtime",
+      "color": 16356597,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_plastic_playtime.json"
     },
     {
       "id": "the_vault:classic_vault_ice",
@@ -28,6 +35,12 @@
       "name": "Caverns",
       "color": 4427270,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_lush_cave.json"
+    },
+    {
+      "id": "the_vault:classic_vault_temple",
+      "name": "Temple",
+      "color": 4427270,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_temple.json"
     },
     {
       "id": "the_vault:classic_vault_gloom",
@@ -275,8 +288,8 @@
     },
     {
       "id": "the_vault:classic_vault_blood_moon",
-      "name": "Bloodmoon",
-      "color": 10161689,
+      "name": "Cinders",
+      "color": 4793353,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_blood_moon.json"
     },
     {
@@ -461,14 +474,14 @@
     },
     {
       "id": "the_vault:classic_vault_blood",
-      "name": "Dawn",
-      "color": 9109504,
+      "name": "Wastelands",
+      "color": 9141611,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_blood.json"
     },
     {
       "id": "the_vault:classic_vault_blood_ash",
       "name": "Ashen",
-      "color": 9109504,
+      "color": 9141611,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_blood_ash.json"
     },
     {

@@ -6,6 +6,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_plastic.json"
     },
     {
+      "id": "the_vault:universal_plastic_playtime",
+      "name": "Universal Plastic Playtime",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_plastic_playtime.json"
+    },
+    {
       "id": "the_vault:universal_cave",
       "name": "Universal Cave",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_cave.json"
@@ -39,6 +44,11 @@
       "id": "the_vault:universal_lush_cave",
       "name": "Universal Lush Cave",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_lush_cave.json"
+    },
+    {
+      "id": "the_vault:universal_temple",
+      "name": "Universal Temple",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_temple.json"
     },
     {
       "id": "the_vault:universal_gloom",
@@ -424,6 +434,11 @@
       "id": "the_vault:generic/spawners/lush_cave_mobs",
       "name": "Lush Cave Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/lush_cave_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/temple_mobs",
+      "name": "Temple Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/temple_mobs.json"
     },
     {
       "id": "the_vault:generic/spawners/gloom_mobs",
@@ -1916,6 +1931,21 @@
       "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_zombie.json"
     },
     {
+      "id": "the_vault:special/boss/royale/base",
+      "name": "Royale Boss Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/base.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/boss1",
+      "name": "Royale Boss 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/boss1.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/boss2",
+      "name": "Royale Boss 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/boss2.json"
+    },
+    {
       "id": "the_vault:special/boss/base",
       "name": "Boss",
       "1.0": "config/the_vault/gen/1.0/palettes/special/boss/base.json"
@@ -1984,6 +2014,36 @@
       "id": "the_vault:universal_greed_death",
       "name": "Universal Death",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_greed_acid.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/solar_gold",
+      "name": "Royale Solar Gold",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/solar_gold.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/solar_gold_boss1",
+      "name": "Royale Solar Gold Boss 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/solar_gold_boss1.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/solar_gold_boss2",
+      "name": "Royale Solar Gold Boss 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/solar_gold_boss2.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/honey_amber_boss1",
+      "name": "Royale Honey Amber Boss 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/honey_amber_boss1.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/honey_amber_boss2",
+      "name": "Royale Honey Amber Boss 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/honey_amber_boss2.json"
+    },
+    {
+      "id": "the_vault:special/boss/royale/honey_amber",
+      "name": "Royale Honey Amber",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/royale/honey_amber.json"
     }
   ]
 }

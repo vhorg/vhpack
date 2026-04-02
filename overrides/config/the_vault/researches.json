@@ -191,7 +191,8 @@
     },
     {
       "modIds": [
-        "refinedstorage"
+        "refinedstorage",
+        "extrastorage"
       ],
       "restrictions": {
         "restricts": {
@@ -472,7 +473,11 @@
     },
     {
       "modIds": [
-        "create"
+        "create",
+        "createaddition",
+        "copycats",
+        "railways",
+        "moreburners"
       ],
       "restrictions": {
         "restricts": {
@@ -803,6 +808,34 @@
             "USABILITY": true,
             "CRAFTABILITY": true
           }
+        },
+        "extrastorage:iron_crafter": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "extrastorage:gold_crafter": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "extrastorage:diamond_crafter": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "extrastorage:netherite_crafter": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
         }
       },
       "blockRestrictions": {},
@@ -926,6 +959,23 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Map Markers",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "the_vault:augment_station": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true,
+            "BLOCK_INTERACTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Augment Station",
       "cost": 3,
       "usesKnowledge": true
     },

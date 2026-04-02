@@ -3646,10 +3646,10 @@
           "modifier": "the_vault:bronze_nuke",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3671,10 +3671,10 @@
           "modifier": "the_vault:kill_hunter",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3697,10 +3697,10 @@
           "modifier": "the_vault:kill_nuke",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3723,10 +3723,10 @@
           "modifier": "the_vault:kill_totem",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3748,10 +3748,10 @@
           "modifier": "the_vault:loot_goblin",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3773,10 +3773,10 @@
           "modifier": "the_vault:door_hunter",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -5634,22 +5634,22 @@
       "maxTier": 1
     },
     "wild_green": {
-    "type": "dummy",
-    "name": {
-      "text": "Green Wild Card"
-    },
-    "colors": [
-      "GREEN"
-    ],
-    "groups": [
-      "Wild",
-      "Stat",
-      "Arcane",
-      "Temporal",
-      "Resource",
-      "Evolution"
-    ],
-    "maxTier": 1
+      "type": "dummy",
+      "name": {
+        "text": "Green Wild Card"
+      },
+      "colors": [
+        "GREEN"
+      ],
+      "groups": [
+        "Wild",
+        "Stat",
+        "Arcane",
+        "Temporal",
+        "Resource",
+        "Evolution"
+      ],
+      "maxTier": 1
     },
     "wild_blue": {
       "type": "dummy",
@@ -5862,6 +5862,240 @@
         "Evolution"
       ],
       "maxTier": 1
+    },
+
+    "greed_below_evolution": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["BELOW"],
+      "targetGroupFilter": ["Evolution"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 2.0
+        },
+        {
+          "tier": 2,
+          "roll": 2.5
+        },
+        {
+          "tier": 3,
+          "roll": 3.0
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_above_stat": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["ABOVE"],
+      "targetGroupFilter": ["Stat"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.5
+        },
+        {
+          "tier": 2,
+          "roll": 2.0
+        },
+        {
+          "tier": 3,
+          "roll": 2.5
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_adjacent_arcane": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["ADJACENT"],
+      "targetGroupFilter": ["Arcane"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.5
+        },
+        {
+          "tier": 2,
+          "roll": 1.75
+        },
+        {
+          "tier": 3,
+          "roll": 2.0
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_left_resource": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["LEFT"],
+      "targetGroupFilter": ["Resource"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.5
+        },
+        {
+          "tier": 2,
+          "roll": 2.0
+        },
+        {
+          "tier": 3,
+          "roll": 2.5
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_right_offensive": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["RIGHT"],
+      "targetGroupFilter": ["Offensive"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.5
+        },
+        {
+          "tier": 2,
+          "roll": 2.0
+        },
+        {
+          "tier": 3,
+          "roll": 2.5
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_below_defensive": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["BELOW"],
+      "targetGroupFilter": ["Defensive"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.5
+        },
+        {
+          "tier": 2,
+          "roll": 2.0
+        },
+        {
+          "tier": 3,
+          "roll": 2.5
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_above_red": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["ABOVE"],
+      "targetColorFilter": ["RED"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.5
+        },
+        {
+          "tier": 2,
+          "roll": 2.0
+        },
+        {
+          "tier": 3,
+          "roll": 2.5
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_below_blue": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["BELOW"],
+      "targetColorFilter": ["BLUE"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.5
+        },
+        {
+          "tier": 2,
+          "roll": 2.0
+        },
+        {
+          "tier": 3,
+          "roll": 2.5
+        }
+      ],
+      "maxTier": 3
+    },
+    "greed_surrounding_any": {
+      "type": "greed",
+      "name": {
+        "text": "Greed Card"
+      },
+      "groups": [
+        "Greed"
+      ],
+      "targetNeighborTypes": ["SURROUNDING"],
+      "multiplierPool": [
+        {
+          "tier": 1,
+          "roll": 1.25
+        },
+        {
+          "tier": 2,
+          "roll": 1.5
+        },
+        {
+          "tier": 3,
+          "roll": 1.75
+        }
+      ],
+      "maxTier": 3
     }
   },
   "pools": {
@@ -6198,23 +6432,23 @@
       },
       {
         "value": "toxic_grenade",
-      "weight": 1.0
+        "weight": 1.0
       },
       {
         "value": "mana_barrier",
-      "weight": 1.0
+        "weight": 1.0
       },
       {
         "value": "vein_miner",
-      "weight": 1.0
+        "weight": 1.0
       },
       {
         "value": "vein_miner_durability",
-      "weight": 0.0
+        "weight": 0.0
       },
       {
         "value": "vein_miner_void",
-      "weight": 0.0
+        "weight": 0.0
       }
     ],
     "temporal": [
@@ -6551,6 +6785,44 @@
       {
         "value": "wild_red_yellow",
         "weight": 8.0
+      }
+    ],
+    "greed": [
+      {
+        "value": "greed_below_evolution",
+        "weight": 10.0
+      },
+      {
+        "value": "greed_above_stat",
+        "weight": 10.0
+      },
+      {
+        "value": "greed_adjacent_arcane",
+        "weight": 8.0
+      },
+      {
+        "value": "greed_left_resource",
+        "weight": 8.0
+      },
+      {
+        "value": "greed_right_offensive",
+        "weight": 8.0
+      },
+      {
+        "value": "greed_below_defensive",
+        "weight": 8.0
+      },
+      {
+        "value": "greed_above_red",
+        "weight": 6.0
+      },
+      {
+        "value": "greed_below_blue",
+        "weight": 6.0
+      },
+      {
+        "value": "greed_surrounding_any",
+        "weight": 5.0
       }
     ]
   }

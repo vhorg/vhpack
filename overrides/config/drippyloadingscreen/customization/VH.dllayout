@@ -4,7 +4,7 @@ customization-meta {
   fadeout = false
   randomgroup = 1
   keepaspectratio = true
-  backgroundimage = packmenu/resources/assets/packmenu/textures/gui/test-splash.png
+  backgroundimage = packmenu/resources/assets/packmenu/textures/gui/loading_splash.png
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
@@ -17,11 +17,11 @@ customization {
 
 customization {
   action = editprogressbar
-  barcolor = FFC02B
+  barcolor = FFFFFF
 }
 
 customization {
-  path = packmenu/resources/assets/packmenu/textures/gui/test-splash.png
+  path = packmenu/resources/assets/packmenu/textures/gui/loading_splash.png
   orientation = bottom-centered
   x = -640
   width = 1279

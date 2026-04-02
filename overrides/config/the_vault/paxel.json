@@ -203,6 +203,13 @@
         "amount": 8
       },
       "probability": 1.0
+    },
+    "minecraft:obsidian": {
+      "item": {
+        "item": "create:powdered_obsidian",
+        "amount": 1
+      },
+      "probability": 1.0
     }
   },
   "TIER_VALUES": {

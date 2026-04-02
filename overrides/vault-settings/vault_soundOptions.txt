@@ -1,0 +1,2 @@
+# Vault Sound Options
+# Format: sound_id:volume

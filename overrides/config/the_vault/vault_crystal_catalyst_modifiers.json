@@ -32,7 +32,8 @@
         "the_vault:extended",
         "the_vault:xp_gain",
         "the_vault:soul_boost",
-        "the_vault:phoenix"
+        "the_vault:phoenix",
+        "the_vault:more_mobs_cata"
       ]
     },
     "CURSE": {

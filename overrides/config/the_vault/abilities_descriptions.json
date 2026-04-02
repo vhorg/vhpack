@@ -512,7 +512,23 @@
     "Heal_Group": {
       "description": [
         {
-          "text": "Changes your Heal to a group heal! Healing yourself and teammates around you for an amount of ",
+          "text": "Allows your Heal to affect all members of your Vault Party.\n\nParty members within the heal's ",
+          "color": "$text"
+        },
+        {
+          "text": "radius",
+          "color": "$heal"
+        },
+        {
+          "text": " will be healed for the full amount of ",
+          "color": "$text"
+        },
+        {
+          "text": "hitpoints",
+          "color": "$heal"
+        },
+        {
+          "text": " while those outside the radius will heal for half the ",
           "color": "$text"
         },
         {
@@ -871,23 +887,39 @@
     "Shield_Bash": {
       "description": [
         {
-          "text": "Bash mobs with your shield, dealing ",
+          "text": "Dash forward and bash mobs with your shield, dealing ",
           "color": "$text"
         },
         {
-          "text": "Thorns Damage",
-          "color": "$thornsDamage"
+          "text": "Block Chance Damage",
+          "color": "$damage"
         },
         {
-          "text": " in front of you in a ",
+          "text": " in a ",
           "color": "$text"
         },
         {
-          "text": "line",
+          "text": "cone",
           "color": "$radius"
         },
         {
-          "text": ".",
+          "text": " in front of you with ",
+          "color": "$text"
+        },
+        {
+          "text": "knockback",
+          "color": "$knockback"
+        },
+        {
+          "text": ". Has a chance to ",
+          "color": "$text"
+        },
+        {
+          "text": "stun",
+          "color": "$stunChance"
+        },
+        {
+          "text": " hit enemies.",
           "color": "$text"
         },
         {
@@ -902,14 +934,18 @@
       "current": [
         "manaCost",
         "cooldown",
-        "thornsDamage",
-        "adjustedRadius"
+        "damage",
+        "adjustedRadius",
+        "knockback",
+        "stunChance"
       ],
       "next": [
         "manaCost",
         "cooldown",
-        "thornsDamage",
-        "adjustedRadius"
+        "damage",
+        "adjustedRadius",
+        "knockback",
+        "stunChance"
       ]
     },
     "Mana_Shield_Base": {

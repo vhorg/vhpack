@@ -870,6 +870,26 @@ craftingTable.removeByName("create:crafting/kinetics/attribute_filter");
 <recipetype:create:item_application>.remove(<item:create:copper_casing>);
 <recipetype:create:sequenced_assembly>.remove(<item:create:track>);
 
+// create additions
+<recipetype:create:mechanical_crafting>.remove(<item:createaddition:electric_motor>);
+<recipetype:create:mechanical_crafting>.remove(<item:createaddition:alternator>);
+<recipetype:create:mechanical_crafting>.remove(<item:createaddition:tesla_coil>);
+
+// create railway
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_acacia>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_phantom>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_crimson>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_dark_oak>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_jungle>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_oak>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_spruce>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_ender>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_blackstone>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_monorail>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_birch>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_warped>);
+<recipetype:create:sequenced_assembly>.remove(<item:railways:track_tieless>);
+
 // Backpacks
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_refill_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:stonecutter_upgrade>);
@@ -1003,6 +1023,9 @@ craftingTable.remove(<item:powah:solar_panel_basic>);
 // Entangled
 craftingTable.remove(<item:entangled:block>);
 craftingTable.remove(<item:entangled:item>);
+
+// simply lights
+craftingTable.remove(<item:simplylight:edge_light>);
 
 
 // craftingTable.remove();   
@@ -1599,7 +1622,6 @@ JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_v
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_herald" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_idona" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_intermediary" as string}));
-JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_plastic" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_tenos" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_velara" as string}));
 JEI.hideIngredient(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_wendarr" as string}));

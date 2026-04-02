@@ -553,6 +553,18 @@
       "color1": "0xFFED7B24",
       "color2": "0xFFe2a631"
     },
+    "broodmother": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Broodmother",
+      "item": {
+        "id": "the_vault:shield",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:broodmother\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
     "inflated_justice": {
       "type": "floating_item_reward",
       "textColor": -1213660,
@@ -852,14 +864,13 @@
       "type": "mob_spawn",
       "entity": {
         "id": "minecraft:pillager",
-        "Tags": ["no_champion", "ethereal_immune"],
+        "Tags": ["no_champion", "ethereal_immune", "dont_fall"],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
           "#the_vault:modifier_type/entity_effect"
         ],
         "Modifiers": {
-          "minecraft:generic.movement_speed": { "Value": -1.0, "Operation": 2 },
           "minecraft:generic.knockback_resistance": { "Value": 1.0, "Operation": 0 }
         }
       },
@@ -912,6 +923,36 @@
         "Tags": ["no_champion", "ethereal_immune", "no_drops"]
       },
       "count": 10,
+      "spawner": "elevated"
+    },
+    "add_low_level_guardians": {
+      "type": "mob_spawn",
+      "name": "Guardians",
+      "entity": {
+        "id": "the_vault:bruiser_guardian",
+        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+      },
+      "count": 4,
+      "spawner": "elevated"
+    },
+    "add_low_2_level_guardians": {
+      "type": "mob_spawn",
+      "name": "Guardians",
+      "entity": {
+        "id": "the_vault:bruiser_guardian",
+        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+      },
+      "count": 8,
+      "spawner": "elevated"
+    },
+    "add_high_level_guardians": {
+      "type": "mob_spawn",
+      "name": "Guardians",
+      "entity": {
+        "id": "the_vault:bruiser_guardian",
+        "Tags": ["no_champion", "ethereal_immune", "no_drops"]
+      },
+      "count": 12,
       "spawner": "elevated"
     },
     "add_puzzle_guardians": {
@@ -1024,14 +1065,13 @@
       "textColor": "0xFFff7575",
       "entity": {
         "id": "minecraft:pillager",
-        "Tags": ["vault_champion","no_drops", "ethereal_immune"],
+        "Tags": ["vault_champion","no_drops", "ethereal_immune", "dont_fall"],
         "modifierImmunity": [
           "#the_vault:modifier_type/mob_frenzy",
           "#the_vault:modifier_type/mob_attribute",
           "#the_vault:modifier_type/entity_effect"
         ],
         "Modifiers": {
-          "minecraft:generic.movement_speed": { "Value": -1.0, "Operation": 2 },
           "minecraft:generic.knockback_resistance": { "Value": 1.0, "Operation": 0 }
         }
       },
@@ -1055,7 +1095,11 @@
       "count": 1,
       "spawner": "ground"
     },
-
+    "double_everything": {
+      "type": "multiply_actions",
+      "name": "Double Rewards & Modifiers",
+      "textColor": "0xFFFF78DD"
+    },
 
     "negative": [
       { "value": "mob_damage", "weight": 4 },
@@ -1104,7 +1148,8 @@
           { "value": "swarmwalkers", "weight": 2 },
           { "value": "stormcrown", "weight": 2 },
           { "value": "inflated_justice", "weight": 2 },
-          { "value": "raid_rock_infinite", "weight": 40 }
+          { "value": "raid_rock_infinite", "weight": 40 },
+          { "value": "double_everything", "weight": 4 }
         ]
         },
         { "level": 50, "pool": [
@@ -1150,7 +1195,8 @@
           { "value": "swarmwalkers", "weight": 2 },
           { "value": "stormcrown", "weight": 2 },
           { "value": "inflated_justice", "weight": 2 },
-          { "value": "raid_rock_infinite", "weight": 40 }
+          { "value": "raid_rock_infinite", "weight": 40 },
+          { "value": "double_everything", "weight": 4 }
           ]
         }
       ]
@@ -1258,15 +1304,6 @@
           { "value": "wooden_chest_big", "weight": 130 },
           { "value": "coin_pile_big", "weight": 130 },
           { "value": "jewel_pouch", "weight": 60 },
-          { "value": "rare_helmet", "weight": 40 },
-          { "value": "rare_chestplate", "weight": 40 },
-          { "value": "rare_leggings", "weight": 40 },
-          { "value": "rare_boots", "weight": 40 },
-          { "value": "rare_sword", "weight": 40 },
-          { "value": "rare_axe", "weight": 40 },
-          { "value": "rare_shield", "weight": 40 },
-          { "value": "rare_focus", "weight": 40 },
-          { "value": "rare_wand", "weight": 40 },
           { "value": "cryonic_focus", "weight": 6 },
           { "value": "pyretic_focus", "weight": 6 },
           { "value": "echo_gem_big", "weight": 18 },
@@ -1281,16 +1318,6 @@
           { "value": "living_chest_big", "weight": 130 },
           { "value": "wooden_chest_big", "weight": 130 },
           { "value": "coin_pile_big", "weight": 130 },
-          { "value": "jewel_pouch", "weight": 60 },
-          { "value": "rare_helmet", "weight": 40 },
-          { "value": "rare_chestplate", "weight": 40 },
-          { "value": "rare_leggings", "weight": 40 },
-          { "value": "rare_boots", "weight": 40 },
-          { "value": "rare_sword", "weight": 40 },
-          { "value": "rare_axe", "weight": 40 },
-          { "value": "rare_shield", "weight": 40 },
-          { "value": "rare_focus", "weight": 40 },
-          { "value": "rare_wand", "weight": 40 },
           { "value": "cryonic_focus", "weight": 6 },
           { "value": "pyretic_focus", "weight": 6 },
           { "value": "echo_gem_big", "weight": 18 },
@@ -1309,7 +1336,6 @@
           { "value": "gilded_chest_big", "weight": 100 },
           { "value": "ornate_chest_big", "weight": 100 },
           { "value": "living_chest_big", "weight": 100 },
-          { "value": "wooden_chest_big", "weight": 100 },
           { "value": "coin_pile_big", "weight": 100 },
           { "value": "cryonic_focus", "weight": 80 },
           { "value": "empowered_chaotic_focus", "weight": 40 },
@@ -1332,22 +1358,22 @@
           { "value": "gilded_chest_big", "weight": 100 },
           { "value": "ornate_chest_big", "weight": 100 },
           { "value": "living_chest_big", "weight": 100 },
-          { "value": "wooden_chest_big", "weight": 100 },
           { "value": "coin_pile_big", "weight": 100 },
           { "value": "frostwarden", "weight": 10 },
           { "value": "quickstone", "weight": 10 },
-          { "value": "ender_rings", "weight": 10 }
+          { "value": "ender_rings", "weight": 10 },
+          { "value": "broodmother", "weight": 10 }
 
         ] },
         { "level": 50, "pool": [
           { "value": "gilded_chest_big", "weight": 100 },
           { "value": "ornate_chest_big", "weight": 100 },
           { "value": "living_chest_big", "weight": 100 },
-          { "value": "wooden_chest_big", "weight": 100 },
           { "value": "coin_pile_big", "weight": 100 },
           { "value": "frostwarden", "weight": 10 },
           { "value": "quickstone", "weight": 10 },
-          { "value": "ender_rings", "weight": 10 }
+          { "value": "ender_rings", "weight": 10 },
+          { "value": "broodmother", "weight": 10 }
 
           ]
         }
@@ -1367,6 +1393,45 @@
             { "value": "ornate_chest_big", "weight": 100 }
           ]
         }
+      ]
+    },
+    "positive_wildwest": {
+      "type": "pool",
+      "levels": [
+        { "level": 0, "pool": [
+          { "value": "gilded_chest_big", "weight": 100 },
+          { "value": "ornate_chest_big", "weight": 100 },
+          { "value": "living_chest_big", "weight": 100 },
+          { "value": "coin_pile_big", "weight": 100 }
+        ] }
+      ]
+    },
+    "positive_temple": {
+      "type": "pool",
+      "levels": [
+        { "level": 0, "pool": [
+          { "value": "gilded_chest_big", "weight": 100 },
+          { "value": "ornate_chest_big", "weight": 100 },
+          { "value": "living_chest_big", "weight": 100 },
+          { "value": "coin_pile_big", "weight": 100 }
+        ] }
+      ]
+    },
+    "negative_temple": {
+      "type": "pool",
+      "levels": [
+        { "level": 0, "pool": [
+          { "value": "add_low_level_guardians", "weight": 100 }
+        ] },
+        { "level": 20, "pool": [
+          { "value": "add_low_2_level_guardians", "weight": 100 }
+        ] },
+        { "level": 50, "pool": [
+          { "value": "add_guardians", "weight": 100 }
+        ] },
+        { "level": 90, "pool": [
+          { "value": "add_high_level_guardians", "weight": 100 }
+        ] }
       ]
     }
   }
