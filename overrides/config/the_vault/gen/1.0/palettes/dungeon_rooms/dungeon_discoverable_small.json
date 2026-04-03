@@ -83,6 +83,7 @@
                   "probability": 0.1,
                   "success": {
                     "the_vault:imbuement_altar[locked=true]": 8,
+                    "the_vault:reclamation_altar[locked=true]": 4,
                     "the_vault:vault_globe[type=common,generated=true]": 6,
                     "the_vault:vault_globe[type=ore,generated=true]": 6,
                     "the_vault:vault_globe[type=challenge,generated=true]": 4,

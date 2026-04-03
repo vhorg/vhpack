@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Vault Hunters - Third Edition",
-  "version": "3.21.1.0",
+  "version": "3.21.2.0",
   "author": "",
   "files": [
     {
@@ -142,7 +142,7 @@
     },
     {
       "projectID": 458203,
-      "fileID": 7864349,
+      "fileID": 7867725,
       "required": true,
       "isLocked": false
     },
@@ -521,12 +521,6 @@
     {
       "projectID": 429235,
       "fileID": 4074294,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 351441,
-      "fileID": 4399590,
       "required": true,
       "isLocked": false
     },

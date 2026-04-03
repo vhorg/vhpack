@@ -24,7 +24,7 @@
             }
           ]
         },
-        {"weight": 26,
+        {"weight": 30,
           "pool": [
             {
               "weight": 4,
@@ -213,7 +213,7 @@
           ]
         },
         {
-          "weight": 16,
+          "weight": 12,
           "pool": [
 
             {

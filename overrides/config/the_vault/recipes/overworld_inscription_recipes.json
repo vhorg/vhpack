@@ -445,7 +445,7 @@
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:overworld_inscription",
-        "NBT": "{structureId:\"the_vault:overworld/douwskyisland\",model:0,color:3118792,display:{Name:'{\"text\":\"Douwsky\\u0027s Sky Island\",\"color\":\"#2F96C8\"}'}}"
+        "NBT": "{structureId:\"the_vault:overworld/douwskyisland\",model:0,color:3118792,display:{Name:\"{\\\"text\\\":\\\"Douwsky's Sky Island\\\",\\\"color\\\":\\\"#2F96C8\\\"}\"}}"
       },
       "inputs": [
         { "AMOUNT": 8, "ITEM": "the_vault:vault_gold", "NBT": "{}" },
@@ -473,7 +473,7 @@
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:overworld_inscription",
-        "NBT": "{structureId:\"the_vault:overworld/floorplan_blueprint\",model:0,color:3118792,display:{Name:'{\"text\":\"Architect\\u0027s Blueprint\",\"color\":\"#2F96C8\"}'}}"
+        "NBT": "{structureId:\"the_vault:overworld/floorplan_blueprint\",model:0,color:3118792,display:{Name:\"{\\\"text\\\":\\\"Architect's Blueprint\\\",\\\"color\\\":\\\"#2F96C8\\\"}\"}}"
       },
       "inputs": [
         { "AMOUNT": 8, "ITEM": "the_vault:vault_gold", "NBT": "{}" },
@@ -529,7 +529,7 @@
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:overworld_inscription",
-        "NBT": "{structureId:\"the_vault:overworld/rubiks_cube\",model:0,color:3118792,display:{Name:'{\"text\":\"Rubik\\u0027s Cube\",\"color\":\"#2F96C8\"}'}}"
+        "NBT": "{structureId:\"the_vault:overworld/rubiks_cube\",model:0,color:3118792,display:{Name:\"{\\\"text\\\":\\\"Rubik's Cube\\\",\\\"color\\\":\\\"#2F96C8\\\"}\"}}"
       },
       "inputs": [
         { "AMOUNT": 8, "ITEM": "the_vault:vault_gold", "NBT": "{}" },
