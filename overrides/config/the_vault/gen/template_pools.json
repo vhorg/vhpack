@@ -16,6 +16,16 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/plastic_playtime_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/plastic_common_rooms",
+      "name": "Plastic Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/plastic_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/plastic_playtime_common_rooms",
+      "name": "Plastic Playtime Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/plastic_playtime_common_rooms.json"
+    },
+    {
       "id": "the_vault:vault/rooms/cave_rooms",
       "name": "Cave Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_rooms.json"

@@ -623,6 +623,7 @@
 		"quark:trowel",
 		"create:minecart_contraption",
 		"minecraft:golden_apple",
-		"create:chute"
+		"create:chute",
+		"the_vault:greedy_anchor"
 	]
 }

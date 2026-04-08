@@ -50,7 +50,8 @@
       [{"text": "Unlocks", "color": "#999999"}],
       [{"text": "+1 ", "color": "#FFAA00"}, {"text": "Greed Trade Slot", "color": "#DDDDDD"}],
       [{"text": "Greed Catalysts ", "color": "#DDDDDD"}, {"text": "T2 ", "color": "#FFAA00"}, {"text": "(size 1-2)", "color": "#888888"}],
-      [{"text": "Mega Greed Booster Packs", "color": "#FFAA00"}]
+      [{"text": "Mega Greed Booster Packs", "color": "#FFAA00"}],
+      [{"text": "Greed Trinkets", "color": "#FFAA00"}]
     ],
     "7": [
       [{"text": "Unlocks", "color": "#999999"}],

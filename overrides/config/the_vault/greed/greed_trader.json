@@ -299,6 +299,13 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 25,
         "maxCoinCost": 42
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 40,
+        "maxCoinCost": 60
       }
     ],
     "7": [
@@ -370,6 +377,13 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 27,
         "maxCoinCost": 46
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 42,
+        "maxCoinCost": 62
       }
     ],
     "8": [
@@ -441,6 +455,13 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 29,
         "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 44,
+        "maxCoinCost": 64
       }
     ],
     "9": [
@@ -512,6 +533,13 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 31,
         "maxCoinCost": 54
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 46,
+        "maxCoinCost": 66
       }
     ],
     "10": [
@@ -590,6 +618,13 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 33,
         "maxCoinCost": 58
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 48,
+        "maxCoinCost": 68
       }
     ],
     "11": [
@@ -668,6 +703,13 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 35,
         "maxCoinCost": 62
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 50,
+        "maxCoinCost": 70
       }
     ],
     "12": [
@@ -746,10 +788,27 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 37,
         "maxCoinCost": 66
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 52,
+        "maxCoinCost": 72
       }
     ]
   },
   "pools": {
+    "greed_trinkets": [
+      {
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:greed_trinket"
+        }
+      }
+    ],
     "catalyst_t1": [
       {
         "type": "catalyst",
