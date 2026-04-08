@@ -5,6 +5,7 @@
     "damage_per_second": "<gray>Your <aqua>average damage per second <gray>against any entity, including any damage affected by <green>attributes <gray>or <green>talents<gray>.",
     "health": "<gray>Your <aqua>maximum <#22fc25>health <gray>(<aqua>hit points<gray>).",
     "defense": "<gray>Your <aqua>total protection <gray>including <#4a99cc>Armor<gray>, <#ffd800>Resistance<gray>, and <#f2cd8c>Block Chance<gray>.",
+    "effective_hp": "<gray>Your <aqua>effective health<gray>, combining your <#22fc25>Health <gray>with your <aqua>Defense<gray>. Higher means you can survive more damage.",
     "mana": "<gray>Your <aqua>maximum Mana",
     "greed_level": "<gray>The amount of <aqua>Greed Trials <gray>you have completed",
     "greed_reputation": "<gray>Your current <aqua>Greed Reputation"

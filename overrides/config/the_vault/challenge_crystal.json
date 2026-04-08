@@ -132,7 +132,7 @@
     "rune_master": {
       "objective": {
         "type": "rune_boss",
-        "objective_probability": 1.0,
+        "objective_probability": 0.05,
         "minimum_runes": {
           "type": "constant",
           "count": 50
@@ -309,6 +309,10 @@
           "type": "constant",
           "count": 100
         }
+      },
+      "theme": {
+        "type": "value",
+        "id": "the_vault:classic_vault_chaos_cake"
       },
       "layout": {
         "type": "spiral",

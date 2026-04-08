@@ -3778,6 +3778,19 @@
           "descriptionFormatted": "The mobs are visiting daycare and have shrunk by %d%% size, and have half their damage!",
           "icon": "the_vault:gui/modifiers/daycare"
         }
+      },
+      "the_vault:greed_trial": {
+        "properties": {
+          "children": {
+            "the_vault:rotten": 1
+          }
+        },
+        "display": {
+          "name": "Greed Trial",
+          "color": "#1e31b0",
+          "description": "This vault is a Greed Trial, you will face the increasingly powerful Vessel.",
+          "icon": "the_vault:gui/modifiers/greed"
+        }
       }
     },
     "the_vault:modifier_type/entity_effect": {

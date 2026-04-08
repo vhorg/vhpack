@@ -1684,6 +1684,7 @@ JEI.hideIngredient(<item:the_vault:idol_timekeeper>);
 JEI.hideIngredient(<item:the_vault:idol_malevolence>);
 JEI.hideIngredient(<item:the_vault:dragon_path_node>);
 JEI.hideIngredient(<item:the_vault:memory_room_controller>);
+JEI.hideIngredient(<item:the_vault:respec_flask>
 // IronFurnaces
 JEI.hideIngredient(<item:ironfurnaces:upgrade_silver>);
 JEI.hideIngredient(<item:ironfurnaces:upgrade_iron2>);

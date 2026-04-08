@@ -394,26 +394,27 @@
     {
       "tab": "advanced",
       "discoveryTask": {
-        "id": "loot_2500_treasure_sand",
+        "id": "open_20_treasure_doors",
         "renderer": {
           "title": {
-            "text": "Treasure Sand Looted"
+            "text": "Open 20 Treasure Doors"
           },
           "type": "named"
         },
         "children": [],
         "operating": false,
-        "filter": "the_vault:treasure_sand",
+        "pre": "the_vault:treasure_door[open=false]",
+        "post": "the_vault:treasure_door[open=true]",
         "counter": {
           "variables": {},
           "target": {
-            "count": 2500,
+            "count": 20,
             "type": "constant"
           },
           "predicate": "GREATER_OR_EQUAL_TO",
           "type": "target"
         },
-        "type": "mine_block"
+        "type": "interact_block"
       },
       "id": "the_vault:treasure_deck",
       "output": {
@@ -584,12 +585,13 @@
         "counter": {
           "variables": {},
           "target": {
-            "count": 25,
+            "count": 1,
             "type": "constant"
           },
           "type": "target"
         },
-        "type": "rune_boss_objective"
+        "type": "rune_boss_objective",
+        "requiredRunes": 25
       },
       "id": "the_vault:runic_deck",
       "output": {

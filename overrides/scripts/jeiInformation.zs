@@ -5,7 +5,7 @@ for Iskall85's Vaulthunters */
 
 import mods.jei.JEI;
 
-mods.jei.JEI.addDescription(<item:the_vault:vault_catalyst_fragment>,("Catalyst Fragments can be found inside Wooden Chests in unmodified Vaults starting at Level 24."));
+mods.jei.JEI.addDescription(<item:the_vault:vault_catalyst_fragment>,("Catalyst Fragments can be found inside Wooden Chests in unmodified Vaults starting at Level 20."));
 mods.jei.JEI.addDescription(<item:the_vault:augment>,("Combining a Vault Crystal with an Augment in an anvil will guarantee the theme that is specified on the Augment. Augments have a 20% chance to be awarded in a Completion crate and will be set to the theme of the Vault that it was obtained from."));
 mods.jei.JEI.addDescription(<item:the_vault:vault_charm>,("When this charm is in your inventory it will automatically void any item whitelisted set inside the Vault Controller on pickup in a Vault."));
 mods.jei.JEI.addDescription(<item:the_vault:vault_charm_controller>,("The Void Crucible serves several key functions within the Vault. Firstly, it allows you to configure a blacklist—a list of blocks that will not be voided when picked up during a Vault run. This gives players greater control over which blocks are preserved. Additionally, the Crucible houses the crafting interface for Void Stones, which are created using Vault Gold and Vault Alloy. The Crystal tab lets you preview the various blocks that can generate in specific room themes, helping with planning and preparation. Unlike the previous charm system, the inventory size cannot be upgraded, making inventory management more strategic than ever."));

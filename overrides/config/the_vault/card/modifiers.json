@@ -5877,15 +5877,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -5903,15 +5903,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -5929,15 +5929,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -5955,15 +5955,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -5981,15 +5981,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6007,15 +6007,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6033,15 +6033,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6059,15 +6059,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6085,15 +6085,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6111,15 +6111,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6137,15 +6137,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6163,15 +6163,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6189,15 +6189,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6215,15 +6215,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6241,15 +6241,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3
@@ -6267,15 +6267,15 @@
       "multiplierPool": [
         {
           "tier": 1,
-          "roll": 2.0
+          "roll": 3.0
         },
         {
           "tier": 2,
-          "roll": 2.5
+          "roll": 4.0
         },
         {
           "tier": 3,
-          "roll": 3.0
+          "roll": 5.0
         }
       ],
       "maxTier": 3

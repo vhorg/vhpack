@@ -1591,6 +1591,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/temple.json"
     },
     {
+      "id": "the_vault:vault/rooms/challenge/temple",
+      "name": "Challenge Temple",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/temple.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega_rooms",
       "name": "Omega Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json"
