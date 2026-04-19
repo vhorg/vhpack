@@ -197,6 +197,10 @@
           {
             "modifier": "the_vault:no_companion",
             "count": 1
+          },
+          {
+            "modifier": "the_vault:royale",
+            "size": 1
           }
         ],
         "random_modifiers": false,

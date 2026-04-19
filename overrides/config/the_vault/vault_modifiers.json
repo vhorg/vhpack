@@ -1026,7 +1026,7 @@
           "name": "Scale Test",
           "color": "#dc693c",
           "description": "The mobs are visiting daycare and have shrunk by half their size!",
-          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by %d%% size!",
+          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by 50% size!",
           "icon": "the_vault:gui/modifiers/daycare"
         }
       },
@@ -1040,7 +1040,7 @@
           "name": "Scale Test",
           "color": "#dc693c",
           "description": "The mobs are visiting daycare and have shrunk by half their size!",
-          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by %d%% size!",
+          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by 50% size!",
           "icon": "the_vault:gui/modifiers/daycare"
         }
       },
@@ -1054,7 +1054,7 @@
           "name": "Chunky Scale",
           "color": "#dc693c",
           "description": "Mobs are chunky in size",
-          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by %d%% size!",
+          "descriptionFormatted": "The mobs are 20% larger than normal!",
           "icon": "the_vault:gui/modifiers/daycare"
         }
       },
@@ -3775,7 +3775,7 @@
           "name": "Daycare",
           "color": "#dc693c",
           "description": "The mobs are visiting daycare and have shrunk by half their size, and have 50% less damage!",
-          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by %d%% size, and have half their damage!",
+          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by 50% size, and have half their damage!",
           "icon": "the_vault:gui/modifiers/daycare"
         }
       },

@@ -1563,7 +1563,7 @@
           "color": "$damage"
         },
         {
-          "text": ", and ",
+          "text": ", destroying blocks and ",
           "color": "$text"
         },
         {
