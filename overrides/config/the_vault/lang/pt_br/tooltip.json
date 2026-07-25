@@ -701,10 +701,6 @@
       "value": "Um ingrediente de fabricacao raro"
     },
     {
-      "item": "the_vault:skill_essence",
-      "value": "Ingrediente de fabricacao"
-    },
-    {
       "item": "the_vault:hunter_eye",
       "value": "Um ingrediente de fabricacao epico"
     },
@@ -805,10 +801,6 @@
       "value": "Usado como ingrediente de fabricacao para criacoes de final de jogo"
     },
     {
-      "item": "the_vault:eternal_soul",
-      "value": "A alma de um Vault Hunter caido\nUsada em uma Cryo Chamber para criar Eternals"
-    },
-    {
       "item": "the_vault:spark",
       "value": "Pode ser usado para criar artefatos do nada"
     },
@@ -870,10 +862,6 @@
     },
     {
       "item": "the_vault:vault_dust",
-      "value": "Ingrediente de fabricacao"
-    },
-    {
-      "item": "the_vault:vault_nugget",
       "value": "Ingrediente de fabricacao"
     },
     {

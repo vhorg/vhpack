@@ -1,7 +1,7 @@
 {
   "MAX_CIRCUITS": 16,
   "TRADES": [
-	  {
+    {
       "buy": {
         "id": "the_vault:bit_1000",
         "amount": 2
@@ -10,10 +10,10 @@
         "id": "minecraft:netherite_ingot",
         "amount": 1
       },
-	  "max_trades": 2,
-	  "times_traded": 0
+      "max_trades": 2,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_1000",
         "amount": 2
@@ -22,10 +22,10 @@
         "id": "minecraft:netherite_ingot",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_1000",
         "amount": 1
@@ -34,10 +34,10 @@
         "id": "minecraft:netherite_scrap",
         "amount": 1
       },
-	  "max_trades": 8,
-	  "times_traded": 0
+      "max_trades": 8,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:bit_10000",
         "amount": 1
@@ -46,8 +46,8 @@
         "id": "minecraft:nether_star",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
     {
       "buy": {
@@ -58,10 +58,10 @@
         "id": "the_vault:gem_pog",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_5000",
         "amount": 1
@@ -70,10 +70,10 @@
         "id": "botania:overgrowth_seed",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_5000",
         "amount": 1
@@ -82,10 +82,10 @@
         "id": "minecraft:dragon_head",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_1000",
         "amount": 3
@@ -94,10 +94,10 @@
         "id": "byg:pendorite_scraps",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_1000",
         "amount": 3
@@ -106,10 +106,10 @@
         "id": "byg:pendorite_scraps",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_5000",
         "amount": 1
@@ -118,10 +118,10 @@
         "id": "minecraft:diamond_horse_armor",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_1000",
         "amount": 3
@@ -130,10 +130,10 @@
         "id": "byg:ametrine_gems",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_5000",
         "amount": 1
@@ -142,10 +142,10 @@
         "id": "pickletweaks:diamond_apple",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_10000",
         "amount": 1
@@ -154,10 +154,10 @@
         "id": "pickletweaks:emerald_apple",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_500",
         "amount": 1
@@ -166,46 +166,10 @@
         "id": "the_vault:relic_booster_pack",
         "amount": 1
       },
-	  "max_trades": 3,
-	  "times_traded": 0
+      "max_trades": 3,
+      "times_traded": 0
     },
-	{
-      "buy": {
-        "id": "the_vault:bit_1000",
-        "amount": 1
-      },
-      "sell": {
-        "id": "the_vault:skill_essence",
-        "amount": 1
-      },
-	  "max_trades": 4,
-	  "times_traded": 0
-    },
-	{
-      "buy": {
-        "id": "the_vault:bit_1000",
-        "amount": 1
-      },
-      "sell": {
-        "id": "the_vault:skill_essence",
-        "amount": 1
-      },
-	  "max_trades": 3,
-	  "times_traded": 0
-    },
-	{
-      "buy": {
-        "id": "the_vault:bit_1000",
-        "amount": 1
-      },
-      "sell": {
-        "id": "the_vault:skill_essence",
-        "amount": 1
-      },
-	  "max_trades": 2,
-	  "times_traded": 0
-    },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 8
@@ -214,10 +178,10 @@
         "id": "the_vault:skill_shard",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 10
@@ -226,10 +190,10 @@
         "id": "the_vault:skill_shard",
         "amount": 1
       },
-	  "max_trades": 2,
-	  "times_traded": 0
+      "max_trades": 2,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_1000",
         "amount": 2
@@ -238,10 +202,10 @@
         "id": "the_vault:vault_diamond",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -250,10 +214,10 @@
         "id": "the_vault:burger_patty",
         "amount": 1
       },
-	  "max_trades": 2,
-	  "times_traded": 0
+      "max_trades": 2,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -262,10 +226,10 @@
         "id": "the_vault:oozing_pizza",
         "amount": 1
       },
-	  "max_trades": 2,
-	  "times_traded": 0
+      "max_trades": 2,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 1
@@ -274,10 +238,10 @@
         "id": "the_vault:sweet_kiwi",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -286,10 +250,10 @@
         "id": "the_vault:hunter_eye",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -298,10 +262,10 @@
         "id": "the_vault:poisonous_mushroom",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -310,10 +274,10 @@
         "id": "the_vault:burger_bun",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -322,10 +286,10 @@
         "id": "the_vault:mature_cheddar",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -334,10 +298,10 @@
         "id": "the_vault:mystic_tomato",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -346,10 +310,10 @@
         "id": "the_vault:burger_bun",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -358,10 +322,10 @@
         "id": "the_vault:mature_cheddar",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 2
@@ -370,10 +334,10 @@
         "id": "the_vault:mystic_tomato",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 10
@@ -382,10 +346,10 @@
         "id": "the_vault:vault_burger",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 6
@@ -394,10 +358,10 @@
         "id": "the_vault:bitter_lemon",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 10
@@ -406,10 +370,10 @@
         "id": "the_vault:sour_orange",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 10
@@ -418,10 +382,10 @@
         "id": "the_vault:cluster_netherite",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 32
@@ -430,10 +394,10 @@
         "id": "the_vault:vault_stew_mystery",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 48
@@ -442,10 +406,10 @@
         "id": "the_vault:orb_frame",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -454,10 +418,10 @@
         "id": "the_vault:gem_alexandrite",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -466,10 +430,10 @@
         "id": "the_vault:gem_benitoite",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -478,10 +442,10 @@
         "id": "the_vault:gem_larimar",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -490,10 +454,10 @@
         "id": "the_vault:gem_painite",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -502,10 +466,10 @@
         "id": "the_vault:gem_iskallium",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -514,10 +478,10 @@
         "id": "the_vault:gem_renium",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -526,10 +490,10 @@
         "id": "the_vault:gem_gorginite",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -538,10 +502,10 @@
         "id": "the_vault:gem_sparkletine",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 8
@@ -550,10 +514,10 @@
         "id": "the_vault:gem_black_opal",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	{
+    {
       "buy": {
         "id": "the_vault:bit_10000",
         "amount": 1
@@ -562,21 +526,21 @@
         "id": "the_vault:vault_rock",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 48
       },
       "sell": {
         "id": "dungeons_gear:dagger",
-		"nbt": "{Enchantments:[{id:sharpness,lvl:9},{id:knockback,lvl:10},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}",
+        "nbt": "{Enchantments:[{id:sharpness,lvl:9},{id:knockback,lvl:10},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
     {
       "buy": {
@@ -585,26 +549,26 @@
       },
       "sell": {
         "id": "dungeons_gear:nightmares_bite",
-		"nbt": "{Enchantments:[{id:smite,lvl:9},{id:knockback,lvl:10},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}",
+        "nbt": "{Enchantments:[{id:smite,lvl:9},{id:knockback,lvl:10},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 48
       },
       "sell": {
         "id": "dungeons_gear:moon_dagger",
-		"nbt": "{Enchantments:[{id:bane_of_arthropods,lvl:10},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}",
+        "nbt": "{Enchantments:[{id:bane_of_arthropods,lvl:10},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_bit1000",
         "amount": 1
@@ -613,10 +577,10 @@
         "id": "the_vault:vault_gold",
         "amount": 1
       },
-	  "max_trades": 4,
-	  "times_traded": 0
+      "max_trades": 4,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 1
@@ -625,10 +589,10 @@
         "id": "minecraft:ghast_tear",
         "amount": 1
       },
-	  "max_trades": 3,
-	  "times_traded": 0
+      "max_trades": 3,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 1
@@ -637,10 +601,10 @@
         "id": "minecraft:wither_skeleton_skull",
         "amount": 1
       },
-	  "max_trades": 3,
-	  "times_traded": 0
+      "max_trades": 3,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 64
@@ -649,10 +613,10 @@
         "id": "minecraft:witch_spawn_egg",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 64
@@ -661,10 +625,10 @@
         "id": "minecraft:wither_skeleton_spawn_egg",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 32
@@ -673,10 +637,10 @@
         "id": "minecraft:spawner",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 32
@@ -685,10 +649,10 @@
         "id": "minecraft:guardian_spawn_egg",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:bit1000",
         "amount": 1
@@ -697,10 +661,10 @@
         "id": "minecraft:enchanted_golden_apple",
         "amount": 1
       },
-	  "max_trades": 2,
-	  "times_traded": 0
+      "max_trades": 2,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 16
@@ -709,10 +673,10 @@
         "id": "simplybackpacks:uncommonbackpack",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 24
@@ -721,10 +685,10 @@
         "id": "simplybackpacks:rarebackpack",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 48
@@ -733,10 +697,10 @@
         "id": "simplybackpacks:epicbackpack",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -745,10 +709,10 @@
         "id": "simplybackpacks:commonbackpack",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 4
@@ -757,10 +721,10 @@
         "id": "dankstorage:dank_1",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 16
@@ -769,10 +733,10 @@
         "id": "dankstorage:dank_2",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 24
@@ -781,10 +745,10 @@
         "id": "dankstorage:dank_3",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     },
-	  {
+    {
       "buy": {
         "id": "the_vault:vault_gold",
         "amount": 64
@@ -793,8 +757,8 @@
         "id": "darkutils:charm_gluttony",
         "amount": 1
       },
-	  "max_trades": 1,
-	  "times_traded": 0
+      "max_trades": 1,
+      "times_traded": 0
     }
   ]
 }

@@ -262,7 +262,6 @@
           "icon": "the_vault:gui/modifiers/soul_shard_increase_yellow"
         }
       },
-      
       "the_vault:haunted": {
         "properties": {
           "chance": 0.5
@@ -685,13 +684,148 @@
       "the_vault:bronze_nuke": {
         "properties": {
           "filter": "",
-          "lootTable": "the_vault:bronze_table"
+          "lootTable": [
+            {
+              "level": 0,
+              "lootTable": "the_vault:bronze_table"
+            }
+          ],
+          "chance": 1,
+          "singleItem": false
         },
         "display": {
           "name": "Coin Explosion",
           "color": "#ffba00",
           "description": "Killing a mob will have it drop bronze or silver!",
           "icon": "the_vault:gui/modifiers/kill_coin"
+        }
+      },
+      "the_vault:wooden_mob_drops": {
+        "properties": {
+          "filter": "",
+          "lootTable": [
+            {
+              "level": 0,
+              "lootTable": "the_vault:wooden_chest_lvl0"
+            },
+            {
+              "level": 20,
+              "lootTable": "the_vault:wooden_chest_lvl20"
+            },
+            {
+              "level": 30,
+              "lootTable": "the_vault:wooden_chest_lvl30"
+            }
+          ],
+          "chance": 0.1,
+          "singleItem": true
+        },
+        "display": {
+          "name": "Wooden Mob Drops",
+          "color": "#c7b281",
+          "description": "Killing a mob has a 10% chance to drop Wooden Chest loot.",
+          "descriptionFormatted": "Killing a mob has a %d%% chance to drop Wooden Chest loot.",
+          "icon": "the_vault:gui/modifiers/wooden_chests"
+        }
+      },
+      "the_vault:gilded_mob_drops": {
+        "properties": {
+          "filter": "",
+          "lootTable": [
+            {
+              "level": 0,
+              "lootTable": "the_vault:gilded_chest_lvl0"
+            },
+            {
+              "level": 20,
+              "lootTable": "the_vault:gilded_chest_lvl20"
+            },
+            {
+              "level": 50,
+              "lootTable": "the_vault:gilded_chest_lvl50"
+            }
+          ],
+          "chance": 0.1,
+          "singleItem": true
+        },
+        "display": {
+          "name": "Gilded Mob Drops",
+          "color": "#FFEC00",
+          "description": "Killing a mob has a 10% chance to drop Gilded Chest loot.",
+          "descriptionFormatted": "Killing a mob has a %d%% chance to drop Gilded Chest loot.",
+          "icon": "the_vault:gui/modifiers/gilded_chests"
+        }
+      },
+      "the_vault:ornate_mob_drops": {
+        "properties": {
+          "filter": "",
+          "lootTable": [
+            {
+              "level": 0,
+              "lootTable": "the_vault:ornate_chest_lvl0"
+            },
+            {
+              "level": 20,
+              "lootTable": "the_vault:ornate_chest_lvl20"
+            },
+            {
+              "level": 30,
+              "lootTable": "the_vault:ornate_chest_lvl30"
+            },
+            {
+              "level": 50,
+              "lootTable": "the_vault:ornate_chest_lvl50"
+            },
+            {
+              "level": 65,
+              "lootTable": "the_vault:ornate_chest_lvl65"
+            }
+          ],
+          "chance": 0.1,
+          "singleItem": true
+        },
+        "display": {
+          "name": "Ornate Mob Drops",
+          "color": "#c90d73",
+          "description": "Killing a mob has a 10% chance to drop Ornate Chest loot.",
+          "descriptionFormatted": "Killing a mob has a %d%% chance to drop Ornate Chest loot.",
+          "icon": "the_vault:gui/modifiers/ornate_chests"
+        }
+      },
+      "the_vault:living_mob_drops": {
+        "properties": {
+          "filter": "",
+          "lootTable": [
+            {
+              "level": 0,
+              "lootTable": "the_vault:living_chest_lvl0"
+            },
+            {
+              "level": 10,
+              "lootTable": "the_vault:living_chest_lvl10"
+            },
+            {
+              "level": 20,
+              "lootTable": "the_vault:living_chest_lvl20"
+            },
+            {
+              "level": 30,
+              "lootTable": "the_vault:living_chest_lvl30"
+            },
+            {
+              "level": 40,
+              "lootTable": "the_vault:living_chest_lvl40"
+            }
+          ],
+          "chance": 0.1,
+          "singleItem": true
+        },
+        "display": {
+          "name": "Living Mob Drops",
+          "color": "#38d800",
+          "description": "Killing a mob has a 10% chance to drop Living Chest loot.",
+          "descriptionFormatted": "Killing a mob has a %d%% chance to drop Living Chest loot.",
+          "icon": "the_vault:gui/modifiers/living_chests"
         }
       }
     },
@@ -1173,13 +1307,13 @@
       "the_vault:mob_health_5": {
         "properties": {
           "type": "max_health_additive_percentile",
-          "amount": 0.05,
+          "amount": 0.1,
           "attributeStackingStrategy": "STACK"
         },
         "display": {
           "name": "Heavy",
           "color": "#dc693c",
-          "description": "+5,0% Mob Health",
+          "description": "+10,0% Mob Health",
           "descriptionFormatted": "+%d%% Mob Health",
           "icon": "the_vault:gui/modifiers/chunky"
         }
@@ -3044,7 +3178,6 @@
           "icon": "the_vault:gui/modifiers/gilded"
         }
       },
-      
       "the_vault:soul_cascade_ornate": {
         "properties": {
           "filter": "the_vault:ornate_chest",
@@ -3567,7 +3700,6 @@
           "icon": "the_vault:gui/modifiers/curse_wrecked"
         }
       },
-
       "the_vault:stronger_mobs": {
         "properties": {
           "children": {
@@ -3612,7 +3744,6 @@
           "children": {
             "the_vault:chunky_mobs": 1,
             "the_vault:chunky_scale": 1
-            
           }
         },
         "display": {
@@ -3867,8 +3998,7 @@
     },
     "the_vault:modifier_type/player_heal_cut": {
       "the_vault:fading": {
-        "properties": {
-        },
+        "properties": {},
         "display": {
           "name": "Fading",
           "color": "#8f3b3b",
@@ -3880,7 +4010,7 @@
     "the_vault:modifier_type/objective_target": {
       "the_vault:objective_difficulty": {
         "properties": {
-            "increase": 0.2
+          "increase": 0.2
         },
         "display": {
           "name": "Difficult",
@@ -3891,7 +4021,7 @@
       },
       "the_vault:soul_objective": {
         "properties": {
-            "increase": 0.02
+          "increase": 0.02
         },
         "display": {
           "name": "Difficult",
@@ -4151,7 +4281,7 @@
         }
       }
     },
-    "the_vault:modifier_type/legendary_modifier_duration":  {
+    "the_vault:modifier_type/legendary_modifier_duration": {
       "the_vault:legendary_duration": {
         "properties": {
           "reduction": 0.8
@@ -4164,7 +4294,7 @@
         }
       }
     },
-    "the_vault:modifier_type/spell_fail_chance":  {
+    "the_vault:modifier_type/spell_fail_chance": {
       "the_vault:spell_failure": {
         "properties": {
           "spellFailureChance": 0.5
@@ -4192,7 +4322,8 @@
             }
           },
           "roomTypeWhitelist": [
-            "COMMON", "ORE"
+            "COMMON",
+            "ORE"
           ]
         },
         "display": {
@@ -4216,7 +4347,7 @@
         }
       }
     },
-    "the_vault:modifier_type/gemstones_on_kill":  {
+    "the_vault:modifier_type/gemstones_on_kill": {
       "the_vault:gemstones_on_kill": {
         "properties": {
           "gemstoneChance": 0.01
@@ -4229,34 +4360,34 @@
         }
       }
     },
-     "the_vault:modifier_type/pool_reference_weight": {
+    "the_vault:modifier_type/pool_reference_weight": {
       "the_vault:omega_fortune": {
-          "properties": {
-              "references": [
-                  "the_vault:vault/rooms/omega_rooms"
-              ],
-              "weightMultiplier": 10.0
-          },
-          "display": {
-              "name": "Omega Bloom",
-              "color": "#6AFF00",
-              "description": "10x Omega Room Chance",
-              "icon": "the_vault:gui/modifiers/omega_fortune"
-          }
+        "properties": {
+          "references": [
+            "the_vault:vault/rooms/omega_rooms"
+          ],
+          "weightMultiplier": 10.0
+        },
+        "display": {
+          "name": "Omega Bloom",
+          "color": "#6AFF00",
+          "description": "10x Omega Room Chance",
+          "icon": "the_vault:gui/modifiers/omega_fortune"
+        }
       },
       "the_vault:challenge_fortune": {
-          "properties": {
-              "references": [
-                  "the_vault:vault/rooms/challenge_rooms"
-              ],
-              "weightMultiplier": 5.0
-          },
-          "display": {
-              "name": "Challenge Vein",
-              "color": "#FF4500",
-              "description": "10x Challenge Room Chance",
-              "icon": "the_vault:gui/modifiers/challenge_fortune"
-          }
+        "properties": {
+          "references": [
+            "the_vault:vault/rooms/challenge_rooms"
+          ],
+          "weightMultiplier": 5.0
+        },
+        "display": {
+          "name": "Challenge Vein",
+          "color": "#FF4500",
+          "description": "10x Challenge Room Chance",
+          "icon": "the_vault:gui/modifiers/challenge_fortune"
+        }
       }
     },
     "the_vault:modifier_type/objective_shuffle": {
@@ -4287,8 +4418,7 @@
     },
     "the_vault:modifier_type/no_companion": {
       "the_vault:no_companion": {
-        "properties": {
-        },
+        "properties": {},
         "display": {
           "name": "Companionless",
           "color": "#DB7C00",
@@ -4320,6 +4450,58 @@
           "name": "Creeping Doom",
           "color": "#4A0E4E",
           "description": "Every Minute in the vault adds 1 challenge stack.",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      }
+    },
+    "the_vault:modifier_type/chest_loot": {
+      "the_vault:coin_chest_loot": {
+        "properties": {
+          "chance": 0.1,
+          "lootTable": [
+            {
+              "level": 0,
+              "lootTable": "the_vault:coin_pile_lvl0"
+            },
+            {
+              "level": 30,
+              "lootTable": "the_vault:coin_pile_lvl30"
+            }
+          ],
+          "whitelist": [
+            "WOODEN",
+            "GILDED",
+            "LIVING",
+            "ORNATE"
+          ]
+        },
+        "display": {
+          "name": "Coin Chest Loot",
+          "color": "#ffae00",
+          "description": "Wooden, Gilded, Living, and Ornate chests have a 10% chance to generate Coin Pile loot.",
+          "descriptionFormatted": "Wooden, Gilded, Living, and Ornate chests have a %d%% chance to generate Coin Pile loot.",
+          "icon": "the_vault:gui/modifiers/bonus_coin"
+        }
+      }
+    },
+    "the_vault:modifier_type/chest_mob_spawn": {
+      "the_vault:dweller_chests": {
+        "properties": {
+          "chance": 0.05,
+          "mob": "minecraft:cow",
+          "spawnRadius": 4,
+          "whitelist": [
+            "WOODEN",
+            "GILDED",
+            "LIVING",
+            "ORNATE"
+          ]
+        },
+        "display": {
+          "name": "Dweller Chests",
+          "color": "#AA0000",
+          "description": "Looting chests have a 5% chance to spawn a dweller.",
+          "descriptionFormatted": "Looting chests have a %d%% chance to spawn a dweller.",
           "icon": "the_vault:gui/modifiers/impossible"
         }
       }

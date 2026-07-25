@@ -312,13 +312,6 @@
       },
       {
         "type": "pool",
-        "weight": 3,
-        "poolId": "greed_catalysts_t1",
-        "minCoinCost": 30,
-        "maxCoinCost": 45
-      },
-      {
-        "type": "pool",
         "weight": 2,
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 25,
@@ -395,13 +388,6 @@
         "poolId": "catalyst_t2",
         "minCoinCost": 29,
         "maxCoinCost": 53
-      },
-      {
-        "type": "pool",
-        "weight": 3,
-        "poolId": "greed_catalysts_t1",
-        "minCoinCost": 32,
-        "maxCoinCost": 47
       },
       {
         "type": "pool",
@@ -484,13 +470,6 @@
       },
       {
         "type": "pool",
-        "weight": 3,
-        "poolId": "greed_catalysts_t1",
-        "minCoinCost": 34,
-        "maxCoinCost": 49
-      },
-      {
-        "type": "pool",
         "weight": 2,
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 29,
@@ -567,13 +546,6 @@
         "poolId": "catalyst_t2",
         "minCoinCost": 33,
         "maxCoinCost": 61
-      },
-      {
-        "type": "pool",
-        "weight": 3,
-        "poolId": "greed_catalysts_t1",
-        "minCoinCost": 36,
-        "maxCoinCost": 51
       },
       {
         "type": "pool",
@@ -663,13 +635,6 @@
       },
       {
         "type": "pool",
-        "weight": 3,
-        "poolId": "greed_catalysts_t1",
-        "minCoinCost": 38,
-        "maxCoinCost": 53
-      },
-      {
-        "type": "pool",
         "weight": 2,
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 33,
@@ -756,13 +721,6 @@
       },
       {
         "type": "pool",
-        "weight": 3,
-        "poolId": "greed_catalysts_t1",
-        "minCoinCost": 40,
-        "maxCoinCost": 55
-      },
-      {
-        "type": "pool",
         "weight": 2,
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 35,
@@ -846,13 +804,6 @@
         "poolId": "catalyst_t3",
         "minCoinCost": 41,
         "maxCoinCost": 72
-      },
-      {
-        "type": "pool",
-        "weight": 3,
-        "poolId": "greed_catalysts_t1",
-        "minCoinCost": 42,
-        "maxCoinCost": 57
       },
       {
         "type": "pool",
@@ -956,7 +907,7 @@
         "maxCoinCost": 20,
         "crystal": {
           "modifierPool": "normal_modifiers",
-          "minModifiers": 1,
+          "minModifiers": 0,
           "maxModifiers": 8,
           "modifierPoolTwo": "treasure_modifiers",
           "minModifiersTwo": 0,
@@ -983,7 +934,7 @@
         "type": "catalyst",
         "weight": 10,
         "minGreedTier": 0,
-        "maxGreedTier": 5,
+        "maxGreedTier": -1,
         "catalyst": {
           "size": {
             "type": "uniform",
@@ -1014,7 +965,7 @@
           "minModifiers": 1,
           "maxModifiers": 1,
           "isSuper": false,
-          "isGreedy": false
+          "isGreedy": true
         }
       }
     ],
@@ -1197,11 +1148,6 @@
         "pool": "the_vault:vault/rooms/challenge/memory",
         "weight": 10,
         "model": 23
-      },
-      {
-        "pool": "the_vault:vault/rooms/challenge/horderush",
-        "weight": 10,
-        "model": 0
       }
     ],
     "OMEGA": [
@@ -1248,7 +1194,7 @@
       {
         "pool": "the_vault:vault/rooms/omega/warehouse",
         "weight": 2,
-        "model": 0
+        "model": 24
       }
     ]
   },

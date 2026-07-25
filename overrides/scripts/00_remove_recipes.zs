@@ -213,6 +213,15 @@ craftingTable.remove(<item:snad:suol_snad>);
 craftingTable.remove(<item:snad:red_snad>);
 craftingTable.remove(<item:snad:snad>);
 
+// Creeper Power
+craftingTable.remove(<item:creeperpower:basic_creeper_capsule>);
+craftingTable.remove(<item:creeperpower:stable_creeper_capsule>);
+craftingTable.remove(<item:creeperpower:pure_gunpowder>);
+craftingTable.remove(<item:creeperpower:basic_blast_chamber>);
+craftingTable.remove(<item:creeperpower:reinforced_blast_chamber>);
+craftingTable.remove(<item:creeperpower:experimental_blast_chamber>);
+craftingTable.remove(<item:creeperpower:nuke>);
+
 // AE2
 <recipetype:ae2:inscriber>.remove(<item:ae2:logic_processor>);
 <recipetype:ae2:inscriber>.remove(<item:ae2:printed_logic_processor>);

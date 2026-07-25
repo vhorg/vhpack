@@ -245,7 +245,7 @@
                 "min": 10,
                 "max": 10,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -292,12 +292,11 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -310,8 +309,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -325,8 +324,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -340,8 +339,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -355,8 +354,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -370,8 +369,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -385,8 +384,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -400,8 +399,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -415,8 +414,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -431,7 +430,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 10,
@@ -446,9 +445,9 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 10,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -461,7 +460,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 12,
@@ -476,7 +475,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 13,
@@ -491,7 +490,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 14,
@@ -510,12 +509,11 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -528,8 +526,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -543,8 +541,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -558,8 +556,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -573,8 +571,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -588,8 +586,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -603,8 +601,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -618,8 +616,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -633,8 +631,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 16,
+                "min": 5,
+                "max": 10,
                 "type": "uniform"
               },
               "modifiers": [
@@ -649,7 +647,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 10,
                 "type": "uniform"
               },
               "model": 14,
@@ -668,12 +666,11 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -686,8 +683,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -701,8 +698,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -716,8 +713,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -731,8 +728,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -746,8 +743,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -761,8 +758,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -776,8 +773,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -791,8 +788,8 @@
           {
             "value": {
               "size": {
-                "min": 6,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -807,7 +804,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 5,
                 "type": "uniform"
               },
               "model": 10,
@@ -822,9 +819,9 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 5,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -837,7 +834,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 5,
                 "type": "uniform"
               },
               "model": 12,
@@ -852,7 +849,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 5,
                 "type": "uniform"
               },
               "model": 13,
@@ -867,7 +864,7 @@
             "value": {
               "size": {
                 "min": 5,
-                "max": 20,
+                "max": 5,
                 "type": "uniform"
               },
               "model": 14,
@@ -886,7 +883,6 @@
         "level": 0,
         "pool": [
           {
-
             "value": {
               "model": 6,
               "size": {

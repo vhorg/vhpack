@@ -56,7 +56,7 @@
     {
       "type": "ore",
       "target": "@the_vault:ores",
-      "probability": 0.0,
+      "probability": 0.015,
       "icon": "the_vault:gui/scav/ores",
       "entries": {
         "the_vault:boss_rune": {

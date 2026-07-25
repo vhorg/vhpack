@@ -108,6 +108,11 @@
       "maxAmount": 625
     },
     {
+      "item": "the_vault:carbon_nugget",
+      "minAmount": 675,
+      "maxAmount": 1025
+    },
+    {
       "item": "the_vault:magic_silk",
       "minAmount": 375,
       "maxAmount": 625

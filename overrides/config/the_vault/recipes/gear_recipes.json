@@ -9,7 +9,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -29,7 +29,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -49,7 +49,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -69,7 +69,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -89,7 +89,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -109,7 +109,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -129,7 +129,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -149,7 +149,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -169,7 +169,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
@@ -189,7 +189,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 2,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },

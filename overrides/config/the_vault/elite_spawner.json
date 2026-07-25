@@ -172,7 +172,6 @@
         "entityName": "alexsmobs:cockroach",
         "entityNbt": "{Maracas:1b}"
       },
-
       "min": 8,
       "max": 8,
       "minions": [
@@ -184,7 +183,7 @@
         }
       ]
     },
-	"the_vault:elite_gingerbread": {
+    "the_vault:elite_gingerbread": {
       "elite": {
         "entityName": "auxiliaryblocks:gingerbread_man_giant"
       },

@@ -144,7 +144,6 @@
           "output": [
             {
               "elements": {
-                "the_vault:vault_wraith_white": 20,
                 "the_vault:t0_cave_skeleton": 20
               },
               "weight": 1

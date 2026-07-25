@@ -3646,93 +3646,6 @@
         ]
       }
     ],
-    "the_vault:horderush": [
-      {
-        "level": 0,
-        "pool": [
-          {
-            "value": {
-              "entries": [
-                {
-                  "pool": "the_vault:vault/rooms/challenge/horderush",
-                  "count": 1,
-                  "color": 15769088
-                }
-              ],
-              "size": {
-                "type": "uniform",
-                "min": 10,
-                "max": 10
-              },
-              "model": {
-                "type": "uniform",
-                "min": 24,
-                "max": 24
-              }
-            },
-            "weight": 16
-          }
-        ]
-      }
-    ],
-    "the_vault:protect_villager": [
-      {
-        "level": 0,
-        "pool": [
-          {
-            "value": {
-              "entries": [
-                {
-                  "pool": "the_vault:vault/rooms/challenge/protect_villager",
-                  "count": 1,
-                  "color": 15769088
-                }
-              ],
-              "size": {
-                "type": "uniform",
-                "min": 10,
-                "max": 10
-              },
-              "model": {
-                "type": "uniform",
-                "min": 25,
-                "max": 25
-              }
-            },
-            "weight": 16
-          }
-        ]
-      }
-    ],
-    "the_vault:companion_rush": [
-      {
-        "level": 0,
-        "pool": [
-          {
-            "value": {
-              "entries": [
-                {
-                  "pool": "the_vault:vault/rooms/challenge/companion_rush",
-                  "count": 1,
-                  "color": 15769088
-                }
-              ],
-              "size": {
-                "type": "uniform",
-                "min": 10,
-                "max": 10
-              },
-              "model": {
-                "type": "uniform",
-                "min": 24,
-                "max": 24
-              }
-            },
-            "weight": 16
-          }
-        ]
-      }
-    ],
     "the_vault:personal": [
       {
         "level": 0,
@@ -3788,9 +3701,7 @@
     "the_vault:vault/rooms/omega/pixel": 21,
     "the_vault:vault/rooms/challenge/temple": 22,
     "the_vault:vault/rooms/challenge/memory": 23,
-    "the_vault:vault/rooms/challenge/horderush": 24,
-    "the_vault:vault/rooms/challenge/protect_villager": 25,
-    "the_vault:vault/rooms/challenge/companion_rush": 24
+    "the_vault:vault/rooms/omega/warehouse": 24
   },
   "ringWeights": [ 50, 40, 7, 3 ]
 }

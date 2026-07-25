@@ -213,36 +213,6 @@
     }
   },
   "TIER_VALUES": {
-    "the_vault:vaulterite_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 10,
-      "LEVEL_DELTA_PER_SOCKET": 5,
-      "TIER_BASE_DURABILITY": 1500,
-      "BASE_REPAIR_SLOTS": 1
-    },
-    "the_vault:vault_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 5,
-      "LEVEL_DELTA_PER_SOCKET": 3,
-      "TIER_BASE_DURABILITY": 4000,
-      "BASE_REPAIR_SLOTS": 2
-    }, 
-    "the_vault:black_chromatic_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 4,
-      "LEVEL_DELTA_PER_SOCKET": 4,
-      "TIER_BASE_DURABILITY": 6000,
-      "BASE_REPAIR_SLOTS": 3
-    },
-    "the_vault:echoing_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 3,
-      "LEVEL_DELTA_PER_SOCKET": 3,
-      "TIER_BASE_DURABILITY": 6000,
-      "BASE_REPAIR_SLOTS": 4
-    },
-    "the_vault:prismatic_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 1,
-      "LEVEL_DELTA_PER_SOCKET": 2,
-      "TIER_BASE_DURABILITY": 10000,
-      "BASE_REPAIR_SLOTS": 6
-    }
     
   },
   "UPGRADES": {
@@ -319,12 +289,6 @@
     }
   },
   "MATERIAL_ITEMS": [
-    "the_vault:vault_bronze",
-    "the_vault:vault_plating",
-    "the_vault:red_vault_essence",
-    "the_vault:chromatic_steel_ingot",
-    "the_vault:silver_scrap",
-    "minecraft:netherite_scrap"
   ],
   "PERKS": {
     "EXCAVATING": {

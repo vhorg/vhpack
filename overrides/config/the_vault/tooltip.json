@@ -705,10 +705,6 @@
       "value": "A rare crafting ingredient"
     },
     {
-      "item": "the_vault:skill_essence",
-      "value": "Crafting ingredient"
-    },
-    {
       "item": "the_vault:hunter_eye",
       "value": "An epic crafting ingredient"
     },
@@ -809,10 +805,6 @@
       "value": "Used as a crafting ingredient for end game creations"
     },
     {
-      "item": "the_vault:eternal_soul",
-      "value": "<red>Legacy Item<gray> - No longer obtainable\nPreviously used in a Cryo Chamber to create Eternals"
-    },
-    {
       "item": "the_vault:spark",
       "value": "Can be used to craft artifacts out of thin air"
     },
@@ -874,10 +866,6 @@
     },
     {
       "item": "the_vault:vault_dust",
-      "value": "Crafting ingredient"
-    },
-    {
-      "item": "the_vault:vault_nugget",
       "value": "Crafting ingredient"
     },
     {
@@ -948,7 +936,6 @@
       "item": "the_vault:vault_artifact",
       "value": "An ancient artifact tied to the puzzle that unlocks the Herald"
     },
-
     {
       "item": "the_vault:vault_paxel",
       "value": "A Pickaxe, Axe and Shovel - all in one\nCan not be enchanted with mending"
@@ -1177,7 +1164,6 @@
       "item": "the_vault:vault_catalyst_fragment",
       "value": "base crafting ingredient for infused catalysts"
     },
-
     {
       "item": "the_vault:sugar_plum_fairy_flower",
       "value": "A rare flower that can spawn in the vaults"
@@ -1194,7 +1180,6 @@
       "item": "the_vault:vault_doll",
       "value": "Gains loot and experience while worn in the vaults. Defeat the doll by placing it to claim your rewards. \n<red>Note<gray>: You cannot wear your own doll."
     },
-
     {
       "item": "the_vault:vault_forge",
       "value": "A vault workstation where vault gear can be crafted"

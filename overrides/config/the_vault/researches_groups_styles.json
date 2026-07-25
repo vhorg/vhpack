@@ -2,7 +2,7 @@
   "groupStyles": {
     "Storage": {
       "group": "Storage",
-      "headerColor": -10758712,
+      "headerColor": -13730418,
       "headerTextColor": -1,
       "x": -10,
       "y": -25,
@@ -12,7 +12,7 @@
     },
     "Handling": {
       "group": "Handling",
-      "headerColor": -8388608,
+      "headerColor": -5434281,
       "headerTextColor": -1,
       "x": -10,
       "y": 215,
@@ -22,7 +22,7 @@
     },
     "BigToys": {
       "group": "BigToys",
-      "headerColor": -16776961,
+      "headerColor": -15108398,
       "headerTextColor": -1,
       "x": -10,
       "y": 95,
@@ -32,17 +32,17 @@
     },
     "Power": {
       "group": "Power",
-      "headerColor": -1498590,
+      "headerColor": -3790808,
       "headerTextColor": -1,
-      "x": 370,
+      "x": 180,
       "y": -25,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/power"
     },
     "QoL": {
       "group": "QoL",
-      "headerColor": -2196693,
+      "headerColor": -1086464,
       "headerTextColor": -1,
       "x": 370,
       "y": 95,
@@ -52,37 +52,37 @@
     },
     "Production": {
       "group": "Production",
-      "headerColor": -11298849,
+      "headerColor": -10603087,
       "headerTextColor": -1,
       "x": 180,
-      "y": 215,
+      "y": 135,
       "boxWidth": 170,
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/farming"
     },
     "BigMods": {
       "group": "BigMods",
-      "headerColor": -11228136,
+      "headerColor": -13070788,
       "headerTextColor": -1,
-      "x": 180,
-      "y": 95,
+      "x": 370,
+      "y": -25,
       "boxWidth": 170,
       "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/processing"
     },
     "Looting": {
       "group": "Looting",
-      "headerColor": -14336,
+      "headerColor": -415707,
       "headerTextColor": -1,
       "x": 180,
-      "y": -65,
+      "y": -25,
       "boxWidth": 170,
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/looting"
     },
     "Alchemy": {
       "group": "Alchemy",
-      "headerColor": -14336,
+      "headerColor": -7461718,
       "headerTextColor": -1,
       "x": 370,
       "y": 215,

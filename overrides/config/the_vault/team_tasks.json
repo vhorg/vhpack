@@ -463,14 +463,14 @@
       "renderer": {
         "name": "Submit Companion Gemstones",
         "stack": {
-          "id": "vhsmp:mystic_gemstone",
+          "id": "vhcompanions:mystic_gemstone",
           "count": 1
         },
         "type": "team"
       },
       "children": [],
       "operating": false,
-      "item": "vhsmp:mystic_gemstone",
+      "item": "vhcompanions:mystic_gemstone",
       "counter": {
         "variables": {},
         "target": {

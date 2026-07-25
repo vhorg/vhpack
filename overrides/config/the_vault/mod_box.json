@@ -13,17 +13,23 @@
       ],
       "weight": 1
     },
-    "Drawers": {
+    "Barrels": {
       "entries": [
-        {"value": {"id": "framedcompactdrawers:framed_compact_drawer", "amountMin": 1, "amountMax": 1}, "weight": 50},
-        {"value": {"id": "framedcompactdrawers:framed_drawer_controller", "amountMin": 1, "amountMax": 1}, "weight": 25},
-        {"value": {"id": "storagedrawers:iron_storage_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 75},
-        {"value": {"id": "storagedrawers:gold_storage_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 70},
-        {"value": {"id": "storagedrawers:diamond_storage_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 65},
-        {"value": {"id": "storagedrawers:obsidian_storage_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 60},
-        {"value": {"id": "storagedrawers:emerald_storage_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 5},
-        {"value": {"id": "storagedrawers:upgrade_template", "amountMin": 4, "amountMax": 4}, "weight": 100},
-        {"value": {"id": "storagedrawers:void_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 80}
+        {"value": {"id": "sophisticatedstorage:basic_to_copper_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 75},
+        {"value": {"id": "sophisticatedstorage:copper_to_iron_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 70},
+        {"value": {"id": "sophisticatedstorage:iron_to_gold_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 65},
+        {"value": {"id": "sophisticatedstorage:gold_to_diamond_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 60},
+        {"value": {"id": "sophisticatedstorage:diamond_to_netherite_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 5},
+        {"value": {"id": "sophisticatedstorage:upgrade_base", "amountMin": 4, "amountMax": 4}, "weight": 100},
+        {"value": {"id": "sophisticatedstorage:void_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 80},
+        {"value": {"id": "sophisticatedstorage:compression_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 80}
+      ],
+      "weight": 1
+    },
+    "Sophisticated Interface": {
+      "entries": [
+        { "value": { "id": "sophisticatedstorage:controller", "amountMin": 1, "amountMax": 1 }, "weight": 10 },
+        { "value": { "id": "sophisticatedstorage:storage_link", "amountMin": 1, "amountMax": 1 }, "weight": 90 }
       ],
       "weight": 1
     },

@@ -7,138 +7,125 @@
         "max": 1
       },
       "pool": [
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
-              "weight": 15,
+              "weight": 16,
               "item": {
-                "id": "the_vault:eternal_soul",
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 5
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:axe",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:helmet",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:leggings",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:boots",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:wand",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             }
           ]
         },
-        { "weight": 1,
-          "pool": [
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:sword",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:axe",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:helmet",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:chestplate",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:leggings",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:boots",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:shield",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 16,
-              "item": {
-                "id": "the_vault:wand",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_completion_crate_mono"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            }
-          ]
-        },
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 16,
@@ -151,7 +138,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -165,7 +152,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -179,7 +166,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -193,7 +180,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -207,7 +194,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -221,7 +208,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -235,7 +222,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -249,12 +236,13 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
         },
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 16,
@@ -267,7 +255,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -281,7 +269,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -295,7 +283,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -309,7 +297,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -323,7 +311,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -337,7 +325,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -351,7 +339,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -365,12 +353,13 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
         },
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 16,
@@ -486,7 +475,8 @@
             }
           ]
         },
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 32,

@@ -226,7 +226,7 @@
         "PREFIX": [],
         "SUFFIX": [
           "the_vault:u_item_rarity",
-          "the_vault:jester_lucky_hit"
+          "the_vault:jester_lucky_hit_percentile"
         ]
       },
       "modifierTags": [],
@@ -368,11 +368,12 @@
           "the_vault:mod_resistance"
         ],
         "SUFFIX": [
-          "the_vault:u_knockback_resistance"
+          "the_vault:u_castle_knockback_resistance",
+          "the_vault:u_castle_bastion"
         ]
       },
       "modifierTags": [],
-      "lore": "Forged like a fortress, it shrugs off even the sharpest blows; Turning aside critical strikes. Its walls of iron grant double layers of resistance to those who refuse to fall.",
+      "lore": "Forged like a fortress, it shrugs off even the sharpest blows. Standing your ground builds Bastion, turning final damage aside and driving attackers from its walls.",
       "weight": 1
     },
     "the_vault:crystalplate": {

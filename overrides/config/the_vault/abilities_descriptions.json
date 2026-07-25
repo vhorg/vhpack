@@ -25,7 +25,6 @@
         "distance"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "distance"
@@ -57,7 +56,6 @@
         "damage"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "distance",
@@ -101,7 +99,6 @@
         "force"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "force"
@@ -140,7 +137,6 @@
         "damage"
       ],
       "next": [
-
         "cooldown",
         "duration",
         "damage"
@@ -204,7 +200,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -214,7 +209,7 @@
     "Farmer_Animal": {
       "description": [
         {
-          "text": "Changes Farmer to also incentivise ",
+          "text": "Increases growth speed on crops and gives nearby ",
           "color": "$text"
         },
         {
@@ -222,11 +217,15 @@
           "color": "$baby"
         },
         {
-          "text": " to become big bois! (pog)\n",
+          "text": " and baby villagers a ",
           "color": "$text"
         },
         {
-          "text": "It does so with a ",
+          "text": "chance",
+          "color": "$chance"
+        },
+        {
+          "text": " to grow up after each ",
           "color": "$text"
         },
         {
@@ -242,19 +241,7 @@
           "color": "$radius"
         },
         {
-          "text": " around you.\n\n",
-          "color": "$text"
-        },
-        {
-          "text": "Rancher targets all base ability targets, plus:\n",
-          "color": "$text"
-        },
-        {
-          "text": " \u2022 Baby Animals\n",
-          "color": "$text"
-        },
-        {
-          "text": " \u2022 Baby Villagers\n\n",
+          "text": ".\n\nRancher targets:\n \u2022 Seeds\n \u2022 Potatoes\n \u2022 Carrots (PAG)\n \u2022 Beet Root\n \u2022 Flax Seeds\n \u2022 Baby Animals\n \u2022 Baby Villagers\n\n",
           "color": "$text"
         },
         {
@@ -270,7 +257,6 @@
         "chance"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -328,7 +314,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -381,7 +366,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -413,7 +397,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration"
@@ -482,7 +465,6 @@
         "heal"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "heal"
@@ -491,7 +473,7 @@
     "Heal_Cleanse": {
       "description": [
         {
-          "text": "Changes Heal to instead Cleanse any negative effect affecting you.\n\n",
+          "text": "Cleanses negative effects affecting you.\n\n",
           "color": "$text"
         },
         {
@@ -504,7 +486,6 @@
         "manaCost"
       ],
       "next": [
-
         "cooldown",
         "manaCost"
       ]
@@ -551,7 +532,6 @@
         "adjustedRadius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "heal",
@@ -641,7 +621,7 @@
     "Hunter_Blocks": {
       "description": [
         {
-          "text": "Changes Hunter to instead display objectives within a ",
+          "text": "Highlights objectives within a ",
           "color": "$text"
         },
         {
@@ -672,7 +652,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -682,7 +661,7 @@
     "Hunter_Wooden": {
       "description": [
         {
-          "text": "Changes Hunter to instead display Wooden chests within a ",
+          "text": "Highlights Wooden chests within a ",
           "color": "$text"
         },
         {
@@ -713,7 +692,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -723,7 +701,7 @@
     "Hunter_Gilded": {
       "description": [
         {
-          "text": "Changes Hunter to instead display Gilded chests within a ",
+          "text": "Highlights Gilded chests within a ",
           "color": "$text"
         },
         {
@@ -754,7 +732,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -764,7 +741,7 @@
     "Hunter_Living": {
       "description": [
         {
-          "text": "Changes Hunter to instead display Living chests within a ",
+          "text": "Highlights Living chests within a ",
           "color": "$text"
         },
         {
@@ -795,7 +772,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -805,7 +781,7 @@
     "Hunter_Ornate": {
       "description": [
         {
-          "text": "Changes Hunter to instead display Ornate chests within a ",
+          "text": "Highlights Ornate chests within a ",
           "color": "$text"
         },
         {
@@ -836,7 +812,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -846,7 +821,7 @@
     "Hunter_Coins": {
       "description": [
         {
-          "text": "Changes Hunter to instead display Coin Piles within a ",
+          "text": "Highlights Coin Piles within a ",
           "color": "$text"
         },
         {
@@ -877,7 +852,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "duration",
@@ -887,11 +861,11 @@
     "Shield_Bash": {
       "description": [
         {
-          "text": "Dash forward and bash mobs with your shield, dealing ",
+          "text": "Dash forward and bash mobs with your shield, dealing an amount of ",
           "color": "$text"
         },
         {
-          "text": "Block Chance Damage",
+          "text": "Attack Damage",
           "color": "$damage"
         },
         {
@@ -903,31 +877,55 @@
           "color": "$radius"
         },
         {
-          "text": " in front of you with ",
+          "text": " in front of you. Mobs hit by the bash can be ",
           "color": "$text"
         },
         {
-          "text": "knockback",
+          "text": "stunned",
+          "color": "$stun"
+        },
+        {
+          "text": " and ",
+          "color": "$text"
+        },
+        {
+          "text": "knocked back",
           "color": "$knockback"
         },
         {
-          "text": ". Has a chance to ",
+          "text": ", with increasing stun chance and knockback strength based on your ",
           "color": "$text"
         },
         {
-          "text": "stun",
-          "color": "$stunChance"
+          "text": "Block Chance",
+          "color": "$chance"
         },
         {
-          "text": " hit enemies.",
+          "text": ".\n\n",
           "color": "$text"
         },
         {
-          "text": "\n\n",
+          "text": "Each mob hit refunds ",
           "color": "$text"
         },
         {
-          "text": "\u2734 Cast Ability",
+          "text": "1 second of cooldown",
+          "color": "$cooldown"
+        },
+        {
+          "text": ", up to ",
+          "color": "$text"
+        },
+        {
+          "text": "80%",
+          "color": "$chance"
+        },
+        {
+          "text": " of the total cooldown.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
           "color": "$castType"
         }
       ],
@@ -983,7 +981,6 @@
         "manaCost",
         "cooldown",
         "healthPoints"
-
       ],
       "next": [
         "manaCost",
@@ -1086,7 +1083,7 @@
           "color": "$text"
         },
         {
-          "text": "\u25d0 Toggle Ability ",
+          "text": "\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -1192,7 +1189,6 @@
         "manaDamage",
         "adjustedRadius",
         "cooldown"
-
       ],
       "next": [
         "manaDamage",
@@ -1233,12 +1229,16 @@
     "Mega_Jump_Break_Down": {
       "description": [
         {
-          "text": "Changes Mega Jump to a Mega Dig! Instead of launching you up in the air it drills you downwards in to blocks, breaking them on the way.\n\n",
+          "text": "Drills you downward through blocks, breaking them in a ",
           "color": "$text"
         },
         {
-          "text": "This ability does not work in the overworld.\n\n",
-          "color": "$chance"
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": " as you descend.\n\nThis ability only works inside vaults.\n\n",
+          "color": "$text"
         },
         {
           "text": "\u2734 Cast Ability ",
@@ -1252,7 +1252,6 @@
         "radius"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "rangeVertical",
@@ -1262,12 +1261,8 @@
     "Mega_Jump_Break_Up": {
       "description": [
         {
-          "text": "Changes your mega jump to break blocks that you jump in to.\n\n",
+          "text": "Launches you upward and breaks blocks you jump into.\n\nThis ability only works inside vaults.\n\n",
           "color": "$text"
-        },
-        {
-          "text": "This ability does not work in the overworld.\n\n",
-          "color": "$chance"
         },
         {
           "text": "\u2734 Cast Ability ",
@@ -1280,7 +1275,6 @@
         "rangeVertical"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "rangeVertical"
@@ -1328,7 +1322,6 @@
         "ability_power"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1338,27 +1331,27 @@
     "Nova_Dot": {
       "description": [
         {
-          "text": "Changes Nova to instead inflict a percentage of your ",
+          "text": "Poisons mobs around you in a ",
           "color": "$text"
         },
         {
-          "text": "ability power ",
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": ", dealing a percentage of your ",
+          "color": "$text"
+        },
+        {
+          "text": "ability power",
           "color": "$ability_power"
         },
         {
-          "text": "through ",
+          "text": " as damage over a ",
           "color": "$text"
         },
         {
-          "text": "poison",
-          "color": "$poison"
-        },
-        {
-          "text": ". The damage will be dealt over a ",
-          "color": "$text"
-        },
-        {
-          "text": "period of time",
+          "text": "duration of time",
           "color": "$duration"
         },
         {
@@ -1378,7 +1371,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1389,7 +1381,7 @@
     "Nova_Slow": {
       "description": [
         {
-          "text": "Changes Nova to freeze mobs around you in a ",
+          "text": "Freezes mobs around you in a ",
           "color": "$text"
         },
         {
@@ -1397,7 +1389,7 @@
           "color": "$radius"
         },
         {
-          "text": ". The mobs will stay frozen for a ",
+          "text": " for a ",
           "color": "$text"
         },
         {
@@ -1405,7 +1397,7 @@
           "color": "$duration"
         },
         {
-          "text": ", and then get ",
+          "text": ", then applies ",
           "color": "$text"
         },
         {
@@ -1413,7 +1405,7 @@
           "color": "$slowness"
         },
         {
-          "text": ", causing them to be permanently ",
+          "text": ", causing them to stay ",
           "color": "$text"
         },
         {
@@ -1421,11 +1413,11 @@
           "color": "$chilled"
         },
         {
-          "text": " and take damage every 3 seconds\n\n",
+          "text": " and take damage every 3 seconds.\n\n",
           "color": "$text"
         },
         {
-          "text": "\u2734 Cast Ability",
+          "text": "\u2734 Cast Ability ",
           "color": "$castType"
         }
       ],
@@ -1436,7 +1428,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1446,38 +1437,37 @@
     "Rampage_Base": {
       "description": [
         {
-          "text": "Puts you in a state of rampage, giving you an additional ",
+          "text": "Enter a battle frenzy, increasing damage dealt by your ",
           "color": "$text"
         },
         {
-          "text": "physical damage",
+          "text": "direct melee hits",
           "color": "$damage"
         },
         {
-          "text": " increase while active.\n\n",
+          "text": ". Valid direct melee hits come from fully charged, non-critical melee attacks made by you.\n\n",
           "color": "$text"
         },
         {
-          "text": "\u25d0 Toggle Ability ",
+          "text": "\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
       "current": [
-        "cooldown",
+        "damage",
         "manaCostPerSecond",
-        "damage"
+        "cooldown"
       ],
       "next": [
-
-        "cooldown",
+        "damage",
         "manaCostPerSecond",
-        "damage"
+        "cooldown"
       ]
     },
     "Rampage_Chain": {
       "description": [
         {
-          "text": "Changes rampage to give your attacks a ",
+          "text": "Enter a chaining frenzy, giving your direct melee attacks a ",
           "color": "$text"
         },
         {
@@ -1485,11 +1475,11 @@
           "color": "$chains"
         },
         {
-          "text": ", hitting multiple mobs beyond the first, instead of increasing your damage while rampaging.\n\n",
+          "text": " that can hit additional mobs beyond the first target.\n\n",
           "color": "$text"
         },
         {
-          "text": "\u25d0 Toggle Ability ",
+          "text": "\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -1499,7 +1489,6 @@
         "chains"
       ],
       "next": [
-
         "cooldown",
         "manaCostPerSecond",
         "chains"
@@ -1508,7 +1497,7 @@
     "Rampage_Leech": {
       "description": [
         {
-          "text": "Changes rampage to give you ",
+          "text": "Enter a leeching frenzy, causing your direct melee attacks to restore health through ",
           "color": "$text"
         },
         {
@@ -1516,11 +1505,11 @@
           "color": "$leech"
         },
         {
-          "text": " instead of increasing your damage while rampaging.\n\n",
+          "text": ".\n\n",
           "color": "$text"
         },
         {
-          "text": "\u25d0 Toggle Ability ",
+          "text": "\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -1530,7 +1519,6 @@
         "leech"
       ],
       "next": [
-
         "cooldown",
         "manaCostPerSecond",
         "leech"
@@ -1563,7 +1551,7 @@
           "color": "$damage"
         },
         {
-          "text": ", destroying blocks and ",
+          "text": ", and ",
           "color": "$text"
         },
         {
@@ -1638,7 +1626,6 @@
         "adjustedDuration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "damageReduction",
@@ -1702,7 +1689,6 @@
         "adjustedDuration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "damageReduction",
@@ -1796,7 +1782,6 @@
         "duration"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "eternals",
@@ -1822,7 +1807,7 @@
           "color": "$radius"
         },
         {
-          "text": "  while active\n\n\u25d0 Toggle Ability ",
+          "text": "  while active\n\n\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -1831,15 +1816,12 @@
         "adjustedRadius",
         "cooldown",
         "manaCostPerSecond"
-
       ],
       "next": [
-
         "speed",
         "adjustedRadius",
         "cooldown",
         "manaCostPerSecond"
-
       ]
     },
     "Empower_Ice_Armor": {
@@ -1865,7 +1847,7 @@
           "color": "$text"
         },
         {
-          "text": "\u25d0 Toggle Ability ",
+          "text": "\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -1874,8 +1856,6 @@
         "adjustedDuration",
         "manaCostPerSecond",
         "cooldown"
-
-
       ],
       "next": [
         "chilled",
@@ -1907,7 +1887,7 @@
           "color": "$text"
         },
         {
-          "text": "\u25d0 Toggle Ability ",
+          "text": "\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -1915,8 +1895,6 @@
         "adjustedRadius",
         "manaCostPerSecond",
         "cooldown"
-
-
       ],
       "next": [
         "adjustedRadius",
@@ -1983,7 +1961,6 @@
         "vulnerable"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -1994,7 +1971,7 @@
     "Taunt_Repel": {
       "description": [
         {
-          "text": "Instead of taunting mobs around you, they are now feared by you in a ",
+          "text": "Fears mobs around you in a ",
           "color": "$text"
         },
         {
@@ -2002,15 +1979,7 @@
           "color": "$radius"
         },
         {
-          "text": ". A feared mob will get ",
-          "color": "$text"
-        },
-        {
-          "text": "pushed away",
-          "color": "$distance"
-        },
-        {
-          "text": " and refuse to attack you for a ",
+          "text": ". Feared mobs are pushed away and refuse to attack you for a ",
           "color": "$text"
         },
         {
@@ -2034,12 +2003,53 @@
         "distance"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
         "adjustedDuration",
         "distance"
+      ]
+    },
+    "Taunt_Decoy": {
+      "description": [
+        {
+          "text": "Fires a magic decoy projectile. When it lands, it creates a dummy using your skin that taunts mobs in a ",
+          "color": "$text"
+        },
+        {
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": " for a ",
+          "color": "$text"
+        },
+        {
+          "text": "duration of time",
+          "color": "$duration"
+        },
+        {
+          "text": ". The cooldown starts after the decoy disappears.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "adjustedRadius",
+        "adjustedDuration",
+        "throwPower"
+      ],
+      "next": [
+        "cooldown",
+        "manaCost",
+        "adjustedRadius",
+        "adjustedDuration",
+        "throwPower"
       ]
     },
     "Taunt_Charm": {
@@ -2103,7 +2113,6 @@
         "speed"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedRadius",
@@ -2148,7 +2157,6 @@
         "heal"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2191,7 +2199,6 @@
         "manaRegen"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2255,7 +2262,6 @@
         "delay"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2299,7 +2305,6 @@
         "damage"
       ],
       "next": [
-
         "cooldown",
         "manaCost",
         "adjustedDuration",
@@ -2330,30 +2335,29 @@
         "blocks"
       ],
       "next": [
-
         "blocks"
       ]
     },
     "Vein_Miner_Durability": {
       "description": [
         {
-          "text": "Changes Vein Miner to gain a chance of ignoring taking ",
+          "text": "Mines multiple matching ",
           "color": "$text"
         },
         {
-          "text": "durability damage",
-          "color": "$unbreaking"
-        },
-        {
-          "text": " while using it to mine blocks. However, the amount of",
-          "color": "$text"
-        },
-        {
-          "text": " blocks mined",
+          "text": "blocks",
           "color": "$blocks"
         },
         {
-          "text": " is lowered.\n\n",
+          "text": " at once and adds ",
+          "color": "$text"
+        },
+        {
+          "text": "Unbreaking",
+          "color": "$unbreaking"
+        },
+        {
+          "text": " levels to the mining item used for the vein mine.\n\n",
           "color": "$text"
         },
         {
@@ -2366,7 +2370,6 @@
         "unbreaking"
       ],
       "next": [
-
         "blocks",
         "unbreaking"
       ]
@@ -2374,23 +2377,23 @@
     "Vein_Miner_Fortune": {
       "description": [
         {
-          "text": "Changes Vein Miner to add a level of ",
+          "text": "Mines multiple matching ",
           "color": "$text"
         },
         {
-          "text": "fortune",
-          "color": "$fortune"
-        },
-        {
-          "text": " while using it to mine blocks. However, the amount of",
-          "color": "$text"
-        },
-        {
-          "text": " blocks mined",
+          "text": "blocks",
           "color": "$blocks"
         },
         {
-          "text": " is lowered.\n\n",
+          "text": " at once and adds ",
+          "color": "$text"
+        },
+        {
+          "text": "Fortune",
+          "color": "$fortune"
+        },
+        {
+          "text": " levels to the mining item used for the vein mine.\n\n",
           "color": "$text"
         },
         {
@@ -2403,7 +2406,6 @@
         "fortune"
       ],
       "next": [
-
         "blocks",
         "fortune"
       ]
@@ -2411,23 +2413,23 @@
     "Vein_Miner_Void": {
       "description": [
         {
-          "text": "Changes Vein Miner to void any blocks it mines ",
+          "text": "Mines multiple matching ",
           "color": "$text"
         },
         {
-          "text": "inside a vault",
-          "color": "$chance"
-        },
-        {
-          "text": " with the exception of vault ores. However the amount of",
-          "color": "$text"
-        },
-        {
-          "text": " blocks mined",
+          "text": "blocks",
           "color": "$blocks"
         },
         {
-          "text": " is lowered.\n\n",
+          "text": " at once and ",
+          "color": "$text"
+        },
+        {
+          "text": "voids mined blocks inside vaults",
+          "color": "$chance"
+        },
+        {
+          "text": ", except blocks protected from void mining such as vault ores.\n\n",
           "color": "$text"
         },
         {
@@ -2439,7 +2441,6 @@
         "blocks"
       ],
       "next": [
-
         "blocks"
       ]
     },
@@ -2479,10 +2480,8 @@
         "knockback",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-
         "damage",
         "knockback",
         "cooldown",
@@ -2525,10 +2524,8 @@
         "piercing",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-
         "damage",
         "piercing",
         "cooldown",
@@ -2576,10 +2573,8 @@
         "numberOfBounces",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-
         "damage",
         "numberOfJavelins",
         "numberOfBounces",
@@ -2639,7 +2634,6 @@
         "adjustedDuration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "adjustedRadius",
@@ -2695,12 +2689,11 @@
           "color": "$text"
         },
         {
-          "text": "\n\n\u25d0 Toggle Ability ",
+          "text": "\n\n\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
       "current": [
-
         "abilityRange",
         "damageInterval",
         "adjustedRadius",
@@ -2709,8 +2702,6 @@
         "cooldown"
       ],
       "next": [
-
-
         "abilityRange",
         "damageInterval",
         "adjustedRadius",
@@ -2758,7 +2749,7 @@
           "color": "$text"
         },
         {
-          "text": "\n\n\u25d0 Toggle Ability ",
+          "text": "\n\n\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -2800,7 +2791,7 @@
           "color": "$text"
         },
         {
-          "text": "\n\n\u25d0 Toggle Ability ",
+          "text": "\n\n\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -2840,19 +2831,17 @@
           "color": "$text"
         },
         {
-          "text": "\n\n\u25d0 Toggle Ability ",
+          "text": "\n\n\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
       "current": [
-
         "stunChance",
         "manaCostPerSecond",
         "additionalManaPerHit",
         "cooldown"
       ],
       "next": [
-
         "stunChance",
         "manaCostPerSecond",
         "additionalManaPerHit",
@@ -2882,7 +2871,7 @@
           "color": "$text"
         },
         {
-          "text": "\n\n\u25d0 Toggle Ability ",
+          "text": "\n\n\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -2928,7 +2917,7 @@
           "color": "$text"
         },
         {
-          "text": "\n\n\u25d0 Toggle Ability ",
+          "text": "\n\n\u25cf Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -2975,7 +2964,6 @@
         "adjustedRadius",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "ability_power",
@@ -3033,7 +3021,6 @@
         "duration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "ability_power",
@@ -3139,7 +3126,6 @@
         "stormInterval",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "abilityRange",
@@ -3323,7 +3309,6 @@
         "stacksUsedPerHit",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "adjustedRadius",
@@ -3386,7 +3371,6 @@
         "stacksUsedPerHit",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "adjustedRadius",
@@ -3405,7 +3389,7 @@
           "color": "$text"
         },
         {
-          "text": "flat damage",
+          "text": "flat and attack damage",
           "color": "$damage"
         },
         {
@@ -3417,15 +3401,23 @@
           "color": "$chilled"
         },
         {
-          "text": " mobs hit for a ",
+          "text": " mobs hit for a duration of time. Hitting an already ",
           "color": "$text"
         },
         {
-          "text": "duration of time",
-          "color": "$duration"
+          "text": "chilled",
+          "color": "$chilled"
         },
         {
-          "text": ".",
+          "text": " mob can ",
+          "color": "$text"
+        },
+        {
+          "text": "splinter",
+          "color": "$damage"
+        },
+        {
+          "text": " the bolt in a cross, dealing reduced total damage.",
           "color": "$text"
         },
         {
@@ -3434,17 +3426,20 @@
         }
       ],
       "current": [
-        "setDamage",
+        "iceBoltDamage",
         "throwPower",
         "adjustedDuration",
+        "splinterChance",
+        "splinterDamage",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        "setDamage",
+        "iceBoltDamage",
         "throwPower",
         "adjustedDuration",
+        "splinterChance",
+        "splinterDamage",
         "cooldown",
         "manaCost"
       ]
@@ -3452,7 +3447,23 @@
     "Ice_Bolt_Blast": {
       "description": [
         {
-          "text": "Summon a large Glacial Blast, that on impact explodes, ",
+          "text": "Fire a heavy Glacial Blast. Directly hitting a mob ",
+          "color": "$text"
+        },
+        {
+          "text": "glacially imprisons",
+          "color": "$maxGlacialPrison"
+        },
+        {
+          "text": " it and deals ",
+          "color": "$text"
+        },
+        {
+          "text": "attack damage",
+          "color": "$damage"
+        },
+        {
+          "text": ". The impact also ",
           "color": "$text"
         },
         {
@@ -3460,15 +3471,7 @@
           "color": "$chilled"
         },
         {
-          "text": " and potentially ",
-          "color": "$text"
-        },
-        {
-          "text": "glacial imprisons",
-          "color": "$maxGlacialPrison"
-        },
-        {
-          "text": " mobs in its ",
+          "text": " mobs in a ",
           "color": "$text"
         },
         {
@@ -3476,34 +3479,28 @@
           "color": "$radius"
         },
         {
-          "text": ", for a ",
+          "text": ", but splash targets are not glacially imprisoned.\n\n",
           "color": "$text"
         },
         {
-          "text": "duration",
-          "color": "$duration"
-        },
-        {
-          "text": " of time ",
-          "color": "$text"
-        },
-        {
-          "text": "\n\n\u2734 Cast Ability ",
+          "text": "\u2734 Cast Ability ",
           "color": "$castType"
         }
       ],
       "current": [
+        "iceBoltDamage",
         "throwPower",
-        "adjustedDuration",
         "adjustedRadius",
+        "adjustedDuration",
         "glacialChance",
         "cooldown",
         "manaCost"
       ],
       "next": [
+        "iceBoltDamage",
         "throwPower",
-        "adjustedDuration",
         "adjustedRadius",
+        "adjustedDuration",
         "glacialChance",
         "cooldown",
         "manaCost"
@@ -3548,7 +3545,6 @@
         "ability_power",
         "distance",
         "manaCost"
-
       ],
       "next": [
         "ability_power",
@@ -3603,7 +3599,6 @@
         "abilityRange",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "abilityRange",
@@ -3614,11 +3609,11 @@
     "Earthquake_Base": {
       "description": [
         {
-          "text": "Call forth a massive blast where you stand, dealing damage based on your ",
+          "text": "Call forth an immediate earthquake shock where you stand, dealing damage based on your ",
           "color": "$text"
         },
         {
-          "text": "attack damage",
+          "text": "Attack Damage",
           "color": "$damage"
         },
         {
@@ -3630,7 +3625,7 @@
           "color": "$knockback"
         },
         {
-          "text": " any hostile mobs in a ",
+          "text": " hostile mobs in a ",
           "color": "$text"
         },
         {
@@ -3638,35 +3633,37 @@
           "color": "$radius"
         },
         {
-          "text": " after a ",
+          "text": ". The quake repeats as ",
           "color": "$text"
         },
         {
-          "text": "delay of time\nThe Damage dealt decreases the further away from the center the mobs are hit.",
-          "color": "$delay"
+          "text": "aftershocks",
+          "color": "$damageInterval"
         },
         {
-          "text": "\n\nEarthquake also has a chance to destroy blocks in its path.",
+          "text": " at fixed intervals. Damage decreases the further mobs are from the center.\n\n",
           "color": "$text"
         },
         {
-          "text": "\n\n\u2734 Cast Ability ",
+          "text": "\u2734 Cast Ability ",
           "color": "$castType"
         }
       ],
       "current": [
         "damage",
+        "shockCount",
+        "shockInterval",
         "knockback",
         "adjustedRadius",
-        "delay",
         "manaCost",
         "cooldown"
       ],
       "next": [
         "damage",
+        "shockCount",
+        "shockInterval",
         "knockback",
         "adjustedRadius",
-        "delay",
         "manaCost",
         "cooldown"
       ]
@@ -3782,7 +3779,7 @@
     "Chain_Lightning_Orbs": {
       "description": [
         {
-          "text": "Summons a powerful ",
+          "text": "Launches a slow-moving ",
           "color": "$text"
         },
         {
@@ -3790,7 +3787,7 @@
           "color": "$name"
         },
         {
-          "text": " that travels slowly, following your crosshair and zaps every mob it hits with ",
+          "text": " in a straight line, dealing heavy ",
           "color": "$text"
         },
         {
@@ -3798,7 +3795,7 @@
           "color": "$lightning"
         },
         {
-          "text": " based on your ",
+          "text": " to each mob it passes through based on your ",
           "color": "$text"
         },
         {
@@ -3816,12 +3813,14 @@
       ],
       "current": [
         "abilityRange",
+        "adjustedRadius",
         "adjustedDuration",
         "manaCost",
         "cooldown"
       ],
       "next": [
         "abilityRange",
+        "adjustedRadius",
         "adjustedDuration",
         "manaCost",
         "cooldown"
@@ -3838,7 +3837,7 @@
           "color": "$qhighlight"
         },
         {
-          "text": " that explodes after a little while, dealing ",
+          "text": " that bounces unpredictably before exploding, dealing ",
           "color": "$text"
         },
         {
@@ -3955,6 +3954,774 @@
         "adjustedDuration",
         "manaCost",
         "cooldown"
+      ]
+    },
+    "Shield_Bash_Earthshatter": {
+      "description": [
+        {
+          "text": "Dash forward and shatter the ground with your shield, dealing an amount of ",
+          "color": "$text"
+        },
+        {
+          "text": "Attack Damage",
+          "color": "$damage"
+        },
+        {
+          "text": " in a wide ",
+          "color": "$text"
+        },
+        {
+          "text": "half-circle",
+          "color": "$radius"
+        },
+        {
+          "text": " in front of you. Mobs hit by the bash can be ",
+          "color": "$text"
+        },
+        {
+          "text": "stunned",
+          "color": "$stun"
+        },
+        {
+          "text": " and ",
+          "color": "$text"
+        },
+        {
+          "text": "knocked back",
+          "color": "$knockback"
+        },
+        {
+          "text": ", with increasing stun chance and knockback strength based on your ",
+          "color": "$text"
+        },
+        {
+          "text": "Block Chance",
+          "color": "$chance"
+        },
+        {
+          "text": ".\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "Each mob hit refunds ",
+          "color": "$text"
+        },
+        {
+          "text": "1 second of cooldown",
+          "color": "$cooldown"
+        },
+        {
+          "text": ", up to ",
+          "color": "$text"
+        },
+        {
+          "text": "80%",
+          "color": "$chance"
+        },
+        {
+          "text": " of the total cooldown.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "manaCost",
+        "cooldown",
+        "damage",
+        "adjustedRadius",
+        "knockback",
+        "stunChance"
+      ],
+      "next": [
+        "manaCost",
+        "cooldown",
+        "damage",
+        "adjustedRadius",
+        "knockback",
+        "stunChance"
+      ]
+    },
+    "Shield_Bash_Battering_Ram": {
+      "description": [
+        {
+          "text": "Dash forward and ram mobs with your shield, dealing an amount of ",
+          "color": "$text"
+        },
+        {
+          "text": "Attack Damage",
+          "color": "$damage"
+        },
+        {
+          "text": " in a cone in front of you, knocking them back, and adding ",
+          "color": "$text"
+        },
+        {
+          "text": "Thorns Damage",
+          "color": "$damage"
+        },
+        {
+          "text": " on top of the hit.\n\nEach mob hit refunds 1 second of cooldown, up to 80% of the total cooldown.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "manaCost",
+        "cooldown",
+        "damage",
+        "thornsDamageScalar",
+        "adjustedRadius",
+        "knockback"
+      ],
+      "next": [
+        "manaCost",
+        "cooldown",
+        "damage",
+        "thornsDamageScalar",
+        "adjustedRadius",
+        "knockback"
+      ]
+    },
+    "Earthquake_Singularity": {
+      "description": [
+        {
+          "text": "Call forth a collapsing earthquake where you stand, dealing ",
+          "color": "$text"
+        },
+        {
+          "text": "Attack Damage",
+          "color": "$damage"
+        },
+        {
+          "text": " in a ",
+          "color": "$text"
+        },
+        {
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": ". Each shock ",
+          "color": "$text"
+        },
+        {
+          "text": "pulls",
+          "color": "$force"
+        },
+        {
+          "text": " hostile mobs toward the center. The quake repeats as ",
+          "color": "$text"
+        },
+        {
+          "text": "aftershocks",
+          "color": "$damageInterval"
+        },
+        {
+          "text": ".\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "damage",
+        "pullStrength",
+        "shockCount",
+        "shockInterval",
+        "adjustedRadius",
+        "manaCost",
+        "cooldown"
+      ],
+      "next": [
+        "damage",
+        "pullStrength",
+        "shockCount",
+        "shockInterval",
+        "adjustedRadius",
+        "manaCost",
+        "cooldown"
+      ]
+    },
+    "Earthquake_Tremor": {
+      "description": [
+        {
+          "text": "Call forth a disruptive earthquake where you stand, dealing ",
+          "color": "$text"
+        },
+        {
+          "text": "Attack Damage",
+          "color": "$damage"
+        },
+        {
+          "text": " in a ",
+          "color": "$text"
+        },
+        {
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": ". Each shock has a chance to ",
+          "color": "$text"
+        },
+        {
+          "text": "stun",
+          "color": "$stun"
+        },
+        {
+          "text": " hostile mobs and has no knockback. The quake repeats as ",
+          "color": "$text"
+        },
+        {
+          "text": "aftershocks",
+          "color": "$damageInterval"
+        },
+        {
+          "text": ".\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "damage",
+        "stunChance",
+        "stunDuration",
+        "shockCount",
+        "shockInterval",
+        "adjustedRadius",
+        "manaCost",
+        "cooldown"
+      ],
+      "next": [
+        "damage",
+        "stunChance",
+        "stunDuration",
+        "shockCount",
+        "shockInterval",
+        "adjustedRadius",
+        "manaCost",
+        "cooldown"
+      ]
+    },
+    "Rampage_Bloodlust": {
+      "description": [
+        {
+          "text": "Enter a blood-hungry frenzy. ",
+          "color": "$text"
+        },
+        {
+          "text": "Direct melee hits",
+          "color": "$damage"
+        },
+        {
+          "text": " deal bonus damage, and ",
+          "color": "$text"
+        },
+        {
+          "text": "direct melee kills",
+          "color": "$damage"
+        },
+        {
+          "text": " refund mana and grant stacking movement speed.\n\nOnly direct melee kills can trigger Bloodlust rewards.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u25cf Toggle Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "damage",
+        "manaRefund",
+        "speed",
+        "maxStacks",
+        "adjustedDuration",
+        "manaCostPerSecond",
+        "cooldown"
+      ],
+      "next": [
+        "damage",
+        "manaRefund",
+        "speed",
+        "maxStacks",
+        "adjustedDuration",
+        "manaCostPerSecond",
+        "cooldown"
+      ]
+    },
+    "Rampage_Berserker": {
+      "description": [
+        {
+          "text": "Enter an unstable frenzy. ",
+          "color": "$text"
+        },
+        {
+          "text": "Direct melee hits",
+          "color": "$damage"
+        },
+        {
+          "text": " deal heavy bonus damage while the frenzy consumes more mana the longer it is held.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u25cf Toggle Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "damage",
+        "manaCostPerSecond",
+        "manaRamp",
+        "cooldown"
+      ],
+      "next": [
+        "damage",
+        "manaCostPerSecond",
+        "manaRamp",
+        "cooldown"
+      ]
+    },
+    "Rampage_Instinct": {
+      "description": [
+        {
+          "text": "Enter a focused hunting stance. ",
+          "color": "$text"
+        },
+        {
+          "text": "Direct melee hits",
+          "color": "$damage"
+        },
+        {
+          "text": " deal bonus damage, and Lucky Hit Chance is increased while active.\n\nLucky Hit still only triggers from valid direct hits.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u25cf Toggle Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "damage",
+        "luckyHitChance",
+        "manaCostPerSecond",
+        "cooldown"
+      ],
+      "next": [
+        "damage",
+        "luckyHitChance",
+        "manaCostPerSecond",
+        "cooldown"
+      ]
+    },
+    "Grenade_Sticky": {
+      "description": [
+        {
+          "text": "Throw a ",
+          "color": "$text"
+        },
+        {
+          "text": "Sticky Cube",
+          "color": "$qhighlight"
+        },
+        {
+          "text": " that sticks at the first impact point before exploding, dealing ",
+          "color": "$text"
+        },
+        {
+          "text": "Attack Damage",
+          "color": "$damage"
+        },
+        {
+          "text": " scaled damage in a ",
+          "color": "$text"
+        },
+        {
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": ".",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "damage",
+        "adjustedRadius",
+        "manaCost",
+        "cooldown"
+      ],
+      "next": [
+        "damage",
+        "adjustedRadius",
+        "manaCost",
+        "cooldown"
+      ]
+    },
+    "Arcane_Prism": {
+      "description": [
+        {
+          "text": "Launch an arcane seed that anchors a ",
+          "color": "$text"
+        },
+        {
+          "text": "Prism",
+          "color": "$ability_power"
+        },
+        {
+          "text": " on a mob. The Prism pulses alternating diagonal and plus-shaped beams, dealing a percentage of your ",
+          "color": "$text"
+        },
+        {
+          "text": "ability power",
+          "color": "$ability_power"
+        },
+        {
+          "text": " to enemies caught in the lanes. Missing a mob fizzles unless Prism Anchor is equipped.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "ability_power",
+        "adjustedRadius",
+        "adjustedDuration",
+        "damageInterval",
+        "maxTargets",
+        "cooldown",
+        "manaCost"
+      ],
+      "next": [
+        "ability_power",
+        "adjustedRadius",
+        "adjustedDuration",
+        "damageInterval",
+        "maxTargets",
+        "cooldown",
+        "manaCost"
+      ]
+    },
+    "Chain_Lightning_Charged_Bolts": {
+      "description": [
+        {
+          "text": "Release a slow fan of ",
+          "color": "$text"
+        },
+        {
+          "text": "Charged Bolts",
+          "color": "$lightning"
+        },
+        {
+          "text": " that spread forward in an arc. Each bolt stops on the first mob or block hit and rolls between minimum and maximum ",
+          "color": "$text"
+        },
+        {
+          "text": "Ability Power",
+          "color": "$ability_power"
+        },
+        {
+          "text": " lightning damage. A single target only takes full damage from the first few bolts.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "abilityRange",
+        "boltCount",
+        "distance",
+        "throwPower",
+        "spreadDegrees",
+        "maxTargets",
+        "manaCost",
+        "cooldown"
+      ],
+      "next": [
+        "abilityRange",
+        "boltCount",
+        "distance",
+        "throwPower",
+        "spreadDegrees",
+        "maxTargets",
+        "manaCost",
+        "cooldown"
+      ]
+    },
+    "Shard_Blizzard": {
+      "description": [
+        {
+          "text": "Shoot an arrow that creates a shard blizzard above upon impact\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "The storm drops ice shards that deal ",
+          "color": "$text"
+        },
+        {
+          "text": "damage",
+          "color": "$damage"
+        },
+        {
+          "text": ", chill mobs, and set up ",
+          "color": "$text"
+        },
+        {
+          "text": "Frostbite",
+          "color": "$chance"
+        },
+        {
+          "text": " talent synergy. Hypothermia is applied after the chill expires.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "shardDamage",
+        "shardAttackDamage",
+        "adjustedRadius",
+        "adjustedDuration",
+        "stormInterval",
+        "slowDuration",
+        "cooldown",
+        "manaCost"
+      ],
+      "next": [
+        "shardDamage",
+        "shardAttackDamage",
+        "adjustedRadius",
+        "adjustedDuration",
+        "stormInterval",
+        "slowDuration",
+        "cooldown",
+        "manaCost"
+      ]
+    },
+    "Smite_Blast_Wave": {
+      "description": [
+        {
+          "text": "While active, ",
+          "color": "$text"
+        },
+        {
+          "text": "Blast Wave",
+          "color": "$name"
+        },
+        {
+          "text": " periodically releases a lightning shockwave around you, knocking mobs away and dealing a random percentage of your ",
+          "color": "$text"
+        },
+        {
+          "text": "ability power",
+          "color": "$ability_power"
+        },
+        {
+          "text": ". It benefits from Lightning Mastery and Lightning Finesse at reduced stun chance.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25cf Toggle Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "damageInterval",
+        "adjustedRadius",
+        "abilityRange",
+        "knockback",
+        "stunChanceMultiplier",
+        "manaCostPerSecond",
+        "cooldown"
+      ],
+      "next": [
+        "damageInterval",
+        "adjustedRadius",
+        "abilityRange",
+        "knockback",
+        "stunChanceMultiplier",
+        "manaCostPerSecond",
+        "cooldown"
+      ]
+    },
+    "Necromancy_Base": {
+      "description": [
+        {
+          "text": "Fire a ",
+          "color": "$text"
+        },
+        {
+          "text": "soul bolt",
+          "color": "$name"
+        },
+        {
+          "text": " that curses a mob. Killing cursed mobs gathers ",
+          "color": "$text"
+        },
+        {
+          "text": "souls",
+          "color": "$name"
+        },
+        {
+          "text": "; enough souls summons skeleton warriors that fight for you. ",
+          "color": "$text"
+        },
+        {
+          "text": "Warriors deal Ability Power damage and splash part of that damage around their target.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "curseDuration",
+        "souls",
+        "summonCap",
+        "minionDamage",
+        "splashRadius",
+        "splashDamage"
+      ],
+      "next": [
+        "cooldown",
+        "manaCost",
+        "curseDuration",
+        "souls",
+        "summonCap",
+        "minionDamage",
+        "splashRadius",
+        "splashDamage"
+      ]
+    },
+    "Necromancy_Archer": {
+      "description": [
+        {
+          "text": "Fire a ",
+          "color": "$text"
+        },
+        {
+          "text": "soul bolt",
+          "color": "$name"
+        },
+        {
+          "text": " that curses a mob. Killing cursed mobs gathers ",
+          "color": "$text"
+        },
+        {
+          "text": "souls",
+          "color": "$name"
+        },
+        {
+          "text": "; enough souls summons skeleton archers that fight from range. ",
+          "color": "$text"
+        },
+        {
+          "text": "Archers deal Ability Power damage and splash part of that damage around their target.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "curseDuration",
+        "souls",
+        "summonCap",
+        "minionDamage",
+        "splashRadius",
+        "splashDamage"
+      ],
+      "next": [
+        "cooldown",
+        "manaCost",
+        "curseDuration",
+        "souls",
+        "summonCap",
+        "minionDamage",
+        "splashRadius",
+        "splashDamage"
+      ]
+    },
+    "Necromancy_Golem": {
+      "description": [
+        {
+          "text": "Fire a ",
+          "color": "$text"
+        },
+        {
+          "text": "soul bolt",
+          "color": "$name"
+        },
+        {
+          "text": " that curses a mob. Killing cursed mobs gathers ",
+          "color": "$text"
+        },
+        {
+          "text": "souls",
+          "color": "$name"
+        },
+        {
+          "text": "; enough souls summons or grows a single golem. ",
+          "color": "$text"
+        },
+        {
+          "text": "The golem grows larger with stacks and deals Ability Power damage per stack.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "curseDuration",
+        "souls",
+        "summonCap",
+        "minionDamage",
+        "splashRadius",
+        "splashDamage"
+      ],
+      "next": [
+        "cooldown",
+        "manaCost",
+        "curseDuration",
+        "souls",
+        "summonCap",
+        "minionDamage",
+        "splashRadius",
+        "splashDamage"
       ]
     }
   }
