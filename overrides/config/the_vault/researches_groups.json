@@ -3,11 +3,11 @@
     "Storage": {
       "title": "Storage",
       "research": [
-        "ae2",
-        "refinedstorage",
-        "Barrels",
-        "Sophisticated Storage",
-        "Sophisticated Interface",
+        "Colossal Chests",
+        "Simple Storage Network",
+        "Refined Storage",
+        "Applied Energistics",
+        "Drawers",
         "Mekanism QIO"
       ],
       "globalCostIncrease": 0.0,
@@ -19,9 +19,10 @@
       "title": "Big Toys",
       "research": [
         "Mining Gadgets",
-        "Chunk Loading",
+        "Weirding Gadgets",
         "Digital Miner",
         "Building Gadgets",
+        "Laser Bridges",
         "Entangled"
       ],
       "globalCostIncrease": 0.0,
@@ -33,16 +34,16 @@
       "title": "Production",
       "research": [
         "Easy Villagers",
+        "SNAD",
         "Cagerium",
         "Mob Spawners",
         "Phytogenic Insulator",
         "Easy Piglins",
-        "Industrial Mob Farm",
         "Botany Pots"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
-        "Production": 8.0
+        "Production": 12.0
       }
     },
     "BigMods": {
@@ -51,8 +52,6 @@
         "Create",
         "Mekanism",
         "Thermal Expansion",
-        "Industrial Foregoing",
-        "Pneumaticraft",
         "Botania"
       ],
       "globalCostIncrease": 0.0,
@@ -66,14 +65,13 @@
         "Flux Networks",
         "Powah",
         "Mekanism Generators",
-        "Creeper Power",
         "Thermal Dynamos",
         "Iron Generators",
         "Botania Flux Field"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
-        "Power": 2.4
+        "Power": 6.0
       }
     },
     "QoL": {
@@ -90,14 +88,33 @@
       "groupCostIncrease": {
       }
     },
+    "Looting": {
+      "title": "Looting",
+      "research": [
+        "Belts",
+        "Double Pouches",
+        "Backpacks",
+        "Big Backpacks",
+        "Junk Management",
+        "Stack Upgrading",
+        "Auto Feeding",
+        "Auto Refill",
+        "Soul Harvester"
+
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Looting": 2.0
+      }
+    },
     "Handling": {
         "title": "Handling",
         "research": [
           "Xnet",
           "Modular Routers",
+          "Pipez",
           "Iron Furnaces",
           "Dark Utilities",
-          "Laser IO",
           "Vault Filters"
         ],
         "globalCostIncrease": 0.0,
@@ -115,8 +132,7 @@
         "Map Markers",
         "Augment Stations",
         "Vault Map",
-        "Vault Decks",
-        "Soul Harvester"
+        "Vault Decks"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

@@ -1,6 +1,338 @@
 {
   "SKILL_GATES": {
     "entries": {
+      "Mekanism Generators": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Mekanism"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Digital Miner": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Mekanism"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Mekanism QIO": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Mekanism"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Thermal Dynamos": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Thermal Expansion"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Phytogenic Insulator": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Thermal Expansion"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Belts": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Double Pouches"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Double Pouches": {
+        "dependsOn": [],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Backpacks": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Belts"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Big Backpacks": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Backpacks"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Botania Flux Field": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Botania"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Mixtures": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Potions"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Brews": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Mixtures"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Automatic Genius": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Colossal Chests"
+          },
+          {
+            "type": "constant",
+            "id": "Simple Storage Network"
+          },
+          {
+            "type": "constant",
+            "id": "Drawers"
+          },
+          {
+            "type": "constant",
+            "id": "Mekanism QIO"
+          },
+          {
+            "type": "constant",
+            "id": "Refined Storage"
+          },
+          {
+            "type": "constant",
+            "id": "Applied Energistics"
+          },
+          {
+            "type": "constant",
+            "id": "Double Pouches"
+          },
+          {
+            "type": "constant",
+            "id": "Belts"
+          },
+          {
+            "type": "constant",
+            "id": "Backpacks"
+          },
+          {
+            "type": "constant",
+            "id": "Big Backpacks"
+          },
+          {
+            "type": "constant",
+            "id": "Junk Management"
+          },
+          {
+            "type": "constant",
+            "id": "Iron Generators"
+          },
+          {
+            "type": "constant",
+            "id": "Powah"
+          },
+          {
+            "type": "constant",
+            "id": "Flux Networks"
+          },
+          {
+            "type": "constant",
+            "id": "Thermal Dynamos"
+          },
+          {
+            "type": "constant",
+            "id": "Mekanism Generators"
+          },
+          {
+            "type": "constant",
+            "id": "Botania Flux Field"
+          },
+          {
+            "type": "constant",
+            "id": "Xnet"
+          },
+          {
+            "type": "constant",
+            "id": "Modular Routers"
+          },
+          {
+            "type": "constant",
+            "id": "Pipez"
+          },
+          {
+            "type": "constant",
+            "id": "Iron Furnaces"
+          },
+          {
+            "type": "constant",
+            "id": "Dark Utilities"
+          },
+          {
+            "type": "constant",
+            "id": "Botania"
+          },
+          {
+            "type": "constant",
+            "id": "Mekanism"
+          },
+          {
+            "type": "constant",
+            "id": "Thermal Expansion"
+          },
+          {
+            "type": "constant",
+            "id": "Create"
+          },
+          {
+            "type": "constant",
+            "id": "Waystones"
+          },
+          {
+            "type": "constant",
+            "id": "Torch Master"
+          },
+          {
+            "type": "constant",
+            "id": "Trashcans"
+          },
+          {
+            "type": "constant",
+            "id": "Elevators"
+          },
+          {
+            "type": "constant",
+            "id": "Vault Compass"
+          },
+          {
+            "type": "constant",
+            "id": "Altar Automation"
+          },
+          {
+            "type": "constant",
+            "id": "Building Gadgets"
+          },
+          {
+            "type": "constant",
+            "id": "Weirding Gadgets"
+          },
+          {
+            "type": "constant",
+            "id": "Mining Gadgets"
+          },
+          {
+            "type": "constant",
+            "id": "Digital Miner"
+          },
+          {
+            "type": "constant",
+            "id": "Easy Villagers"
+          },
+          {
+            "type": "constant",
+            "id": "Easy Piglins"
+          },
+          {
+            "type": "constant",
+            "id": "Botany Pots"
+          },
+          {
+            "type": "constant",
+            "id": "SNAD"
+          },
+          {
+            "type": "constant",
+            "id": "Cagerium"
+          },
+          {
+            "type": "constant",
+            "id": "Mob Spawners"
+          },
+          {
+            "type": "constant",
+            "id": "Phytogenic Insulator"
+          },
+          {
+            "type": "constant",
+            "id": "Potions"
+          },
+          {
+            "type": "constant",
+            "id": "Mixtures"
+          },
+          {
+            "type": "constant",
+            "id": "Brews"
+          },
+          {
+            "type": "constant",
+            "id": "Entangled"
+          },
+          {
+            "type": "constant",
+            "id": "Laser Bridges"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Altar Automation": {
+        "dependsOn": [
+          {
+            "type": "either",
+            "gates": [
+              {
+                "type": "constant",
+                "id": "Refined Storage"
+              },
+              {
+                "type": "constant",
+                "id": "Applied Energistics"
+              }
+            ]
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Regeneration": {
         "dependsOn": [],
         "lockedBy": [
@@ -199,356 +531,6 @@
           }
         ],
         "dependsOn": []
-      },
-      "Mekanism Generators": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Mekanism"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Digital Miner": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Mekanism"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Industrial Mob Farm": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Industrial Foregoing"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Barrels": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Sophisticated Storage"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Sophisticated Interface": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Sophisticated Storage"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Mekanism QIO": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Mekanism"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Thermal Dynamos": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Thermal Expansion"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Phytogenic Insulator": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Thermal Expansion"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Belts": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Double Pouches"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Double Pouches": {
-        "dependsOn": [],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Backpacks": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Belts"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Big Backpacks": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Backpacks"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Botania Flux Field": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Botania"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Mixtures": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Potions"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Brews": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Mixtures"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Automatic Genius": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Barrels"
-          },
-          {
-            "type": "constant",
-            "id": "Mekanism QIO"
-          },
-          {
-            "type": "constant",
-            "id": "Refined Storage"
-          },
-          {
-            "type": "constant",
-            "id": "Applied Energistics"
-          },
-          {
-            "type": "constant",
-            "id": "Iron Generators"
-          },
-          {
-            "type": "constant",
-            "id": "Powah"
-          },
-          {
-            "type": "constant",
-            "id": "Flux Networks"
-          },
-          {
-            "type": "constant",
-            "id": "Thermal Dynamos"
-          },
-          {
-            "type": "constant",
-            "id": "Mekanism Generators"
-          },
-          {
-            "type": "constant",
-            "id": "Botania Flux Field"
-          },
-          {
-            "type": "constant",
-            "id": "Xnet"
-          },
-          {
-            "type": "constant",
-            "id": "Modular Routers"
-          },
-          {
-            "type": "constant",
-            "id": "Iron Furnaces"
-          },
-          {
-            "type": "constant",
-            "id": "Dark Utilities"
-          },
-          {
-            "type": "constant",
-            "id": "Botania"
-          },
-          {
-            "type": "constant",
-            "id": "Mekanism"
-          },
-          {
-            "type": "constant",
-            "id": "Thermal Expansion"
-          },
-          {
-            "type": "constant",
-            "id": "Create"
-          },
-          {
-            "type": "constant",
-            "id": "Waystones"
-          },
-          {
-            "type": "constant",
-            "id": "Torch Master"
-          },
-          {
-            "type": "constant",
-            "id": "Trashcans"
-          },
-          {
-            "type": "constant",
-            "id": "Elevators"
-          },
-          {
-            "type": "constant",
-            "id": "Vault Compass"
-          },
-          {
-            "type": "constant",
-            "id": "Altar Automation"
-          },
-          {
-            "type": "constant",
-            "id": "Building Gadgets"
-          },
-          {
-            "type": "constant",
-            "id": "Chunk Loading"
-          },
-          {
-            "type": "constant",
-            "id": "Mining Gadgets"
-          },
-          {
-            "type": "constant",
-            "id": "Digital Miner"
-          },
-          {
-            "type": "constant",
-            "id": "Easy Villagers"
-          },
-          {
-            "type": "constant",
-            "id": "Easy Piglins"
-          },
-          {
-            "type": "constant",
-            "id": "Botany Pots"
-          },
-          {
-            "type": "constant",
-            "id": "SNAD"
-          },
-          {
-            "type": "constant",
-            "id": "Cagerium"
-          },
-          {
-            "type": "constant",
-            "id": "Mob Spawners"
-          },
-          {
-            "type": "constant",
-            "id": "Phytogenic Insulator"
-          },
-          {
-            "type": "constant",
-            "id": "Potions"
-          },
-          {
-            "type": "constant",
-            "id": "Mixtures"
-          },
-          {
-            "type": "constant",
-            "id": "Brews"
-          },
-          {
-            "type": "constant",
-            "id": "Sophisticated Storage"
-          },
-          {
-            "type": "constant",
-            "id": "Sophisticated Interface"
-          },
-          {
-            "type": "constant",
-            "id": "Laser IO"
-          },
-          {
-            "type": "constant",
-            "id": "Pneumaticraft"
-          },
-          {
-            "type": "constant",
-            "id": "Industrial Foregoing"
-          },
-          {
-            "type": "constant",
-            "id": "Industrial Mob Farm"
-          },
-          {
-            "type": "constant",
-            "id": "Entangled"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Altar Automation": {
-        "dependsOn": [
-          {
-            "type": "either",
-            "gates": [
-              {
-                "type": "constant",
-                "id": "Refined Storage"
-              },
-              {
-                "type": "constant",
-                "id": "Applied Energistics"
-              }
-            ]
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
       },
       "Methodical": {
         "lockedBy": [],

@@ -11,8 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Vault Hunters Third Edition",
-  "version": "3.21.6",
-  "author": "Iskall85Team",
+  "version": "3.21.7",
+  "author": "",
   "overrides": "overrides",
   "files": [
     {
@@ -100,14 +100,14 @@
       "isLocked": false
     },
     {
-      "projectID": 272302,
-      "fileID": 3713972,
+      "projectID": 301034,
+      "fileID": 5885903,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 301034,
-      "fileID": 5885903,
+      "projectID": 272302,
+      "fileID": 3713972,
       "required": true,
       "isLocked": false
     },
@@ -214,8 +214,8 @@
       "isLocked": false
     },
     {
-      "projectID": 439890,
-      "fileID": 4683727,
+      "projectID": 300331,
+      "fileID": 4016411,
       "required": true,
       "isLocked": false
     },
@@ -226,8 +226,8 @@
       "isLocked": false
     },
     {
-      "projectID": 300331,
-      "fileID": 4016411,
+      "projectID": 439890,
+      "fileID": 4683727,
       "required": true,
       "isLocked": false
     },
@@ -304,14 +304,14 @@
       "isLocked": false
     },
     {
-      "projectID": 908741,
-      "fileID": 5322305,
+      "projectID": 359540,
+      "fileID": 4018178,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 359540,
-      "fileID": 4018178,
+      "projectID": 908741,
+      "fileID": 5322305,
       "required": true,
       "isLocked": false
     },
@@ -352,14 +352,14 @@
       "isLocked": false
     },
     {
-      "projectID": 863330,
-      "fileID": 4990097,
+      "projectID": 256717,
+      "fileID": 4153344,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 256717,
-      "fileID": 4153344,
+      "projectID": 863330,
+      "fileID": 4990097,
       "required": true,
       "isLocked": false
     },
@@ -526,14 +526,14 @@
       "isLocked": false
     },
     {
-      "projectID": 407174,
-      "fileID": 3759881,
+      "projectID": 69163,
+      "fileID": 4782927,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 69163,
-      "fileID": 4782927,
+      "projectID": 407174,
+      "fileID": 3759881,
       "required": true,
       "isLocked": false
     },
@@ -550,14 +550,14 @@
       "isLocked": false
     },
     {
-      "projectID": 222967,
-      "fileID": 3544622,
+      "projectID": 896210,
+      "fileID": 6086793,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 896210,
-      "fileID": 6086793,
+      "projectID": 222967,
+      "fileID": 3544622,
       "required": true,
       "isLocked": false
     },
@@ -712,14 +712,14 @@
       "isLocked": false
     },
     {
-      "projectID": 60089,
-      "fileID": 3578801,
+      "projectID": 867003,
+      "fileID": 8505810,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 867003,
-      "fileID": 8505810,
+      "projectID": 60089,
+      "fileID": 3578801,
       "required": true,
       "isLocked": false
     },
@@ -760,26 +760,26 @@
       "isLocked": false
     },
     {
-      "projectID": 307788,
-      "fileID": 3617200,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 357557,
       "fileID": 3677573,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 566953,
-      "fileID": 3726051,
+      "projectID": 307788,
+      "fileID": 3617200,
       "required": true,
       "isLocked": false
     },
     {
       "projectID": 250577,
       "fileID": 3740180,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 566953,
+      "fileID": 3726051,
       "required": true,
       "isLocked": false
     },
@@ -850,14 +850,14 @@
       "isLocked": false
     },
     {
-      "projectID": 1313069,
-      "fileID": 8009456,
+      "projectID": 495476,
+      "fileID": 5729908,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 495476,
-      "fileID": 5729908,
+      "projectID": 1313069,
+      "fileID": 8009456,
       "required": true,
       "isLocked": false
     },
@@ -946,14 +946,14 @@
       "isLocked": false
     },
     {
-      "projectID": 326652,
-      "fileID": 4691988,
+      "projectID": 520110,
+      "fileID": 4035917,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 520110,
-      "fileID": 4035917,
+      "projectID": 326652,
+      "fileID": 4691988,
       "required": true,
       "isLocked": false
     },
@@ -1012,16 +1012,17 @@
       "isLocked": false
     },
     {
-      "projectID": 696425,
-      "fileID": 6712897,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 563734,
       "fileID": 3857874,
       "required": true,
       "isLocked": false
+    },
+    {
+      "projectID": 696425,
+      "fileID": 6712897,
+      "required": true,
+      "isLocked": false
     }
-  ]
+  ],
+  "image": "https://media.forgecdn.net/avatars/1741/803/639108923672277191.png"
 }
